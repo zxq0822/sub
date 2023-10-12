@@ -1,0 +1,4 @@
+%YAML 1.1
+---
+proxies:
+- {name: '[🇺🇸] 打杂的01 x1 - 星河 583', server: v13.583182.xyz, port: 2053, type: vmess, uuid: a4bc25ea-7fd9-48c0-bbc3-bdd9bca11782, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: v13.583181.xyz, network: ws, ws-opts: {path: /, headers: {Host: v13.583181.xyz}}, udp: true}
