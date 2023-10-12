@@ -32,12 +32,6 @@ proxy-groups:
   interval: 30
   tolerance: 50
   proxies: &id001
-  - 🇭🇰 香港01 - Cyanmori
-  - 🇭🇰 香港02 - Cyanmori
-  - 🇭🇰 香港03 - Cyanmori
-  - 🇭🇰 香港04 - Cyanmori
-  - 🇭🇰 香港05 - Cyanmori
-  - 🇭🇰 香港06 - Cyanmori
   - 🇭🇰 香港 101 - 墙了个墙
   - 🇭🇰 香港 102 - 墙了个墙
   - 🇭🇰 香港 103 - 墙了个墙
@@ -48,145 +42,57 @@ proxy-groups:
   - 🇭🇰 香港 108 - 墙了个墙
   - 🇭🇰 香港 109 - 墙了个墙
   - 🇭🇰 香港 110 - 墙了个墙
+  - 🇭🇰 中转•香港301•高速 - 飞翔吧
+  - 🇭🇰 广港•香港143•高速 - 飞翔吧
+  - 🇭🇰 广港•香港269•高速 - 飞翔吧
+  - 🇭🇰 广港•香港294•高速 - 飞翔吧
+  - 🇭🇰 中转•香港102•高速 - 飞翔吧
+  - 🇭🇰 广港•香港259•高速 - 飞翔吧
+  - 🇭🇰 广港•香港278•高速 - 飞翔吧
+  - 🇭🇰 广港•香港279•高速 - 飞翔吧
   - 🇭🇰 香港 1 - 西瓜皮是真的皮
   - 🇭🇰 香港 2 - 西瓜皮是真的皮
-  - 🇭🇰 香港 - 极速 A - V2Link
-  - 🇭🇰 香港 - 极速 B - V2Link
-  - 🇭🇰 香港 - 极速 C - V2Link
-  - 🇭🇰 香港 - 极速 D - V2Link
-  - 🇭🇰 香港 - 极速 E - V2Link
-  - 🇭🇰 香港 - 极速 F - V2Link
-  - 🇭🇰 香港 - 家宽 G - V2Link
-  - 🇭🇰 JCBB_香港01【vip1】 - JCBB
-  - 🇭🇰 JCBB_香港02【vip1】 - JCBB
-  - 🇭🇰 JCBB_香港03_1【vip1】 - JCBB
-  - 🇭🇰 JCBB_香港03【vip1】 - JCBB
-  - 🇭🇰 JCBB_香港04【vip1】 - JCBB
-  - 🇭🇰 JCBB_香港0 4_1【vip1】 - JCBB
-  - 🇭🇰 JCBB_香港 05【vip1】 - JCBB
-  - 🇭🇰 JCBB_香港 06_1【vip1】 - JCBB
-  - 🇭🇰 JCBB_香港 06【vip1】 - JCBB
-  - 🇭🇰 JCBB_香港09【vip1】 - JCBB
-  - 🇭🇰 JCBB_香港10_1【vip1】 - JCBB
-  - 🇭🇰 JCBB_香港10【vip1】 - JCBB
-  - 🇭🇰 【A】香港 普通 1 - Nearoute - SockBoom
-  - 🇭🇰 【A】香港 普通 A - Nearoute - SockBoom
-  - 🇭🇰 【A】香港 普通 B - Nearoute - SockBoom
-  - 🇭🇰 【A】香港 普通 C - Nearoute - SockBoom
-  - 🇭🇰 【A】香港 普通 D - Nearoute - SockBoom
-  - 🇭🇰 【A】香港 普通 E - Nearoute - SockBoom
-  - 🇭🇰 【A】香港 普通 F - Nearoute - SockBoom
-  - 🇭🇰 【B】香港  普通 3 - Nearoute - SockBoom
-  - 🇭🇰 【B】香港 普通 1 - Leaseweb - SockBoom
-  - 🇭🇰 【B】香港 普通 1 - Nearoute - SockBoom
-  - 🇭🇰 【B】香港 普通 2 - Nearoute - SockBoom
-  - 🇭🇰 【B】香港 普通 3 - Nearoute - SockBoom
-  - 🇭🇰 【B】香港 普通 4 -  Nearoute - SockBoom
-  - 🇭🇰 【B】香港 普通 5 - Nearoute - SockBoom
-  - 🇭🇰 【B】香港 普通 6 - Nearoute - SockBoom
-  - 🇭🇰 【B】香港 普通 7 - Nearoute - SockBoom
-  - 🇭🇰 【B】香港 普通 8 - Nearoute - SockBoom
-  - 🇭🇰 【B】香港 普通 9 - Nearoute - SockBoom
-  - 🇭🇰 【IEPL】香港 普通 1 - Nearoute - SockBoom
-  - 🇭🇰 【IEPL】香港 普通 2 - Nearoute - SockBoom
-  - 🇭🇰 【IEPL】香港 普通 3 - Nearoute - SockBoom
-  - 🇭🇰 【IEPL】香港 普通 4 - Nearoute - SockBoom
-  - 🇭🇰 【IEPL】香港 普通 5 - Nearoute - SockBoom
-  - 🇭🇰 【IEPL】香港 普通 6 - Nearoute - SockBoom
-  - 🇭🇰 【IEPL】香港 普通 7 - Nearoute - SockBoom
-  - 🇭🇰 【N】香港 普通 1 - Nearoute - SockBoom
-  - 🇭🇰 【N】香港 普通 2 - Nearoute - SockBoom
-  - 🇭🇰 【N】香港 普通 3 - Nearoute - SockBoom
-  - 🇭🇰 【N】香港 普通 4 - Leaseweb - SockBoom
-  - 🇭🇰 【O】香港 普通 1 - Leaseweb - SockBoom
-  - 🇭🇰 【O】香港 普通 10 - Leaseweb - SockBoom
-  - 🇭🇰 【O】香港 普通 2 - Leaseweb - SockBoom
-  - 🇭🇰 【O】香港 普通 3 - Leaseweb - SockBoom
-  - 🇭🇰 【O】香港 普通 4 - Leaseweb - SockBoom
-  - 🇭🇰 【O】香港 普通 5 - Leaseweb - SockBoom
-  - 🇭🇰 【O】香港 普通 6 - Leaseweb - SockBoom
-  - 🇭🇰 【O】香港 普通 7 - Leaseweb - SockBoom
-  - 🇭🇰 【O】香港 普通 8 - Leaseweb - SockBoom
-  - 🇭🇰 【O】香港 普通 9 - Leaseweb - SockBoom
-  - 🇹🇼 台湾01 - Cyanmori
-  - 🇹🇼 台湾02 - Cyanmori
+  - 🇹🇼 广港•台湾258•高速 - 飞翔吧
+  - 🇹🇼 中转•台湾100•高速 - 飞翔吧
+  - 🇹🇼 中转•台湾91•原生 - 飞翔吧
+  - 🇹🇼 广港•台湾261•高速 - 飞翔吧
+  - 🇹🇼 广港•台湾262•高速 - 飞翔吧
   - 🇹🇼 台湾 1 动画疯 - 西瓜皮是真的皮
   - 🇹🇼 台湾 2 动画疯 - 西瓜皮是真的皮
-  - 🇹🇼 台湾 - 家宽 A - V2Link
-  - 🇹🇼 台湾 - 彰化 B - V2Link
-  - 🇹🇼 JCBB_ 台湾 01_1【vip1】 - JCBB
-  - 🇹🇼 JCBB_ 台湾 01【vip1】 - JCBB
-  - 🇹🇼 JCBB_ 台湾 02【vip1】 - JCBB
-  - 🇹🇼 JCBB_ 台湾 05_1【vip1】 - JCBB
-  - 🇹🇼 JCBB_ 台湾 05【vip1】 - JCBB
-  - 🇹🇼 JCBB_ 台湾 06【vip1】 - JCBB
-  - 🇸🇬 新加坡01 - Cyanmori
-  - 🇸🇬 新加坡02 - Cyanmori
-  - 🇸🇬 新加坡03 - Cyanmori
-  - 🇸🇬 新加坡04 - Cyanmori
   - 🇸🇬 新加坡 101 - 墙了个墙
   - 🇸🇬 新加坡 102 - 墙了个墙
   - 🇸🇬 新加坡 103 - 墙了个墙
   - 🇸🇬 新加坡 104 - 墙了个墙
   - 🇸🇬 新加坡 105 - 墙了个墙
+  - 🇸🇬 中转•新加坡299•高速 - 飞翔吧
+  - 🇸🇬 中转•新加坡65•青铜 - 飞翔吧
+  - 🇸🇬 中转•新加坡83•高速 - 飞翔吧
+  - 🇸🇬 新加坡•高速129•高速 - 飞翔吧
+  - 🇸🇬 新加坡•高速130•铂金 - 飞翔吧
   - 🇸🇬 新加坡 1 Netflix  - 西瓜皮是真的皮
   - 🇸🇬 新加坡 2 Netflix - 西瓜皮是真的皮
   - 🇸🇬 [vip①]新加坡1 - MG Network
-  - 🇸🇬 新加坡 A - V2Link
-  - 🇸🇬 新加坡 B - V2Link
-  - 🇸🇬 新加坡 C - V2Link
-  - 🇸🇬 JCBB_ 新加坡 01【vip1 】 - JCBB
-  - 🇸🇬 JCBB_ 新加坡 02【vip1 】 - JCBB
-  - 🇸🇬 JCBB_ 新加坡 03【vip1 】 - JCBB
-  - 🇸🇬 JCBB_ 新加坡 04【vip1 】 - JCBB
-  - 🇸🇬 JCBB_ 新加坡 05【vip1】 - JCBB
-  - 🇸🇬 JCBB_ 新加坡 06【vip1】 - JCBB
-  - 🇸🇬 【K】新加坡 普通 1 - DO - SockBoom
-  - 🇸🇬 【K】新加坡 普通 2 - DO - SockBoom
-  - 🇸🇬 【K】新加坡 普通 3 - DO - SockBoom
-  - 🇸🇬 【K】新加坡 普通 4 - DO - SockBoom
-  - 🇸🇬 【K】新加坡 普通 5 - DO - SockBoom
-  - 🇸🇬 【K】新加坡 普通 6 - DO - SockBoom
-  - 🇸🇬 【K】新加坡 普通 7 - DO - SockBoom
-  - 🇸🇬 新加坡01 - Kako Cloud
-  - 🇸🇬 新加坡02 - Kako Cloud
-  - 🇸🇬 新加坡03 - Kako Cloud
-  - 🇸🇬 新加坡04 - Kako Cloud
-  - 🇯🇵 日本01 - Cyanmori
-  - 🇯🇵 日本02 - Cyanmori
-  - 🇯🇵 日本03 - Cyanmori
-  - 🇯🇵 日本04 - Cyanmori
   - 🇯🇵 日本 101 - 墙了个墙
   - 🇯🇵 日本 102 - 墙了个墙
   - 🇯🇵 日本 103 - 墙了个墙
   - 🇯🇵 日本 104 - 墙了个墙
   - 🇯🇵 日本 105 - 墙了个墙
+  - 🇯🇵 日本•软银260•高速 - 飞翔吧
+  - 🇯🇵 中转•日本298•高速 - 飞翔吧
+  - 🇯🇵 中转•日本300•原生 - 飞翔吧
+  - 🇯🇵 日本•高速114•高速 - 飞翔吧
+  - 🇯🇵 日本•高速115•高速 - 飞翔吧
+  - 🇯🇵 日本•高速139•铂金 - 飞翔吧
+  - 🇯🇵 日本•高速140•铂金 - 飞翔吧
+  - 🇯🇵 日本•高速141•铂金 - 飞翔吧
+  - 🇯🇵 日本•高速142•原生 - 飞翔吧
+  - 🇯🇵 日本•高速59•青铜 - 飞翔吧
+  - 🇯🇵 日本•高速71•高速 - 飞翔吧
+  - 🇯🇵 日本•高速76•高速 - 飞翔吧
   - 🇯🇵 日本 1 Nico Abema - 西瓜皮是真的皮
   - 🇯🇵 日本 2 Nico Abema - 西瓜皮是真的皮
   - 🇯🇵 [vip①]日本1 - MG Network
   - 🇯🇵 [vip①]日本2 - MG Network
-  - 🇯🇵 日本 - 东京 R - V2Link
-  - 🇯🇵 日本 - 大版 A - V2Link
-  - 🇯🇵 日本 - 东京 A - V2Link
-  - 🇯🇵 日本 - 东京 B - V2Link
-  - 🇯🇵 日本 - 东京 C - V2Link
-  - 🇯🇵 日本 - 东京 D - V2Link
-  - 🇯🇵 JCBB_日本01【vip1】 - JCBB
-  - 🇯🇵 JCBB_日本02【vip1】 - JCBB
-  - 🇯🇵 JCBB_日本03【vip1】 - JCBB
-  - 🇯🇵 JCBB_日本04【vip1】 - JCBB
-  - 🇯🇵 JCBB_日本05【vip1】 - JCBB
-  - 🇯🇵 JCBB_日本06【vip1】 - JCBB
-  - 🇯🇵 【N】日本 普通 1 - Nerocloud - SockBoom
-  - 🇯🇵 【N】日本 普通 2 - Nerocloud - SockBoom
-  - 🇯🇵 【N】日本 普通 3 - Nerocloud - SockBoom
-  - 🇯🇵 【N】日本 普通 4 - Nerocloud - SockBoom
-  - 🇯🇵 【N】日本 普通 5 - Nerocloud - SockBoom
-  - 🇺🇸 美国01 - Cyanmori
-  - 🇺🇸 美国02 - Cyanmori
-  - 🇺🇸 美国03 - Cyanmori
-  - 🇺🇸 美国04 - Cyanmori
-  - 🇺🇸 美国05 - Cyanmori
   - 🇺🇸 美国 凤凰城101 - 墙了个墙
   - 🇺🇸 美国 凤凰城102 - 墙了个墙
   - 🇺🇸 美国 凤凰城103 - 墙了个墙
@@ -198,40 +104,19 @@ proxy-groups:
   - 🇺🇸 美国 硅谷103 - 墙了个墙
   - 🇺🇸 美国 硅谷104 - 墙了个墙
   - 🇺🇸 美国 硅谷105 - 墙了个墙
+  - 🇺🇸 中转•美国295•高速 - 飞翔吧
+  - 🇺🇸 中转•美国296•高速 - 飞翔吧
+  - 🇺🇸 中转•美国40•高速 - 飞翔吧
+  - 🇺🇸 中转•美国41•原生 - 飞翔吧
+  - 🇺🇸 中转•美国46•原生 - 飞翔吧
+  - 🇺🇸 中转•美国61•高速 - 飞翔吧
+  - 🇺🇸 广港•美国266•高速 - 飞翔吧
+  - 🇺🇸 广港•美国288•高速 - 飞翔吧
   - 🇺🇸美国 🌐「达拉斯」 - 北方航空
   - 🇺🇸 美国 1 ChatGPT - 西瓜皮是真的皮
   - 🇺🇸 美国 2 ChatGPT - 西瓜皮是真的皮
   - 🇺🇸 [vip①]美国1 - MG Network
   - 🇺🇸 [vip①]美国2 - MG Network
-  - 🇺🇸 美国 - 堪萨斯 A - V2Link
-  - 🇺🇸 美国 - 圣何塞 A - V2Link
-  - 🇺🇸 美国 - 圣何塞 B - V2Link
-  - 🇺🇸 美国 - 圣何塞 C - V2Link
-  - 🇺🇸 美国 - 圣何塞 R - V2Link
-  - 🇺🇸 JCBB_ 美国01【vip1】 - JCBB
-  - 🇺🇸 JCBB_ 美国02_1【vip1】 - JCBB
-  - 🇺🇸 JCBB_ 美国02【vip1】 - JCBB
-  - 🇺🇸 JCBB_ 美国 03【vip1】 - JCBB
-  - 🇺🇸 JCBB_ 美国 04_1【vip1】 - JCBB
-  - 🇺🇸 JCBB_ 美国 04【vip1】 - JCBB
-  - 🇺🇸 JCBB_美国05_1【vip1】 - JCBB
-  - 🇺🇸 JCBB_美国05【vip1】 - JCBB
-  - 🇺🇸 JCBB_美国06【vip1】 - JCBB
-  - 🇺🇸 【C】美国 普通 1 - CC - SockBoom
-  - 🇺🇸 【C】美国 普通 2 - CC - SockBoom
-  - 🇺🇸 【C】美国 普通 3 - CC - SockBoom
-  - 🇺🇸 【C】美国 普通 4 - CC - SockBoom
-  - 🇮🇳 印度01 - Cyanmori
-  - 🇮🇳 印度02 - Cyanmori
-  - 🇰🇷 韩国01 - Cyanmori
-  - 🇰🇷 韩国02 - Cyanmori
-  - 🇬🇧 英国01 - Cyanmori
-  - 🇬🇧 英国02 - Cyanmori
-  - 🇩🇪 德国柏林01 - Cyanmori
-  - 🇦🇺 澳大利亚01 - Cyanmori
-  - 🇦🇺 澳大利亚02 - Cyanmori
-  - 🇦🇪 迪拜01 - Cyanmori
-  - 🇦🇪 迪拜02 - Cyanmori
   - 🇩🇪 德国 法兰克福101 - 墙了个墙
   - 🇩🇪 德国 法兰克福102 - 墙了个墙
   - 🇩🇪 德国 法兰克福103 - 墙了个墙
@@ -245,6 +130,10 @@ proxy-groups:
   - 🇦🇪 迪拜 001 - 墙了个墙
   - 🇦🇪 迪拜 002 - 墙了个墙
   - 🇦🇪 迪拜 003 - 墙了个墙
+  - 🇬🇧 中转•英国267•高速 - 飞翔吧
+  - 🇬🇧 中转•英国268•高速 - 飞翔吧
+  - 🇰🇷 广港•韩国263•高速 - 飞翔吧
+  - 🇰🇷 广港•韩国264•高速 - 飞翔吧
   - 🇫🇷 法国 1 - 西瓜皮是真的皮
   - 🇩🇪 德国 1 - 西瓜皮是真的皮
   - 🇮🇩 印度尼西亚 1 - 西瓜皮是真的皮
@@ -255,42 +144,6 @@ proxy-groups:
   - 🇬🇧 [vip①]英国1 - MG Network
   - 🇬🇧 [vip①]英国2 - MG Network
   - 🇰🇷 [vip①]韩国1 - MG Network
-  - 🇰🇷 韩国 - 首尔 R - V2Link
-  - 🇰🇷 韩国 - 首尔 X - V2Link
-  - 🇰🇷 韩国 - 春川 R - V2Link
-  - 🇻🇳 越南 - 河内 A - V2Link
-  - 🇨🇦 加拿大 - 多伦多 A - V2Link
-  - 🇬🇧 英国 - 伦敦 A - V2Link
-  - 🇩🇪 德国 - 法兰克福 A - V2Link
-  - 🇫🇷 法国 - 巴黎 - V2Link
-  - 🇮🇹 意大利 - 米兰 - V2Link
-  - 🇪🇸 西班牙 - 马德里 - V2Link
-  - 🇳🇱 荷兰 - 阿姆斯特丹 - V2Link
-  - 🇦🇺 澳大利亚 - 悉尼 - V2Link
-  - 🇧🇷 巴西 - 圣保罗 - V2Link
-  - 🇮🇳 印度 - 孟买 - V2Link
-  - 🇦🇪 阿联酋 - 迪拜 - V2Link
-  - 🇪🇺 欧洲 - 土耳其 - V2Link
-  - 🇪🇺 欧洲 - 罗马尼亚 - V2Link
-  - 🇦🇷 南美洲 - 阿根廷 - V2Link
-  - 🇩🇪 JCBB_德国01【vip1】 - JCBB
-  - 🇩🇪 JCBB_德国02【vip1】 - JCBB
-  - 🇩🇪 JCBB_德国03【vip1】 - JCBB
-  - 🇮🇳 JCBB_ 印度01【vip1】 - JCBB
-  - 🇮🇳 JCBB_ 印度02【vip1】 - JCBB
-  - 🇮🇳 JCBB_ 印度03【vip1】 - JCBB
-  - 🇬🇧 JCBB_ 英国01【vip1】 - JCBB
-  - 🇬🇧 JCBB_ 英国02【vip1】 - JCBB
-  - 🇬🇧 JCBB_ 英国03【vip1】 - JCBB
-  - 🇹🇷 JCBB_土耳其 01【vip1】 - JCBB
-  - 🇹🇷 JCBB_土耳其 02【vip1】 - JCBB
-  - 🇹🇷 JCBB_土耳其 03【vip1】 - JCBB
-  - 🇻🇳 JCBB_越南 01【vip1】 - JCBB
-  - 🇻🇳 JCBB_越南 02【vip1】 - JCBB
-  - 🇻🇳 JCBB_越南 03【vip1】 - JCBB
-  - 🇲🇳 【I】蒙古 普通 A - MN - SockBoom
-  - 中秋&国庆双节活动开启！ - Kako Cloud
-  - tg频道:@kkyun_proxy - Kako Cloud
 - name: 🛩️ ‍墙内
   type: select
   proxies:
@@ -343,12 +196,6 @@ proxy-groups:
   interval: 30
   tolerance: 50
   proxies: &id002
-  - 🇭🇰 香港01 - Cyanmori
-  - 🇭🇰 香港02 - Cyanmori
-  - 🇭🇰 香港03 - Cyanmori
-  - 🇭🇰 香港04 - Cyanmori
-  - 🇭🇰 香港05 - Cyanmori
-  - 🇭🇰 香港06 - Cyanmori
   - 🇭🇰 香港 101 - 墙了个墙
   - 🇭🇰 香港 102 - 墙了个墙
   - 🇭🇰 香港 103 - 墙了个墙
@@ -359,96 +206,35 @@ proxy-groups:
   - 🇭🇰 香港 108 - 墙了个墙
   - 🇭🇰 香港 109 - 墙了个墙
   - 🇭🇰 香港 110 - 墙了个墙
+  - 🇭🇰 中转•香港301•高速 - 飞翔吧
+  - 🇭🇰 广港•香港143•高速 - 飞翔吧
+  - 🇭🇰 广港•香港269•高速 - 飞翔吧
+  - 🇭🇰 广港•香港294•高速 - 飞翔吧
+  - 🇭🇰 中转•香港102•高速 - 飞翔吧
+  - 🇭🇰 广港•香港259•高速 - 飞翔吧
+  - 🇭🇰 广港•香港278•高速 - 飞翔吧
+  - 🇭🇰 广港•香港279•高速 - 飞翔吧
   - 🇭🇰 香港 1 - 西瓜皮是真的皮
   - 🇭🇰 香港 2 - 西瓜皮是真的皮
-  - 🇭🇰 香港 - 极速 A - V2Link
-  - 🇭🇰 香港 - 极速 B - V2Link
-  - 🇭🇰 香港 - 极速 C - V2Link
-  - 🇭🇰 香港 - 极速 D - V2Link
-  - 🇭🇰 香港 - 极速 E - V2Link
-  - 🇭🇰 香港 - 极速 F - V2Link
-  - 🇭🇰 香港 - 家宽 G - V2Link
-  - 🇭🇰 JCBB_香港01【vip1】 - JCBB
-  - 🇭🇰 JCBB_香港02【vip1】 - JCBB
-  - 🇭🇰 JCBB_香港03_1【vip1】 - JCBB
-  - 🇭🇰 JCBB_香港03【vip1】 - JCBB
-  - 🇭🇰 JCBB_香港04【vip1】 - JCBB
-  - 🇭🇰 JCBB_香港0 4_1【vip1】 - JCBB
-  - 🇭🇰 JCBB_香港 05【vip1】 - JCBB
-  - 🇭🇰 JCBB_香港 06_1【vip1】 - JCBB
-  - 🇭🇰 JCBB_香港 06【vip1】 - JCBB
-  - 🇭🇰 JCBB_香港09【vip1】 - JCBB
-  - 🇭🇰 JCBB_香港10_1【vip1】 - JCBB
-  - 🇭🇰 JCBB_香港10【vip1】 - JCBB
-  - 🇭🇰 【A】香港 普通 1 - Nearoute - SockBoom
-  - 🇭🇰 【A】香港 普通 A - Nearoute - SockBoom
-  - 🇭🇰 【A】香港 普通 B - Nearoute - SockBoom
-  - 🇭🇰 【A】香港 普通 C - Nearoute - SockBoom
-  - 🇭🇰 【A】香港 普通 D - Nearoute - SockBoom
-  - 🇭🇰 【A】香港 普通 E - Nearoute - SockBoom
-  - 🇭🇰 【A】香港 普通 F - Nearoute - SockBoom
-  - 🇭🇰 【B】香港  普通 3 - Nearoute - SockBoom
-  - 🇭🇰 【B】香港 普通 1 - Leaseweb - SockBoom
-  - 🇭🇰 【B】香港 普通 1 - Nearoute - SockBoom
-  - 🇭🇰 【B】香港 普通 2 - Nearoute - SockBoom
-  - 🇭🇰 【B】香港 普通 3 - Nearoute - SockBoom
-  - 🇭🇰 【B】香港 普通 4 -  Nearoute - SockBoom
-  - 🇭🇰 【B】香港 普通 5 - Nearoute - SockBoom
-  - 🇭🇰 【B】香港 普通 6 - Nearoute - SockBoom
-  - 🇭🇰 【B】香港 普通 7 - Nearoute - SockBoom
-  - 🇭🇰 【B】香港 普通 8 - Nearoute - SockBoom
-  - 🇭🇰 【B】香港 普通 9 - Nearoute - SockBoom
-  - 🇭🇰 【IEPL】香港 普通 1 - Nearoute - SockBoom
-  - 🇭🇰 【IEPL】香港 普通 2 - Nearoute - SockBoom
-  - 🇭🇰 【IEPL】香港 普通 3 - Nearoute - SockBoom
-  - 🇭🇰 【IEPL】香港 普通 4 - Nearoute - SockBoom
-  - 🇭🇰 【IEPL】香港 普通 5 - Nearoute - SockBoom
-  - 🇭🇰 【IEPL】香港 普通 6 - Nearoute - SockBoom
-  - 🇭🇰 【IEPL】香港 普通 7 - Nearoute - SockBoom
-  - 🇭🇰 【N】香港 普通 1 - Nearoute - SockBoom
-  - 🇭🇰 【N】香港 普通 2 - Nearoute - SockBoom
-  - 🇭🇰 【N】香港 普通 3 - Nearoute - SockBoom
-  - 🇭🇰 【N】香港 普通 4 - Leaseweb - SockBoom
-  - 🇭🇰 【O】香港 普通 1 - Leaseweb - SockBoom
-  - 🇭🇰 【O】香港 普通 10 - Leaseweb - SockBoom
-  - 🇭🇰 【O】香港 普通 2 - Leaseweb - SockBoom
-  - 🇭🇰 【O】香港 普通 3 - Leaseweb - SockBoom
-  - 🇭🇰 【O】香港 普通 4 - Leaseweb - SockBoom
-  - 🇭🇰 【O】香港 普通 5 - Leaseweb - SockBoom
-  - 🇭🇰 【O】香港 普通 6 - Leaseweb - SockBoom
-  - 🇭🇰 【O】香港 普通 7 - Leaseweb - SockBoom
-  - 🇭🇰 【O】香港 普通 8 - Leaseweb - SockBoom
-  - 🇭🇰 【O】香港 普通 9 - Leaseweb - SockBoom
 - name: 🇹🇼 ‍台湾
   type: url-test
   url: https://i.ytimg.com/generate_204
   interval: 30
   tolerance: 50
   proxies: &id003
-  - 🇹🇼 台湾01 - Cyanmori
-  - 🇹🇼 台湾02 - Cyanmori
+  - 🇹🇼 广港•台湾258•高速 - 飞翔吧
+  - 🇹🇼 中转•台湾100•高速 - 飞翔吧
+  - 🇹🇼 中转•台湾91•原生 - 飞翔吧
+  - 🇹🇼 广港•台湾261•高速 - 飞翔吧
+  - 🇹🇼 广港•台湾262•高速 - 飞翔吧
   - 🇹🇼 台湾 1 动画疯 - 西瓜皮是真的皮
   - 🇹🇼 台湾 2 动画疯 - 西瓜皮是真的皮
-  - 🇹🇼 台湾 - 家宽 A - V2Link
-  - 🇹🇼 台湾 - 彰化 B - V2Link
-  - 🇹🇼 JCBB_ 台湾 01_1【vip1】 - JCBB
-  - 🇹🇼 JCBB_ 台湾 01【vip1】 - JCBB
-  - 🇹🇼 JCBB_ 台湾 02【vip1】 - JCBB
-  - 🇹🇼 JCBB_ 台湾 05_1【vip1】 - JCBB
-  - 🇹🇼 JCBB_ 台湾 05【vip1】 - JCBB
-  - 🇹🇼 JCBB_ 台湾 06【vip1】 - JCBB
 - name: 🇨🇳 ‍中国
   type: url-test
   url: https://i.ytimg.com/generate_204
   interval: 30
   tolerance: 50
   proxies: &id004
-  - 🇭🇰 香港01 - Cyanmori
-  - 🇭🇰 香港02 - Cyanmori
-  - 🇭🇰 香港03 - Cyanmori
-  - 🇭🇰 香港04 - Cyanmori
-  - 🇭🇰 香港05 - Cyanmori
-  - 🇭🇰 香港06 - Cyanmori
   - 🇭🇰 香港 101 - 墙了个墙
   - 🇭🇰 香港 102 - 墙了个墙
   - 🇭🇰 香港 103 - 墙了个墙
@@ -459,163 +245,75 @@ proxy-groups:
   - 🇭🇰 香港 108 - 墙了个墙
   - 🇭🇰 香港 109 - 墙了个墙
   - 🇭🇰 香港 110 - 墙了个墙
+  - 🇭🇰 中转•香港301•高速 - 飞翔吧
+  - 🇭🇰 广港•香港143•高速 - 飞翔吧
+  - 🇭🇰 广港•香港269•高速 - 飞翔吧
+  - 🇭🇰 广港•香港294•高速 - 飞翔吧
+  - 🇭🇰 中转•香港102•高速 - 飞翔吧
+  - 🇭🇰 广港•香港259•高速 - 飞翔吧
+  - 🇭🇰 广港•香港278•高速 - 飞翔吧
+  - 🇭🇰 广港•香港279•高速 - 飞翔吧
   - 🇭🇰 香港 1 - 西瓜皮是真的皮
   - 🇭🇰 香港 2 - 西瓜皮是真的皮
-  - 🇭🇰 香港 - 极速 A - V2Link
-  - 🇭🇰 香港 - 极速 B - V2Link
-  - 🇭🇰 香港 - 极速 C - V2Link
-  - 🇭🇰 香港 - 极速 D - V2Link
-  - 🇭🇰 香港 - 极速 E - V2Link
-  - 🇭🇰 香港 - 极速 F - V2Link
-  - 🇭🇰 香港 - 家宽 G - V2Link
-  - 🇭🇰 JCBB_香港01【vip1】 - JCBB
-  - 🇭🇰 JCBB_香港02【vip1】 - JCBB
-  - 🇭🇰 JCBB_香港03_1【vip1】 - JCBB
-  - 🇭🇰 JCBB_香港03【vip1】 - JCBB
-  - 🇭🇰 JCBB_香港04【vip1】 - JCBB
-  - 🇭🇰 JCBB_香港0 4_1【vip1】 - JCBB
-  - 🇭🇰 JCBB_香港 05【vip1】 - JCBB
-  - 🇭🇰 JCBB_香港 06_1【vip1】 - JCBB
-  - 🇭🇰 JCBB_香港 06【vip1】 - JCBB
-  - 🇭🇰 JCBB_香港09【vip1】 - JCBB
-  - 🇭🇰 JCBB_香港10_1【vip1】 - JCBB
-  - 🇭🇰 JCBB_香港10【vip1】 - JCBB
-  - 🇭🇰 【A】香港 普通 1 - Nearoute - SockBoom
-  - 🇭🇰 【A】香港 普通 A - Nearoute - SockBoom
-  - 🇭🇰 【A】香港 普通 B - Nearoute - SockBoom
-  - 🇭🇰 【A】香港 普通 C - Nearoute - SockBoom
-  - 🇭🇰 【A】香港 普通 D - Nearoute - SockBoom
-  - 🇭🇰 【A】香港 普通 E - Nearoute - SockBoom
-  - 🇭🇰 【A】香港 普通 F - Nearoute - SockBoom
-  - 🇭🇰 【B】香港  普通 3 - Nearoute - SockBoom
-  - 🇭🇰 【B】香港 普通 1 - Leaseweb - SockBoom
-  - 🇭🇰 【B】香港 普通 1 - Nearoute - SockBoom
-  - 🇭🇰 【B】香港 普通 2 - Nearoute - SockBoom
-  - 🇭🇰 【B】香港 普通 3 - Nearoute - SockBoom
-  - 🇭🇰 【B】香港 普通 4 -  Nearoute - SockBoom
-  - 🇭🇰 【B】香港 普通 5 - Nearoute - SockBoom
-  - 🇭🇰 【B】香港 普通 6 - Nearoute - SockBoom
-  - 🇭🇰 【B】香港 普通 7 - Nearoute - SockBoom
-  - 🇭🇰 【B】香港 普通 8 - Nearoute - SockBoom
-  - 🇭🇰 【B】香港 普通 9 - Nearoute - SockBoom
-  - 🇭🇰 【IEPL】香港 普通 1 - Nearoute - SockBoom
-  - 🇭🇰 【IEPL】香港 普通 2 - Nearoute - SockBoom
-  - 🇭🇰 【IEPL】香港 普通 3 - Nearoute - SockBoom
-  - 🇭🇰 【IEPL】香港 普通 4 - Nearoute - SockBoom
-  - 🇭🇰 【IEPL】香港 普通 5 - Nearoute - SockBoom
-  - 🇭🇰 【IEPL】香港 普通 6 - Nearoute - SockBoom
-  - 🇭🇰 【IEPL】香港 普通 7 - Nearoute - SockBoom
-  - 🇭🇰 【N】香港 普通 1 - Nearoute - SockBoom
-  - 🇭🇰 【N】香港 普通 2 - Nearoute - SockBoom
-  - 🇭🇰 【N】香港 普通 3 - Nearoute - SockBoom
-  - 🇭🇰 【N】香港 普通 4 - Leaseweb - SockBoom
-  - 🇭🇰 【O】香港 普通 1 - Leaseweb - SockBoom
-  - 🇭🇰 【O】香港 普通 10 - Leaseweb - SockBoom
-  - 🇭🇰 【O】香港 普通 2 - Leaseweb - SockBoom
-  - 🇭🇰 【O】香港 普通 3 - Leaseweb - SockBoom
-  - 🇭🇰 【O】香港 普通 4 - Leaseweb - SockBoom
-  - 🇭🇰 【O】香港 普通 5 - Leaseweb - SockBoom
-  - 🇭🇰 【O】香港 普通 6 - Leaseweb - SockBoom
-  - 🇭🇰 【O】香港 普通 7 - Leaseweb - SockBoom
-  - 🇭🇰 【O】香港 普通 8 - Leaseweb - SockBoom
-  - 🇭🇰 【O】香港 普通 9 - Leaseweb - SockBoom
-  - 🇹🇼 台湾01 - Cyanmori
-  - 🇹🇼 台湾02 - Cyanmori
+  - 🇹🇼 广港•台湾258•高速 - 飞翔吧
+  - 🇹🇼 中转•台湾100•高速 - 飞翔吧
+  - 🇹🇼 中转•台湾91•原生 - 飞翔吧
+  - 🇹🇼 广港•台湾261•高速 - 飞翔吧
+  - 🇹🇼 广港•台湾262•高速 - 飞翔吧
   - 🇹🇼 台湾 1 动画疯 - 西瓜皮是真的皮
   - 🇹🇼 台湾 2 动画疯 - 西瓜皮是真的皮
-  - 🇹🇼 台湾 - 家宽 A - V2Link
-  - 🇹🇼 台湾 - 彰化 B - V2Link
-  - 🇹🇼 JCBB_ 台湾 01_1【vip1】 - JCBB
-  - 🇹🇼 JCBB_ 台湾 01【vip1】 - JCBB
-  - 🇹🇼 JCBB_ 台湾 02【vip1】 - JCBB
-  - 🇹🇼 JCBB_ 台湾 05_1【vip1】 - JCBB
-  - 🇹🇼 JCBB_ 台湾 05【vip1】 - JCBB
-  - 🇹🇼 JCBB_ 台湾 06【vip1】 - JCBB
 - name: 🇸🇬 ‍新加坡
   type: url-test
   url: https://i.ytimg.com/generate_204
   interval: 30
   tolerance: 50
   proxies: &id005
-  - 🇸🇬 新加坡01 - Cyanmori
-  - 🇸🇬 新加坡02 - Cyanmori
-  - 🇸🇬 新加坡03 - Cyanmori
-  - 🇸🇬 新加坡04 - Cyanmori
   - 🇸🇬 新加坡 101 - 墙了个墙
   - 🇸🇬 新加坡 102 - 墙了个墙
   - 🇸🇬 新加坡 103 - 墙了个墙
   - 🇸🇬 新加坡 104 - 墙了个墙
   - 🇸🇬 新加坡 105 - 墙了个墙
+  - 🇸🇬 中转•新加坡299•高速 - 飞翔吧
+  - 🇸🇬 中转•新加坡65•青铜 - 飞翔吧
+  - 🇸🇬 中转•新加坡83•高速 - 飞翔吧
+  - 🇸🇬 新加坡•高速129•高速 - 飞翔吧
+  - 🇸🇬 新加坡•高速130•铂金 - 飞翔吧
   - 🇸🇬 新加坡 1 Netflix  - 西瓜皮是真的皮
   - 🇸🇬 新加坡 2 Netflix - 西瓜皮是真的皮
   - 🇸🇬 [vip①]新加坡1 - MG Network
-  - 🇸🇬 新加坡 A - V2Link
-  - 🇸🇬 新加坡 B - V2Link
-  - 🇸🇬 新加坡 C - V2Link
-  - 🇸🇬 JCBB_ 新加坡 01【vip1 】 - JCBB
-  - 🇸🇬 JCBB_ 新加坡 02【vip1 】 - JCBB
-  - 🇸🇬 JCBB_ 新加坡 03【vip1 】 - JCBB
-  - 🇸🇬 JCBB_ 新加坡 04【vip1 】 - JCBB
-  - 🇸🇬 JCBB_ 新加坡 05【vip1】 - JCBB
-  - 🇸🇬 JCBB_ 新加坡 06【vip1】 - JCBB
-  - 🇸🇬 【K】新加坡 普通 1 - DO - SockBoom
-  - 🇸🇬 【K】新加坡 普通 2 - DO - SockBoom
-  - 🇸🇬 【K】新加坡 普通 3 - DO - SockBoom
-  - 🇸🇬 【K】新加坡 普通 4 - DO - SockBoom
-  - 🇸🇬 【K】新加坡 普通 5 - DO - SockBoom
-  - 🇸🇬 【K】新加坡 普通 6 - DO - SockBoom
-  - 🇸🇬 【K】新加坡 普通 7 - DO - SockBoom
-  - 🇸🇬 新加坡01 - Kako Cloud
-  - 🇸🇬 新加坡02 - Kako Cloud
-  - 🇸🇬 新加坡03 - Kako Cloud
-  - 🇸🇬 新加坡04 - Kako Cloud
 - name: 🇯🇵 ‍日本
   type: url-test
   url: https://i.ytimg.com/generate_204
   interval: 30
   tolerance: 50
   proxies: &id006
-  - 🇯🇵 日本01 - Cyanmori
-  - 🇯🇵 日本02 - Cyanmori
-  - 🇯🇵 日本03 - Cyanmori
-  - 🇯🇵 日本04 - Cyanmori
   - 🇯🇵 日本 101 - 墙了个墙
   - 🇯🇵 日本 102 - 墙了个墙
   - 🇯🇵 日本 103 - 墙了个墙
   - 🇯🇵 日本 104 - 墙了个墙
   - 🇯🇵 日本 105 - 墙了个墙
+  - 🇯🇵 日本•软银260•高速 - 飞翔吧
+  - 🇯🇵 中转•日本298•高速 - 飞翔吧
+  - 🇯🇵 中转•日本300•原生 - 飞翔吧
+  - 🇯🇵 日本•高速114•高速 - 飞翔吧
+  - 🇯🇵 日本•高速115•高速 - 飞翔吧
+  - 🇯🇵 日本•高速139•铂金 - 飞翔吧
+  - 🇯🇵 日本•高速140•铂金 - 飞翔吧
+  - 🇯🇵 日本•高速141•铂金 - 飞翔吧
+  - 🇯🇵 日本•高速142•原生 - 飞翔吧
+  - 🇯🇵 日本•高速59•青铜 - 飞翔吧
+  - 🇯🇵 日本•高速71•高速 - 飞翔吧
+  - 🇯🇵 日本•高速76•高速 - 飞翔吧
   - 🇯🇵 日本 1 Nico Abema - 西瓜皮是真的皮
   - 🇯🇵 日本 2 Nico Abema - 西瓜皮是真的皮
   - 🇯🇵 [vip①]日本1 - MG Network
   - 🇯🇵 [vip①]日本2 - MG Network
-  - 🇯🇵 日本 - 东京 R - V2Link
-  - 🇯🇵 日本 - 大版 A - V2Link
-  - 🇯🇵 日本 - 东京 A - V2Link
-  - 🇯🇵 日本 - 东京 B - V2Link
-  - 🇯🇵 日本 - 东京 C - V2Link
-  - 🇯🇵 日本 - 东京 D - V2Link
-  - 🇯🇵 JCBB_日本01【vip1】 - JCBB
-  - 🇯🇵 JCBB_日本02【vip1】 - JCBB
-  - 🇯🇵 JCBB_日本03【vip1】 - JCBB
-  - 🇯🇵 JCBB_日本04【vip1】 - JCBB
-  - 🇯🇵 JCBB_日本05【vip1】 - JCBB
-  - 🇯🇵 JCBB_日本06【vip1】 - JCBB
-  - 🇯🇵 【N】日本 普通 1 - Nerocloud - SockBoom
-  - 🇯🇵 【N】日本 普通 2 - Nerocloud - SockBoom
-  - 🇯🇵 【N】日本 普通 3 - Nerocloud - SockBoom
-  - 🇯🇵 【N】日本 普通 4 - Nerocloud - SockBoom
-  - 🇯🇵 【N】日本 普通 5 - Nerocloud - SockBoom
 - name: 🇺🇸 ‍美国
   type: url-test
   url: https://i.ytimg.com/generate_204
   interval: 30
   tolerance: 50
   proxies: &id007
-  - 🇺🇸 美国01 - Cyanmori
-  - 🇺🇸 美国02 - Cyanmori
-  - 🇺🇸 美国03 - Cyanmori
-  - 🇺🇸 美国04 - Cyanmori
-  - 🇺🇸 美国05 - Cyanmori
   - 🇺🇸 美国 凤凰城101 - 墙了个墙
   - 🇺🇸 美国 凤凰城102 - 墙了个墙
   - 🇺🇸 美国 凤凰城103 - 墙了个墙
@@ -627,46 +325,25 @@ proxy-groups:
   - 🇺🇸 美国 硅谷103 - 墙了个墙
   - 🇺🇸 美国 硅谷104 - 墙了个墙
   - 🇺🇸 美国 硅谷105 - 墙了个墙
+  - 🇺🇸 中转•美国295•高速 - 飞翔吧
+  - 🇺🇸 中转•美国296•高速 - 飞翔吧
+  - 🇺🇸 中转•美国40•高速 - 飞翔吧
+  - 🇺🇸 中转•美国41•原生 - 飞翔吧
+  - 🇺🇸 中转•美国46•原生 - 飞翔吧
+  - 🇺🇸 中转•美国61•高速 - 飞翔吧
+  - 🇺🇸 广港•美国266•高速 - 飞翔吧
+  - 🇺🇸 广港•美国288•高速 - 飞翔吧
   - 🇺🇸美国 🌐「达拉斯」 - 北方航空
   - 🇺🇸 美国 1 ChatGPT - 西瓜皮是真的皮
   - 🇺🇸 美国 2 ChatGPT - 西瓜皮是真的皮
   - 🇺🇸 [vip①]美国1 - MG Network
   - 🇺🇸 [vip①]美国2 - MG Network
-  - 🇺🇸 美国 - 堪萨斯 A - V2Link
-  - 🇺🇸 美国 - 圣何塞 A - V2Link
-  - 🇺🇸 美国 - 圣何塞 B - V2Link
-  - 🇺🇸 美国 - 圣何塞 C - V2Link
-  - 🇺🇸 美国 - 圣何塞 R - V2Link
-  - 🇺🇸 JCBB_ 美国01【vip1】 - JCBB
-  - 🇺🇸 JCBB_ 美国02_1【vip1】 - JCBB
-  - 🇺🇸 JCBB_ 美国02【vip1】 - JCBB
-  - 🇺🇸 JCBB_ 美国 03【vip1】 - JCBB
-  - 🇺🇸 JCBB_ 美国 04_1【vip1】 - JCBB
-  - 🇺🇸 JCBB_ 美国 04【vip1】 - JCBB
-  - 🇺🇸 JCBB_美国05_1【vip1】 - JCBB
-  - 🇺🇸 JCBB_美国05【vip1】 - JCBB
-  - 🇺🇸 JCBB_美国06【vip1】 - JCBB
-  - 🇺🇸 【C】美国 普通 1 - CC - SockBoom
-  - 🇺🇸 【C】美国 普通 2 - CC - SockBoom
-  - 🇺🇸 【C】美国 普通 3 - CC - SockBoom
-  - 🇺🇸 【C】美国 普通 4 - CC - SockBoom
 - name: 🎏 ‍其他
   type: url-test
   url: https://i.ytimg.com/generate_204
   interval: 30
   tolerance: 50
   proxies: &id008
-  - 🇮🇳 印度01 - Cyanmori
-  - 🇮🇳 印度02 - Cyanmori
-  - 🇰🇷 韩国01 - Cyanmori
-  - 🇰🇷 韩国02 - Cyanmori
-  - 🇬🇧 英国01 - Cyanmori
-  - 🇬🇧 英国02 - Cyanmori
-  - 🇩🇪 德国柏林01 - Cyanmori
-  - 🇦🇺 澳大利亚01 - Cyanmori
-  - 🇦🇺 澳大利亚02 - Cyanmori
-  - 🇦🇪 迪拜01 - Cyanmori
-  - 🇦🇪 迪拜02 - Cyanmori
   - 🇩🇪 德国 法兰克福101 - 墙了个墙
   - 🇩🇪 德国 法兰克福102 - 墙了个墙
   - 🇩🇪 德国 法兰克福103 - 墙了个墙
@@ -680,6 +357,10 @@ proxy-groups:
   - 🇦🇪 迪拜 001 - 墙了个墙
   - 🇦🇪 迪拜 002 - 墙了个墙
   - 🇦🇪 迪拜 003 - 墙了个墙
+  - 🇬🇧 中转•英国267•高速 - 飞翔吧
+  - 🇬🇧 中转•英国268•高速 - 飞翔吧
+  - 🇰🇷 广港•韩国263•高速 - 飞翔吧
+  - 🇰🇷 广港•韩国264•高速 - 飞翔吧
   - 🇫🇷 法国 1 - 西瓜皮是真的皮
   - 🇩🇪 德国 1 - 西瓜皮是真的皮
   - 🇮🇩 印度尼西亚 1 - 西瓜皮是真的皮
@@ -690,42 +371,6 @@ proxy-groups:
   - 🇬🇧 [vip①]英国1 - MG Network
   - 🇬🇧 [vip①]英国2 - MG Network
   - 🇰🇷 [vip①]韩国1 - MG Network
-  - 🇰🇷 韩国 - 首尔 R - V2Link
-  - 🇰🇷 韩国 - 首尔 X - V2Link
-  - 🇰🇷 韩国 - 春川 R - V2Link
-  - 🇻🇳 越南 - 河内 A - V2Link
-  - 🇨🇦 加拿大 - 多伦多 A - V2Link
-  - 🇬🇧 英国 - 伦敦 A - V2Link
-  - 🇩🇪 德国 - 法兰克福 A - V2Link
-  - 🇫🇷 法国 - 巴黎 - V2Link
-  - 🇮🇹 意大利 - 米兰 - V2Link
-  - 🇪🇸 西班牙 - 马德里 - V2Link
-  - 🇳🇱 荷兰 - 阿姆斯特丹 - V2Link
-  - 🇦🇺 澳大利亚 - 悉尼 - V2Link
-  - 🇧🇷 巴西 - 圣保罗 - V2Link
-  - 🇮🇳 印度 - 孟买 - V2Link
-  - 🇦🇪 阿联酋 - 迪拜 - V2Link
-  - 🇪🇺 欧洲 - 土耳其 - V2Link
-  - 🇪🇺 欧洲 - 罗马尼亚 - V2Link
-  - 🇦🇷 南美洲 - 阿根廷 - V2Link
-  - 🇩🇪 JCBB_德国01【vip1】 - JCBB
-  - 🇩🇪 JCBB_德国02【vip1】 - JCBB
-  - 🇩🇪 JCBB_德国03【vip1】 - JCBB
-  - 🇮🇳 JCBB_ 印度01【vip1】 - JCBB
-  - 🇮🇳 JCBB_ 印度02【vip1】 - JCBB
-  - 🇮🇳 JCBB_ 印度03【vip1】 - JCBB
-  - 🇬🇧 JCBB_ 英国01【vip1】 - JCBB
-  - 🇬🇧 JCBB_ 英国02【vip1】 - JCBB
-  - 🇬🇧 JCBB_ 英国03【vip1】 - JCBB
-  - 🇹🇷 JCBB_土耳其 01【vip1】 - JCBB
-  - 🇹🇷 JCBB_土耳其 02【vip1】 - JCBB
-  - 🇹🇷 JCBB_土耳其 03【vip1】 - JCBB
-  - 🇻🇳 JCBB_越南 01【vip1】 - JCBB
-  - 🇻🇳 JCBB_越南 02【vip1】 - JCBB
-  - 🇻🇳 JCBB_越南 03【vip1】 - JCBB
-  - 🇲🇳 【I】蒙古 普通 A - MN - SockBoom
-  - 中秋&国庆双节活动开启！ - Kako Cloud
-  - tg频道:@kkyun_proxy - Kako Cloud
 - name: 👆🏻 ‍指定
   type: select
   proxies: *id001
@@ -751,265 +396,118 @@ proxy-groups:
   type: select
   proxies: *id008
 proxies:
-- {name: 🇺🇸 美国01 - Cyanmori, server: jp1.susenl.com, port: 10040, type: ss, cipher: chacha20-ietf-poly1305, password: 27mIxgQOKcgtLk9x, udp: true}
-- {name: 🇺🇸 美国02 - Cyanmori, server: jp1.susenl.com, port: 10041, type: ss, cipher: chacha20-ietf-poly1305, password: 27mIxgQOKcgtLk9x, udp: true}
-- {name: 🇺🇸 美国03 - Cyanmori, server: jp1.susenl.com, port: 10042, type: ss, cipher: chacha20-ietf-poly1305, password: 27mIxgQOKcgtLk9x, udp: true}
-- {name: 🇺🇸 美国04 - Cyanmori, server: jp1.susenl.com, port: 10043, type: ss, cipher: chacha20-ietf-poly1305, password: 27mIxgQOKcgtLk9x, udp: true}
-- {name: 🇺🇸 美国05 - Cyanmori, server: jp1.susenl.com, port: 10067, type: ss, cipher: chacha20-ietf-poly1305, password: 27mIxgQOKcgtLk9x, udp: true}
-- {name: 🇭🇰 香港01 - Cyanmori, server: hk1.susenl.com, port: 10031, type: ss, cipher: chacha20-ietf-poly1305, password: 27mIxgQOKcgtLk9x, udp: true}
-- {name: 🇭🇰 香港02 - Cyanmori, server: hk1.susenl.com, port: 10032, type: ss, cipher: chacha20-ietf-poly1305, password: 27mIxgQOKcgtLk9x, udp: true}
-- {name: 🇭🇰 香港03 - Cyanmori, server: hk1.susenl.com, port: 12345, type: ss, cipher: chacha20-ietf-poly1305, password: 27mIxgQOKcgtLk9x, udp: true}
-- {name: 🇭🇰 香港04 - Cyanmori, server: hk1.susenl.com, port: 10033, type: ss, cipher: chacha20-ietf-poly1305, password: 27mIxgQOKcgtLk9x, udp: true}
-- {name: 🇭🇰 香港05 - Cyanmori, server: hk1.susenl.com, port: 10034, type: ss, cipher: chacha20-ietf-poly1305, password: 27mIxgQOKcgtLk9x, udp: true}
-- {name: 🇭🇰 香港06 - Cyanmori, server: hk1.susenl.com, port: 10035, type: ss, cipher: chacha20-ietf-poly1305, password: 27mIxgQOKcgtLk9x, udp: true}
-- {name: 🇹🇼 台湾01 - Cyanmori, server: hk1.susenl.com, port: 10036, type: ss, cipher: chacha20-ietf-poly1305, password: 27mIxgQOKcgtLk9x, udp: true}
-- {name: 🇹🇼 台湾02 - Cyanmori, server: hk1.susenl.com, port: 10064, type: ss, cipher: chacha20-ietf-poly1305, password: 27mIxgQOKcgtLk9x, udp: true}
-- {name: 🇯🇵 日本01 - Cyanmori, server: jp1.susenl.com, port: 10037, type: ss, cipher: chacha20-ietf-poly1305, password: 27mIxgQOKcgtLk9x, udp: true}
-- {name: 🇯🇵 日本02 - Cyanmori, server: jp1.susenl.com, port: 10038, type: ss, cipher: chacha20-ietf-poly1305, password: 27mIxgQOKcgtLk9x, udp: true}
-- {name: 🇯🇵 日本03 - Cyanmori, server: jp1.susenl.com, port: 10039, type: ss, cipher: chacha20-ietf-poly1305, password: 27mIxgQOKcgtLk9x, udp: true}
-- {name: 🇯🇵 日本04 - Cyanmori, server: jp1.susenl.com, port: 10058, type: ss, cipher: chacha20-ietf-poly1305, password: 27mIxgQOKcgtLk9x, udp: true}
-- {name: 🇸🇬 新加坡01 - Cyanmori, server: jp1.susenl.com, port: 10044, type: ss, cipher: chacha20-ietf-poly1305, password: 27mIxgQOKcgtLk9x, udp: true}
-- {name: 🇸🇬 新加坡02 - Cyanmori, server: jp1.susenl.com, port: 10045, type: ss, cipher: chacha20-ietf-poly1305, password: 27mIxgQOKcgtLk9x, udp: true}
-- {name: 🇸🇬 新加坡03 - Cyanmori, server: jp1.susenl.com, port: 10046, type: ss, cipher: chacha20-ietf-poly1305, password: 27mIxgQOKcgtLk9x, udp: true}
-- {name: 🇸🇬 新加坡04 - Cyanmori, server: jp1.susenl.com, port: 10068, type: ss, cipher: chacha20-ietf-poly1305, password: 27mIxgQOKcgtLk9x, udp: true}
-- {name: 🇮🇳 印度01 - Cyanmori, server: jp1.susenl.com, port: 10050, type: ss, cipher: chacha20-ietf-poly1305, password: 27mIxgQOKcgtLk9x, udp: true}
-- {name: 🇮🇳 印度02 - Cyanmori, server: jp1.susenl.com, port: 10051, type: ss, cipher: chacha20-ietf-poly1305, password: 27mIxgQOKcgtLk9x, udp: true}
-- {name: 🇰🇷 韩国01 - Cyanmori, server: jp1.susenl.com, port: 10047, type: ss, cipher: chacha20-ietf-poly1305, password: 27mIxgQOKcgtLk9x, udp: true}
-- {name: 🇰🇷 韩国02 - Cyanmori, server: jp1.susenl.com, port: 10048, type: ss, cipher: chacha20-ietf-poly1305, password: 27mIxgQOKcgtLk9x, udp: true}
-- {name: 🇬🇧 英国01 - Cyanmori, server: jp1.susenl.com, port: 10052, type: ss, cipher: chacha20-ietf-poly1305, password: 27mIxgQOKcgtLk9x, udp: true}
-- {name: 🇬🇧 英国02 - Cyanmori, server: jp1.susenl.com, port: 10053, type: ss, cipher: chacha20-ietf-poly1305, password: 27mIxgQOKcgtLk9x, udp: true}
-- {name: 🇩🇪 德国柏林01 - Cyanmori, server: jp1.susenl.com, port: 10069, type: ss, cipher: chacha20-ietf-poly1305, password: 27mIxgQOKcgtLk9x, udp: true}
-- {name: 🇦🇺 澳大利亚01 - Cyanmori, server: jp1.susenl.com, port: 10055, type: ss, cipher: chacha20-ietf-poly1305, password: 27mIxgQOKcgtLk9x, udp: true}
-- {name: 🇦🇺 澳大利亚02 - Cyanmori, server: jp1.susenl.com, port: 10054, type: ss, cipher: chacha20-ietf-poly1305, password: 27mIxgQOKcgtLk9x, udp: true}
-- {name: 🇦🇪 迪拜01 - Cyanmori, server: jp1.susenl.com, port: 10056, type: ss, cipher: chacha20-ietf-poly1305, password: 27mIxgQOKcgtLk9x, udp: true}
-- {name: 🇦🇪 迪拜02 - Cyanmori, server: jp1.susenl.com, port: 10057, type: ss, cipher: chacha20-ietf-poly1305, password: 27mIxgQOKcgtLk9x, udp: true}
-- {name: 🇺🇸 美国 凤凰城101 - 墙了个墙, server: pxvip101.qlgq1.pw, port: 10443, type: trojan, password: 9e1b7d5f-5df7-3a3a-94a8-f6b70f11eb72, sni: pxvip101.qlgq1.pw, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: pxvip101}, udp: true}
-- {name: 🇺🇸 美国 凤凰城102 - 墙了个墙, server: pxvip101.qlgq1.pw, port: 20443, type: trojan, password: 9e1b7d5f-5df7-3a3a-94a8-f6b70f11eb72, sni: pxvip101.qlgq1.pw, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: pxvip101}, udp: true}
-- {name: 🇺🇸 美国 凤凰城103 - 墙了个墙, server: pxvip101.qlgq1.pw, port: 30443, type: trojan, password: 9e1b7d5f-5df7-3a3a-94a8-f6b70f11eb72, sni: pxvip101.qlgq1.pw, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: pxvip101}, udp: true}
-- {name: 🇺🇸 美国 洛杉矶101 - 墙了个墙, server: lavip101.qlgq1.pw, port: 10443, type: trojan, password: 9e1b7d5f-5df7-3a3a-94a8-f6b70f11eb72, sni: lavip101.qlgq1.pw, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: lavip101}, udp: true}
-- {name: 🇺🇸 美国 洛杉矶102 - 墙了个墙, server: lavip101.qlgq1.pw, port: 20443, type: trojan, password: 9e1b7d5f-5df7-3a3a-94a8-f6b70f11eb72, sni: lavip101.qlgq1.pw, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: lavip101}, udp: true}
-- {name: 🇺🇸 美国 洛杉矶103 - 墙了个墙, server: lavip101.qlgq1.pw, port: 30443, type: trojan, password: 9e1b7d5f-5df7-3a3a-94a8-f6b70f11eb72, sni: lavip101.qlgq1.pw, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: lavip101}, udp: true}
-- {name: 🇺🇸 美国 硅谷101 - 墙了个墙, server: svvip102.qlgq1.pw, port: 10443, type: trojan, password: 9e1b7d5f-5df7-3a3a-94a8-f6b70f11eb72, sni: svvip102.qlgq1.pw, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: svvip102}, udp: true}
-- {name: 🇺🇸 美国 硅谷102 - 墙了个墙, server: svvip102.qlgq1.pw, port: 20443, type: trojan, password: 9e1b7d5f-5df7-3a3a-94a8-f6b70f11eb72, sni: svvip102.qlgq1.pw, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: svvip102}, udp: true}
-- {name: 🇺🇸 美国 硅谷103 - 墙了个墙, server: svvip102.qlgq1.pw, port: 30443, type: trojan, password: 9e1b7d5f-5df7-3a3a-94a8-f6b70f11eb72, sni: svvip102.qlgq1.pw, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: svvip102}, udp: true}
-- {name: 🇺🇸 美国 硅谷104 - 墙了个墙, server: svvip102.qlgq1.pw, port: 40443, type: trojan, password: 9e1b7d5f-5df7-3a3a-94a8-f6b70f11eb72, sni: svvip102.qlgq1.pw, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: svvip102}, udp: true}
-- {name: 🇺🇸 美国 硅谷105 - 墙了个墙, server: svvip102.qlgq1.pw, port: 50443, type: trojan, password: 9e1b7d5f-5df7-3a3a-94a8-f6b70f11eb72, sni: svvip102.qlgq1.pw, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: svvip102}, udp: true}
-- {name: 🇭🇰 香港 101 - 墙了个墙, server: hkvip102.qlgq1.pw, port: 10443, type: trojan, password: 9e1b7d5f-5df7-3a3a-94a8-f6b70f11eb72, sni: hkvip102.qlgq1.pw, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: hkvip102}, udp: true}
-- {name: 🇭🇰 香港 102 - 墙了个墙, server: hkvip102.qlgq1.pw, port: 20443, type: trojan, password: 9e1b7d5f-5df7-3a3a-94a8-f6b70f11eb72, sni: hkvip102.qlgq1.pw, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: hkvip102}, udp: true}
-- {name: 🇭🇰 香港 103 - 墙了个墙, server: hkvip102.qlgq1.pw, port: 30443, type: trojan, password: 9e1b7d5f-5df7-3a3a-94a8-f6b70f11eb72, sni: hkvip102.qlgq1.pw, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: hkvip102}, udp: true}
-- {name: 🇭🇰 香港 104 - 墙了个墙, server: hkvip102.qlgq1.pw, port: 40443, type: trojan, password: 9e1b7d5f-5df7-3a3a-94a8-f6b70f11eb72, sni: hkvip102.qlgq1.pw, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: hkvip102}, udp: true}
-- {name: 🇭🇰 香港 105 - 墙了个墙, server: hkvip102.qlgq1.pw, port: 50443, type: trojan, password: 9e1b7d5f-5df7-3a3a-94a8-f6b70f11eb72, sni: hkvip102.qlgq1.pw, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: hkvip102}, udp: true}
-- {name: 🇭🇰 香港 106 - 墙了个墙, server: hkvip103.qlgq1.pw, port: 10443, type: trojan, password: 9e1b7d5f-5df7-3a3a-94a8-f6b70f11eb72, sni: hkvip103.qlgq1.pw, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: hkvip103}, udp: true}
-- {name: 🇭🇰 香港 107 - 墙了个墙, server: hkvip103.qlgq1.pw, port: 20443, type: trojan, password: 9e1b7d5f-5df7-3a3a-94a8-f6b70f11eb72, sni: hkvip103.qlgq1.pw, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: hkvip103}, udp: true}
-- {name: 🇭🇰 香港 108 - 墙了个墙, server: hkvip103.qlgq1.pw, port: 30443, type: trojan, password: 9e1b7d5f-5df7-3a3a-94a8-f6b70f11eb72, sni: hkvip103.qlgq1.pw, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: hkvip103}, udp: true}
-- {name: 🇭🇰 香港 109 - 墙了个墙, server: hkvip103.qlgq1.pw, port: 40443, type: trojan, password: 9e1b7d5f-5df7-3a3a-94a8-f6b70f11eb72, sni: hkvip103.qlgq1.pw, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: hkvip103}, udp: true}
-- {name: 🇭🇰 香港 110 - 墙了个墙, server: hkvip103.qlgq1.pw, port: 50443, type: trojan, password: 9e1b7d5f-5df7-3a3a-94a8-f6b70f11eb72, sni: hkvip103.qlgq1.pw, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: hkvip103}, udp: true}
-- {name: 🇯🇵 日本 101 - 墙了个墙, server: jpvip102.qlgq1.pw, port: 10443, type: trojan, password: 9e1b7d5f-5df7-3a3a-94a8-f6b70f11eb72, sni: jpvip102.qlgq1.pw, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: jpvip102}, udp: true}
-- {name: 🇯🇵 日本 102 - 墙了个墙, server: jpvip102.qlgq1.pw, port: 20443, type: trojan, password: 9e1b7d5f-5df7-3a3a-94a8-f6b70f11eb72, sni: jpvip102.qlgq1.pw, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: jpvip102}, udp: true}
-- {name: 🇯🇵 日本 103 - 墙了个墙, server: jpvip102.qlgq1.pw, port: 30443, type: trojan, password: 9e1b7d5f-5df7-3a3a-94a8-f6b70f11eb72, sni: jpvip102.qlgq1.pw, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: jpvip102}, udp: true}
-- {name: 🇯🇵 日本 104 - 墙了个墙, server: jpvip102.qlgq1.pw, port: 40443, type: trojan, password: 9e1b7d5f-5df7-3a3a-94a8-f6b70f11eb72, sni: jpvip102.qlgq1.pw, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: jpvip102}, udp: true}
-- {name: 🇯🇵 日本 105 - 墙了个墙, server: jpvip102.qlgq1.pw, port: 50443, type: trojan, password: 9e1b7d5f-5df7-3a3a-94a8-f6b70f11eb72, sni: jpvip102.qlgq1.pw, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: jpvip102}, udp: true}
-- {name: 🇩🇪 德国 法兰克福101 - 墙了个墙, server: fkvip101.qlgq1.pw, port: 10443, type: trojan, password: 9e1b7d5f-5df7-3a3a-94a8-f6b70f11eb72, sni: fkvip101.qlgq1.pw, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: fkvip101}, udp: true}
-- {name: 🇩🇪 德国 法兰克福102 - 墙了个墙, server: fkvip101.qlgq1.pw, port: 20443, type: trojan, password: 9e1b7d5f-5df7-3a3a-94a8-f6b70f11eb72, sni: fkvip101.qlgq1.pw, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: fkvip101}, udp: true}
-- {name: 🇩🇪 德国 法兰克福103 - 墙了个墙, server: fkvip101.qlgq1.pw, port: 30443, type: trojan, password: 9e1b7d5f-5df7-3a3a-94a8-f6b70f11eb72, sni: fkvip101.qlgq1.pw, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: fkvip101}, udp: true}
-- {name: 🇩🇪 德国 法兰克福104 - 墙了个墙, server: fkvip101.qlgq1.pw, port: 40443, type: trojan, password: 9e1b7d5f-5df7-3a3a-94a8-f6b70f11eb72, sni: fkvip101.qlgq1.pw, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: fkvip101}, udp: true}
-- {name: 🇩🇪 德国 法兰克福105 - 墙了个墙, server: fkvip101.qlgq1.pw, port: 50443, type: trojan, password: 9e1b7d5f-5df7-3a3a-94a8-f6b70f11eb72, sni: fkvip101.qlgq1.pw, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: fkvip101}, udp: true}
-- {name: 🇸🇬 新加坡 101 - 墙了个墙, server: sgvip101.qlgq1.pw, port: 10443, type: trojan, password: 9e1b7d5f-5df7-3a3a-94a8-f6b70f11eb72, sni: sgvip101.qlgq1.pw, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: sgvip101}, udp: true}
-- {name: 🇸🇬 新加坡 102 - 墙了个墙, server: sgvip101.qlgq1.pw, port: 20443, type: trojan, password: 9e1b7d5f-5df7-3a3a-94a8-f6b70f11eb72, sni: sgvip101.qlgq1.pw, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: sgvip101}, udp: true}
-- {name: 🇸🇬 新加坡 103 - 墙了个墙, server: sgvip101.qlgq1.pw, port: 30443, type: trojan, password: 9e1b7d5f-5df7-3a3a-94a8-f6b70f11eb72, sni: sgvip101.qlgq1.pw, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: sgvip101}, udp: true}
-- {name: 🇸🇬 新加坡 104 - 墙了个墙, server: sgvip101.qlgq1.pw, port: 40443, type: trojan, password: 9e1b7d5f-5df7-3a3a-94a8-f6b70f11eb72, sni: sgvip101.qlgq1.pw, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: sgvip101}, udp: true}
-- {name: 🇸🇬 新加坡 105 - 墙了个墙, server: sgvip101.qlgq1.pw, port: 50443, type: trojan, password: 9e1b7d5f-5df7-3a3a-94a8-f6b70f11eb72, sni: sgvip101.qlgq1.pw, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: sgvip101}, udp: true}
-- {name: 🇬🇧 英国 101 - 墙了个墙, server: ukvip101.qlgq1.pw, port: 10443, type: trojan, password: 9e1b7d5f-5df7-3a3a-94a8-f6b70f11eb72, sni: ukvip101.qlgq1.pw, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: ukvip101}, udp: true}
-- {name: 🇬🇧 英国 102 - 墙了个墙, server: ukvip101.qlgq1.pw, port: 20443, type: trojan, password: 9e1b7d5f-5df7-3a3a-94a8-f6b70f11eb72, sni: ukvip101.qlgq1.pw, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: ukvip101}, udp: true}
-- {name: 🇬🇧 英国 103 - 墙了个墙, server: ukvip101.qlgq1.pw, port: 30443, type: trojan, password: 9e1b7d5f-5df7-3a3a-94a8-f6b70f11eb72, sni: ukvip101.qlgq1.pw, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: ukvip101}, udp: true}
-- {name: 🇬🇧 英国 104 - 墙了个墙, server: ukvip101.qlgq1.pw, port: 40443, type: trojan, password: 9e1b7d5f-5df7-3a3a-94a8-f6b70f11eb72, sni: ukvip101.qlgq1.pw, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: ukvip101}, udp: true}
-- {name: 🇬🇧 英国 105 - 墙了个墙, server: ukvip101.qlgq1.pw, port: 50443, type: trojan, password: 9e1b7d5f-5df7-3a3a-94a8-f6b70f11eb72, sni: ukvip101.qlgq1.pw, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: ukvip101}, udp: true}
-- {name: 🇦🇪 迪拜 001 - 墙了个墙, server: duvip001.qlgq1.pw, port: 10443, type: trojan, password: 9e1b7d5f-5df7-3a3a-94a8-f6b70f11eb72, sni: duvip001.qlgq1.pw, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: duvip001}, udp: true}
-- {name: 🇦🇪 迪拜 002 - 墙了个墙, server: duvip001.qlgq1.pw, port: 20443, type: trojan, password: 9e1b7d5f-5df7-3a3a-94a8-f6b70f11eb72, sni: duvip001.qlgq1.pw, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: duvip001}, udp: true}
-- {name: 🇦🇪 迪拜 003 - 墙了个墙, server: duvip001.qlgq1.pw, port: 30443, type: trojan, password: 9e1b7d5f-5df7-3a3a-94a8-f6b70f11eb72, sni: duvip001.qlgq1.pw, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: duvip001}, udp: true}
-- {name: 🇺🇸美国 🌐「达拉斯」 - 北方航空, server: cdn.chigua.tk, port: 80, type: vmess, uuid: bf73d0ac-db7e-4518-9588-e663cf6a58b8, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /usc03, headers: {Host: usc03.galenet.online}}, udp: true}
-- {name: 🇺🇸 美国 1 ChatGPT - 西瓜皮是真的皮, server: cm1-xg.go001.buzz, port: 19861, type: vmess, uuid: 42f26df0-67da-3223-be69-f93ff943dbf4, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 美国 2 ChatGPT - 西瓜皮是真的皮, server: ct1-xg.go001.buzz, port: 19862, type: vmess, uuid: 42f26df0-67da-3223-be69-f93ff943dbf4, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 香港 1 - 西瓜皮是真的皮, server: cm1-xg.go001.buzz, port: 19811, type: vmess, uuid: 42f26df0-67da-3223-be69-f93ff943dbf4, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 香港 2 - 西瓜皮是真的皮, server: ct1-xg.go001.buzz, port: 19812, type: vmess, uuid: 42f26df0-67da-3223-be69-f93ff943dbf4, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇹🇼 台湾 1 动画疯 - 西瓜皮是真的皮, server: cm1-xg.go001.buzz, port: 19821, type: vmess, uuid: 42f26df0-67da-3223-be69-f93ff943dbf4, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇹🇼 台湾 2 动画疯 - 西瓜皮是真的皮, server: ct1-xg.go001.buzz, port: 19822, type: vmess, uuid: 42f26df0-67da-3223-be69-f93ff943dbf4, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 日本 1 Nico Abema - 西瓜皮是真的皮, server: cm1-xg.go001.buzz, port: 19831, type: vmess, uuid: 42f26df0-67da-3223-be69-f93ff943dbf4, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 日本 2 Nico Abema - 西瓜皮是真的皮, server: ct1-xg.go001.buzz, port: 19832, type: vmess, uuid: 42f26df0-67da-3223-be69-f93ff943dbf4, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇸🇬 新加坡 1 Netflix  - 西瓜皮是真的皮, server: cm1-xg.go001.buzz, port: 19841, type: vmess, uuid: 42f26df0-67da-3223-be69-f93ff943dbf4, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇸🇬 新加坡 2 Netflix - 西瓜皮是真的皮, server: ct1-xg.go001.buzz, port: 19842, type: vmess, uuid: 42f26df0-67da-3223-be69-f93ff943dbf4, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇫🇷 法国 1 - 西瓜皮是真的皮, server: cm1-xg.go001.buzz, port: 19892, type: vmess, uuid: 42f26df0-67da-3223-be69-f93ff943dbf4, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇩🇪 德国 1 - 西瓜皮是真的皮, server: cm1-xg.go001.buzz, port: 19891, type: vmess, uuid: 42f26df0-67da-3223-be69-f93ff943dbf4, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇮🇩 印度尼西亚 1 - 西瓜皮是真的皮, server: cm1-xg.go001.buzz, port: 19883, type: vmess, uuid: 42f26df0-67da-3223-be69-f93ff943dbf4, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇮🇳 印度 1 - 西瓜皮是真的皮, server: cm1-xg.go001.buzz, port: 19882, type: vmess, uuid: 42f26df0-67da-3223-be69-f93ff943dbf4, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇹🇷 土耳其 1 - 西瓜皮是真的皮, server: cm1-xg.go001.buzz, port: 19881, type: vmess, uuid: 42f26df0-67da-3223-be69-f93ff943dbf4, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: '🇺🇸 [vip①]美国1 - MG Network', server: 14.v2-ray.cyou, port: 23614, type: vmess, uuid: 2b8c0c13-a651-310e-9c00-7ae5c28ed623, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 14.v2-ray.cyou}}, udp: true}
-- {name: '🇺🇸 [vip①]美国2 - MG Network', server: 15.v2-ray.cyou, port: 23615, type: vmess, uuid: 2b8c0c13-a651-310e-9c00-7ae5c28ed623, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 15.v2-ray.cyou}}, udp: true}
-- {name: '🇯🇵 [vip①]日本1 - MG Network', server: 8.v2-ray.cyou, port: 23608, type: vmess, uuid: 2b8c0c13-a651-310e-9c00-7ae5c28ed623, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: '🇯🇵 [vip①]日本2 - MG Network', server: 19.v2-ray.cyou, port: 23619, type: vmess, uuid: 2b8c0c13-a651-310e-9c00-7ae5c28ed623, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 19.v2-ray.cyou}}, udp: true}
-- {name: '🇩🇪 [vip①]德国1 - MG Network', server: 16.v2-ray.cyou, port: 23616, type: vmess, uuid: 2b8c0c13-a651-310e-9c00-7ae5c28ed623, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 16.v2-ray.cyou}}, udp: true}
-- {name: '🇩🇪 [vip①]德国2 - MG Network', server: 18.v2-ray.cyou, port: 23618, type: vmess, uuid: 2b8c0c13-a651-310e-9c00-7ae5c28ed623, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 18.v2-ray.cyou}}, udp: true}
-- {name: '🇸🇬 [vip①]新加坡1 - MG Network', server: 12.v2-ray.cyou, port: 23612, type: vmess, uuid: 2b8c0c13-a651-310e-9c00-7ae5c28ed623, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 12.v2-ray.cyou}}, udp: true}
-- {name: '🇬🇧 [vip①]英国1 - MG Network', server: 5.v2-ray.cyou, port: 23605, type: vmess, uuid: 2b8c0c13-a651-310e-9c00-7ae5c28ed623, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 5.v2-ray.cyou}}, udp: true}
-- {name: '🇬🇧 [vip①]英国2 - MG Network', server: 13.v2-ray.cyou, port: 23613, type: vmess, uuid: 2b8c0c13-a651-310e-9c00-7ae5c28ed623, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 13.v2-ray.cyou}}, udp: true}
-- {name: '🇰🇷 [vip①]韩国1 - MG Network', server: 11.v2-ray.cyou, port: 23611, type: vmess, uuid: 2b8c0c13-a651-310e-9c00-7ae5c28ed623, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 11.v2-ray.cyou}}, udp: true}
-- {name: 🇺🇸 美国 - 堪萨斯 A - V2Link, server: host-036.crazyspeed.xyz, port: 16010, type: ss, cipher: chacha20-ietf-poly1305, password: 3c7b8255-a9fa-45e2-9e5c-3f8caf701012, udp: true}
-- {name: 🇺🇸 美国 - 圣何塞 A - V2Link, server: host-037.crazyspeed.xyz, port: 16011, type: ss, cipher: chacha20-ietf-poly1305, password: 3c7b8255-a9fa-45e2-9e5c-3f8caf701012, udp: true}
-- {name: 🇺🇸 美国 - 圣何塞 B - V2Link, server: host-038.crazyspeed.xyz, port: 16012, type: ss, cipher: chacha20-ietf-poly1305, password: 3c7b8255-a9fa-45e2-9e5c-3f8caf701012, udp: true}
-- {name: 🇺🇸 美国 - 圣何塞 C - V2Link, server: host-039.crazyspeed.xyz, port: 16013, type: ss, cipher: chacha20-ietf-poly1305, password: 3c7b8255-a9fa-45e2-9e5c-3f8caf701012, udp: true}
-- {name: 🇺🇸 美国 - 圣何塞 R - V2Link, server: host-040.crazyspeed.xyz, port: 16014, type: ss, cipher: chacha20-ietf-poly1305, password: 3c7b8255-a9fa-45e2-9e5c-3f8caf701012, udp: true}
-- {name: 🇭🇰 香港 - 极速 A - V2Link, server: host-001.crazyspeed.xyz, port: 30501, type: ss, cipher: chacha20-ietf-poly1305, password: 3c7b8255-a9fa-45e2-9e5c-3f8caf701012, udp: true}
-- {name: 🇭🇰 香港 - 极速 B - V2Link, server: host-002.crazyspeed.xyz, port: 30502, type: ss, cipher: chacha20-ietf-poly1305, password: 3c7b8255-a9fa-45e2-9e5c-3f8caf701012, udp: true}
-- {name: 🇭🇰 香港 - 极速 C - V2Link, server: host-003.crazyspeed.xyz, port: 30503, type: ss, cipher: chacha20-ietf-poly1305, password: 3c7b8255-a9fa-45e2-9e5c-3f8caf701012, udp: true}
-- {name: 🇭🇰 香港 - 极速 D - V2Link, server: host-004.crazyspeed.xyz, port: 30504, type: ss, cipher: chacha20-ietf-poly1305, password: 3c7b8255-a9fa-45e2-9e5c-3f8caf701012, udp: true}
-- {name: 🇭🇰 香港 - 极速 E - V2Link, server: host-005.crazyspeed.xyz, port: 30505, type: ss, cipher: chacha20-ietf-poly1305, password: 3c7b8255-a9fa-45e2-9e5c-3f8caf701012, udp: true}
-- {name: 🇭🇰 香港 - 极速 F - V2Link, server: host-006.crazyspeed.xyz, port: 30506, type: ss, cipher: chacha20-ietf-poly1305, password: 3c7b8255-a9fa-45e2-9e5c-3f8caf701012, udp: true}
-- {name: 🇭🇰 香港 - 家宽 G - V2Link, server: host-007.crazyspeed.xyz, port: 30507, type: ss, cipher: chacha20-ietf-poly1305, password: 3c7b8255-a9fa-45e2-9e5c-3f8caf701012, udp: true}
-- {name: 🇹🇼 台湾 - 家宽 A - V2Link, server: host-021.crazyspeed.xyz, port: 21001, type: ss, cipher: chacha20-ietf-poly1305, password: 3c7b8255-a9fa-45e2-9e5c-3f8caf701012, udp: true}
-- {name: 🇹🇼 台湾 - 彰化 B - V2Link, server: host-022.crazyspeed.xyz, port: 21002, type: ss, cipher: chacha20-ietf-poly1305, password: 3c7b8255-a9fa-45e2-9e5c-3f8caf701012, udp: true}
-- {name: 🇯🇵 日本 - 东京 R - V2Link, server: host-011.crazyspeed.xyz, port: 30601, type: ss, cipher: chacha20-ietf-poly1305, password: 3c7b8255-a9fa-45e2-9e5c-3f8caf701012, udp: true}
-- {name: 🇯🇵 日本 - 大版 A - V2Link, server: host-012.crazyspeed.xyz, port: 30602, type: ss, cipher: chacha20-ietf-poly1305, password: 3c7b8255-a9fa-45e2-9e5c-3f8caf701012, udp: true}
-- {name: 🇯🇵 日本 - 东京 A - V2Link, server: host-013.crazyspeed.xyz, port: 30603, type: ss, cipher: chacha20-ietf-poly1305, password: 3c7b8255-a9fa-45e2-9e5c-3f8caf701012, udp: true}
-- {name: 🇯🇵 日本 - 东京 B - V2Link, server: host-014.crazyspeed.xyz, port: 30604, type: ss, cipher: chacha20-ietf-poly1305, password: 3c7b8255-a9fa-45e2-9e5c-3f8caf701012, udp: true}
-- {name: 🇯🇵 日本 - 东京 C - V2Link, server: host-015.crazyspeed.xyz, port: 30605, type: ss, cipher: chacha20-ietf-poly1305, password: 3c7b8255-a9fa-45e2-9e5c-3f8caf701012, udp: true}
-- {name: 🇯🇵 日本 - 东京 D - V2Link, server: host-016.crazyspeed.xyz, port: 30606, type: ss, cipher: chacha20-ietf-poly1305, password: 3c7b8255-a9fa-45e2-9e5c-3f8caf701012, udp: true}
-- {name: 🇰🇷 韩国 - 首尔 R - V2Link, server: host-026.crazyspeed.xyz, port: 21006, type: ss, cipher: chacha20-ietf-poly1305, password: 3c7b8255-a9fa-45e2-9e5c-3f8caf701012, udp: true}
-- {name: 🇰🇷 韩国 - 首尔 X - V2Link, server: host-027.crazyspeed.xyz, port: 21007, type: ss, cipher: chacha20-ietf-poly1305, password: 3c7b8255-a9fa-45e2-9e5c-3f8caf701012, udp: true}
-- {name: 🇰🇷 韩国 - 春川 R - V2Link, server: host-028.crazyspeed.xyz, port: 21008, type: ss, cipher: chacha20-ietf-poly1305, password: 3c7b8255-a9fa-45e2-9e5c-3f8caf701012, udp: true}
-- {name: 🇻🇳 越南 - 河内 A - V2Link, server: host-029.crazyspeed.xyz, port: 21009, type: ss, cipher: chacha20-ietf-poly1305, password: 3c7b8255-a9fa-45e2-9e5c-3f8caf701012, udp: true}
-- {name: 🇸🇬 新加坡 A - V2Link, server: host-031.crazyspeed.xyz, port: 10351, type: ss, cipher: chacha20-ietf-poly1305, password: 3c7b8255-a9fa-45e2-9e5c-3f8caf701012, udp: true}
-- {name: 🇸🇬 新加坡 B - V2Link, server: host-032.crazyspeed.xyz, port: 10352, type: ss, cipher: chacha20-ietf-poly1305, password: 3c7b8255-a9fa-45e2-9e5c-3f8caf701012, udp: true}
-- {name: 🇸🇬 新加坡 C - V2Link, server: host-033.crazyspeed.xyz, port: 10353, type: ss, cipher: chacha20-ietf-poly1305, password: 3c7b8255-a9fa-45e2-9e5c-3f8caf701012, udp: true}
-- {name: 🇨🇦 加拿大 - 多伦多 A - V2Link, server: host-041.crazyspeed.xyz, port: 16015, type: ss, cipher: chacha20-ietf-poly1305, password: 3c7b8255-a9fa-45e2-9e5c-3f8caf701012, udp: true}
-- {name: 🇬🇧 英国 - 伦敦 A - V2Link, server: host-043.crazyspeed.xyz, port: 34401, type: ss, cipher: chacha20-ietf-poly1305, password: 3c7b8255-a9fa-45e2-9e5c-3f8caf701012, udp: true}
-- {name: 🇩🇪 德国 - 法兰克福 A - V2Link, server: host-045.crazyspeed.xyz, port: 34901, type: ss, cipher: chacha20-ietf-poly1305, password: 3c7b8255-a9fa-45e2-9e5c-3f8caf701012, udp: true}
-- {name: 🇫🇷 法国 - 巴黎 - V2Link, server: host-047.crazyspeed.xyz, port: 34903, type: ss, cipher: chacha20-ietf-poly1305, password: 3c7b8255-a9fa-45e2-9e5c-3f8caf701012, udp: true}
-- {name: 🇮🇹 意大利 - 米兰 - V2Link, server: host-048.crazyspeed.xyz, port: 34904, type: ss, cipher: chacha20-ietf-poly1305, password: 3c7b8255-a9fa-45e2-9e5c-3f8caf701012, udp: true}
-- {name: 🇪🇸 西班牙 - 马德里 - V2Link, server: host-049.crazyspeed.xyz, port: 34905, type: ss, cipher: chacha20-ietf-poly1305, password: 3c7b8255-a9fa-45e2-9e5c-3f8caf701012, udp: true}
-- {name: 🇳🇱 荷兰 - 阿姆斯特丹 - V2Link, server: host-050.crazyspeed.xyz, port: 34906, type: ss, cipher: chacha20-ietf-poly1305, password: 3c7b8255-a9fa-45e2-9e5c-3f8caf701012, udp: true}
-- {name: 🇦🇺 澳大利亚 - 悉尼 - V2Link, server: host-051.crazyspeed.xyz, port: 20061, type: ss, cipher: chacha20-ietf-poly1305, password: 3c7b8255-a9fa-45e2-9e5c-3f8caf701012, udp: true}
-- {name: 🇧🇷 巴西 - 圣保罗 - V2Link, server: host-052.crazyspeed.xyz, port: 20062, type: ss, cipher: chacha20-ietf-poly1305, password: 3c7b8255-a9fa-45e2-9e5c-3f8caf701012, udp: true}
-- {name: 🇮🇳 印度 - 孟买 - V2Link, server: host-053.crazyspeed.xyz, port: 10911, type: ss, cipher: chacha20-ietf-poly1305, password: 3c7b8255-a9fa-45e2-9e5c-3f8caf701012, udp: true}
-- {name: 🇦🇪 阿联酋 - 迪拜 - V2Link, server: host-054.crazyspeed.xyz, port: 20071, type: ss, cipher: chacha20-ietf-poly1305, password: 3c7b8255-a9fa-45e2-9e5c-3f8caf701012, udp: true}
-- {name: 🇪🇺 欧洲 - 土耳其 - V2Link, server: host-055.crazyspeed.xyz, port: 19001, type: ss, cipher: chacha20-ietf-poly1305, password: 3c7b8255-a9fa-45e2-9e5c-3f8caf701012, udp: true}
-- {name: 🇪🇺 欧洲 - 罗马尼亚 - V2Link, server: host-056.crazyspeed.xyz, port: 19002, type: ss, cipher: chacha20-ietf-poly1305, password: 3c7b8255-a9fa-45e2-9e5c-3f8caf701012, udp: true}
-- {name: 🇦🇷 南美洲 - 阿根廷 - V2Link, server: host-057.crazyspeed.xyz, port: 19003, type: ss, cipher: chacha20-ietf-poly1305, password: 3c7b8255-a9fa-45e2-9e5c-3f8caf701012, udp: true}
-- {name: 🇺🇸 JCBB_ 美国01【vip1】 - JCBB, server: gzyd.jcnode.top, port: 38381, type: vmess, uuid: 49d7a07c-793b-446d-b132-2de4c3a3773a, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: gzyd.jcnode.top}}, udp: true}
-- {name: 🇺🇸 JCBB_ 美国02_1【vip1】 - JCBB, server: gzdx01.jcnode.top, port: 20153, type: vmess, uuid: 49d7a07c-793b-446d-b132-2de4c3a3773a, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: gzdx01.jcnode.top}}, udp: true}
-- {name: 🇺🇸 JCBB_ 美国02【vip1】 - JCBB, server: gzdx.jcnode.top, port: 28204, type: vmess, uuid: 49d7a07c-793b-446d-b132-2de4c3a3773a, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: gzdx.jcnode.top}}, udp: true}
-- {name: 🇺🇸 JCBB_ 美国 03【vip1】 - JCBB, server: gzyd.jcnode.top, port: 21036, type: vmess, uuid: 49d7a07c-793b-446d-b132-2de4c3a3773a, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: gzyd.jcnode.top}}, udp: true}
-- {name: 🇺🇸 JCBB_ 美国 04_1【vip1】 - JCBB, server: gzdx01.jcnode.top, port: 26611, type: vmess, uuid: 49d7a07c-793b-446d-b132-2de4c3a3773a, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: gzdx01.jcnode.top}}, udp: true}
-- {name: 🇺🇸 JCBB_ 美国 04【vip1】 - JCBB, server: gzdx.jcnode.top, port: 62684, type: vmess, uuid: 49d7a07c-793b-446d-b132-2de4c3a3773a, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: gzdx.jcnode.top}}, udp: true}
-- {name: 🇺🇸 JCBB_美国05_1【vip1】 - JCBB, server: gzdx01.jcnode.top, port: 17503, type: trojan, password: 49d7a07c-793b-446d-b132-2de4c3a3773a, sni: us04.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 JCBB_美国05【vip1】 - JCBB, server: gzyd.jcnode.top, port: 56102, type: trojan, password: 49d7a07c-793b-446d-b132-2de4c3a3773a, sni: us04.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 JCBB_美国06【vip1】 - JCBB, server: gzdx.jcnode.top, port: 65097, type: trojan, password: 49d7a07c-793b-446d-b132-2de4c3a3773a, sni: us04.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 JCBB_香港01【vip1】 - JCBB, server: gzdx01.jcnode.top, port: 41390, type: trojan, password: 49d7a07c-793b-446d-b132-2de4c3a3773a, sni: hk05.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 JCBB_香港02【vip1】 - JCBB, server: gzdx.jcnode.top, port: 47321, type: trojan, password: 49d7a07c-793b-446d-b132-2de4c3a3773a, sni: hk05.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 JCBB_香港03_1【vip1】 - JCBB, server: gzyd.jcnode.top, port: 49486, type: trojan, password: 49d7a07c-793b-446d-b132-2de4c3a3773a, sni: hk05.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 JCBB_香港03【vip1】 - JCBB, server: gzyd.jcnode.top, port: 11936, type: trojan, password: 49d7a07c-793b-446d-b132-2de4c3a3773a, sni: hk03.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 JCBB_香港04【vip1】 - JCBB, server: gzdx.jcnode.top, port: 35257, type: trojan, password: 49d7a07c-793b-446d-b132-2de4c3a3773a, sni: hk03.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 JCBB_香港0 4_1【vip1】 - JCBB, server: gzdx01.jcnode.top, port: 51884, type: trojan, password: 49d7a07c-793b-446d-b132-2de4c3a3773a, sni: hk03.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 JCBB_香港 05【vip1】 - JCBB, server: gzyd.jcnode.top, port: 22174, type: trojan, password: 49d7a07c-793b-446d-b132-2de4c3a3773a, sni: hk02.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 JCBB_香港 06_1【vip1】 - JCBB, server: gzdx01.jcnode.top, port: 17967, type: trojan, password: 49d7a07c-793b-446d-b132-2de4c3a3773a, sni: hk02.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 JCBB_香港 06【vip1】 - JCBB, server: gzdx.jcnode.top, port: 36564, type: trojan, password: 49d7a07c-793b-446d-b132-2de4c3a3773a, sni: hk02.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 JCBB_香港09【vip1】 - JCBB, server: gzyd.jcnode.top, port: 54088, type: trojan, password: 49d7a07c-793b-446d-b132-2de4c3a3773a, sni: hk04.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 JCBB_香港10_1【vip1】 - JCBB, server: gzdx01.jcnode.top, port: 57230, type: trojan, password: 49d7a07c-793b-446d-b132-2de4c3a3773a, sni: hk04.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 JCBB_香港10【vip1】 - JCBB, server: gzdx.jcnode.top, port: 27753, type: trojan, password: 49d7a07c-793b-446d-b132-2de4c3a3773a, sni: hk04.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: 🇹🇼 JCBB_ 台湾 01_1【vip1】 - JCBB, server: gzdx01.jcnode.top, port: 42149, type: trojan, password: 49d7a07c-793b-446d-b132-2de4c3a3773a, sni: rctw01.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: 🇹🇼 JCBB_ 台湾 01【vip1】 - JCBB, server: gzdx.jcnode.top, port: 45540, type: trojan, password: 49d7a07c-793b-446d-b132-2de4c3a3773a, sni: rctw01.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: 🇹🇼 JCBB_ 台湾 02【vip1】 - JCBB, server: gzyd.jcnode.top, port: 55345, type: trojan, password: 49d7a07c-793b-446d-b132-2de4c3a3773a, sni: rctw01.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: 🇹🇼 JCBB_ 台湾 05_1【vip1】 - JCBB, server: gzdx01.jcnode.top, port: 24448, type: trojan, password: 49d7a07c-793b-446d-b132-2de4c3a3773a, sni: rctw02.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: 🇹🇼 JCBB_ 台湾 05【vip1】 - JCBB, server: gzdx.jcnode.top, port: 61413, type: trojan, password: 49d7a07c-793b-446d-b132-2de4c3a3773a, sni: rctw02.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: 🇹🇼 JCBB_ 台湾 06【vip1】 - JCBB, server: gzyd.jcnode.top, port: 22084, type: trojan, password: 49d7a07c-793b-446d-b132-2de4c3a3773a, sni: rctw02.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 JCBB_日本01【vip1】 - JCBB, server: gzdx01.jcnode.top, port: 14643, type: trojan, password: 49d7a07c-793b-446d-b132-2de4c3a3773a, sni: jp01.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 JCBB_日本02【vip1】 - JCBB, server: gzdx.jcnode.top, port: 31550, type: trojan, password: 49d7a07c-793b-446d-b132-2de4c3a3773a, sni: jp01.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 JCBB_日本03【vip1】 - JCBB, server: gzyd.jcnode.top, port: 44891, type: trojan, password: 49d7a07c-793b-446d-b132-2de4c3a3773a, sni: jp01.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 JCBB_日本04【vip1】 - JCBB, server: gzdx01.jcnode.top, port: 10444, type: trojan, password: 49d7a07c-793b-446d-b132-2de4c3a3773a, sni: jp03.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 JCBB_日本05【vip1】 - JCBB, server: gzdx.jcnode.top, port: 49038, type: trojan, password: 49d7a07c-793b-446d-b132-2de4c3a3773a, sni: jp03.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 JCBB_日本06【vip1】 - JCBB, server: gzyd.jcnode.top, port: 24498, type: trojan, password: 49d7a07c-793b-446d-b132-2de4c3a3773a, sni: jp03.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: 🇸🇬 JCBB_ 新加坡 01【vip1 】 - JCBB, server: gzdx01.jcnode.top, port: 15035, type: trojan, password: 49d7a07c-793b-446d-b132-2de4c3a3773a, sni: sg01.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: 🇸🇬 JCBB_ 新加坡 02【vip1 】 - JCBB, server: gzdx.jcnode.top, port: 41754, type: trojan, password: 49d7a07c-793b-446d-b132-2de4c3a3773a, sni: sg01.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: 🇸🇬 JCBB_ 新加坡 03【vip1 】 - JCBB, server: gzyd.jcnode.top, port: 21425, type: trojan, password: 49d7a07c-793b-446d-b132-2de4c3a3773a, sni: sg01.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: 🇸🇬 JCBB_ 新加坡 04【vip1 】 - JCBB, server: gzyd.jcnode.top, port: 20707, type: trojan, password: 49d7a07c-793b-446d-b132-2de4c3a3773a, sni: sg03.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: 🇸🇬 JCBB_ 新加坡 05【vip1】 - JCBB, server: gzdx01.jcnode.top, port: 56915, type: trojan, password: 49d7a07c-793b-446d-b132-2de4c3a3773a, sni: sg03.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: 🇸🇬 JCBB_ 新加坡 06【vip1】 - JCBB, server: gzdx.jcnode.top, port: 18716, type: trojan, password: 49d7a07c-793b-446d-b132-2de4c3a3773a, sni: sg03.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: 🇩🇪 JCBB_德国01【vip1】 - JCBB, server: gzyd.jcnode.top, port: 15431, type: trojan, password: 49d7a07c-793b-446d-b132-2de4c3a3773a, sni: de01.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: 🇩🇪 JCBB_德国02【vip1】 - JCBB, server: gzdx01.jcnode.top, port: 16525, type: trojan, password: 49d7a07c-793b-446d-b132-2de4c3a3773a, sni: de01.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: 🇩🇪 JCBB_德国03【vip1】 - JCBB, server: gzdx.jcnode.top, port: 33830, type: trojan, password: 49d7a07c-793b-446d-b132-2de4c3a3773a, sni: de01.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: 🇮🇳 JCBB_ 印度01【vip1】 - JCBB, server: gzdx01.jcnode.top, port: 22243, type: trojan, password: 49d7a07c-793b-446d-b132-2de4c3a3773a, sni: id01.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: 🇮🇳 JCBB_ 印度02【vip1】 - JCBB, server: gzdx.jcnode.top, port: 18085, type: trojan, password: 49d7a07c-793b-446d-b132-2de4c3a3773a, sni: id01.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: 🇮🇳 JCBB_ 印度03【vip1】 - JCBB, server: gzyd.jcnode.top, port: 55199, type: trojan, password: 49d7a07c-793b-446d-b132-2de4c3a3773a, sni: id01.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: 🇬🇧 JCBB_ 英国01【vip1】 - JCBB, server: gzdx01.jcnode.top, port: 44532, type: trojan, password: 49d7a07c-793b-446d-b132-2de4c3a3773a, sni: uk01.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: 🇬🇧 JCBB_ 英国02【vip1】 - JCBB, server: gzdx.jcnode.top, port: 52758, type: trojan, password: 49d7a07c-793b-446d-b132-2de4c3a3773a, sni: uk01.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: 🇬🇧 JCBB_ 英国03【vip1】 - JCBB, server: gzyd.jcnode.top, port: 24662, type: trojan, password: 49d7a07c-793b-446d-b132-2de4c3a3773a, sni: uk01.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: 🇹🇷 JCBB_土耳其 01【vip1】 - JCBB, server: gzdx.jcnode.top, port: 52546, type: trojan, password: 49d7a07c-793b-446d-b132-2de4c3a3773a, sni: tur01.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: 🇹🇷 JCBB_土耳其 02【vip1】 - JCBB, server: gzyd.jcnode.top, port: 46541, type: trojan, password: 49d7a07c-793b-446d-b132-2de4c3a3773a, sni: tur01.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: 🇹🇷 JCBB_土耳其 03【vip1】 - JCBB, server: gzdx01.jcnode.top, port: 55856, type: trojan, password: 49d7a07c-793b-446d-b132-2de4c3a3773a, sni: tur01.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: 🇻🇳 JCBB_越南 01【vip1】 - JCBB, server: gzyd.jcnode.top, port: 16242, type: trojan, password: 49d7a07c-793b-446d-b132-2de4c3a3773a, sni: vn01.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: 🇻🇳 JCBB_越南 02【vip1】 - JCBB, server: gzdx01.jcnode.top, port: 21760, type: trojan, password: 49d7a07c-793b-446d-b132-2de4c3a3773a, sni: vn01.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: 🇻🇳 JCBB_越南 03【vip1】 - JCBB, server: gzdx.jcnode.top, port: 17022, type: trojan, password: 49d7a07c-793b-446d-b132-2de4c3a3773a, sni: vn01.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 【C】美国 普通 1 - CC - SockBoom, server: us1.edge.boom.skin, port: 40000, type: ssr, cipher: aes-256-cfb, password: Uk92CS, protocol: auth_aes128_sha1, obfs: http_simple, protocol-param: 925451:4WT9IL, obfs-param: download.windowsupdate.com, udp: true}
-- {name: 🇺🇸 【C】美国 普通 2 - CC - SockBoom, server: us2.edge.boom.skin, port: 41000, type: ssr, cipher: aes-256-cfb, password: Uk92CS, protocol: auth_aes128_sha1, obfs: http_simple, protocol-param: 925451:4WT9IL, obfs-param: download.windowsupdate.com, udp: true}
-- {name: 🇺🇸 【C】美国 普通 3 - CC - SockBoom, server: us3.edge.boom.skin, port: 42001, type: ssr, cipher: aes-256-cfb, password: Uk92CS, protocol: auth_aes128_sha1, obfs: http_simple, protocol-param: 925451:4WT9IL, obfs-param: download.windowsupdate.com, udp: true}
-- {name: 🇺🇸 【C】美国 普通 4 - CC - SockBoom, server: us4.edge.boom.skin, port: 43000, type: ssr, cipher: aes-256-cfb, password: Uk92CS, protocol: auth_aes128_sha1, obfs: http_simple, protocol-param: 925451:4WT9IL, obfs-param: download.windowsupdate.com, udp: true}
-- {name: 🇭🇰 【A】香港 普通 1 - Nearoute - SockBoom, server: ntemp15.boom.skin, port: 19000, type: ssr, cipher: aes-256-cfb, password: Uk92CS, protocol: auth_aes128_sha1, obfs: http_simple, protocol-param: 925451:4WT9IL, obfs-param: download.windowsupdate.com, udp: true}
-- {name: 🇭🇰 【A】香港 普通 A - Nearoute - SockBoom, server: ntemp10.boom.skin, port: 20000, type: ssr, cipher: aes-256-cfb, password: Uk92CS, protocol: auth_aes128_sha1, obfs: http_simple, protocol-param: 925451:4WT9IL, obfs-param: download.windowsupdate.com, udp: true}
-- {name: 🇭🇰 【A】香港 普通 B - Nearoute - SockBoom, server: ntemp16.boom.skin, port: 21000, type: ssr, cipher: aes-256-cfb, password: Uk92CS, protocol: auth_aes128_sha1, obfs: http_simple, protocol-param: 925451:4WT9IL, obfs-param: download.windowsupdate.com, udp: true}
-- {name: 🇭🇰 【A】香港 普通 C - Nearoute - SockBoom, server: ntemp17.boom.skin, port: 22000, type: ssr, cipher: aes-256-cfb, password: Uk92CS, protocol: auth_aes128_sha1, obfs: http_simple, protocol-param: 925451:4WT9IL, obfs-param: download.windowsupdate.com, udp: true}
-- {name: 🇭🇰 【A】香港 普通 D - Nearoute - SockBoom, server: ntemp18.boom.skin, port: 23000, type: ssr, cipher: aes-256-cfb, password: Uk92CS, protocol: auth_aes128_sha1, obfs: http_simple, protocol-param: 925451:4WT9IL, obfs-param: download.windowsupdate.com, udp: true}
-- {name: 🇭🇰 【A】香港 普通 E - Nearoute - SockBoom, server: ntemp19.boom.skin, port: 24000, type: ssr, cipher: aes-256-cfb, password: Uk92CS, protocol: auth_aes128_sha1, obfs: http_simple, protocol-param: 925451:4WT9IL, obfs-param: download.windowsupdate.com, udp: true}
-- {name: 🇭🇰 【A】香港 普通 F - Nearoute - SockBoom, server: ntemp20.boom.skin, port: 25000, type: ssr, cipher: aes-256-cfb, password: Uk92CS, protocol: auth_aes128_sha1, obfs: http_simple, protocol-param: 925451:4WT9IL, obfs-param: download.windowsupdate.com, udp: true}
-- {name: 🇭🇰 【B】香港  普通 3 - Nearoute - SockBoom, server: n62.boom.skin, port: 20000, type: ssr, cipher: aes-256-cfb, password: Uk92CS, protocol: auth_aes128_sha1, obfs: http_simple, protocol-param: 925451:4WT9IL, obfs-param: download.windowsupdate.com, udp: true}
-- {name: 🇭🇰 【B】香港 普通 1 - Leaseweb - SockBoom, server: n06.boom.skin, port: 21000, type: ssr, cipher: aes-256-cfb, password: Uk92CS, protocol: auth_aes128_sha1, obfs: http_simple, protocol-param: 925451:4WT9IL, obfs-param: download.windowsupdate.com, udp: true}
-- {name: 🇭🇰 【B】香港 普通 1 - Nearoute - SockBoom, server: ntemp01.boom.skin, port: 10000, type: ssr, cipher: aes-256-cfb, password: Uk92CS, protocol: auth_aes128_sha1, obfs: http_simple, protocol-param: 925451:4WT9IL, obfs-param: download.windowsupdate.com, udp: true}
-- {name: 🇭🇰 【B】香港 普通 2 - Nearoute - SockBoom, server: ntemp02.boom.skin, port: 11000, type: ssr, cipher: aes-256-cfb, password: Uk92CS, protocol: auth_aes128_sha1, obfs: http_simple, protocol-param: 925451:4WT9IL, obfs-param: download.windowsupdate.com, udp: true}
-- {name: 🇭🇰 【B】香港 普通 3 - Nearoute - SockBoom, server: ntemp03.boom.skin, port: 12000, type: ssr, cipher: aes-256-cfb, password: Uk92CS, protocol: auth_aes128_sha1, obfs: http_simple, protocol-param: 925451:4WT9IL, obfs-param: download.windowsupdate.com, udp: true}
-- {name: 🇭🇰 【B】香港 普通 4 -  Nearoute - SockBoom, server: ntemp04.boom.skin, port: 13000, type: ssr, cipher: aes-256-cfb, password: Uk92CS, protocol: auth_aes128_sha1, obfs: http_simple, protocol-param: 925451:4WT9IL, obfs-param: download.windowsupdate.com, udp: true}
-- {name: 🇭🇰 【B】香港 普通 5 - Nearoute - SockBoom, server: ntemp05.boom.skin, port: 14000, type: ssr, cipher: aes-256-cfb, password: Uk92CS, protocol: auth_aes128_sha1, obfs: http_simple, protocol-param: 925451:4WT9IL, obfs-param: download.windowsupdate.com, udp: true}
-- {name: 🇭🇰 【B】香港 普通 6 - Nearoute - SockBoom, server: ntemp06.boom.skin, port: 15000, type: ssr, cipher: aes-256-cfb, password: Uk92CS, protocol: auth_aes128_sha1, obfs: http_simple, protocol-param: 925451:4WT9IL, obfs-param: download.windowsupdate.com, udp: true}
-- {name: 🇭🇰 【B】香港 普通 7 - Nearoute - SockBoom, server: ntemp07.boom.skin, port: 16000, type: ssr, cipher: aes-256-cfb, password: Uk92CS, protocol: auth_aes128_sha1, obfs: http_simple, protocol-param: 925451:4WT9IL, obfs-param: download.windowsupdate.com, udp: true}
-- {name: 🇭🇰 【B】香港 普通 8 - Nearoute - SockBoom, server: ntemp08.boom.skin, port: 17000, type: ssr, cipher: aes-256-cfb, password: Uk92CS, protocol: auth_aes128_sha1, obfs: http_simple, protocol-param: 925451:4WT9IL, obfs-param: download.windowsupdate.com, udp: true}
-- {name: 🇭🇰 【B】香港 普通 9 - Nearoute - SockBoom, server: ntemp09.boom.skin, port: 18000, type: ssr, cipher: aes-256-cfb, password: Uk92CS, protocol: auth_aes128_sha1, obfs: http_simple, protocol-param: 925451:4WT9IL, obfs-param: download.windowsupdate.com, udp: true}
-- {name: 🇭🇰 【IEPL】香港 普通 1 - Nearoute - SockBoom, server: nk1.boom.skin, port: 11000, type: ssr, cipher: aes-256-cfb, password: Uk92CS, protocol: auth_aes128_sha1, obfs: http_simple, protocol-param: 925451:4WT9IL, obfs-param: download.windowsupdate.com, udp: true}
-- {name: 🇭🇰 【IEPL】香港 普通 2 - Nearoute - SockBoom, server: nk2.boom.skin, port: 12000, type: ssr, cipher: aes-256-cfb, password: Uk92CS, protocol: auth_aes128_sha1, obfs: http_simple, protocol-param: 925451:4WT9IL, obfs-param: download.windowsupdate.com, udp: true}
-- {name: 🇭🇰 【IEPL】香港 普通 3 - Nearoute - SockBoom, server: nk3.boom.skin, port: 13000, type: ssr, cipher: aes-256-cfb, password: Uk92CS, protocol: auth_aes128_sha1, obfs: http_simple, protocol-param: 925451:4WT9IL, obfs-param: download.windowsupdate.com, udp: true}
-- {name: 🇭🇰 【IEPL】香港 普通 4 - Nearoute - SockBoom, server: nk4.boom.skin, port: 14000, type: ssr, cipher: aes-256-cfb, password: Uk92CS, protocol: auth_aes128_sha1, obfs: http_simple, protocol-param: 925451:4WT9IL, obfs-param: download.windowsupdate.com, udp: true}
-- {name: 🇭🇰 【IEPL】香港 普通 5 - Nearoute - SockBoom, server: nk5.boom.skin, port: 15000, type: ssr, cipher: aes-256-cfb, password: Uk92CS, protocol: auth_aes128_sha1, obfs: http_simple, protocol-param: 925451:4WT9IL, obfs-param: download.windowsupdate.com, udp: true}
-- {name: 🇭🇰 【IEPL】香港 普通 6 - Nearoute - SockBoom, server: nk6.boom.skin, port: 16000, type: ssr, cipher: aes-256-cfb, password: Uk92CS, protocol: auth_aes128_sha1, obfs: http_simple, protocol-param: 925451:4WT9IL, obfs-param: download.windowsupdate.com, udp: true}
-- {name: 🇭🇰 【IEPL】香港 普通 7 - Nearoute - SockBoom, server: nk7.boom.skin, port: 17000, type: ssr, cipher: aes-256-cfb, password: Uk92CS, protocol: auth_aes128_sha1, obfs: http_simple, protocol-param: 925451:4WT9IL, obfs-param: download.windowsupdate.com, udp: true}
-- {name: 🇭🇰 【N】香港 普通 1 - Nearoute - SockBoom, server: nn8.boom.skin, port: 47000, type: ssr, cipher: aes-256-cfb, password: Uk92CS, protocol: auth_aes128_sha1, obfs: http_simple, protocol-param: 925451:4WT9IL, obfs-param: download.windowsupdate.com, udp: true}
-- {name: 🇭🇰 【N】香港 普通 2 - Nearoute - SockBoom, server: nn9.boom.skin, port: 48000, type: ssr, cipher: aes-256-cfb, password: Uk92CS, protocol: auth_aes128_sha1, obfs: http_simple, protocol-param: 925451:4WT9IL, obfs-param: download.windowsupdate.com, udp: true}
-- {name: 🇭🇰 【N】香港 普通 3 - Nearoute - SockBoom, server: nna.boom.skin, port: 49000, type: ssr, cipher: aes-256-cfb, password: Uk92CS, protocol: auth_aes128_sha1, obfs: http_simple, protocol-param: 925451:4WT9IL, obfs-param: download.windowsupdate.com, udp: true}
-- {name: 🇭🇰 【N】香港 普通 4 - Leaseweb - SockBoom, server: nn11.boom.skin, port: 50000, type: ssr, cipher: aes-256-cfb, password: Uk92CS, protocol: auth_aes128_sha1, obfs: http_simple, protocol-param: 925451:4WT9IL, obfs-param: download.windowsupdate.com, udp: true}
-- {name: 🇭🇰 【O】香港 普通 1 - Leaseweb - SockBoom, server: opt1.boom.skin, port: 11000, type: ssr, cipher: aes-256-cfb, password: Uk92CS, protocol: auth_aes128_sha1, obfs: http_simple, protocol-param: 925451:4WT9IL, obfs-param: download.windowsupdate.com, udp: true}
-- {name: 🇭🇰 【O】香港 普通 10 - Leaseweb - SockBoom, server: opt20.boom.skin, port: 30000, type: ssr, cipher: aes-256-cfb, password: Uk92CS, protocol: auth_aes128_sha1, obfs: http_simple, protocol-param: 925451:4WT9IL, obfs-param: download.windowsupdate.com, udp: true}
-- {name: 🇭🇰 【O】香港 普通 2 - Leaseweb - SockBoom, server: opt2.boom.skin, port: 12000, type: ssr, cipher: aes-256-cfb, password: Uk92CS, protocol: auth_aes128_sha1, obfs: http_simple, protocol-param: 925451:4WT9IL, obfs-param: download.windowsupdate.com, udp: true}
-- {name: 🇭🇰 【O】香港 普通 3 - Leaseweb - SockBoom, server: opt3.boom.skin, port: 13000, type: ssr, cipher: aes-256-cfb, password: Uk92CS, protocol: auth_aes128_sha1, obfs: http_simple, protocol-param: 925451:4WT9IL, obfs-param: download.windowsupdate.com, udp: true}
-- {name: 🇭🇰 【O】香港 普通 4 - Leaseweb - SockBoom, server: opt4.boom.skin, port: 14000, type: ssr, cipher: aes-256-cfb, password: Uk92CS, protocol: auth_aes128_sha1, obfs: http_simple, protocol-param: 925451:4WT9IL, obfs-param: download.windowsupdate.com, udp: true}
-- {name: 🇭🇰 【O】香港 普通 5 - Leaseweb - SockBoom, server: opt5.boom.skin, port: 15000, type: ssr, cipher: aes-256-cfb, password: Uk92CS, protocol: auth_aes128_sha1, obfs: http_simple, protocol-param: 925451:4WT9IL, obfs-param: download.windowsupdate.com, udp: true}
-- {name: 🇭🇰 【O】香港 普通 6 - Leaseweb - SockBoom, server: opt16.boom.skin, port: 26000, type: ssr, cipher: aes-256-cfb, password: Uk92CS, protocol: auth_aes128_sha1, obfs: http_simple, protocol-param: 925451:4WT9IL, obfs-param: download.windowsupdate.com, udp: true}
-- {name: 🇭🇰 【O】香港 普通 7 - Leaseweb - SockBoom, server: opt17.boom.skin, port: 27000, type: ssr, cipher: aes-256-cfb, password: Uk92CS, protocol: auth_aes128_sha1, obfs: http_simple, protocol-param: 925451:4WT9IL, obfs-param: download.windowsupdate.com, udp: true}
-- {name: 🇭🇰 【O】香港 普通 8 - Leaseweb - SockBoom, server: opt18.boom.skin, port: 28000, type: ssr, cipher: aes-256-cfb, password: Uk92CS, protocol: auth_aes128_sha1, obfs: http_simple, protocol-param: 925451:4WT9IL, obfs-param: download.windowsupdate.com, udp: true}
-- {name: 🇭🇰 【O】香港 普通 9 - Leaseweb - SockBoom, server: opt19.boom.skin, port: 29000, type: ssr, cipher: aes-256-cfb, password: Uk92CS, protocol: auth_aes128_sha1, obfs: http_simple, protocol-param: 925451:4WT9IL, obfs-param: download.windowsupdate.com, udp: true}
-- {name: 🇯🇵 【N】日本 普通 1 - Nerocloud - SockBoom, server: jp1.boom.skin, port: 30000, type: ssr, cipher: aes-256-cfb, password: Uk92CS, protocol: auth_aes128_sha1, obfs: http_simple, protocol-param: 925451:4WT9IL, obfs-param: download.windowsupdate.com, udp: true}
-- {name: 🇯🇵 【N】日本 普通 2 - Nerocloud - SockBoom, server: jp2.boom.skin, port: 31000, type: ssr, cipher: aes-256-cfb, password: Uk92CS, protocol: auth_aes128_sha1, obfs: http_simple, protocol-param: 925451:4WT9IL, obfs-param: download.windowsupdate.com, udp: true}
-- {name: 🇯🇵 【N】日本 普通 3 - Nerocloud - SockBoom, server: jp3.boom.skin, port: 32000, type: ssr, cipher: aes-256-cfb, password: Uk92CS, protocol: auth_aes128_sha1, obfs: http_simple, protocol-param: 925451:4WT9IL, obfs-param: download.windowsupdate.com, udp: true}
-- {name: 🇯🇵 【N】日本 普通 4 - Nerocloud - SockBoom, server: jp4.boom.skin, port: 33000, type: ssr, cipher: aes-256-cfb, password: Uk92CS, protocol: auth_aes128_sha1, obfs: http_simple, protocol-param: 925451:4WT9IL, obfs-param: download.windowsupdate.com, udp: true}
-- {name: 🇯🇵 【N】日本 普通 5 - Nerocloud - SockBoom, server: jp5.boom.skin, port: 34000, type: ssr, cipher: aes-256-cfb, password: Uk92CS, protocol: auth_aes128_sha1, obfs: http_simple, protocol-param: 925451:4WT9IL, obfs-param: download.windowsupdate.com, udp: true}
-- {name: 🇲🇳 【I】蒙古 普通 A - MN - SockBoom, server: n170.boom.skin, port: 33000, type: ssr, cipher: aes-256-cfb, password: Uk92CS, protocol: auth_aes128_sha1, obfs: http_simple, protocol-param: 925451:4WT9IL, obfs-param: download.windowsupdate.com, udp: true}
-- {name: 🇸🇬 【K】新加坡 普通 1 - DO - SockBoom, server: nk8.boom.skin, port: 18000, type: ssr, cipher: aes-256-cfb, password: Uk92CS, protocol: auth_aes128_sha1, obfs: http_simple, protocol-param: 925451:4WT9IL, obfs-param: download.windowsupdate.com, udp: true}
-- {name: 🇸🇬 【K】新加坡 普通 2 - DO - SockBoom, server: nk9.boom.skin, port: 19000, type: ssr, cipher: aes-256-cfb, password: Uk92CS, protocol: auth_aes128_sha1, obfs: http_simple, protocol-param: 925451:4WT9IL, obfs-param: download.windowsupdate.com, udp: true}
-- {name: 🇸🇬 【K】新加坡 普通 3 - DO - SockBoom, server: nka.boom.skin, port: 20000, type: ssr, cipher: aes-256-cfb, password: Uk92CS, protocol: auth_aes128_sha1, obfs: http_simple, protocol-param: 925451:4WT9IL, obfs-param: download.windowsupdate.com, udp: true}
-- {name: 🇸🇬 【K】新加坡 普通 4 - DO - SockBoom, server: nkb.boom.skin, port: 21000, type: ssr, cipher: aes-256-cfb, password: Uk92CS, protocol: auth_aes128_sha1, obfs: http_simple, protocol-param: 925451:4WT9IL, obfs-param: download.windowsupdate.com, udp: true}
-- {name: 🇸🇬 【K】新加坡 普通 5 - DO - SockBoom, server: nkc.boom.skin, port: 22000, type: ssr, cipher: aes-256-cfb, password: Uk92CS, protocol: auth_aes128_sha1, obfs: http_simple, protocol-param: 925451:4WT9IL, obfs-param: download.windowsupdate.com, udp: true}
-- {name: 🇸🇬 【K】新加坡 普通 6 - DO - SockBoom, server: nkd.boom.skin, port: 23000, type: ssr, cipher: aes-256-cfb, password: Uk92CS, protocol: auth_aes128_sha1, obfs: http_simple, protocol-param: 925451:4WT9IL, obfs-param: download.windowsupdate.com, udp: true}
-- {name: 🇸🇬 【K】新加坡 普通 7 - DO - SockBoom, server: nke.boom.skin, port: 24000, type: ssr, cipher: aes-256-cfb, password: Uk92CS, protocol: auth_aes128_sha1, obfs: http_simple, protocol-param: 925451:4WT9IL, obfs-param: download.windowsupdate.com, udp: true}
-- {name: 中秋&国庆双节活动开启！ - Kako Cloud, server: Dont.Connect.Me, port: 65535, type: ss, cipher: chacha20-ietf-poly1305, password: 179f4b13-b5ff-4784-9c73-dfd6379a1068, udp: true}
-- {name: tg频道:@kkyun_proxy - Kako Cloud, server: Dont.Connect.Me, port: 65535, type: ss, cipher: chacha20-ietf-poly1305, password: 179f4b13-b5ff-4784-9c73-dfd6379a1068, udp: true}
-- {name: 🇸🇬 新加坡01 - Kako Cloud, server: welfare.kk-proxy.pro, port: 443, type: vmess, uuid: 179f4b13-b5ff-4784-9c73-dfd6379a1068, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: sgfree01.mikuproxy.pro, network: ws, ws-opts: {path: /ec3a017507e0/, headers: {Host: sgfree01.mikuproxy.pro}}, udp: true}
-- {name: 🇸🇬 新加坡02 - Kako Cloud, server: welfare.kk-proxy.pro, port: 443, type: vmess, uuid: 179f4b13-b5ff-4784-9c73-dfd6379a1068, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: sgfree01.mikuproxy.pro, network: ws, ws-opts: {path: /ec3a017507e0/, headers: {Host: sgfree01.mikuproxy.pro}}, udp: true}
-- {name: 🇸🇬 新加坡03 - Kako Cloud, server: welfare.kk-proxy.pro, port: 443, type: vmess, uuid: 179f4b13-b5ff-4784-9c73-dfd6379a1068, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: sgfree01.mikuproxy.pro, network: ws, ws-opts: {path: /ec3a017507e0/, headers: {Host: sgfree01.mikuproxy.pro}}, udp: true}
-- {name: 🇸🇬 新加坡04 - Kako Cloud, server: welfare.kk-proxy.pro, port: 443, type: vmess, uuid: 179f4b13-b5ff-4784-9c73-dfd6379a1068, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: sgfree01.mikuproxy.pro, network: ws, ws-opts: {path: /ec3a017507e0/, headers: {Host: sgfree01.mikuproxy.pro}}, udp: true}
+- {name: 🇺🇸 美国 凤凰城101 - 墙了个墙, server: pxvip101.qlgq1.pw, port: 10443, type: trojan, password: 1395684e-1232-3684-8593-6c56587d05c8, sni: pxvip101.qlgq1.pw, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: pxvip101}, udp: true}
+- {name: 🇺🇸 美国 凤凰城102 - 墙了个墙, server: pxvip101.qlgq1.pw, port: 20443, type: trojan, password: 1395684e-1232-3684-8593-6c56587d05c8, sni: pxvip101.qlgq1.pw, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: pxvip101}, udp: true}
+- {name: 🇺🇸 美国 凤凰城103 - 墙了个墙, server: pxvip101.qlgq1.pw, port: 30443, type: trojan, password: 1395684e-1232-3684-8593-6c56587d05c8, sni: pxvip101.qlgq1.pw, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: pxvip101}, udp: true}
+- {name: 🇺🇸 美国 洛杉矶101 - 墙了个墙, server: lavip101.qlgq1.pw, port: 10443, type: trojan, password: 1395684e-1232-3684-8593-6c56587d05c8, sni: lavip101.qlgq1.pw, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: lavip101}, udp: true}
+- {name: 🇺🇸 美国 洛杉矶102 - 墙了个墙, server: lavip101.qlgq1.pw, port: 20443, type: trojan, password: 1395684e-1232-3684-8593-6c56587d05c8, sni: lavip101.qlgq1.pw, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: lavip101}, udp: true}
+- {name: 🇺🇸 美国 洛杉矶103 - 墙了个墙, server: lavip101.qlgq1.pw, port: 30443, type: trojan, password: 1395684e-1232-3684-8593-6c56587d05c8, sni: lavip101.qlgq1.pw, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: lavip101}, udp: true}
+- {name: 🇺🇸 美国 硅谷101 - 墙了个墙, server: svvip102.qlgq1.pw, port: 10443, type: trojan, password: 1395684e-1232-3684-8593-6c56587d05c8, sni: svvip102.qlgq1.pw, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: svvip102}, udp: true}
+- {name: 🇺🇸 美国 硅谷102 - 墙了个墙, server: svvip102.qlgq1.pw, port: 20443, type: trojan, password: 1395684e-1232-3684-8593-6c56587d05c8, sni: svvip102.qlgq1.pw, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: svvip102}, udp: true}
+- {name: 🇺🇸 美国 硅谷103 - 墙了个墙, server: svvip102.qlgq1.pw, port: 30443, type: trojan, password: 1395684e-1232-3684-8593-6c56587d05c8, sni: svvip102.qlgq1.pw, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: svvip102}, udp: true}
+- {name: 🇺🇸 美国 硅谷104 - 墙了个墙, server: svvip102.qlgq1.pw, port: 40443, type: trojan, password: 1395684e-1232-3684-8593-6c56587d05c8, sni: svvip102.qlgq1.pw, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: svvip102}, udp: true}
+- {name: 🇺🇸 美国 硅谷105 - 墙了个墙, server: svvip102.qlgq1.pw, port: 50443, type: trojan, password: 1395684e-1232-3684-8593-6c56587d05c8, sni: svvip102.qlgq1.pw, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: svvip102}, udp: true}
+- {name: 🇭🇰 香港 101 - 墙了个墙, server: hkvip102.qlgq1.pw, port: 10443, type: trojan, password: 1395684e-1232-3684-8593-6c56587d05c8, sni: hkvip102.qlgq1.pw, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: hkvip102}, udp: true}
+- {name: 🇭🇰 香港 102 - 墙了个墙, server: hkvip102.qlgq1.pw, port: 20443, type: trojan, password: 1395684e-1232-3684-8593-6c56587d05c8, sni: hkvip102.qlgq1.pw, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: hkvip102}, udp: true}
+- {name: 🇭🇰 香港 103 - 墙了个墙, server: hkvip102.qlgq1.pw, port: 30443, type: trojan, password: 1395684e-1232-3684-8593-6c56587d05c8, sni: hkvip102.qlgq1.pw, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: hkvip102}, udp: true}
+- {name: 🇭🇰 香港 104 - 墙了个墙, server: hkvip102.qlgq1.pw, port: 40443, type: trojan, password: 1395684e-1232-3684-8593-6c56587d05c8, sni: hkvip102.qlgq1.pw, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: hkvip102}, udp: true}
+- {name: 🇭🇰 香港 105 - 墙了个墙, server: hkvip102.qlgq1.pw, port: 50443, type: trojan, password: 1395684e-1232-3684-8593-6c56587d05c8, sni: hkvip102.qlgq1.pw, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: hkvip102}, udp: true}
+- {name: 🇭🇰 香港 106 - 墙了个墙, server: hkvip103.qlgq1.pw, port: 10443, type: trojan, password: 1395684e-1232-3684-8593-6c56587d05c8, sni: hkvip103.qlgq1.pw, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: hkvip103}, udp: true}
+- {name: 🇭🇰 香港 107 - 墙了个墙, server: hkvip103.qlgq1.pw, port: 20443, type: trojan, password: 1395684e-1232-3684-8593-6c56587d05c8, sni: hkvip103.qlgq1.pw, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: hkvip103}, udp: true}
+- {name: 🇭🇰 香港 108 - 墙了个墙, server: hkvip103.qlgq1.pw, port: 30443, type: trojan, password: 1395684e-1232-3684-8593-6c56587d05c8, sni: hkvip103.qlgq1.pw, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: hkvip103}, udp: true}
+- {name: 🇭🇰 香港 109 - 墙了个墙, server: hkvip103.qlgq1.pw, port: 40443, type: trojan, password: 1395684e-1232-3684-8593-6c56587d05c8, sni: hkvip103.qlgq1.pw, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: hkvip103}, udp: true}
+- {name: 🇭🇰 香港 110 - 墙了个墙, server: hkvip103.qlgq1.pw, port: 50443, type: trojan, password: 1395684e-1232-3684-8593-6c56587d05c8, sni: hkvip103.qlgq1.pw, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: hkvip103}, udp: true}
+- {name: 🇯🇵 日本 101 - 墙了个墙, server: jpvip102.qlgq1.pw, port: 10443, type: trojan, password: 1395684e-1232-3684-8593-6c56587d05c8, sni: jpvip102.qlgq1.pw, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: jpvip102}, udp: true}
+- {name: 🇯🇵 日本 102 - 墙了个墙, server: jpvip102.qlgq1.pw, port: 20443, type: trojan, password: 1395684e-1232-3684-8593-6c56587d05c8, sni: jpvip102.qlgq1.pw, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: jpvip102}, udp: true}
+- {name: 🇯🇵 日本 103 - 墙了个墙, server: jpvip102.qlgq1.pw, port: 30443, type: trojan, password: 1395684e-1232-3684-8593-6c56587d05c8, sni: jpvip102.qlgq1.pw, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: jpvip102}, udp: true}
+- {name: 🇯🇵 日本 104 - 墙了个墙, server: jpvip102.qlgq1.pw, port: 40443, type: trojan, password: 1395684e-1232-3684-8593-6c56587d05c8, sni: jpvip102.qlgq1.pw, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: jpvip102}, udp: true}
+- {name: 🇯🇵 日本 105 - 墙了个墙, server: jpvip102.qlgq1.pw, port: 50443, type: trojan, password: 1395684e-1232-3684-8593-6c56587d05c8, sni: jpvip102.qlgq1.pw, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: jpvip102}, udp: true}
+- {name: 🇩🇪 德国 法兰克福101 - 墙了个墙, server: fkvip101.qlgq1.pw, port: 10443, type: trojan, password: 1395684e-1232-3684-8593-6c56587d05c8, sni: fkvip101.qlgq1.pw, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: fkvip101}, udp: true}
+- {name: 🇩🇪 德国 法兰克福102 - 墙了个墙, server: fkvip101.qlgq1.pw, port: 20443, type: trojan, password: 1395684e-1232-3684-8593-6c56587d05c8, sni: fkvip101.qlgq1.pw, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: fkvip101}, udp: true}
+- {name: 🇩🇪 德国 法兰克福103 - 墙了个墙, server: fkvip101.qlgq1.pw, port: 30443, type: trojan, password: 1395684e-1232-3684-8593-6c56587d05c8, sni: fkvip101.qlgq1.pw, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: fkvip101}, udp: true}
+- {name: 🇩🇪 德国 法兰克福104 - 墙了个墙, server: fkvip101.qlgq1.pw, port: 40443, type: trojan, password: 1395684e-1232-3684-8593-6c56587d05c8, sni: fkvip101.qlgq1.pw, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: fkvip101}, udp: true}
+- {name: 🇩🇪 德国 法兰克福105 - 墙了个墙, server: fkvip101.qlgq1.pw, port: 50443, type: trojan, password: 1395684e-1232-3684-8593-6c56587d05c8, sni: fkvip101.qlgq1.pw, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: fkvip101}, udp: true}
+- {name: 🇸🇬 新加坡 101 - 墙了个墙, server: sgvip101.qlgq1.pw, port: 10443, type: trojan, password: 1395684e-1232-3684-8593-6c56587d05c8, sni: sgvip101.qlgq1.pw, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: sgvip101}, udp: true}
+- {name: 🇸🇬 新加坡 102 - 墙了个墙, server: sgvip101.qlgq1.pw, port: 20443, type: trojan, password: 1395684e-1232-3684-8593-6c56587d05c8, sni: sgvip101.qlgq1.pw, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: sgvip101}, udp: true}
+- {name: 🇸🇬 新加坡 103 - 墙了个墙, server: sgvip101.qlgq1.pw, port: 30443, type: trojan, password: 1395684e-1232-3684-8593-6c56587d05c8, sni: sgvip101.qlgq1.pw, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: sgvip101}, udp: true}
+- {name: 🇸🇬 新加坡 104 - 墙了个墙, server: sgvip101.qlgq1.pw, port: 40443, type: trojan, password: 1395684e-1232-3684-8593-6c56587d05c8, sni: sgvip101.qlgq1.pw, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: sgvip101}, udp: true}
+- {name: 🇸🇬 新加坡 105 - 墙了个墙, server: sgvip101.qlgq1.pw, port: 50443, type: trojan, password: 1395684e-1232-3684-8593-6c56587d05c8, sni: sgvip101.qlgq1.pw, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: sgvip101}, udp: true}
+- {name: 🇬🇧 英国 101 - 墙了个墙, server: ukvip101.qlgq1.pw, port: 10443, type: trojan, password: 1395684e-1232-3684-8593-6c56587d05c8, sni: ukvip101.qlgq1.pw, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: ukvip101}, udp: true}
+- {name: 🇬🇧 英国 102 - 墙了个墙, server: ukvip101.qlgq1.pw, port: 20443, type: trojan, password: 1395684e-1232-3684-8593-6c56587d05c8, sni: ukvip101.qlgq1.pw, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: ukvip101}, udp: true}
+- {name: 🇬🇧 英国 103 - 墙了个墙, server: ukvip101.qlgq1.pw, port: 30443, type: trojan, password: 1395684e-1232-3684-8593-6c56587d05c8, sni: ukvip101.qlgq1.pw, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: ukvip101}, udp: true}
+- {name: 🇬🇧 英国 104 - 墙了个墙, server: ukvip101.qlgq1.pw, port: 40443, type: trojan, password: 1395684e-1232-3684-8593-6c56587d05c8, sni: ukvip101.qlgq1.pw, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: ukvip101}, udp: true}
+- {name: 🇬🇧 英国 105 - 墙了个墙, server: ukvip101.qlgq1.pw, port: 50443, type: trojan, password: 1395684e-1232-3684-8593-6c56587d05c8, sni: ukvip101.qlgq1.pw, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: ukvip101}, udp: true}
+- {name: 🇦🇪 迪拜 001 - 墙了个墙, server: duvip001.qlgq1.pw, port: 10443, type: trojan, password: 1395684e-1232-3684-8593-6c56587d05c8, sni: duvip001.qlgq1.pw, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: duvip001}, udp: true}
+- {name: 🇦🇪 迪拜 002 - 墙了个墙, server: duvip001.qlgq1.pw, port: 20443, type: trojan, password: 1395684e-1232-3684-8593-6c56587d05c8, sni: duvip001.qlgq1.pw, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: duvip001}, udp: true}
+- {name: 🇦🇪 迪拜 003 - 墙了个墙, server: duvip001.qlgq1.pw, port: 30443, type: trojan, password: 1395684e-1232-3684-8593-6c56587d05c8, sni: duvip001.qlgq1.pw, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: duvip001}, udp: true}
+- {name: 🇺🇸 中转•美国295•高速 - 飞翔吧, server: gg.58n.net, port: 20295, type: trojan, password: aff11738-05ea-3197-acf9-c0f79c7a6dce, sni: z295.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 中转•美国296•高速 - 飞翔吧, server: gg.58n.net, port: 20296, type: trojan, password: aff11738-05ea-3197-acf9-c0f79c7a6dce, sni: z296.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 中转•美国40•高速 - 飞翔吧, server: gg.58n.net, port: 16895, type: trojan, password: aff11738-05ea-3197-acf9-c0f79c7a6dce, sni: x40.flybar.work, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 中转•美国41•原生 - 飞翔吧, server: gg.58n.net, port: 21970, type: trojan, password: aff11738-05ea-3197-acf9-c0f79c7a6dce, sni: x41.flybar.work, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 中转•美国46•原生 - 飞翔吧, server: gg.58n.net, port: 14846, type: trojan, password: aff11738-05ea-3197-acf9-c0f79c7a6dce, sni: x46.flybar.work, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 中转•美国61•高速 - 飞翔吧, server: gg.58n.net, port: 30767, type: trojan, password: aff11738-05ea-3197-acf9-c0f79c7a6dce, sni: z61.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 广港•美国266•高速 - 飞翔吧, server: gg.58n.net, port: 56783, type: trojan, password: aff11738-05ea-3197-acf9-c0f79c7a6dce, sni: z266.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 广港•美国288•高速 - 飞翔吧, server: gg.58n.net, port: 20288, type: trojan, password: aff11738-05ea-3197-acf9-c0f79c7a6dce, sni: z288.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 中转•香港301•高速 - 飞翔吧, server: gg.58n.net, port: 20301, type: trojan, password: aff11738-05ea-3197-acf9-c0f79c7a6dce, sni: z301.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼 广港•台湾258•高速 - 飞翔吧, server: gg.58n.net, port: 17629, type: trojan, password: aff11738-05ea-3197-acf9-c0f79c7a6dce, sni: z258.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 广港•香港143•高速 - 飞翔吧, server: gg.58n.net, port: 28678, type: trojan, password: aff11738-05ea-3197-acf9-c0f79c7a6dce, sni: z143.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 广港•香港269•高速 - 飞翔吧, server: gg.58n.net, port: 22741, type: trojan, password: aff11738-05ea-3197-acf9-c0f79c7a6dce, sni: dufu.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 广港•香港294•高速 - 飞翔吧, server: gg.58n.net, port: 20294, type: trojan, password: aff11738-05ea-3197-acf9-c0f79c7a6dce, sni: z294.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 中转•香港102•高速 - 飞翔吧, server: gg.58n.net, port: 43337, type: trojan, password: aff11738-05ea-3197-acf9-c0f79c7a6dce, sni: z102.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 广港•香港259•高速 - 飞翔吧, server: gg.58n.net, port: 24603, type: trojan, password: aff11738-05ea-3197-acf9-c0f79c7a6dce, sni: z259.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 广港•香港278•高速 - 飞翔吧, server: gg.58n.net, port: 20278, type: trojan, password: aff11738-05ea-3197-acf9-c0f79c7a6dce, sni: z278.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 广港•香港279•高速 - 飞翔吧, server: gg.58n.net, port: 20279, type: trojan, password: aff11738-05ea-3197-acf9-c0f79c7a6dce, sni: z279.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼 中转•台湾100•高速 - 飞翔吧, server: gg.58n.net, port: 59021, type: trojan, password: aff11738-05ea-3197-acf9-c0f79c7a6dce, sni: x100.flybar.work, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼 中转•台湾91•原生 - 飞翔吧, server: gg.58n.net, port: 21247, type: trojan, password: aff11738-05ea-3197-acf9-c0f79c7a6dce, sni: x91.flybar.work, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼 广港•台湾261•高速 - 飞翔吧, server: gg.58n.net, port: 33323, type: trojan, password: aff11738-05ea-3197-acf9-c0f79c7a6dce, sni: z261.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼 广港•台湾262•高速 - 飞翔吧, server: gg.58n.net, port: 36821, type: trojan, password: aff11738-05ea-3197-acf9-c0f79c7a6dce, sni: z262.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本•软银260•高速 - 飞翔吧, server: gg.58n.net, port: 31313, type: trojan, password: aff11738-05ea-3197-acf9-c0f79c7a6dce, sni: z260.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 中转•日本298•高速 - 飞翔吧, server: gg.58n.net, port: 20298, type: trojan, password: aff11738-05ea-3197-acf9-c0f79c7a6dce, sni: z298.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 中转•日本300•原生 - 飞翔吧, server: gg.58n.net, port: 20300, type: trojan, password: aff11738-05ea-3197-acf9-c0f79c7a6dce, sni: z300.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本•高速114•高速 - 飞翔吧, server: gg.58n.net, port: 41767, type: trojan, password: aff11738-05ea-3197-acf9-c0f79c7a6dce, sni: x114.flybar.work, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本•高速115•高速 - 飞翔吧, server: gg.58n.net, port: 54178, type: trojan, password: aff11738-05ea-3197-acf9-c0f79c7a6dce, sni: x115.flybar.work, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本•高速139•铂金 - 飞翔吧, server: gg.58n.net, port: 20139, type: trojan, password: aff11738-05ea-3197-acf9-c0f79c7a6dce, sni: z139.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本•高速140•铂金 - 飞翔吧, server: gg.58n.net, port: 20140, type: trojan, password: aff11738-05ea-3197-acf9-c0f79c7a6dce, sni: z140.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本•高速141•铂金 - 飞翔吧, server: gg.58n.net, port: 20141, type: trojan, password: aff11738-05ea-3197-acf9-c0f79c7a6dce, sni: z141.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本•高速142•原生 - 飞翔吧, server: gg.58n.net, port: 20142, type: trojan, password: aff11738-05ea-3197-acf9-c0f79c7a6dce, sni: z142.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本•高速59•青铜 - 飞翔吧, server: gg.58n.net, port: 20059, type: trojan, password: aff11738-05ea-3197-acf9-c0f79c7a6dce, sni: x59.flybar.work, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本•高速71•高速 - 飞翔吧, server: gg.58n.net, port: 20071, type: trojan, password: aff11738-05ea-3197-acf9-c0f79c7a6dce, sni: x71.flybar.work, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本•高速76•高速 - 飞翔吧, server: gg.58n.net, port: 20076, type: trojan, password: aff11738-05ea-3197-acf9-c0f79c7a6dce, sni: x76.flybar.work, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬 中转•新加坡299•高速 - 飞翔吧, server: gg.58n.net, port: 20299, type: trojan, password: aff11738-05ea-3197-acf9-c0f79c7a6dce, sni: x299.flybar.work, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬 中转•新加坡65•青铜 - 飞翔吧, server: gg.58n.net, port: 17806, type: trojan, password: aff11738-05ea-3197-acf9-c0f79c7a6dce, sni: x65.flybar.work, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬 中转•新加坡83•高速 - 飞翔吧, server: gg.58n.net, port: 30712, type: trojan, password: aff11738-05ea-3197-acf9-c0f79c7a6dce, sni: x83.flybar.work, skip-cert-verify: true, udp: true}
+- {name: 🇬🇧 中转•英国267•高速 - 飞翔吧, server: gg.58n.net, port: 25238, type: trojan, password: aff11738-05ea-3197-acf9-c0f79c7a6dce, sni: z267.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: 🇬🇧 中转•英国268•高速 - 飞翔吧, server: gg.58n.net, port: 11215, type: trojan, password: aff11738-05ea-3197-acf9-c0f79c7a6dce, sni: z268.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: 🇰🇷 广港•韩国263•高速 - 飞翔吧, server: gg.58n.net, port: 45168, type: trojan, password: aff11738-05ea-3197-acf9-c0f79c7a6dce, sni: z263.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: 🇰🇷 广港•韩国264•高速 - 飞翔吧, server: gg.58n.net, port: 50355, type: trojan, password: aff11738-05ea-3197-acf9-c0f79c7a6dce, sni: z264.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬 新加坡•高速129•高速 - 飞翔吧, server: gg.58n.net, port: 20129, type: trojan, password: aff11738-05ea-3197-acf9-c0f79c7a6dce, sni: x129.flybar.work, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬 新加坡•高速130•铂金 - 飞翔吧, server: gg.58n.net, port: 20130, type: trojan, password: aff11738-05ea-3197-acf9-c0f79c7a6dce, sni: x130.flybar.work, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸美国 🌐「达拉斯」 - 北方航空, server: cdn.chigua.tk, port: 80, type: vmess, uuid: 221354ee-ef79-47cb-829b-cd20a1a086af, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /usc03, headers: {Host: usc03.galenet.online}}, udp: true}
+- {name: 🇺🇸 美国 1 ChatGPT - 西瓜皮是真的皮, server: cm1-xg.go001.buzz, port: 19861, type: vmess, uuid: 4071b352-e8b6-32c9-9899-b34fe1e4c458, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 美国 2 ChatGPT - 西瓜皮是真的皮, server: ct1-xg.go001.buzz, port: 19862, type: vmess, uuid: 4071b352-e8b6-32c9-9899-b34fe1e4c458, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 香港 1 - 西瓜皮是真的皮, server: cm1-xg.go001.buzz, port: 19811, type: vmess, uuid: 4071b352-e8b6-32c9-9899-b34fe1e4c458, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 香港 2 - 西瓜皮是真的皮, server: ct1-xg.go001.buzz, port: 19812, type: vmess, uuid: 4071b352-e8b6-32c9-9899-b34fe1e4c458, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼 台湾 1 动画疯 - 西瓜皮是真的皮, server: cm1-xg.go001.buzz, port: 19821, type: vmess, uuid: 4071b352-e8b6-32c9-9899-b34fe1e4c458, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼 台湾 2 动画疯 - 西瓜皮是真的皮, server: ct1-xg.go001.buzz, port: 19822, type: vmess, uuid: 4071b352-e8b6-32c9-9899-b34fe1e4c458, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本 1 Nico Abema - 西瓜皮是真的皮, server: cm1-xg.go001.buzz, port: 19831, type: vmess, uuid: 4071b352-e8b6-32c9-9899-b34fe1e4c458, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本 2 Nico Abema - 西瓜皮是真的皮, server: ct1-xg.go001.buzz, port: 19832, type: vmess, uuid: 4071b352-e8b6-32c9-9899-b34fe1e4c458, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬 新加坡 1 Netflix  - 西瓜皮是真的皮, server: cm1-xg.go001.buzz, port: 19841, type: vmess, uuid: 4071b352-e8b6-32c9-9899-b34fe1e4c458, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬 新加坡 2 Netflix - 西瓜皮是真的皮, server: ct1-xg.go001.buzz, port: 19842, type: vmess, uuid: 4071b352-e8b6-32c9-9899-b34fe1e4c458, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇫🇷 法国 1 - 西瓜皮是真的皮, server: cm1-xg.go001.buzz, port: 19892, type: vmess, uuid: 4071b352-e8b6-32c9-9899-b34fe1e4c458, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇩🇪 德国 1 - 西瓜皮是真的皮, server: cm1-xg.go001.buzz, port: 19891, type: vmess, uuid: 4071b352-e8b6-32c9-9899-b34fe1e4c458, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇮🇩 印度尼西亚 1 - 西瓜皮是真的皮, server: cm1-xg.go001.buzz, port: 19883, type: vmess, uuid: 4071b352-e8b6-32c9-9899-b34fe1e4c458, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇮🇳 印度 1 - 西瓜皮是真的皮, server: cm1-xg.go001.buzz, port: 19882, type: vmess, uuid: 4071b352-e8b6-32c9-9899-b34fe1e4c458, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇹🇷 土耳其 1 - 西瓜皮是真的皮, server: cm1-xg.go001.buzz, port: 19881, type: vmess, uuid: 4071b352-e8b6-32c9-9899-b34fe1e4c458, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: '🇺🇸 [vip①]美国1 - MG Network', server: 14.v2-ray.cyou, port: 23614, type: vmess, uuid: c119122b-fdde-3972-9598-86e58cb9e9d9, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 14.v2-ray.cyou}}, udp: true}
+- {name: '🇺🇸 [vip①]美国2 - MG Network', server: 15.v2-ray.cyou, port: 23615, type: vmess, uuid: c119122b-fdde-3972-9598-86e58cb9e9d9, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 15.v2-ray.cyou}}, udp: true}
+- {name: '🇯🇵 [vip①]日本1 - MG Network', server: 8.v2-ray.cyou, port: 23608, type: vmess, uuid: c119122b-fdde-3972-9598-86e58cb9e9d9, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: '🇯🇵 [vip①]日本2 - MG Network', server: 19.v2-ray.cyou, port: 23619, type: vmess, uuid: c119122b-fdde-3972-9598-86e58cb9e9d9, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 19.v2-ray.cyou}}, udp: true}
+- {name: '🇩🇪 [vip①]德国1 - MG Network', server: 16.v2-ray.cyou, port: 23616, type: vmess, uuid: c119122b-fdde-3972-9598-86e58cb9e9d9, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 16.v2-ray.cyou}}, udp: true}
+- {name: '🇩🇪 [vip①]德国2 - MG Network', server: 18.v2-ray.cyou, port: 23618, type: vmess, uuid: c119122b-fdde-3972-9598-86e58cb9e9d9, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 18.v2-ray.cyou}}, udp: true}
+- {name: '🇸🇬 [vip①]新加坡1 - MG Network', server: 12.v2-ray.cyou, port: 23612, type: vmess, uuid: c119122b-fdde-3972-9598-86e58cb9e9d9, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 12.v2-ray.cyou}}, udp: true}
+- {name: '🇬🇧 [vip①]英国1 - MG Network', server: 5.v2-ray.cyou, port: 23605, type: vmess, uuid: c119122b-fdde-3972-9598-86e58cb9e9d9, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 5.v2-ray.cyou}}, udp: true}
+- {name: '🇬🇧 [vip①]英国2 - MG Network', server: 13.v2-ray.cyou, port: 23613, type: vmess, uuid: c119122b-fdde-3972-9598-86e58cb9e9d9, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 13.v2-ray.cyou}}, udp: true}
+- {name: '🇰🇷 [vip①]韩国1 - MG Network', server: 11.v2-ray.cyou, port: 23611, type: vmess, uuid: c119122b-fdde-3972-9598-86e58cb9e9d9, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 11.v2-ray.cyou}}, udp: true}
 rules:
 - DOMAIN-SUFFIX,acl4.ssr,DIRECT
 - DOMAIN-SUFFIX,ip6-localhost,DIRECT

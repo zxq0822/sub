@@ -1,10 +1,4 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 官网 https://cccc.gg - Cyanmori, server: orajp2.susenl.com, port: 443, type: vmess, uuid: 698544bd-2bdb-375a-b132-2c7332109b77, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 提示：使用前请更新订阅 - Cyanmori, server: orajp2.susenl.com, port: 443, type: vmess, uuid: 698544bd-2bdb-375a-b132-2c7332109b77, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 距离下次重置剩余：19 天 - 北方航空, server: cdn.chigua.tk, port: 80, type: vmess, uuid: bf73d0ac-db7e-4518-9588-e663cf6a58b8, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /usc03, headers: {Host: usc03.galenet.online}}, udp: true}
-- {name: 距离下次重置剩余：19 天 - JCBB, server: gzdx.jcnode.top, port: 17022, type: trojan, password: 49d7a07c-793b-446d-b132-2de4c3a3773a, sni: vn01.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: JCBB永久跳转地址 jcbb.cc - JCBB, server: gzdx.jcnode.top, port: 17022, type: trojan, password: 49d7a07c-793b-446d-b132-2de4c3a3773a, sni: vn01.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: 新网址：sockboom.link - SockBoom, server: www.google.com, port: 1, type: ssr, cipher: aes-256-cfb, password: breakwall, protocol: auth_chain_a, obfs: tls1.2_ticket_auth, protocol-param: '', obfs-param: '', udp: true}
-- {name: 免费计划仅包含4个节点，要获取全部节点，请购买付费套餐。 - Kako Cloud, server: Dont.Connect.Me, port: 65535, type: ss, cipher: chacha20-ietf-poly1305, password: 179f4b13-b5ff-4784-9c73-dfd6379a1068, udp: true}
+- {name: 距离下次重置剩余：19 天 - 北方航空, server: cdn.chigua.tk, port: 80, type: vmess, uuid: 221354ee-ef79-47cb-829b-cd20a1a086af, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /usc03, headers: {Host: usc03.galenet.online}}, udp: true}
