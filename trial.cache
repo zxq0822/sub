@@ -5,7 +5,7 @@ email  zcymhrh814@linshiyou.com
 last_checkin  2023-10-12 14:37:54.309810+08:00
 name  墙了个墙
 node_n  44
-sub_info  0B  888G  2023-10-13 14:37:51+08:00  (剩余 888G 23:59:47.300820)
+sub_info  105.3M  888G  2023-10-13 14:37:51+08:00  (剩余 887.9G 22:00:36.984859)
 sub_url  https://www.qlgq.top/link/70e4efd04abc825f?clash=1
 time  2023-10-12 14:37:55.053935+08:00
 type  sspanel
@@ -16,7 +16,7 @@ invite_code  C8Gw  10000
 last_checkin  2023-10-12 14:38:03.590170+08:00
 name  飞翔吧
 node_n  42
-sub_info  0B  10.16G  2023-10-13 14:38:02+08:00  (剩余 10.16G 23:57:49.594590)
+sub_info  11.78M  10.16G  2023-10-13 14:38:02+08:00  (剩余 10.15G 22:00:44.820034)
 sub_url  http://service-cicbrnbg-1309305287.gz.apigw.tencentcs.com/link/SXj1QsLKPVKfwWZG?sub=3
 time  2023-10-12 14:38:05.064027+08:00
 type  sspanel
@@ -24,13 +24,13 @@ type  sspanel
 [vipxgyun.com]
 auto_invite  F
 buy  pass
-email  jkokrdiwo415@gmail.com
-last_checkin  2023-10-12 14:37:45.004726+08:00
+email  fncnszsh142@gmail.com
+last_checkin  2023-10-12 16:37:20.755143+08:00
 name  西瓜皮是真的皮
 node_n  15
-sub_info  0B  10.1G  2023-10-12 16:37:43+08:00  (剩余 10.1G 1:59:51.803210)
-sub_url  https://go.xiguasuyun.com/link/6pCYnvd5afGozC32?sub=3
-time  2023-10-12 14:37:47.481079+08:00
+sub_info  0B  10.13G  2023-10-12 18:37:20+08:00  (剩余 10.13G 1:59:54.175745)
+sub_url  https://go.xiguasuyun.com/link/CuW8j1v4l4DEb1Hv?sub=3
+time  2023-10-12 16:37:23.455510+08:00
 type  sspanel
 
 [mgnet.vip]
@@ -40,7 +40,7 @@ email  sobyxdm527@gmail.com
 last_checkin  2023-10-12 14:37:44.491477+08:00
 name  MG Network
 node_n  10
-sub_info  0B  5.599G  2023-10-14 14:37:43+08:00  (剩余 5.599G 1 day, 23:59:56.436341)
+sub_info  0B  5.599G  2023-10-14 14:37:43+08:00  (剩余 5.599G 1 day, 21:58:28.201833)
 sub_url  https://www.mgnet.sbs/link/xTNAlXFh8Cnq4bnN?sub=3
 time  2023-10-12 14:37:44.919015+08:00
 type  sspanel
@@ -50,7 +50,19 @@ buy  pass
 email  eghmpprk23@139.telemail.tk
 name  北方航空
 node_n  2
-sub_info  0B  20G  2023-10-14 14:37:50+08:00  (剩余 20G 1 day, 23:59:35.923612)
+sub_info  0B  20G  2023-10-14 14:37:50+08:00  (剩余 20G 1 day, 22:00:35.327464)
 sub_url  https://connect.bh8189.eu.org/api/v1/client/subscribe?token=8a85f2fcfec58a728e5f3dfe0a0e303e
 time  2023-10-12 14:37:50.661400+08:00
+type  v2board
+
+[portal.passgfw.top]
+
+[zhoushuren.cloud]
+buy  pass
+email  ahfduilmo936@gmail.com
+name  周树人Cloud
+node_n  97
+sub_info  0B  10G  2023-10-12 18:37:13+08:00  (剩余 10G 1:59:50.064435)
+sub_url  https://zhoushuren.cloud/api/v1/client/subscribe?token=7b794e02c68a6c6621a07e1b538ed7cc
+time  2023-10-12 16:37:13.736061+08:00
 type  v2board
