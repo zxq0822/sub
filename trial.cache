@@ -5,7 +5,7 @@ email  zcymhrh814@linshiyou.com
 last_checkin  2023-10-12 14:37:54.309810+08:00
 name  墙了个墙
 node_n  44
-sub_info  105.3M  888G  2023-10-13 14:37:51+08:00  (剩余 887.9G 22:00:36.984859)
+sub_info  106.1M  888G  2023-10-13 14:37:51+08:00  (剩余 887.9G 21:35:36.739313)
 sub_url  https://www.qlgq.top/link/70e4efd04abc825f?clash=1
 time  2023-10-12 14:37:55.053935+08:00
 type  sspanel
@@ -16,7 +16,7 @@ invite_code  C8Gw  10000
 last_checkin  2023-10-12 14:38:03.590170+08:00
 name  飞翔吧
 node_n  42
-sub_info  11.78M  10.16G  2023-10-13 14:38:02+08:00  (剩余 10.15G 22:00:44.820034)
+sub_info  12.82M  10.16G  2023-10-13 14:38:02+08:00  (剩余 10.15G 21:35:51.312900)
 sub_url  http://service-cicbrnbg-1309305287.gz.apigw.tencentcs.com/link/SXj1QsLKPVKfwWZG?sub=3
 time  2023-10-12 14:38:05.064027+08:00
 type  sspanel
@@ -28,7 +28,7 @@ email  fncnszsh142@gmail.com
 last_checkin  2023-10-12 16:37:20.755143+08:00
 name  西瓜皮是真的皮
 node_n  15
-sub_info  0B  10.13G  2023-10-12 18:37:20+08:00  (剩余 10.13G 1:59:54.175745)
+sub_info  450.9K  10.13G  2023-10-12 18:37:20+08:00  (剩余 10.13G 1:35:06.583252)
 sub_url  https://go.xiguasuyun.com/link/CuW8j1v4l4DEb1Hv?sub=3
 time  2023-10-12 16:37:23.455510+08:00
 type  sspanel
@@ -40,7 +40,7 @@ email  sobyxdm527@gmail.com
 last_checkin  2023-10-12 14:37:44.491477+08:00
 name  MG Network
 node_n  10
-sub_info  0B  5.599G  2023-10-14 14:37:43+08:00  (剩余 5.599G 1 day, 21:58:28.201833)
+sub_info  376.5K  5.599G  2023-10-14 14:37:43+08:00  (剩余 5.598G 1 day, 21:34:05.412184)
 sub_url  https://www.mgnet.sbs/link/xTNAlXFh8Cnq4bnN?sub=3
 time  2023-10-12 14:37:44.919015+08:00
 type  sspanel
@@ -50,7 +50,7 @@ buy  pass
 email  eghmpprk23@139.telemail.tk
 name  北方航空
 node_n  2
-sub_info  0B  20G  2023-10-14 14:37:50+08:00  (剩余 20G 1 day, 22:00:35.327464)
+sub_info  0B  20G  2023-10-14 14:37:50+08:00  (剩余 20G 1 day, 21:33:40.982822)
 sub_url  https://connect.bh8189.eu.org/api/v1/client/subscribe?token=8a85f2fcfec58a728e5f3dfe0a0e303e
 time  2023-10-12 14:37:50.661400+08:00
 type  v2board
@@ -62,7 +62,26 @@ buy  pass
 email  ahfduilmo936@gmail.com
 name  周树人Cloud
 node_n  97
-sub_info  0B  10G  2023-10-12 18:37:13+08:00  (剩余 10G 1:59:50.064435)
+sub_info  1.646M  10G  2023-10-12 18:37:13+08:00  (剩余 9.998G 1:35:00.562963)
 sub_url  https://zhoushuren.cloud/api/v1/client/subscribe?token=7b794e02c68a6c6621a07e1b538ed7cc
 time  2023-10-12 16:37:13.736061+08:00
+type  v2board
+
+[yingwuyun.top]
+buy  period=month_price&plan_id=5
+email  yidzfljhe219@gmail.com
+name  鹦鹉云
+node_n  18
+sub_info  0B  50G  2023-11-12 17:03:09+08:00  (剩余 50G 30 days, 23:59:58.456045)
+sub_url  https://yingwuyun.vip/api/v1/client/subscribe?token=e18b00d218744a5e37c45673404e1a19
+time  2023-10-12 17:03:09.455124+08:00
+type  v2board
+
+[www.xingsu.club]
+email  aexueik305@gmail.com
+name  星速云StarSpeed
+node_n  17
+sub_info  0B  200G  2023-11-12 17:02:07+08:00  (剩余 200G 30 days, 23:59:57.712310)
+sub_url  https://www.xingsu.lol/api/v1/client/subscribe?token=31c2d16d4304ddeeefdcb0f6f2e22f0f
+time  2023-10-12 17:02:07.632522+08:00
 type  v2board

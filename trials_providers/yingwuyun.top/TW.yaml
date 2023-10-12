@@ -1,0 +1,6 @@
+%YAML 1.1
+---
+proxies:
+- {name: 🇹🇼 Taiwan-01 - 鹦鹉云, server: yy.yingwuyun.cyou, port: 27305, type: ss, cipher: chacha20-ietf-poly1305, password: 68dd73ba-5197-413c-b564-f633c4418cc7, udp: true}
+- {name: 🇹🇼 Taiwan-02 - 鹦鹉云, server: ly.yingwuyun.cyou, port: 27305, type: ss, cipher: chacha20-ietf-poly1305, password: 68dd73ba-5197-413c-b564-f633c4418cc7, udp: true}
+- {name: 🇹🇼 Taiwan-03 - 鹦鹉云, server: dy.yingwuyun.cyou, port: 27305, type: ss, cipher: chacha20-ietf-poly1305, password: 68dd73ba-5197-413c-b564-f633c4418cc7, udp: true}

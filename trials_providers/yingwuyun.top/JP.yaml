@@ -1,0 +1,6 @@
+%YAML 1.1
+---
+proxies:
+- {name: 🇯🇵 Japan-01 - 鹦鹉云, server: yy.yingwuyun.cyou, port: 27302, type: ss, cipher: chacha20-ietf-poly1305, password: 68dd73ba-5197-413c-b564-f633c4418cc7, udp: true}
+- {name: 🇯🇵 Japan-02 - 鹦鹉云, server: ly.yingwuyun.cyou, port: 27302, type: ss, cipher: chacha20-ietf-poly1305, password: 68dd73ba-5197-413c-b564-f633c4418cc7, udp: true}
+- {name: 🇯🇵 Japan-03 - 鹦鹉云, server: dy.yingwuyun.cyou, port: 27302, type: ss, cipher: chacha20-ietf-poly1305, password: 68dd73ba-5197-413c-b564-f633c4418cc7, udp: true}
