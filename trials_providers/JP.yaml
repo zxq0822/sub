@@ -18,6 +18,7 @@ proxies:
 - {name: 🇯🇵 日本•高速59•青铜 - 飞翔吧, server: gg.58n.net, port: 20059, type: trojan, password: aff11738-05ea-3197-acf9-c0f79c7a6dce, sni: x59.flybar.work, skip-cert-verify: true, udp: true}
 - {name: 🇯🇵 日本•高速71•高速 - 飞翔吧, server: gg.58n.net, port: 20071, type: trojan, password: aff11738-05ea-3197-acf9-c0f79c7a6dce, sni: x71.flybar.work, skip-cert-verify: true, udp: true}
 - {name: 🇯🇵 日本•高速76•高速 - 飞翔吧, server: gg.58n.net, port: 20076, type: trojan, password: aff11738-05ea-3197-acf9-c0f79c7a6dce, sni: x76.flybar.work, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵日本01 - 都是梦, server: jp.doushimeng.com, port: 21403, type: ss, cipher: chacha20-ietf-poly1305, password: 2b058ebb-2f4b-4708-932c-561a8650de3e, udp: true}
 - {name: 🇯🇵 日本01-限时高速（限速50mbps） - 星速云StarSpeed, server: starspeed.tbh.iosds.com, port: 25854, type: ss, cipher: chacha20-ietf-poly1305, password: fc6be1be-428d-49f7-be83-147ee424aea7, udp: true}
 - {name: 🇯🇵 日本02-限时高速（限速50mbps） - 星速云StarSpeed, server: starspeed.tbh.iosds.com, port: 25854, type: ss, cipher: chacha20-ietf-poly1305, password: fc6be1be-428d-49f7-be83-147ee424aea7, udp: true}
 - {name: 🇯🇵 日本01-南方移动 - 星速云StarSpeed, server: yd.xingsu.fun, port: 80, type: vmess, uuid: fc6be1be-428d-49f7-be83-147ee424aea7, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /xingsu, headers: {Host: jpyd1.xingsu.fun}}, udp: true}
