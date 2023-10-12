@@ -1,0 +1,5 @@
+%YAML 1.1
+---
+proxies:
+- {name: 🇸🇬 V4-4003|新加坡|x2.0 - 海豚云, server: cdn.node.user-sub.pddns-usersdk.com, port: 12001, type: vmess, uuid: c714c042-9d07-3a00-81bb-33a08fa38599, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /12e884bf-1622-7ceb-3009-7d47fdfs2f9a5, headers: {Host: cdn.node.user-sub.pddns-usersdk.com}}, udp: true}
+- {name: 🇸🇬 V4-4004|新加坡|x2.0 - 海豚云, server: cdn.node.user-sub.pddns-usersdk.com, port: 12002, type: vmess, uuid: c714c042-9d07-3a00-81bb-33a08fa38599, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /12e884bf-1622-7ceb-3009-7d47fd1322f9a5, headers: {Host: cdn.node.user-sub.pddns-usersdk.com}}, udp: true}

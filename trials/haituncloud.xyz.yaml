@@ -16,7 +16,6 @@ proxy-groups:
   - 🇸🇬 ‍新加坡
   - 🇯🇵 ‍日本
   - 🇺🇸 ‍美国
-  - 🎏 ‍其他
   - 👆🏻 ‍指定
   - 👆🏻🇭🇰 ‍香港
   - 👆🏻🇹🇼 ‍台湾
@@ -24,7 +23,6 @@ proxy-groups:
   - 👆🏻🇸🇬 ‍新加坡
   - 👆🏻🇯🇵 ‍日本
   - 👆🏻🇺🇸 ‍美国
-  - 👆🏻🎏 ‍其他
   - DIRECT
 - name: ⚡ ‍低延迟
   type: url-test
@@ -32,21 +30,18 @@ proxy-groups:
   interval: 30
   tolerance: 50
   proxies: &id001
-  - 🇭🇰 香港 1 - 西瓜皮是真的皮
-  - 🇭🇰 香港 2 - 西瓜皮是真的皮
-  - 🇹🇼 台湾 1 动画疯 - 西瓜皮是真的皮
-  - 🇹🇼 台湾 2 动画疯 - 西瓜皮是真的皮
-  - 🇸🇬 新加坡 1 Netflix  - 西瓜皮是真的皮
-  - 🇸🇬 新加坡 2 Netflix - 西瓜皮是真的皮
-  - 🇯🇵 日本 1 Nico Abema - 西瓜皮是真的皮
-  - 🇯🇵 日本 2 Nico Abema - 西瓜皮是真的皮
-  - 🇺🇸 美国 1 ChatGPT - 西瓜皮是真的皮
-  - 🇺🇸 美国 2 ChatGPT - 西瓜皮是真的皮
-  - 🇫🇷 法国 1 - 西瓜皮是真的皮
-  - 🇩🇪 德国 1 - 西瓜皮是真的皮
-  - 🇮🇩 印度尼西亚 1 - 西瓜皮是真的皮
-  - 🇮🇳 印度 1 - 西瓜皮是真的皮
-  - 🇹🇷 土耳其 1 - 西瓜皮是真的皮
+  - 🇭🇰 V4-4009|香港|x1.0 - 海豚云
+  - 🇭🇰 V4-4010|香港|x2.0 - 海豚云
+  - 🇭🇰 V4-4011|香港|x2.0 - 海豚云
+  - 🇹🇼 V4-4007|台湾|x2.0 - 海豚云
+  - 🇹🇼 V4-4008|台湾|x2.0 - 海豚云
+  - 🇸🇬 V4-4003|新加坡|x2.0 - 海豚云
+  - 🇸🇬 V4-4004|新加坡|x2.0 - 海豚云
+  - 🇯🇵 V4-4001|日本|x1.5 - 海豚云
+  - 🇯🇵 V4-4002|日本|x2.0 - 海豚云
+  - 🇯🇵 V4-4012|日本|x2.0 - 海豚云
+  - 🇺🇸 V4-4005|美国|x2.0 - 海豚云
+  - 🇺🇸 V4-4006|美国|x1.5 - 海豚云
 - name: 🛩️ ‍墙内
   type: select
   proxies:
@@ -75,9 +70,7 @@ proxy-groups:
   type: select
   proxies:
   - 🇺🇸 ‍美国
-  - 🎏 ‍其他
   - 👆🏻🇺🇸 ‍美国
-  - 👆🏻🎏 ‍其他
   - 🇹🇼 ‍台湾
   - 🇸🇬 ‍新加坡
   - 🇯🇵 ‍日本
@@ -99,61 +92,53 @@ proxy-groups:
   interval: 30
   tolerance: 50
   proxies: &id002
-  - 🇭🇰 香港 1 - 西瓜皮是真的皮
-  - 🇭🇰 香港 2 - 西瓜皮是真的皮
+  - 🇭🇰 V4-4009|香港|x1.0 - 海豚云
+  - 🇭🇰 V4-4010|香港|x2.0 - 海豚云
+  - 🇭🇰 V4-4011|香港|x2.0 - 海豚云
 - name: 🇹🇼 ‍台湾
   type: url-test
   url: https://i.ytimg.com/generate_204
   interval: 30
   tolerance: 50
   proxies: &id003
-  - 🇹🇼 台湾 1 动画疯 - 西瓜皮是真的皮
-  - 🇹🇼 台湾 2 动画疯 - 西瓜皮是真的皮
+  - 🇹🇼 V4-4007|台湾|x2.0 - 海豚云
+  - 🇹🇼 V4-4008|台湾|x2.0 - 海豚云
 - name: 🇨🇳 ‍中国
   type: url-test
   url: https://i.ytimg.com/generate_204
   interval: 30
   tolerance: 50
   proxies: &id004
-  - 🇭🇰 香港 1 - 西瓜皮是真的皮
-  - 🇭🇰 香港 2 - 西瓜皮是真的皮
-  - 🇹🇼 台湾 1 动画疯 - 西瓜皮是真的皮
-  - 🇹🇼 台湾 2 动画疯 - 西瓜皮是真的皮
+  - 🇭🇰 V4-4009|香港|x1.0 - 海豚云
+  - 🇭🇰 V4-4010|香港|x2.0 - 海豚云
+  - 🇭🇰 V4-4011|香港|x2.0 - 海豚云
+  - 🇹🇼 V4-4007|台湾|x2.0 - 海豚云
+  - 🇹🇼 V4-4008|台湾|x2.0 - 海豚云
 - name: 🇸🇬 ‍新加坡
   type: url-test
   url: https://i.ytimg.com/generate_204
   interval: 30
   tolerance: 50
   proxies: &id005
-  - 🇸🇬 新加坡 1 Netflix  - 西瓜皮是真的皮
-  - 🇸🇬 新加坡 2 Netflix - 西瓜皮是真的皮
+  - 🇸🇬 V4-4003|新加坡|x2.0 - 海豚云
+  - 🇸🇬 V4-4004|新加坡|x2.0 - 海豚云
 - name: 🇯🇵 ‍日本
   type: url-test
   url: https://i.ytimg.com/generate_204
   interval: 30
   tolerance: 50
   proxies: &id006
-  - 🇯🇵 日本 1 Nico Abema - 西瓜皮是真的皮
-  - 🇯🇵 日本 2 Nico Abema - 西瓜皮是真的皮
+  - 🇯🇵 V4-4001|日本|x1.5 - 海豚云
+  - 🇯🇵 V4-4002|日本|x2.0 - 海豚云
+  - 🇯🇵 V4-4012|日本|x2.0 - 海豚云
 - name: 🇺🇸 ‍美国
   type: url-test
   url: https://i.ytimg.com/generate_204
   interval: 30
   tolerance: 50
   proxies: &id007
-  - 🇺🇸 美国 1 ChatGPT - 西瓜皮是真的皮
-  - 🇺🇸 美国 2 ChatGPT - 西瓜皮是真的皮
-- name: 🎏 ‍其他
-  type: url-test
-  url: https://i.ytimg.com/generate_204
-  interval: 30
-  tolerance: 50
-  proxies: &id008
-  - 🇫🇷 法国 1 - 西瓜皮是真的皮
-  - 🇩🇪 德国 1 - 西瓜皮是真的皮
-  - 🇮🇩 印度尼西亚 1 - 西瓜皮是真的皮
-  - 🇮🇳 印度 1 - 西瓜皮是真的皮
-  - 🇹🇷 土耳其 1 - 西瓜皮是真的皮
+  - 🇺🇸 V4-4005|美国|x2.0 - 海豚云
+  - 🇺🇸 V4-4006|美国|x1.5 - 海豚云
 - name: 👆🏻 ‍指定
   type: select
   proxies: *id001
@@ -175,25 +160,19 @@ proxy-groups:
 - name: 👆🏻🇺🇸 ‍美国
   type: select
   proxies: *id007
-- name: 👆🏻🎏 ‍其他
-  type: select
-  proxies: *id008
 proxies:
-- {name: 🇭🇰 香港 1 - 西瓜皮是真的皮, server: cm1-xg.go001.buzz, port: 19811, type: vmess, uuid: 21ebaeb8-d144-3479-9982-be2b469d4a26, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 香港 2 - 西瓜皮是真的皮, server: ct1-xg.go001.buzz, port: 19812, type: vmess, uuid: 21ebaeb8-d144-3479-9982-be2b469d4a26, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇹🇼 台湾 1 动画疯 - 西瓜皮是真的皮, server: cm1-xg.go001.buzz, port: 19821, type: vmess, uuid: 21ebaeb8-d144-3479-9982-be2b469d4a26, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇹🇼 台湾 2 动画疯 - 西瓜皮是真的皮, server: ct1-xg.go001.buzz, port: 19822, type: vmess, uuid: 21ebaeb8-d144-3479-9982-be2b469d4a26, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 日本 1 Nico Abema - 西瓜皮是真的皮, server: cm1-xg.go001.buzz, port: 19831, type: vmess, uuid: 21ebaeb8-d144-3479-9982-be2b469d4a26, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 日本 2 Nico Abema - 西瓜皮是真的皮, server: ct1-xg.go001.buzz, port: 19832, type: vmess, uuid: 21ebaeb8-d144-3479-9982-be2b469d4a26, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇸🇬 新加坡 1 Netflix  - 西瓜皮是真的皮, server: cm1-xg.go001.buzz, port: 19841, type: vmess, uuid: 21ebaeb8-d144-3479-9982-be2b469d4a26, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇸🇬 新加坡 2 Netflix - 西瓜皮是真的皮, server: ct1-xg.go001.buzz, port: 19842, type: vmess, uuid: 21ebaeb8-d144-3479-9982-be2b469d4a26, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 美国 1 ChatGPT - 西瓜皮是真的皮, server: cm1-xg.go001.buzz, port: 19861, type: vmess, uuid: 21ebaeb8-d144-3479-9982-be2b469d4a26, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 美国 2 ChatGPT - 西瓜皮是真的皮, server: ct1-xg.go001.buzz, port: 19862, type: vmess, uuid: 21ebaeb8-d144-3479-9982-be2b469d4a26, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇫🇷 法国 1 - 西瓜皮是真的皮, server: cm1-xg.go001.buzz, port: 19892, type: vmess, uuid: 21ebaeb8-d144-3479-9982-be2b469d4a26, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇩🇪 德国 1 - 西瓜皮是真的皮, server: cm1-xg.go001.buzz, port: 19891, type: vmess, uuid: 21ebaeb8-d144-3479-9982-be2b469d4a26, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇮🇩 印度尼西亚 1 - 西瓜皮是真的皮, server: cm1-xg.go001.buzz, port: 19883, type: vmess, uuid: 21ebaeb8-d144-3479-9982-be2b469d4a26, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇮🇳 印度 1 - 西瓜皮是真的皮, server: cm1-xg.go001.buzz, port: 19882, type: vmess, uuid: 21ebaeb8-d144-3479-9982-be2b469d4a26, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇹🇷 土耳其 1 - 西瓜皮是真的皮, server: cm1-xg.go001.buzz, port: 19881, type: vmess, uuid: 21ebaeb8-d144-3479-9982-be2b469d4a26, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 V4-4001|日本|x1.5 - 海豚云, server: cdn.node.user-sub.pddns-usersdk.com, port: 14109, type: vmess, uuid: c714c042-9d07-3a00-81bb-33a08fa38599, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /12e884bf-1622-7ceb-3009-7d47fdfs2f9a5, headers: {Host: cdn.node.user-sub.pddns-usersdk.com}}, udp: true}
+- {name: 🇯🇵 V4-4002|日本|x2.0 - 海豚云, server: cdn.node.user-sub.pddns-usersdk.com, port: 14110, type: vmess, uuid: c714c042-9d07-3a00-81bb-33a08fa38599, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /12e884bf-1622-7ceb-3009-7d47fdfs2f9a5, headers: {Host: cdn.node.user-sub.pddns-usersdk.com}}, udp: true}
+- {name: 🇸🇬 V4-4003|新加坡|x2.0 - 海豚云, server: cdn.node.user-sub.pddns-usersdk.com, port: 12001, type: vmess, uuid: c714c042-9d07-3a00-81bb-33a08fa38599, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /12e884bf-1622-7ceb-3009-7d47fdfs2f9a5, headers: {Host: cdn.node.user-sub.pddns-usersdk.com}}, udp: true}
+- {name: 🇸🇬 V4-4004|新加坡|x2.0 - 海豚云, server: cdn.node.user-sub.pddns-usersdk.com, port: 12002, type: vmess, uuid: c714c042-9d07-3a00-81bb-33a08fa38599, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /12e884bf-1622-7ceb-3009-7d47fd1322f9a5, headers: {Host: cdn.node.user-sub.pddns-usersdk.com}}, udp: true}
+- {name: 🇺🇸 V4-4005|美国|x2.0 - 海豚云, server: cdn.node.user-sub.pddns-usersdk.com, port: 11301, type: vmess, uuid: c714c042-9d07-3a00-81bb-33a08fa38599, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /ef483582-6269-468c-93af-c512ec2b8a61, headers: {Host: cdn.node.user-sub.pddns-usersdk.com}}, udp: true}
+- {name: 🇺🇸 V4-4006|美国|x1.5 - 海豚云, server: cdn.node.user-sub.pddns-usersdk.com, port: 11302, type: vmess, uuid: c714c042-9d07-3a00-81bb-33a08fa38599, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /ef483582-6269-468c-93af-c512ec2b8a61, headers: {Host: cdn.node.user-sub.pddns-usersdk.com}}, udp: true}
+- {name: 🇹🇼 V4-4007|台湾|x2.0 - 海豚云, server: cdn.node.user-sub.pddns-usersdk.com, port: 14099, type: vmess, uuid: c714c042-9d07-3a00-81bb-33a08fa38599, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /ef483582-6269-468c-93af-c511eccb8a69, headers: {Host: cdn.node.user-sub.pddns-usersdk.com}}, udp: true}
+- {name: 🇹🇼 V4-4008|台湾|x2.0 - 海豚云, server: cdn.node.user-sub.pddns-usersdk.com, port: 14000, type: vmess, uuid: c714c042-9d07-3a00-81bb-33a08fa38599, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /ef483582-6269-468c-93af-c511eccb8a69, headers: {Host: cdn.node.user-sub.pddns-usersdk.com}}, udp: true}
+- {name: 🇭🇰 V4-4009|香港|x1.0 - 海豚云, server: cdn.node.user-sub.pddns-usersdk.com, port: 13004, type: vmess, uuid: c714c042-9d07-3a00-81bb-33a08fa38599, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /ef483582-6269-468c-93af-c511eccb8a69, headers: {Host: cdn.node.user-sub.pddns-usersdk.com}}, udp: true}
+- {name: 🇭🇰 V4-4010|香港|x2.0 - 海豚云, server: cdn.node.user-sub.pddns-usersdk.com, port: 13002, type: vmess, uuid: c714c042-9d07-3a00-81bb-33a08fa38599, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /ef483582-6269-468c-93af-c511eccb8a69, headers: {Host: cdn.node.user-sub.pddns-usersdk.com}}, udp: true}
+- {name: 🇭🇰 V4-4011|香港|x2.0 - 海豚云, server: cdn.node.user-sub.pddns-usersdk.com, port: 17002, type: vmess, uuid: c714c042-9d07-3a00-81bb-33a08fa38599, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /af483582-6269-468c-93af-c512ec2b1a61, headers: {Host: cdn.node.user-sub.pddns-usersdk.com}}, udp: true}
+- {name: 🇯🇵 V4-4012|日本|x2.0 - 海豚云, server: cdn.node.user-sub.pddns-usersdk.com, port: 14770, type: vmess, uuid: c714c042-9d07-3a00-81bb-33a08fa38599, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /12e884bf-1622-7ceb-3009-7d47fdfs2f9a5, headers: {Host: cdn.node.user-sub.pddns-usersdk.com}}, udp: true}
 rules:
 - DOMAIN-SUFFIX,acl4.ssr,DIRECT
 - DOMAIN-SUFFIX,ip6-localhost,DIRECT
