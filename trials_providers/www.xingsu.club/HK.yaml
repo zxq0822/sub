@@ -1,6 +1,6 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇭🇰 香港01-限时高速（限速50mbps） - 星速云StarSpeed, server: starspeed.tbh.iosds.com, port: 47120, type: ss, cipher: chacha20-ietf-poly1305, password: fc6be1be-428d-49f7-be83-147ee424aea7, udp: true}
-- {name: 🇭🇰 香港02-限时高速（限速50mbps） - 星速云StarSpeed, server: starspeed.tbh.iosds.com, port: 47120, type: ss, cipher: chacha20-ietf-poly1305, password: fc6be1be-428d-49f7-be83-147ee424aea7, udp: true}
-- {name: 🇭🇰 香港03-限时高速（限速50mbps） - 星速云StarSpeed, server: starspeed.tbh.iosds.com, port: 47120, type: ss, cipher: chacha20-ietf-poly1305, password: fc6be1be-428d-49f7-be83-147ee424aea7, udp: true}
+- {name: 🇭🇰 香港01-限时高速（限速50mbps） - 星速云StarSpeed, server: starspeed.tbh.iosds.com, port: 47120, type: ss, cipher: chacha20-ietf-poly1305, password: d7b01e97-61f3-444f-bd4c-17a252835328, udp: true}
+- {name: 🇭🇰 香港02-限时高速（限速50mbps） - 星速云StarSpeed, server: starspeed.tbh.iosds.com, port: 47120, type: ss, cipher: chacha20-ietf-poly1305, password: d7b01e97-61f3-444f-bd4c-17a252835328, udp: true}
+- {name: 🇭🇰 香港03-限时高速（限速50mbps） - 星速云StarSpeed, server: starspeed.tbh.iosds.com, port: 47120, type: ss, cipher: chacha20-ietf-poly1305, password: d7b01e97-61f3-444f-bd4c-17a252835328, udp: true}

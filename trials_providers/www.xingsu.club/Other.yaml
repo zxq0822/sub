@@ -1,5 +1,5 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 官网：xingsu.club - 星速云StarSpeed, server: speedip.eu.org, port: 80, type: vmess, uuid: fc6be1be-428d-49f7-be83-147ee424aea7, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /xingsuyun, headers: {Host: us6.xingsu.fun}}, udp: true}
-- {name: 备用域名：xingsu.lol - 星速云StarSpeed, server: speedip.eu.org, port: 80, type: vmess, uuid: fc6be1be-428d-49f7-be83-147ee424aea7, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /xingsuyun, headers: {Host: us6.xingsu.fun}}, udp: true}
+- {name: 官网：xingsu.club - 星速云StarSpeed, server: speedip.eu.org, port: 80, type: vmess, uuid: d7b01e97-61f3-444f-bd4c-17a252835328, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /xingsuyun, headers: {Host: us6.xingsu.fun}}, udp: true}
+- {name: 备用域名：xingsu.lol - 星速云StarSpeed, server: speedip.eu.org, port: 80, type: vmess, uuid: d7b01e97-61f3-444f-bd4c-17a252835328, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /xingsuyun, headers: {Host: us6.xingsu.fun}}, udp: true}
