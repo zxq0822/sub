@@ -1076,24 +1076,24 @@ proxies:
 - {name: 🇬🇧A英国-原生ip - ikunVPN, server: gb-one.1234585.xyz, port: 80, type: vmess, uuid: f0c4fd25-498b-4d9b-9289-147e7f237e06, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: gb-one.1234585.xyz}}, udp: true}
 - {name: 🇬🇧B英国-原生ip - ikunVPN, server: gb-two.1234585.xyz, port: 80, type: vmess, uuid: f0c4fd25-498b-4d9b-9289-147e7f237e06, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: gb-two.1234585.xyz}}, udp: true}
 - {name: 🇨🇦A加拿大-0.1倍率 - ikunVPN, server: ca-one.1234585.xyz, port: 80, type: vmess, uuid: f0c4fd25-498b-4d9b-9289-147e7f237e06, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: ca-one.1234585.xyz}}, udp: true}
-- {name: 🇺🇸 USA-01 - 鹦鹉云, server: yy.yingwuyun.cyou, port: 27304, type: ss, cipher: chacha20-ietf-poly1305, password: 6bf9beb0-110d-4e47-924e-3b2648cd19fc, udp: true}
-- {name: 🇺🇸 USA-02 - 鹦鹉云, server: ly.yingwuyun.cyou, port: 27304, type: ss, cipher: chacha20-ietf-poly1305, password: 6bf9beb0-110d-4e47-924e-3b2648cd19fc, udp: true}
-- {name: 🇺🇸 USA-03 - 鹦鹉云, server: dy.yingwuyun.cyou, port: 27304, type: ss, cipher: chacha20-ietf-poly1305, password: 6bf9beb0-110d-4e47-924e-3b2648cd19fc, udp: true}
-- {name: 🇹🇼 Taiwan-01 - 鹦鹉云, server: yy.yingwuyun.cyou, port: 27305, type: ss, cipher: chacha20-ietf-poly1305, password: 6bf9beb0-110d-4e47-924e-3b2648cd19fc, udp: true}
-- {name: 🇹🇼 Taiwan-02 - 鹦鹉云, server: ly.yingwuyun.cyou, port: 27305, type: ss, cipher: chacha20-ietf-poly1305, password: 6bf9beb0-110d-4e47-924e-3b2648cd19fc, udp: true}
-- {name: 🇹🇼 Taiwan-03 - 鹦鹉云, server: dy.yingwuyun.cyou, port: 27305, type: ss, cipher: chacha20-ietf-poly1305, password: 6bf9beb0-110d-4e47-924e-3b2648cd19fc, udp: true}
-- {name: 🇭🇰 Hongkong-01 - 鹦鹉云, server: yy.yingwuyun.cyou, port: 27306, type: ss, cipher: chacha20-ietf-poly1305, password: 6bf9beb0-110d-4e47-924e-3b2648cd19fc, udp: true}
-- {name: 🇭🇰 Hongkong-02 - 鹦鹉云, server: ly.yingwuyun.cyou, port: 27306, type: ss, cipher: chacha20-ietf-poly1305, password: 6bf9beb0-110d-4e47-924e-3b2648cd19fc, udp: true}
-- {name: 🇭🇰 Hongkong-03 - 鹦鹉云, server: dy.yingwuyun.cyou, port: 27306, type: ss, cipher: chacha20-ietf-poly1305, password: 6bf9beb0-110d-4e47-924e-3b2648cd19fc, udp: true}
-- {name: 🇯🇵 Japan-01 - 鹦鹉云, server: yy.yingwuyun.cyou, port: 27302, type: ss, cipher: chacha20-ietf-poly1305, password: 6bf9beb0-110d-4e47-924e-3b2648cd19fc, udp: true}
-- {name: 🇯🇵 Japan-02 - 鹦鹉云, server: ly.yingwuyun.cyou, port: 27302, type: ss, cipher: chacha20-ietf-poly1305, password: 6bf9beb0-110d-4e47-924e-3b2648cd19fc, udp: true}
-- {name: 🇯🇵 Japan-03 - 鹦鹉云, server: dy.yingwuyun.cyou, port: 27302, type: ss, cipher: chacha20-ietf-poly1305, password: 6bf9beb0-110d-4e47-924e-3b2648cd19fc, udp: true}
-- {name: 🇸🇬 Singapore-01 - 鹦鹉云, server: yy.yingwuyun.cyou, port: 27301, type: ss, cipher: chacha20-ietf-poly1305, password: 6bf9beb0-110d-4e47-924e-3b2648cd19fc, udp: true}
-- {name: 🇸🇬 Singapore-02 - 鹦鹉云, server: ly.yingwuyun.cyou, port: 27301, type: ss, cipher: chacha20-ietf-poly1305, password: 6bf9beb0-110d-4e47-924e-3b2648cd19fc, udp: true}
-- {name: 🇸🇬 Singapore-03 - 鹦鹉云, server: dy.yingwuyun.cyou, port: 27301, type: ss, cipher: chacha20-ietf-poly1305, password: 6bf9beb0-110d-4e47-924e-3b2648cd19fc, udp: true}
-- {name: 🇰🇷 South Korea-01 - 鹦鹉云, server: yy.yingwuyun.cyou, port: 27303, type: ss, cipher: chacha20-ietf-poly1305, password: 6bf9beb0-110d-4e47-924e-3b2648cd19fc, udp: true}
-- {name: 🇰🇷 South Korea-02 - 鹦鹉云, server: ly.yingwuyun.cyou, port: 27303, type: ss, cipher: chacha20-ietf-poly1305, password: 6bf9beb0-110d-4e47-924e-3b2648cd19fc, udp: true}
-- {name: 🇰🇷 South Korea-03 - 鹦鹉云, server: dy.yingwuyun.cyou, port: 27303, type: ss, cipher: chacha20-ietf-poly1305, password: 6bf9beb0-110d-4e47-924e-3b2648cd19fc, udp: true}
+- {name: 🇺🇸 USA-01 - 鹦鹉云, server: yy.yingwuyun.cyou, port: 27304, type: ss, cipher: chacha20-ietf-poly1305, password: f82cf56c-ac0b-4426-badc-a4fd48c88de1, udp: true}
+- {name: 🇺🇸 USA-02 - 鹦鹉云, server: ly.yingwuyun.cyou, port: 27304, type: ss, cipher: chacha20-ietf-poly1305, password: f82cf56c-ac0b-4426-badc-a4fd48c88de1, udp: true}
+- {name: 🇺🇸 USA-03 - 鹦鹉云, server: dy.yingwuyun.cyou, port: 27304, type: ss, cipher: chacha20-ietf-poly1305, password: f82cf56c-ac0b-4426-badc-a4fd48c88de1, udp: true}
+- {name: 🇹🇼 Taiwan-01 - 鹦鹉云, server: yy.yingwuyun.cyou, port: 27305, type: ss, cipher: chacha20-ietf-poly1305, password: f82cf56c-ac0b-4426-badc-a4fd48c88de1, udp: true}
+- {name: 🇹🇼 Taiwan-02 - 鹦鹉云, server: ly.yingwuyun.cyou, port: 27305, type: ss, cipher: chacha20-ietf-poly1305, password: f82cf56c-ac0b-4426-badc-a4fd48c88de1, udp: true}
+- {name: 🇹🇼 Taiwan-03 - 鹦鹉云, server: dy.yingwuyun.cyou, port: 27305, type: ss, cipher: chacha20-ietf-poly1305, password: f82cf56c-ac0b-4426-badc-a4fd48c88de1, udp: true}
+- {name: 🇭🇰 Hongkong-01 - 鹦鹉云, server: yy.yingwuyun.cyou, port: 27306, type: ss, cipher: chacha20-ietf-poly1305, password: f82cf56c-ac0b-4426-badc-a4fd48c88de1, udp: true}
+- {name: 🇭🇰 Hongkong-02 - 鹦鹉云, server: ly.yingwuyun.cyou, port: 27306, type: ss, cipher: chacha20-ietf-poly1305, password: f82cf56c-ac0b-4426-badc-a4fd48c88de1, udp: true}
+- {name: 🇭🇰 Hongkong-03 - 鹦鹉云, server: dy.yingwuyun.cyou, port: 27306, type: ss, cipher: chacha20-ietf-poly1305, password: f82cf56c-ac0b-4426-badc-a4fd48c88de1, udp: true}
+- {name: 🇯🇵 Japan-01 - 鹦鹉云, server: yy.yingwuyun.cyou, port: 27302, type: ss, cipher: chacha20-ietf-poly1305, password: f82cf56c-ac0b-4426-badc-a4fd48c88de1, udp: true}
+- {name: 🇯🇵 Japan-02 - 鹦鹉云, server: ly.yingwuyun.cyou, port: 27302, type: ss, cipher: chacha20-ietf-poly1305, password: f82cf56c-ac0b-4426-badc-a4fd48c88de1, udp: true}
+- {name: 🇯🇵 Japan-03 - 鹦鹉云, server: dy.yingwuyun.cyou, port: 27302, type: ss, cipher: chacha20-ietf-poly1305, password: f82cf56c-ac0b-4426-badc-a4fd48c88de1, udp: true}
+- {name: 🇸🇬 Singapore-01 - 鹦鹉云, server: yy.yingwuyun.cyou, port: 27301, type: ss, cipher: chacha20-ietf-poly1305, password: f82cf56c-ac0b-4426-badc-a4fd48c88de1, udp: true}
+- {name: 🇸🇬 Singapore-02 - 鹦鹉云, server: ly.yingwuyun.cyou, port: 27301, type: ss, cipher: chacha20-ietf-poly1305, password: f82cf56c-ac0b-4426-badc-a4fd48c88de1, udp: true}
+- {name: 🇸🇬 Singapore-03 - 鹦鹉云, server: dy.yingwuyun.cyou, port: 27301, type: ss, cipher: chacha20-ietf-poly1305, password: f82cf56c-ac0b-4426-badc-a4fd48c88de1, udp: true}
+- {name: 🇰🇷 South Korea-01 - 鹦鹉云, server: yy.yingwuyun.cyou, port: 27303, type: ss, cipher: chacha20-ietf-poly1305, password: f82cf56c-ac0b-4426-badc-a4fd48c88de1, udp: true}
+- {name: 🇰🇷 South Korea-02 - 鹦鹉云, server: ly.yingwuyun.cyou, port: 27303, type: ss, cipher: chacha20-ietf-poly1305, password: f82cf56c-ac0b-4426-badc-a4fd48c88de1, udp: true}
+- {name: 🇰🇷 South Korea-03 - 鹦鹉云, server: dy.yingwuyun.cyou, port: 27303, type: ss, cipher: chacha20-ietf-poly1305, password: f82cf56c-ac0b-4426-badc-a4fd48c88de1, udp: true}
 - {name: 🇺🇸美国-纽约-00|1X - 周树人Cloud, server: zf.zsr-seoul.661145.xyz, port: 24594, type: trojan, password: 3dec6b39-a3c7-4c0f-9ce8-d3f73c5b1059, sni: 1.ca58851.eu.org, skip-cert-verify: true, udp: true}
 - {name: 🇺🇸美国-圣何塞-01|1X - 周树人Cloud, server: US.Sanjose1.zhoushuren.top, port: 35632, type: trojan, password: 3dec6b39-a3c7-4c0f-9ce8-d3f73c5b1059, sni: US.Sanjose1.zhoushuren.top, skip-cert-verify: true, udp: true}
 - {name: 🇺🇸美国-圣克拉拉-02|1X - 周树人Cloud, server: zf.zsr-seoul.661145.xyz, port: 53647, type: trojan, password: 3dec6b39-a3c7-4c0f-9ce8-d3f73c5b1059, sni: zhengjjs.588500.xyz, skip-cert-verify: true, udp: true}

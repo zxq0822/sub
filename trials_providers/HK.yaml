@@ -37,9 +37,9 @@ proxies:
 - {name: 🇭🇰 香港 2 - 西瓜皮是真的皮, server: ct1-xg.go001.buzz, port: 19812, type: vmess, uuid: af045806-0fe2-36c6-a4ac-8a09ab82fecb, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇭🇰A香港-中转 - ikunVPN, server: xiongda006.daxiongda.top, port: 26961, type: vmess, uuid: f0c4fd25-498b-4d9b-9289-147e7f237e06, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: xiongda006.daxiongda.top}}, udp: true}
 - {name: 🇭🇰B香港-中转 - ikunVPN, server: zfa.1234585.xyz, port: 10645, type: ss, cipher: aes-256-gcm, password: f0c4fd25-498b-4d9b-9289-147e7f237e06, udp: true}
-- {name: 🇭🇰 Hongkong-01 - 鹦鹉云, server: yy.yingwuyun.cyou, port: 27306, type: ss, cipher: chacha20-ietf-poly1305, password: 6bf9beb0-110d-4e47-924e-3b2648cd19fc, udp: true}
-- {name: 🇭🇰 Hongkong-02 - 鹦鹉云, server: ly.yingwuyun.cyou, port: 27306, type: ss, cipher: chacha20-ietf-poly1305, password: 6bf9beb0-110d-4e47-924e-3b2648cd19fc, udp: true}
-- {name: 🇭🇰 Hongkong-03 - 鹦鹉云, server: dy.yingwuyun.cyou, port: 27306, type: ss, cipher: chacha20-ietf-poly1305, password: 6bf9beb0-110d-4e47-924e-3b2648cd19fc, udp: true}
+- {name: 🇭🇰 Hongkong-01 - 鹦鹉云, server: yy.yingwuyun.cyou, port: 27306, type: ss, cipher: chacha20-ietf-poly1305, password: f82cf56c-ac0b-4426-badc-a4fd48c88de1, udp: true}
+- {name: 🇭🇰 Hongkong-02 - 鹦鹉云, server: ly.yingwuyun.cyou, port: 27306, type: ss, cipher: chacha20-ietf-poly1305, password: f82cf56c-ac0b-4426-badc-a4fd48c88de1, udp: true}
+- {name: 🇭🇰 Hongkong-03 - 鹦鹉云, server: dy.yingwuyun.cyou, port: 27306, type: ss, cipher: chacha20-ietf-poly1305, password: f82cf56c-ac0b-4426-badc-a4fd48c88de1, udp: true}
 - {name: 🇭🇰 HK-香港01|流媒体|1X - 周树人Cloud, server: zf.zsr-seoul.661145.xyz, port: 15708, type: trojan, password: 3dec6b39-a3c7-4c0f-9ce8-d3f73c5b1059, sni: zf.zsr-seoul.661145.xyz, skip-cert-verify: true, udp: true}
 - {name: 🇭🇰 HK-香港02|流媒体|1X - 周树人Cloud, server: zf.zsr-seoul.661145.xyz, port: 37971, type: trojan, password: 3dec6b39-a3c7-4c0f-9ce8-d3f73c5b1059, sni: manghe.xiaohongshuvpn.top, skip-cert-verify: true, udp: true}
 - {name: 🇭🇰 HK-香港03|流媒体|1X - 周树人Cloud, server: zf.zsr-seoul2.661145.xyz, port: 23378, type: trojan, password: 3dec6b39-a3c7-4c0f-9ce8-d3f73c5b1059, sni: 1.waimaozhan.top, skip-cert-verify: true, udp: true}
