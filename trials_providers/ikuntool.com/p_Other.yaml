@@ -1,4 +1,4 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🌟官网https://ikuntool.com - ikunVPN, server: us-one.1234585.xyz, port: 80, type: vmess, uuid: 6830906a-b157-4935-a58e-dc0fcd6208b5, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: us-one.1234585.xyz}}, udp: true}
+- {name: 🌟官网https://ikuntool.com - ikunVPN, server: us-one.1234585.xyz, port: 80, type: vmess, uuid: f0c4fd25-498b-4d9b-9289-147e7f237e06, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: us-one.1234585.xyz}}, udp: true}

@@ -31,7 +31,7 @@ proxies:
 - {name: 🇸🇬 新加坡02-南方移动 - 星速云StarSpeed, server: yd.xingsu.fun, port: 80, type: vmess, uuid: d7b01e97-61f3-444f-bd4c-17a252835328, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /xingsu, headers: {Host: sgyd2.xingsu.fun}}, udp: true}
 - {name: 🇸🇬 新加坡 1 Netflix  - 西瓜皮是真的皮, server: cm1-xg.go001.buzz, port: 19841, type: vmess, uuid: ee71515b-f411-33e5-98d5-6d624ff4446d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇸🇬 新加坡 2 Netflix - 西瓜皮是真的皮, server: ct1-xg.go001.buzz, port: 19842, type: vmess, uuid: ee71515b-f411-33e5-98d5-6d624ff4446d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇸🇬A新加坡-中转 - ikunVPN, server: zfa.1234585.xyz, port: 47735, type: ss, cipher: aes-256-gcm, password: 6830906a-b157-4935-a58e-dc0fcd6208b5, udp: true}
+- {name: 🇸🇬A新加坡-中转 - ikunVPN, server: zfa.1234585.xyz, port: 47735, type: ss, cipher: aes-256-gcm, password: f0c4fd25-498b-4d9b-9289-147e7f237e06, udp: true}
 - {name: 🇸🇬 Singapore-01 - 鹦鹉云, server: yy.yingwuyun.cyou, port: 27301, type: ss, cipher: chacha20-ietf-poly1305, password: 6bf9beb0-110d-4e47-924e-3b2648cd19fc, udp: true}
 - {name: 🇸🇬 Singapore-02 - 鹦鹉云, server: ly.yingwuyun.cyou, port: 27301, type: ss, cipher: chacha20-ietf-poly1305, password: 6bf9beb0-110d-4e47-924e-3b2648cd19fc, udp: true}
 - {name: 🇸🇬 Singapore-03 - 鹦鹉云, server: dy.yingwuyun.cyou, port: 27301, type: ss, cipher: chacha20-ietf-poly1305, password: 6bf9beb0-110d-4e47-924e-3b2648cd19fc, udp: true}
