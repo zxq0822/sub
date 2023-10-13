@@ -1,0 +1,6 @@
+%YAML 1.1
+---
+proxies:
+- {name: 🇺🇸A美国-原生ip - ikunVPN, server: us-two.1234585.xyz, port: 80, type: vmess, uuid: 6830906a-b157-4935-a58e-dc0fcd6208b5, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: us-two.1234585.xyz}}, udp: true}
+- {name: 🇺🇸B美国-原生ip - ikunVPN, server: us-three.1234585.xyz, port: 80, type: vmess, uuid: 6830906a-b157-4935-a58e-dc0fcd6208b5, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: us-three.1234585.xyz}}, udp: true}
+- {name: 🇺🇸C美国-原生ip - ikunVPN, server: us-one.1234585.xyz, port: 80, type: vmess, uuid: 6830906a-b157-4935-a58e-dc0fcd6208b5, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: us-one.1234585.xyz}}, udp: true}
