@@ -10,15 +10,11 @@ proxy-groups:
   type: select
   proxies:
   - ⚡ ‍低延迟
-  - 🇭🇰 ‍香港
   - 🇸🇬 ‍新加坡
   - 🇯🇵 ‍日本
-  - 🇺🇸 ‍美国
   - 👆🏻 ‍指定
-  - 👆🏻🇭🇰 ‍香港
   - 👆🏻🇸🇬 ‍新加坡
   - 👆🏻🇯🇵 ‍日本
-  - 👆🏻🇺🇸 ‍美国
   - DIRECT
 - name: ⚡ ‍低延迟
   type: url-test
@@ -26,10 +22,6 @@ proxy-groups:
   interval: 30
   tolerance: 50
   proxies: &id001
-  - 🇭🇰 香港核心 IEPL 01 - 便宜机场
-  - 🇭🇰 香港核心 IEPL 02 - 便宜机场
-  - 🇭🇰 香港核心 IEPL 03 - 便宜机场
-  - 🇭🇰 香港核心 IEPL 04 - 便宜机场
   - 🇸🇬 新加坡核心 IEPL 01 - 便宜机场
   - 🇸🇬 新加坡核心 IEPL 02 - 便宜机场
   - 🇸🇬 新加坡核心 IEPL 03 - 便宜机场
@@ -38,10 +30,6 @@ proxy-groups:
   - 🇯🇵 日本核心 IEPL 02 - 便宜机场
   - 🇯🇵 日本核心 IEPL 03 - 便宜机场
   - 🇯🇵 日本核心 IEPL 04 - 便宜机场
-  - 🇺🇸 美国核心 IEPL 01 - 便宜机场
-  - 🇺🇸 美国核心 IEPL 02 - 便宜机场
-  - 🇺🇸 美国核心 IEPL 03 - 便宜机场
-  - 🇺🇸 美国核心 IEPL 04 - 便宜机场
 - name: 🛩️ ‍墙内
   type: select
   proxies:
@@ -57,16 +45,12 @@ proxy-groups:
 - name: 📺 ‍B站
   type: select
   proxies:
-  - 🇭🇰 ‍香港
   - 🛩️ ‍墙内
   - 👆🏻 ‍指定
-  - 👆🏻🇭🇰 ‍香港
   - ✈️ ‍起飞
 - name: 🤖 ‍OpenAI+Bing
   type: select
   proxies:
-  - 🇺🇸 ‍美国
-  - 👆🏻🇺🇸 ‍美国
   - 🇸🇬 ‍新加坡
   - 🇯🇵 ‍日本
   - 👆🏻 ‍指定
@@ -80,22 +64,12 @@ proxy-groups:
   - ✈️ ‍起飞
   - 🛩️ ‍墙内
   - 💩 ‍广告
-- name: 🇭🇰 ‍香港
-  type: url-test
-  url: https://i.ytimg.com/generate_204
-  interval: 30
-  tolerance: 50
-  proxies: &id002
-  - 🇭🇰 香港核心 IEPL 01 - 便宜机场
-  - 🇭🇰 香港核心 IEPL 02 - 便宜机场
-  - 🇭🇰 香港核心 IEPL 03 - 便宜机场
-  - 🇭🇰 香港核心 IEPL 04 - 便宜机场
 - name: 🇸🇬 ‍新加坡
   type: url-test
   url: https://i.ytimg.com/generate_204
   interval: 30
   tolerance: 50
-  proxies: &id003
+  proxies: &id002
   - 🇸🇬 新加坡核心 IEPL 01 - 便宜机场
   - 🇸🇬 新加坡核心 IEPL 02 - 便宜机场
   - 🇸🇬 新加坡核心 IEPL 03 - 便宜机场
@@ -105,41 +79,21 @@ proxy-groups:
   url: https://i.ytimg.com/generate_204
   interval: 30
   tolerance: 50
-  proxies: &id004
+  proxies: &id003
   - 🇯🇵 日本核心 IEPL 01 - 便宜机场
   - 🇯🇵 日本核心 IEPL 02 - 便宜机场
   - 🇯🇵 日本核心 IEPL 03 - 便宜机场
   - 🇯🇵 日本核心 IEPL 04 - 便宜机场
-- name: 🇺🇸 ‍美国
-  type: url-test
-  url: https://i.ytimg.com/generate_204
-  interval: 30
-  tolerance: 50
-  proxies: &id005
-  - 🇺🇸 美国核心 IEPL 01 - 便宜机场
-  - 🇺🇸 美国核心 IEPL 02 - 便宜机场
-  - 🇺🇸 美国核心 IEPL 03 - 便宜机场
-  - 🇺🇸 美国核心 IEPL 04 - 便宜机场
 - name: 👆🏻 ‍指定
   type: select
   proxies: *id001
-- name: 👆🏻🇭🇰 ‍香港
-  type: select
-  proxies: *id002
 - name: 👆🏻🇸🇬 ‍新加坡
   type: select
-  proxies: *id003
+  proxies: *id002
 - name: 👆🏻🇯🇵 ‍日本
   type: select
-  proxies: *id004
-- name: 👆🏻🇺🇸 ‍美国
-  type: select
-  proxies: *id005
+  proxies: *id003
 proxies:
-- {name: 🇭🇰 香港核心 IEPL 01 - 便宜机场, server: hk1.fp3kemyh-cm4s-2hak-2gb9-w3534umy2sq5.9d8f269f96b25232-759cbb36d6548597.kaufen, port: 36001, type: trojan, password: 48e5676b-9de3-49a5-819b-189962055884, sni: 13-231-155-134.nhost.00cdn.com, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 香港核心 IEPL 02 - 便宜机场, server: hk1.fp3kemyh-cm4s-2hak-2gb9-w3534umy2sq5.9d8f269f96b25232-759cbb36d6548597.kaufen, port: 36001, type: trojan, password: 48e5676b-9de3-49a5-819b-189962055884, sni: 13-231-155-134.nhost.00cdn.com, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 香港核心 IEPL 03 - 便宜机场, server: hk1.fp3kemyh-cm4s-2hak-2gb9-w3534umy2sq5.9d8f269f96b25232-759cbb36d6548597.kaufen, port: 36001, type: trojan, password: 48e5676b-9de3-49a5-819b-189962055884, sni: 13-231-155-134.nhost.00cdn.com, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 香港核心 IEPL 04 - 便宜机场, server: hk1.fp3kemyh-cm4s-2hak-2gb9-w3534umy2sq5.9d8f269f96b25232-759cbb36d6548597.kaufen, port: 36001, type: trojan, password: 48e5676b-9de3-49a5-819b-189962055884, sni: 13-231-155-134.nhost.00cdn.com, skip-cert-verify: true, udp: true}
 - {name: 🇯🇵 日本核心 IEPL 01 - 便宜机场, server: jp1.fp3kemyh-cm4s-2hak-2gb9-w3534umy2sq5.9d8f269f96b25232-759cbb36d6548597.kaufen, port: 443, type: trojan, password: 48e5676b-9de3-49a5-819b-189962055884, sni: 13-231-155-134.nhost.00cdn.com, skip-cert-verify: true, udp: true}
 - {name: 🇯🇵 日本核心 IEPL 02 - 便宜机场, server: jp1.fp3kemyh-cm4s-2hak-2gb9-w3534umy2sq5.9d8f269f96b25232-759cbb36d6548597.kaufen, port: 443, type: trojan, password: 48e5676b-9de3-49a5-819b-189962055884, sni: 13-231-155-134.nhost.00cdn.com, skip-cert-verify: true, udp: true}
 - {name: 🇯🇵 日本核心 IEPL 03 - 便宜机场, server: jp1.fp3kemyh-cm4s-2hak-2gb9-w3534umy2sq5.9d8f269f96b25232-759cbb36d6548597.kaufen, port: 443, type: trojan, password: 48e5676b-9de3-49a5-819b-189962055884, sni: 13-231-155-134.nhost.00cdn.com, skip-cert-verify: true, udp: true}
@@ -148,10 +102,6 @@ proxies:
 - {name: 🇸🇬 新加坡核心 IEPL 02 - 便宜机场, server: hknat.xyz, port: 50413, type: trojan, password: 48e5676b-9de3-49a5-819b-189962055884, sni: 13-231-155-134.nhost.00cdn.com, skip-cert-verify: true, udp: true}
 - {name: 🇸🇬 新加坡核心 IEPL 03 - 便宜机场, server: sg2.fp3kemyh-cm4s-2hak-2gb9-w3534umy2sq5.9d8f269f96b25232-759cbb36d6548597.kaufen, port: 63001, type: trojan, password: 48e5676b-9de3-49a5-819b-189962055884, sni: 13-231-155-134.nhost.00cdn.com, skip-cert-verify: true, udp: true}
 - {name: 🇸🇬 新加坡核心 IEPL 04 - 便宜机场, server: sg2.fp3kemyh-cm4s-2hak-2gb9-w3534umy2sq5.9d8f269f96b25232-759cbb36d6548597.kaufen, port: 63001, type: trojan, password: 48e5676b-9de3-49a5-819b-189962055884, sni: 13-231-155-134.nhost.00cdn.com, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 美国核心 IEPL 01 - 便宜机场, server: us1.fp3kemyh-cm4s-2hak-2gb9-w3534umy2sq5.9d8f269f96b25232-759cbb36d6548597.kaufen, port: 443, type: trojan, password: 48e5676b-9de3-49a5-819b-189962055884, sni: 13-231-155-134.nhost.00cdn.com, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 美国核心 IEPL 02 - 便宜机场, server: us1.fp3kemyh-cm4s-2hak-2gb9-w3534umy2sq5.9d8f269f96b25232-759cbb36d6548597.kaufen, port: 443, type: trojan, password: 48e5676b-9de3-49a5-819b-189962055884, sni: 13-231-155-134.nhost.00cdn.com, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 美国核心 IEPL 03 - 便宜机场, server: us1.fp3kemyh-cm4s-2hak-2gb9-w3534umy2sq5.9d8f269f96b25232-759cbb36d6548597.kaufen, port: 443, type: trojan, password: 48e5676b-9de3-49a5-819b-189962055884, sni: 13-231-155-134.nhost.00cdn.com, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 美国核心 IEPL 04 - 便宜机场, server: us1.fp3kemyh-cm4s-2hak-2gb9-w3534umy2sq5.9d8f269f96b25232-759cbb36d6548597.kaufen, port: 443, type: trojan, password: 48e5676b-9de3-49a5-819b-189962055884, sni: 13-231-155-134.nhost.00cdn.com, skip-cert-verify: true, udp: true}
 rules:
 - DOMAIN-SUFFIX,acl4.ssr,DIRECT
 - DOMAIN-SUFFIX,ip6-localhost,DIRECT
