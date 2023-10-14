@@ -1,5 +1,7 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇸🇬 新加坡核心 IEPL 03 - 便宜机场, server: sg2.fp3kemyh-cm4s-2hak-2gb9-w3534umy2sq5.9d8f269f96b25232-759cbb36d6548597.kaufen, port: 63001, type: trojan, password: 48e5676b-9de3-49a5-819b-189962055884, sni: 13-231-155-134.nhost.00cdn.com, skip-cert-verify: true, udp: true}
-- {name: 🇸🇬 新加坡核心 IEPL 04 - 便宜机场, server: sg2.fp3kemyh-cm4s-2hak-2gb9-w3534umy2sq5.9d8f269f96b25232-759cbb36d6548597.kaufen, port: 63001, type: trojan, password: 48e5676b-9de3-49a5-819b-189962055884, sni: 13-231-155-134.nhost.00cdn.com, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬 新加坡核心 IEPL 01 - 便宜机场, server: sg1-reality.fp3kemyh-cm4s-2hak-2gb9-w3534umy2sq5.9d8f269f96b25232-759cbb36d6548597.kaufen, port: 443, type: trojan, password: 48e5676b-9de3-49a5-819b-189962055884, sni: 13-231-155-134.nhost.00cdn.com, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬 新加坡核心 IEPL 02 - 便宜机场, server: sg1-reality.fp3kemyh-cm4s-2hak-2gb9-w3534umy2sq5.9d8f269f96b25232-759cbb36d6548597.kaufen, port: 443, type: trojan, password: 48e5676b-9de3-49a5-819b-189962055884, sni: 13-231-155-134.nhost.00cdn.com, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬 新加坡核心 IEPL 03 - 便宜机场, server: sg2-reality.fp3kemyh-cm4s-2hak-2gb9-w3534umy2sq5.9d8f269f96b25232-759cbb36d6548597.kaufen, port: 443, type: trojan, password: 48e5676b-9de3-49a5-819b-189962055884, sni: 13-231-155-134.nhost.00cdn.com, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬 新加坡核心 IEPL 04 - 便宜机场, server: sg2-reality.fp3kemyh-cm4s-2hak-2gb9-w3534umy2sq5.9d8f269f96b25232-759cbb36d6548597.kaufen, port: 443, type: trojan, password: 48e5676b-9de3-49a5-819b-189962055884, sni: 13-231-155-134.nhost.00cdn.com, skip-cert-verify: true, udp: true}
