@@ -1,6 +1,8 @@
 %YAML 1.1
 ---
 proxies:
+- {name: 🇸🇬 sg免费 | 1.5x 新加坡01 - 三藏云, server: sgf01.sanzangyun.xyz, port: 29036, type: vmess, uuid: c9097793-b1a3-46b7-9fdb-49bf1cbe22db, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /cctv5/hd.m3u8, headers: {Host: sgf01.sanzangyun.xyz}}, udp: true}
+- {name: 🇸🇬 sg免费 | 1.5x 新加坡02 - 三藏云, server: sgf02.sanzangyun.xyz, port: 25802, type: trojan, password: c9097793-b1a3-46b7-9fdb-49bf1cbe22db, sni: free-cn-sgd02.ssnode.one, skip-cert-verify: true, udp: true}
 - {name: 🇺🇸 us免费 | 1.5x 美国01 - 三藏云, server: usf01.sanzangyun.xyz, port: 32099, type: vmess, uuid: c9097793-b1a3-46b7-9fdb-49bf1cbe22db, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /cctv5/hd.m3u8, headers: {Host: usf01.sanzangyun.xyz}}, udp: true}
 - {name: 🇺🇸 us免费 | 1.5x 美国02 - 三藏云, server: usf02.sanzangyun.xyz, port: 43909, type: trojan, password: c9097793-b1a3-46b7-9fdb-49bf1cbe22db, sni: free-cn-usd01.ssnode.one, skip-cert-verify: true, udp: true}
 - {name: 🇭🇰 hk免费 | 1.5x 香港01 - 三藏云, server: hkf01.sanzangyun.xyz, port: 40508, type: vmess, uuid: c9097793-b1a3-46b7-9fdb-49bf1cbe22db, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /cctv5/hd.m3u8, headers: {Host: hkf01.sanzangyun.xyz}}, udp: true}

@@ -38,3 +38,5 @@ proxies:
 - {name: 🇸🇬新加坡01|1X - 周树人Cloud, server: zf.zsr-seoul2.661145.xyz, port: 30690, type: trojan, password: cad01463-48e4-40a9-9123-666d49c2f69c, sni: doxjp01.zhoushuren.me, skip-cert-verify: true, udp: true}
 - {name: 🇸🇬新加坡02|1X - 周树人Cloud, server: zf.zsr-seoul.661145.xyz, port: 11896, type: trojan, password: cad01463-48e4-40a9-9123-666d49c2f69c, sni: gfxjp01.588500.xyz, skip-cert-verify: true, udp: true}
 - {name: 🇸🇬新加坡03|0.1X - 周树人Cloud, server: zsr.tw.hinet.661145.xyz, port: 42140, type: ss, cipher: aes-256-gcm, password: cad01463-48e4-40a9-9123-666d49c2f69c, udp: true}
+- {name: 🇸🇬 sg免费 | 1.5x 新加坡01 - 三藏云, server: sgf01.sanzangyun.xyz, port: 29036, type: vmess, uuid: c9097793-b1a3-46b7-9fdb-49bf1cbe22db, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /cctv5/hd.m3u8, headers: {Host: sgf01.sanzangyun.xyz}}, udp: true}
+- {name: 🇸🇬 sg免费 | 1.5x 新加坡02 - 三藏云, server: sgf02.sanzangyun.xyz, port: 25802, type: trojan, password: c9097793-b1a3-46b7-9fdb-49bf1cbe22db, sni: free-cn-sgd02.ssnode.one, skip-cert-verify: true, udp: true}
