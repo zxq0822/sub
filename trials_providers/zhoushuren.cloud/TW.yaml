@@ -1,7 +1,7 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇹🇼台湾家宽-彰化-01|1X - 周树人Cloud, server: zsr.tw.hinet.661145.xyz, port: 58850, type: trojan, password: 8fae25ee-ec72-4bf7-ac59-5d5013dcba61, sni: zsr.tw.hinet.661145.xyz, skip-cert-verify: true, udp: true}
-- {name: 🇹🇼台湾家宽-彰化-02|1X - 周树人Cloud, server: zsr.tw.hinet.661145.xyz, port: 58850, type: trojan, password: 8fae25ee-ec72-4bf7-ac59-5d5013dcba61, sni: zsr.tw.hinet.661145.xyz, skip-cert-verify: true, udp: true}
-- {name: 🇹🇼台湾家宽-彰化-03|1X - 周树人Cloud, server: zsr.tw.hinet.661145.xyz, port: 58850, type: trojan, password: 8fae25ee-ec72-4bf7-ac59-5d5013dcba61, sni: zsr.tw.hinet.661145.xyz, skip-cert-verify: true, udp: true}
-- {name: 🇹🇼台湾家宽-彰化-04|1X - 周树人Cloud, server: zsr.tw.hinet.661145.xyz, port: 58850, type: trojan, password: 8fae25ee-ec72-4bf7-ac59-5d5013dcba61, sni: zsr.tw.hinet.661145.xyz, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼台湾家宽-彰化-01|1X - 周树人Cloud, server: zsr.tw.hinet.661145.xyz, port: 58850, type: trojan, password: afb1bad5-ad0e-4c66-8aaa-5f97e3ca0710, sni: zsr.tw.hinet.661145.xyz, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼台湾家宽-彰化-02|1X - 周树人Cloud, server: zsr.tw.hinet.661145.xyz, port: 58850, type: trojan, password: afb1bad5-ad0e-4c66-8aaa-5f97e3ca0710, sni: zsr.tw.hinet.661145.xyz, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼台湾家宽-彰化-03|1X - 周树人Cloud, server: zsr.tw.hinet.661145.xyz, port: 58850, type: trojan, password: afb1bad5-ad0e-4c66-8aaa-5f97e3ca0710, sni: zsr.tw.hinet.661145.xyz, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼台湾家宽-彰化-04|1X - 周树人Cloud, server: zsr.tw.hinet.661145.xyz, port: 58850, type: trojan, password: afb1bad5-ad0e-4c66-8aaa-5f97e3ca0710, sni: zsr.tw.hinet.661145.xyz, skip-cert-verify: true, udp: true}
