@@ -1,4 +1,4 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 距离下次重置剩余：16 天 - 大湾区坤厂, server: 74.48.98.249, port: 8080, type: vmess, uuid: 6390aa45-bdd8-4aa1-8538-f16d34bdcb20, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: '/quanstring?ed=2048', headers: {Host: us.quanstring.top}}, udp: true}
+- {name: 距离下次重置剩余：16 天 - 大湾区坤厂, server: lpl.xggj.xn--fiqs8s, port: 39111, type: ss, cipher: chacha20-ietf-poly1305, password: 6390aa45-bdd8-4aa1-8538-f16d34bdcb20, udp: true}
