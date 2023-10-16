@@ -1,4 +1,4 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 距离下次重置剩余：15 天 - 大湾区坤厂, server: lpl.xggj.xn--fiqs8s, port: 39112, type: ss, cipher: chacha20-ietf-poly1305, password: 6390aa45-bdd8-4aa1-8538-f16d34bdcb20, udp: true}
+- {name: 距离下次重置剩余：15 天 - 大湾区坤厂, server: lpl.xggj.xn--fiqs8s, port: 39112, type: ss, cipher: chacha20-ietf-poly1305, password: 5cb2d034-ba64-4c3e-8993-88d4a18b1a1d, udp: true}
