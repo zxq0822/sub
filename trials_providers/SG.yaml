@@ -20,9 +20,9 @@ proxies:
 - {name: 🇸🇬 中转•新加坡83•高速 - 飞翔吧, server: gg.58n.net, port: 30712, type: trojan, password: d69d0180-19fc-37cc-a108-e5c985eafe7c, sni: x83.flybar.work, skip-cert-verify: true, udp: true}
 - {name: 🇸🇬 新加坡•高速129•高速 - 飞翔吧, server: gg.58n.net, port: 20129, type: trojan, password: d69d0180-19fc-37cc-a108-e5c985eafe7c, sni: x129.flybar.work, skip-cert-verify: true, udp: true}
 - {name: 🇸🇬 新加坡•高速130•铂金 - 飞翔吧, server: gg.58n.net, port: 20130, type: trojan, password: d69d0180-19fc-37cc-a108-e5c985eafe7c, sni: x130.flybar.work, skip-cert-verify: true, udp: true}
-- {name: 🇸🇬新加坡01 - 都是梦, server: sg3.doushimeng.com, port: 20052, type: ss, cipher: chacha20-ietf-poly1305, password: d144e9ee-b4b4-4432-b367-9fac126d6efc, udp: true}
-- {name: 🇸🇬新加坡02 - 都是梦, server: sgggg.doushimeng.com, port: 20252, type: ss, cipher: chacha20-ietf-poly1305, password: d144e9ee-b4b4-4432-b367-9fac126d6efc, udp: true}
-- {name: 🇸🇬新加坡03 - 都是梦, server: sg2.doushimeng.com, port: 20553, type: ss, cipher: chacha20-ietf-poly1305, password: d144e9ee-b4b4-4432-b367-9fac126d6efc, udp: true}
+- {name: 🇸🇬新加坡01 - 都是梦, server: sg3.doushimeng.com, port: 20052, type: ss, cipher: chacha20-ietf-poly1305, password: b66e3a3a-cf6a-464a-9d89-be3eada75aca, udp: true}
+- {name: 🇸🇬新加坡02 - 都是梦, server: sgggg.doushimeng.com, port: 20252, type: ss, cipher: chacha20-ietf-poly1305, password: b66e3a3a-cf6a-464a-9d89-be3eada75aca, udp: true}
+- {name: 🇸🇬新加坡03 - 都是梦, server: sg2.doushimeng.com, port: 20553, type: ss, cipher: chacha20-ietf-poly1305, password: b66e3a3a-cf6a-464a-9d89-be3eada75aca, udp: true}
 - {name: '[🇸🇬] 打杂的02 x1 - 星河 583', server: v14.583182.xyz, port: 8443, type: vmess, uuid: a4bc25ea-7fd9-48c0-bbc3-bdd9bca11782, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: v14.583181.xyz, network: ws, ws-opts: {path: /, headers: {Host: v14.583181.xyz}}, udp: true}
 - {name: 🇸🇬 新加坡01-限时高速（限速50mbps） - 星速云StarSpeed, server: starspeed.tbh.iosds.com, port: 26963, type: ss, cipher: chacha20-ietf-poly1305, password: aee17208-293c-4d78-add6-6d5bbdebdfcf, udp: true}
 - {name: 🇸🇬 新加坡02-限时高速（限速50mbps） - 星速云StarSpeed, server: starspeed.tbh.iosds.com, port: 26963, type: ss, cipher: chacha20-ietf-poly1305, password: aee17208-293c-4d78-add6-6d5bbdebdfcf, udp: true}
