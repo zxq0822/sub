@@ -1,0 +1,4 @@
+%YAML 1.1
+---
+proxies:
+- {name: 🇭🇰|IEPL|3倍 - 大湾区坤厂, server: lpl.xggj.xn--fiqs8s, port: 39112, type: ss, cipher: chacha20-ietf-poly1305, password: 6390aa45-bdd8-4aa1-8538-f16d34bdcb20, udp: true}

@@ -10,15 +10,20 @@ proxy-groups:
   type: select
   proxies:
   - ⚡ ‍低延迟
+  - 🇭🇰 ‍香港
+  - 🇺🇸 ‍美国
   - 🎏 ‍其他
   - 👆🏻 ‍指定
+  - 👆🏻🇭🇰 ‍香港
+  - 👆🏻🇺🇸 ‍美国
   - 👆🏻🎏 ‍其他
   - DIRECT
 - name: ⚡ ‍低延迟
   type: url-test
   tolerance: 50
   use: &id001
-  - All
+  - HK
+  - US
 - name: 🛩️ ‍墙内
   type: select
   proxies:
@@ -34,13 +39,17 @@ proxy-groups:
 - name: 📺 ‍B站
   type: select
   proxies:
+  - 🇭🇰 ‍香港
   - 🛩️ ‍墙内
   - 👆🏻 ‍指定
+  - 👆🏻🇭🇰 ‍香港
   - ✈️ ‍起飞
 - name: 🤖 ‍OpenAI+Bing
   type: select
   proxies:
+  - 🇺🇸 ‍美国
   - 🎏 ‍其他
+  - 👆🏻🇺🇸 ‍美国
   - 👆🏻🎏 ‍其他
   - 👆🏻 ‍指定
   - ✈️ ‍起飞
@@ -51,23 +60,48 @@ proxy-groups:
   - ✈️ ‍起飞
   - 🛩️ ‍墙内
   - 💩 ‍广告
-- name: 🎏 ‍其他
+- name: 🇭🇰 ‍香港
   type: url-test
   tolerance: 50
   use: &id002
+  - HK
+- name: 🇺🇸 ‍美国
+  type: url-test
+  tolerance: 50
+  use: &id003
+  - US
+- name: 🎏 ‍其他
+  type: url-test
+  tolerance: 50
+  use: &id004
   - Other
 - name: 👆🏻 ‍指定
   type: select
   use: *id001
-- name: 👆🏻🎏 ‍其他
+- name: 👆🏻🇭🇰 ‍香港
   type: select
   use: *id002
+- name: 👆🏻🇺🇸 ‍美国
+  type: select
+  use: *id003
+- name: 👆🏻🎏 ‍其他
+  type: select
+  use: *id004
 proxy-providers:
-  All:
+  HK:
     type: http
-    url: https://raw.kgithub.com/mfbpn/tg_mfbpn_sub/main/trials_providers/v2.quanstring.top/All.yaml
+    url: https://raw.kgithub.com/mfbpn/tg_mfbpn_sub/main/trials_providers/v2.quanstring.top/HK.yaml
     interval: 180
-    path: trials_providers/v2.quanstring.top/All.yaml
+    path: trials_providers/v2.quanstring.top/HK.yaml
+    health-check:
+      enable: true
+      url: https://i.ytimg.com/generate_204
+      interval: 30
+  US:
+    type: http
+    url: https://raw.kgithub.com/mfbpn/tg_mfbpn_sub/main/trials_providers/v2.quanstring.top/US.yaml
+    interval: 180
+    path: trials_providers/v2.quanstring.top/US.yaml
     health-check:
       enable: true
       url: https://i.ytimg.com/generate_204
