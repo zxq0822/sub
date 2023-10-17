@@ -1,6 +1,6 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇺🇸 美国01-Netflix|Disney+|动画疯 - 盛丰, server: us.nodegroups.ink, port: 33208, type: vmess, uuid: 4a032e01-2f7e-3b51-9422-fd2099bfaac1, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 美国02 - 盛丰, server: us.nodegroups.ink, port: 33209, type: vmess, uuid: 4a032e01-2f7e-3b51-9422-fd2099bfaac1, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 美国03 - 盛丰, server: us.nodegroups.ink, port: 33210, type: vmess, uuid: 4a032e01-2f7e-3b51-9422-fd2099bfaac1, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 美国01-Netflix|Disney+|动画疯 - 盛丰, server: us.nodegroups.ink, port: 33208, type: vmess, uuid: d28a8686-df43-3cb7-85fa-52323125a6fe, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 美国02 - 盛丰, server: us.nodegroups.ink, port: 33209, type: vmess, uuid: d28a8686-df43-3cb7-85fa-52323125a6fe, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 美国03 - 盛丰, server: us.nodegroups.ink, port: 33210, type: vmess, uuid: d28a8686-df43-3cb7-85fa-52323125a6fe, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
