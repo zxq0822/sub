@@ -10,13 +10,11 @@ proxy-groups:
   type: select
   proxies:
   - ⚡ ‍低延迟
-  - 🇭🇰 ‍香港
   - 🇸🇬 ‍新加坡
   - 🇯🇵 ‍日本
   - 🇺🇸 ‍美国
   - 🎏 ‍其他
   - 👆🏻 ‍指定
-  - 👆🏻🇭🇰 ‍香港
   - 👆🏻🇸🇬 ‍新加坡
   - 👆🏻🇯🇵 ‍日本
   - 👆🏻🇺🇸 ‍美国
@@ -28,8 +26,6 @@ proxy-groups:
   interval: 30
   tolerance: 50
   proxies: &id001
-  - 🇭🇰 hk免费 | 1.5x 香港01 - 三藏云
-  - 🇭🇰 hk免费 | 1.5x 香港02 - 三藏云
   - 🇸🇬 sg免费 | 1.5x 新加坡01 - 三藏云
   - 🇸🇬 sg免费 | 1.5x 新加坡02 - 三藏云
   - 🇯🇵 jp免费 | 1.5x 日本01 - 三藏云
@@ -55,10 +51,8 @@ proxy-groups:
 - name: 📺 ‍B站
   type: select
   proxies:
-  - 🇭🇰 ‍香港
   - 🛩️ ‍墙内
   - 👆🏻 ‍指定
-  - 👆🏻🇭🇰 ‍香港
   - ✈️ ‍起飞
 - name: 🤖 ‍OpenAI+Bing
   type: select
@@ -80,20 +74,12 @@ proxy-groups:
   - ✈️ ‍起飞
   - 🛩️ ‍墙内
   - 💩 ‍广告
-- name: 🇭🇰 ‍香港
-  type: url-test
-  url: https://i.ytimg.com/generate_204
-  interval: 30
-  tolerance: 50
-  proxies: &id002
-  - 🇭🇰 hk免费 | 1.5x 香港01 - 三藏云
-  - 🇭🇰 hk免费 | 1.5x 香港02 - 三藏云
 - name: 🇸🇬 ‍新加坡
   type: url-test
   url: https://i.ytimg.com/generate_204
   interval: 30
   tolerance: 50
-  proxies: &id003
+  proxies: &id002
   - 🇸🇬 sg免费 | 1.5x 新加坡01 - 三藏云
   - 🇸🇬 sg免费 | 1.5x 新加坡02 - 三藏云
 - name: 🇯🇵 ‍日本
@@ -101,7 +87,7 @@ proxy-groups:
   url: https://i.ytimg.com/generate_204
   interval: 30
   tolerance: 50
-  proxies: &id004
+  proxies: &id003
   - 🇯🇵 jp免费 | 1.5x 日本01 - 三藏云
   - 🇯🇵 jp免费 | 1.5x 日本02 - 三藏云
 - name: 🇺🇸 ‍美国
@@ -109,7 +95,7 @@ proxy-groups:
   url: https://i.ytimg.com/generate_204
   interval: 30
   tolerance: 50
-  proxies: &id005
+  proxies: &id004
   - 🇺🇸 us免费 | 1.5x 美国03 - 三藏云
   - 🇺🇸 us免费 | 1.5x 美国04 - 三藏云
   - 🇺🇸 us免费 | 1.5x 美国01 - 三藏云
@@ -119,27 +105,24 @@ proxy-groups:
   url: https://i.ytimg.com/generate_204
   interval: 30
   tolerance: 50
-  proxies: &id006
+  proxies: &id005
   - 🇫🇷 fr免费 | 1.5x 法国01 - 三藏云
   - 🇫🇷 fr免费 | 1.5x 法国02 - 三藏云
 - name: 👆🏻 ‍指定
   type: select
   proxies: *id001
-- name: 👆🏻🇭🇰 ‍香港
-  type: select
-  proxies: *id002
 - name: 👆🏻🇸🇬 ‍新加坡
   type: select
-  proxies: *id003
+  proxies: *id002
 - name: 👆🏻🇯🇵 ‍日本
   type: select
-  proxies: *id004
+  proxies: *id003
 - name: 👆🏻🇺🇸 ‍美国
   type: select
-  proxies: *id005
+  proxies: *id004
 - name: 👆🏻🎏 ‍其他
   type: select
-  proxies: *id006
+  proxies: *id005
 proxies:
 - {name: 🇺🇸 us免费 | 1.5x 美国03 - 三藏云, server: usf03.sanzangyun.xyz, port: 32915, type: vmess, uuid: c9097793-b1a3-46b7-9fdb-49bf1cbe22db, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /cctv5/hd.m3u8, headers: {Host: usf03.sanzangyun.xyz}}, udp: true}
 - {name: 🇺🇸 us免费 | 1.5x 美国04 - 三藏云, server: usf04.sanzangyun.xyz, port: 45375, type: trojan, password: c9097793-b1a3-46b7-9fdb-49bf1cbe22db, sni: free-cn-usd04.ssnode.one, skip-cert-verify: true, udp: true}
@@ -149,8 +132,6 @@ proxies:
 - {name: 🇸🇬 sg免费 | 1.5x 新加坡02 - 三藏云, server: sgf02.sanzangyun.xyz, port: 25802, type: trojan, password: c9097793-b1a3-46b7-9fdb-49bf1cbe22db, sni: free-cn-sgd02.ssnode.one, skip-cert-verify: true, udp: true}
 - {name: 🇺🇸 us免费 | 1.5x 美国01 - 三藏云, server: usf01.sanzangyun.xyz, port: 32099, type: vmess, uuid: c9097793-b1a3-46b7-9fdb-49bf1cbe22db, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /cctv5/hd.m3u8, headers: {Host: usf01.sanzangyun.xyz}}, udp: true}
 - {name: 🇺🇸 us免费 | 1.5x 美国02 - 三藏云, server: usf02.sanzangyun.xyz, port: 43909, type: trojan, password: c9097793-b1a3-46b7-9fdb-49bf1cbe22db, sni: free-cn-usd01.ssnode.one, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 hk免费 | 1.5x 香港01 - 三藏云, server: hkf01.sanzangyun.xyz, port: 40508, type: vmess, uuid: c9097793-b1a3-46b7-9fdb-49bf1cbe22db, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /cctv5/hd.m3u8, headers: {Host: hkf01.sanzangyun.xyz}}, udp: true}
-- {name: 🇭🇰 hk免费 | 1.5x 香港02 - 三藏云, server: hkf02.sanzangyun.xyz, port: 40086, type: trojan, password: c9097793-b1a3-46b7-9fdb-49bf1cbe22db, sni: free-cn-hkd01.ssnode.one, skip-cert-verify: true, udp: true}
 - {name: 🇫🇷 fr免费 | 1.5x 法国01 - 三藏云, server: frf01.sanzangyun.xyz, port: 36099, type: vmess, uuid: c9097793-b1a3-46b7-9fdb-49bf1cbe22db, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /cctv5/hd.m3u8, headers: {Host: frf01.sanzangyun.xyz}}, udp: true}
 - {name: 🇫🇷 fr免费 | 1.5x 法国02 - 三藏云, server: frf02.sanzangyun.xyz, port: 40959, type: trojan, password: c9097793-b1a3-46b7-9fdb-49bf1cbe22db, sni: free-cn-frd01.ssnode.one, skip-cert-verify: true, udp: true}
 rules:
