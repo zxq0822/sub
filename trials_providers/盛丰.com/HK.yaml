@@ -1,7 +1,7 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇭🇰 香港01-Neflix|Disney+|HBO - 盛丰, server: hk.nodegroups.ink, port: 33203, type: vmess, uuid: 5129839e-f31d-38e4-a9a3-0100129f3a93, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 香港02-Neflix|Disney+|HBO - 盛丰, server: hk.nodegroups.ink, port: 33204, type: vmess, uuid: 5129839e-f31d-38e4-a9a3-0100129f3a93, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 香港03-Netflix|Disney+|HBO - 盛丰, server: hk.nodegroups.ink, port: 33205, type: vmess, uuid: 5129839e-f31d-38e4-a9a3-0100129f3a93, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 香港04-Netflix|Disney+|HBO - 盛丰, server: hk.nodegroups.ink, port: 33218, type: vmess, uuid: 5129839e-f31d-38e4-a9a3-0100129f3a93, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 香港01-Neflix|Disney+|HBO - 盛丰, server: hk.nodegroups.ink, port: 33203, type: vmess, uuid: e59b7518-53a7-3094-886f-d4e2e4341b5c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 香港02-Neflix|Disney+|HBO - 盛丰, server: hk.nodegroups.ink, port: 33204, type: vmess, uuid: e59b7518-53a7-3094-886f-d4e2e4341b5c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 香港03-Netflix|Disney+|HBO - 盛丰, server: hk.nodegroups.ink, port: 33205, type: vmess, uuid: e59b7518-53a7-3094-886f-d4e2e4341b5c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 香港04-Netflix|Disney+|HBO - 盛丰, server: hk.nodegroups.ink, port: 33218, type: vmess, uuid: e59b7518-53a7-3094-886f-d4e2e4341b5c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
