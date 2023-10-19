@@ -11,12 +11,16 @@ proxy-groups:
   proxies:
   - ⚡ ‍低延迟
   - 🇭🇰 ‍香港
+  - 🇹🇼 ‍台湾
+  - 🇨🇳 ‍中国
   - 🇸🇬 ‍新加坡
   - 🇯🇵 ‍日本
   - 🇺🇸 ‍美国
   - 🎏 ‍其他
   - 👆🏻 ‍指定
   - 👆🏻🇭🇰 ‍香港
+  - 👆🏻🇹🇼 ‍台湾
+  - 👆🏻🇨🇳 ‍中国
   - 👆🏻🇸🇬 ‍新加坡
   - 👆🏻🇯🇵 ‍日本
   - 👆🏻🇺🇸 ‍美国
@@ -28,23 +32,15 @@ proxy-groups:
   interval: 30
   tolerance: 50
   proxies: &id001
-  - 🇭🇰 香港01-限时高速（限速50mbps） - 星速云StarSpeed
-  - 🇭🇰 香港02-限时高速（限速50mbps） - 星速云StarSpeed
-  - 🇭🇰 香港03-限时高速（限速50mbps） - 星速云StarSpeed
-  - 🇸🇬 新加坡01-限时高速（限速50mbps） - 星速云StarSpeed
-  - 🇸🇬 新加坡02-限时高速（限速50mbps） - 星速云StarSpeed
-  - 🇸🇬 新加坡03-限时高速（限速50mbps） - 星速云StarSpeed
-  - 🇸🇬 新加坡01-南方移动 - 星速云StarSpeed
-  - 🇸🇬 新加坡02-南方移动 - 星速云StarSpeed
-  - 🇯🇵 日本01-限时高速（限速50mbps） - 星速云StarSpeed
-  - 🇯🇵 日本02-限时高速（限速50mbps） - 星速云StarSpeed
-  - 🇯🇵 日本01-南方移动 - 星速云StarSpeed
-  - 🇺🇸 美国-限时高速（限速50mbps） - 星速云StarSpeed
-  - 🇺🇸 美国01-限时高速（限速50mbps） - 星速云StarSpeed
-  - 🇺🇸 美国02-限时高速（限速50mbps） - 星速云StarSpeed
-  - 🇺🇸 美国03-限时高速（限速50mbps） - 星速云StarSpeed
-  - 🇺🇸 美国01-南方移动 - 星速云StarSpeed
-  - 备用域名：xingsu.lol - 星速云StarSpeed
+  - 🇭🇰 香港2-广港隧道-解锁 - 快云
+  - 🇭🇰 香港1-广港隧道5Gbps - 快云
+  - 🇭🇰 香港3-广港隧道-解锁 - 快云
+  - 🇹🇼 台湾-广港隧道-解锁 - 快云
+  - 🇸🇬 新加坡-广新隧道-解锁 - 快云
+  - 🇯🇵 日本-广日隧道 - 快云
+  - 🇯🇵 日本-广日隧道-解锁 - 快云
+  - 🇺🇸 美国-广港隧道-解锁 - 快云
+  - 🇨🇦 加拿大-广美隧道-解锁 - 快云
 - name: 🛩️ ‍墙内
   type: select
   proxies:
@@ -60,10 +56,14 @@ proxy-groups:
 - name: 📺 ‍B站
   type: select
   proxies:
+  - 🇨🇳 ‍中国
   - 🇭🇰 ‍香港
+  - 🇹🇼 ‍台湾
   - 🛩️ ‍墙内
   - 👆🏻 ‍指定
   - 👆🏻🇭🇰 ‍香港
+  - 👆🏻🇹🇼 ‍台湾
+  - 👆🏻🇨🇳 ‍中国
   - ✈️ ‍起飞
 - name: 🤖 ‍OpenAI+Bing
   type: select
@@ -72,9 +72,11 @@ proxy-groups:
   - 🎏 ‍其他
   - 👆🏻🇺🇸 ‍美国
   - 👆🏻🎏 ‍其他
+  - 🇹🇼 ‍台湾
   - 🇸🇬 ‍新加坡
   - 🇯🇵 ‍日本
   - 👆🏻 ‍指定
+  - 👆🏻🇹🇼 ‍台湾
   - 👆🏻🇸🇬 ‍新加坡
   - 👆🏻🇯🇵 ‍日本
   - ✈️ ‍起飞
@@ -91,83 +93,89 @@ proxy-groups:
   interval: 30
   tolerance: 50
   proxies: &id002
-  - 🇭🇰 香港01-限时高速（限速50mbps） - 星速云StarSpeed
-  - 🇭🇰 香港02-限时高速（限速50mbps） - 星速云StarSpeed
-  - 🇭🇰 香港03-限时高速（限速50mbps） - 星速云StarSpeed
-- name: 🇸🇬 ‍新加坡
+  - 🇭🇰 香港2-广港隧道-解锁 - 快云
+  - 🇭🇰 香港1-广港隧道5Gbps - 快云
+  - 🇭🇰 香港3-广港隧道-解锁 - 快云
+- name: 🇹🇼 ‍台湾
   type: url-test
   url: https://i.ytimg.com/generate_204
   interval: 30
   tolerance: 50
   proxies: &id003
-  - 🇸🇬 新加坡01-限时高速（限速50mbps） - 星速云StarSpeed
-  - 🇸🇬 新加坡02-限时高速（限速50mbps） - 星速云StarSpeed
-  - 🇸🇬 新加坡03-限时高速（限速50mbps） - 星速云StarSpeed
-  - 🇸🇬 新加坡01-南方移动 - 星速云StarSpeed
-  - 🇸🇬 新加坡02-南方移动 - 星速云StarSpeed
-- name: 🇯🇵 ‍日本
+  - 🇹🇼 台湾-广港隧道-解锁 - 快云
+- name: 🇨🇳 ‍中国
   type: url-test
   url: https://i.ytimg.com/generate_204
   interval: 30
   tolerance: 50
   proxies: &id004
-  - 🇯🇵 日本01-限时高速（限速50mbps） - 星速云StarSpeed
-  - 🇯🇵 日本02-限时高速（限速50mbps） - 星速云StarSpeed
-  - 🇯🇵 日本01-南方移动 - 星速云StarSpeed
-- name: 🇺🇸 ‍美国
+  - 🇭🇰 香港2-广港隧道-解锁 - 快云
+  - 🇭🇰 香港1-广港隧道5Gbps - 快云
+  - 🇭🇰 香港3-广港隧道-解锁 - 快云
+  - 🇹🇼 台湾-广港隧道-解锁 - 快云
+- name: 🇸🇬 ‍新加坡
   type: url-test
   url: https://i.ytimg.com/generate_204
   interval: 30
   tolerance: 50
   proxies: &id005
-  - 🇺🇸 美国-限时高速（限速50mbps） - 星速云StarSpeed
-  - 🇺🇸 美国01-限时高速（限速50mbps） - 星速云StarSpeed
-  - 🇺🇸 美国02-限时高速（限速50mbps） - 星速云StarSpeed
-  - 🇺🇸 美国03-限时高速（限速50mbps） - 星速云StarSpeed
-  - 🇺🇸 美国01-南方移动 - 星速云StarSpeed
-- name: 🎏 ‍其他
+  - 🇸🇬 新加坡-广新隧道-解锁 - 快云
+- name: 🇯🇵 ‍日本
   type: url-test
   url: https://i.ytimg.com/generate_204
   interval: 30
   tolerance: 50
   proxies: &id006
-  - 备用域名：xingsu.lol - 星速云StarSpeed
+  - 🇯🇵 日本-广日隧道 - 快云
+  - 🇯🇵 日本-广日隧道-解锁 - 快云
+- name: 🇺🇸 ‍美国
+  type: url-test
+  url: https://i.ytimg.com/generate_204
+  interval: 30
+  tolerance: 50
+  proxies: &id007
+  - 🇺🇸 美国-广港隧道-解锁 - 快云
+- name: 🎏 ‍其他
+  type: url-test
+  url: https://i.ytimg.com/generate_204
+  interval: 30
+  tolerance: 50
+  proxies: &id008
+  - 🇨🇦 加拿大-广美隧道-解锁 - 快云
 - name: 👆🏻 ‍指定
   type: select
   proxies: *id001
 - name: 👆🏻🇭🇰 ‍香港
   type: select
   proxies: *id002
-- name: 👆🏻🇸🇬 ‍新加坡
+- name: 👆🏻🇹🇼 ‍台湾
   type: select
   proxies: *id003
-- name: 👆🏻🇯🇵 ‍日本
+- name: 👆🏻🇨🇳 ‍中国
   type: select
   proxies: *id004
-- name: 👆🏻🇺🇸 ‍美国
+- name: 👆🏻🇸🇬 ‍新加坡
   type: select
   proxies: *id005
-- name: 👆🏻🎏 ‍其他
+- name: 👆🏻🇯🇵 ‍日本
   type: select
   proxies: *id006
+- name: 👆🏻🇺🇸 ‍美国
+  type: select
+  proxies: *id007
+- name: 👆🏻🎏 ‍其他
+  type: select
+  proxies: *id008
 proxies:
-- {name: 备用域名：xingsu.lol - 星速云StarSpeed, server: speedip.eu.org, port: 80, type: vmess, uuid: aee17208-293c-4d78-add6-6d5bbdebdfcf, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /xingsuyun, headers: {Host: us6.xingsu.fun}}, udp: true}
-- {name: 🇭🇰 香港01-限时高速（限速50mbps） - 星速云StarSpeed, server: starspeed.tbh.iosds.com, port: 47120, type: ss, cipher: chacha20-ietf-poly1305, password: aee17208-293c-4d78-add6-6d5bbdebdfcf, udp: true}
-- {name: 🇭🇰 香港02-限时高速（限速50mbps） - 星速云StarSpeed, server: starspeed.tbh.iosds.com, port: 47120, type: ss, cipher: chacha20-ietf-poly1305, password: aee17208-293c-4d78-add6-6d5bbdebdfcf, udp: true}
-- {name: 🇭🇰 香港03-限时高速（限速50mbps） - 星速云StarSpeed, server: starspeed.tbh.iosds.com, port: 47120, type: ss, cipher: chacha20-ietf-poly1305, password: aee17208-293c-4d78-add6-6d5bbdebdfcf, udp: true}
-- {name: 🇯🇵 日本01-限时高速（限速50mbps） - 星速云StarSpeed, server: starspeed.tbh.iosds.com, port: 25854, type: ss, cipher: chacha20-ietf-poly1305, password: aee17208-293c-4d78-add6-6d5bbdebdfcf, udp: true}
-- {name: 🇯🇵 日本02-限时高速（限速50mbps） - 星速云StarSpeed, server: starspeed.tbh.iosds.com, port: 25854, type: ss, cipher: chacha20-ietf-poly1305, password: aee17208-293c-4d78-add6-6d5bbdebdfcf, udp: true}
-- {name: 🇸🇬 新加坡01-限时高速（限速50mbps） - 星速云StarSpeed, server: starspeed.tbh.iosds.com, port: 26963, type: ss, cipher: chacha20-ietf-poly1305, password: aee17208-293c-4d78-add6-6d5bbdebdfcf, udp: true}
-- {name: 🇸🇬 新加坡02-限时高速（限速50mbps） - 星速云StarSpeed, server: starspeed.tbh.iosds.com, port: 26963, type: ss, cipher: chacha20-ietf-poly1305, password: aee17208-293c-4d78-add6-6d5bbdebdfcf, udp: true}
-- {name: 🇸🇬 新加坡03-限时高速（限速50mbps） - 星速云StarSpeed, server: starspeed.tbh.iosds.com, port: 26963, type: ss, cipher: chacha20-ietf-poly1305, password: aee17208-293c-4d78-add6-6d5bbdebdfcf, udp: true}
-- {name: 🇺🇸 美国-限时高速（限速50mbps） - 星速云StarSpeed, server: starspeed.tbh.iosds.com, port: 19290, type: ss, cipher: chacha20-ietf-poly1305, password: aee17208-293c-4d78-add6-6d5bbdebdfcf, udp: true}
-- {name: 🇺🇸 美国01-限时高速（限速50mbps） - 星速云StarSpeed, server: starspeed.tbh.iosds.com, port: 19290, type: ss, cipher: chacha20-ietf-poly1305, password: aee17208-293c-4d78-add6-6d5bbdebdfcf, udp: true}
-- {name: 🇺🇸 美国02-限时高速（限速50mbps） - 星速云StarSpeed, server: starspeed.tbh.iosds.com, port: 19290, type: ss, cipher: chacha20-ietf-poly1305, password: aee17208-293c-4d78-add6-6d5bbdebdfcf, udp: true}
-- {name: 🇺🇸 美国03-限时高速（限速50mbps） - 星速云StarSpeed, server: starspeed.tbh.iosds.com, port: 19290, type: ss, cipher: chacha20-ietf-poly1305, password: aee17208-293c-4d78-add6-6d5bbdebdfcf, udp: true}
-- {name: 🇸🇬 新加坡01-南方移动 - 星速云StarSpeed, server: yd.xingsu.fun, port: 80, type: vmess, uuid: aee17208-293c-4d78-add6-6d5bbdebdfcf, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /xingsu, headers: {Host: sgyd1.xingsu.fun}}, udp: true}
-- {name: 🇸🇬 新加坡02-南方移动 - 星速云StarSpeed, server: yd.xingsu.fun, port: 80, type: vmess, uuid: aee17208-293c-4d78-add6-6d5bbdebdfcf, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /xingsu, headers: {Host: sgyd2.xingsu.fun}}, udp: true}
-- {name: 🇯🇵 日本01-南方移动 - 星速云StarSpeed, server: yd.xingsu.fun, port: 80, type: vmess, uuid: aee17208-293c-4d78-add6-6d5bbdebdfcf, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /xingsu, headers: {Host: jpyd1.xingsu.fun}}, udp: true}
-- {name: 🇺🇸 美国01-南方移动 - 星速云StarSpeed, server: yd.xingsu.fun, port: 80, type: vmess, uuid: aee17208-293c-4d78-add6-6d5bbdebdfcf, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /xingsu, headers: {Host: usyd1.xingsu.fun}}, udp: true}
+- {name: 🇺🇸 美国-广港隧道-解锁 - 快云, server: hzct.hnytkm.com, port: 50333, type: vmess, uuid: 1427d1b1-9c88-3099-b752-d760e153daa5, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 香港2-广港隧道-解锁 - 快云, server: hzct.hnytkm.com, port: 23034, type: vmess, uuid: 1427d1b1-9c88-3099-b752-d760e153daa5, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 香港1-广港隧道5Gbps - 快云, server: lpl.xggj.xn--fiqs8s, port: 13839, type: vmess, uuid: 1427d1b1-9c88-3099-b752-d760e153daa5, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇨🇦 加拿大-广美隧道-解锁 - 快云, server: lpl.xggj.xn--fiqs8s, port: 45371, type: vmess, uuid: 1427d1b1-9c88-3099-b752-d760e153daa5, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼 台湾-广港隧道-解锁 - 快云, server: lpl.xggj.xn--fiqs8s, port: 27237, type: vmess, uuid: 1427d1b1-9c88-3099-b752-d760e153daa5, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬 新加坡-广新隧道-解锁 - 快云, server: lpl.xggj.xn--fiqs8s, port: 32131, type: vmess, uuid: 1427d1b1-9c88-3099-b752-d760e153daa5, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本-广日隧道 - 快云, server: hzct.hnytkm.com, port: 43604, type: vmess, uuid: 1427d1b1-9c88-3099-b752-d760e153daa5, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本-广日隧道-解锁 - 快云, server: lpl.xggj.xn--fiqs8s, port: 23416, type: vmess, uuid: 1427d1b1-9c88-3099-b752-d760e153daa5, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 香港3-广港隧道-解锁 - 快云, server: hzct.hnytkm.com, port: 43789, type: vmess, uuid: 1427d1b1-9c88-3099-b752-d760e153daa5, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 rules:
 - DOMAIN-SUFFIX,acl4.ssr,DIRECT
 - DOMAIN-SUFFIX,ip6-localhost,DIRECT

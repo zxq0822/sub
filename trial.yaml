@@ -32,6 +32,9 @@ proxy-groups:
   interval: 30
   tolerance: 50
   proxies: &id001
+  - 🇭🇰 香港2-广港隧道-解锁 - 快云
+  - 🇭🇰 香港1-广港隧道5Gbps - 快云
+  - 🇭🇰 香港3-广港隧道-解锁 - 快云
   - 🇭🇰A香港-中转 - ikunVPN
   - 🇭🇰B香港-中转 - ikunVPN
   - 🇭🇰 Hongkong-01 - 鹦鹉云
@@ -64,9 +67,6 @@ proxy-groups:
   - 🇭🇰 广港•香港279•高速 - 飞翔吧
   - 🇭🇰 香港 1 - 西瓜皮是真的皮
   - 🇭🇰 香港 2 - 西瓜皮是真的皮
-  - 🇭🇰 香港01-限时高速（限速50mbps） - 星速云StarSpeed
-  - 🇭🇰 香港02-限时高速（限速50mbps） - 星速云StarSpeed
-  - 🇭🇰 香港03-限时高速（限速50mbps） - 星速云StarSpeed
   - 🇭🇰 HK-香港01|流媒体|1X - 周树人Cloud
   - 🇭🇰 HK-香港02|流媒体|1X - 周树人Cloud
   - 🇭🇰 HK-香港03|流媒体|1X - 周树人Cloud
@@ -74,6 +74,7 @@ proxy-groups:
   - 🇭🇰 V4-4009|香港|x1.0 - 海豚云
   - 🇭🇰 V4-4010|香港|x2.0 - 海豚云
   - 🇭🇰 V4-4011|香港|x2.0 - 海豚云
+  - 🇹🇼 台湾-广港隧道-解锁 - 快云
   - 🇹🇼 🇨🇳A台湾-原生ip - ikunVPN
   - 🇹🇼 🇨🇳B台湾-原生ip - ikunVPN
   - 🇹🇼 Taiwan-01 - 鹦鹉云
@@ -95,6 +96,7 @@ proxy-groups:
   - 🇹🇼台湾家宽-彰化-04|1X - 周树人Cloud
   - 🇹🇼 V4-4007|台湾|x2.0 - 海豚云
   - 🇹🇼 V4-4008|台湾|x2.0 - 海豚云
+  - 🇸🇬 新加坡-广新隧道-解锁 - 快云
   - 🇸🇬A新加坡-中转 - ikunVPN
   - 🇸🇬B新加坡-中转 - ikunVPN
   - 🇸🇬 Singapore-01 - 鹦鹉云
@@ -122,11 +124,6 @@ proxy-groups:
   - 🇸🇬 新加坡•高速130•铂金 - 飞翔吧
   - 🇸🇬 新加坡 1 Netflix  - 西瓜皮是真的皮
   - 🇸🇬 新加坡 2 Netflix - 西瓜皮是真的皮
-  - 🇸🇬 新加坡01-限时高速（限速50mbps） - 星速云StarSpeed
-  - 🇸🇬 新加坡02-限时高速（限速50mbps） - 星速云StarSpeed
-  - 🇸🇬 新加坡03-限时高速（限速50mbps） - 星速云StarSpeed
-  - 🇸🇬 新加坡01-南方移动 - 星速云StarSpeed
-  - 🇸🇬 新加坡02-南方移动 - 星速云StarSpeed
   - 🇸🇬新加坡01 - 都是梦
   - 🇸🇬新加坡02 - 都是梦
   - 🇸🇬新加坡03 - 都是梦
@@ -135,6 +132,8 @@ proxy-groups:
   - 🇸🇬新加坡03|0.1X - 周树人Cloud
   - 🇸🇬 V4-4003|新加坡|x2.0 - 海豚云
   - 🇸🇬 V4-4004|新加坡|x2.0 - 海豚云
+  - 🇯🇵 日本-广日隧道 - 快云
+  - 🇯🇵 日本-广日隧道-解锁 - 快云
   - 🇯🇵 Japan-01 - 鹦鹉云
   - 🇯🇵 Japan-02 - 鹦鹉云
   - 🇯🇵 Japan-03 - 鹦鹉云
@@ -166,9 +165,6 @@ proxy-groups:
   - 🇯🇵 日本•高速76•高速 - 飞翔吧
   - 🇯🇵 日本 1 Nico Abema - 西瓜皮是真的皮
   - 🇯🇵 日本 2 Nico Abema - 西瓜皮是真的皮
-  - 🇯🇵 日本01-限时高速（限速50mbps） - 星速云StarSpeed
-  - 🇯🇵 日本02-限时高速（限速50mbps） - 星速云StarSpeed
-  - 🇯🇵 日本01-南方移动 - 星速云StarSpeed
   - 🇯🇵日本01 - 都是梦
   - 🇯🇵日本-东京-02|0.2X - 周树人Cloud
   - 🇯🇵日本-东京-03|0.2X - 周树人Cloud
@@ -179,6 +175,7 @@ proxy-groups:
   - 🇯🇵 V4-4001|日本|x1.5 - 海豚云
   - 🇯🇵 V4-4002|日本|x2.0 - 海豚云
   - 🇯🇵 V4-4012|日本|x2.0 - 海豚云
+  - 🇺🇸 美国-广港隧道-解锁 - 快云
   - 🇺🇸A美国-原生ip - ikunVPN
   - 🇺🇸B美国-中转 - ikunVPN
   - 🇺🇸 USA-01 - 鹦鹉云
@@ -222,11 +219,6 @@ proxy-groups:
   - 🇺🇸 广港•美国288•高速 - 飞翔吧
   - 🇺🇸 美国 1 ChatGPT - 西瓜皮是真的皮
   - 🇺🇸 美国 2 ChatGPT - 西瓜皮是真的皮
-  - 🇺🇸 美国-限时高速（限速50mbps） - 星速云StarSpeed
-  - 🇺🇸 美国01-限时高速（限速50mbps） - 星速云StarSpeed
-  - 🇺🇸 美国02-限时高速（限速50mbps） - 星速云StarSpeed
-  - 🇺🇸 美国03-限时高速（限速50mbps） - 星速云StarSpeed
-  - 🇺🇸 美国01-南方移动 - 星速云StarSpeed
   - 🇺🇸美国01 - 都是梦
   - 🇺🇸美国02 - 都是梦
   - 🇺🇸美国03 - 都是梦
@@ -252,6 +244,7 @@ proxy-groups:
   - 🇺🇸美国商宽-纽约-02|1X - 周树人Cloud
   - 🇺🇸 V4-4005|美国|x2.0 - 海豚云
   - 🇺🇸 V4-4006|美国|x1.5 - 海豚云
+  - 🇨🇦 加拿大-广美隧道-解锁 - 快云
   - 🇲🇽A墨西哥-原生ip - ikunVPN
   - 🇲🇽B墨西哥-中转 - ikunVPN
   - 🇬🇧A英国-原生ip - ikunVPN
@@ -291,7 +284,6 @@ proxy-groups:
   - 🇮🇩 印度尼西亚 1 - 西瓜皮是真的皮
   - 🇮🇳 印度 1 - 西瓜皮是真的皮
   - 🇹🇷 土耳其 1 - 西瓜皮是真的皮
-  - 备用域名：xingsu.lol - 星速云StarSpeed
   - 🇰🇷韩国01 - 都是梦
   - 🇰🇷韩国02 - 都是梦
   - 🇦🇺澳大利亚01 - 都是梦
@@ -419,6 +411,9 @@ proxy-groups:
   interval: 30
   tolerance: 50
   proxies: &id002
+  - 🇭🇰 香港2-广港隧道-解锁 - 快云
+  - 🇭🇰 香港1-广港隧道5Gbps - 快云
+  - 🇭🇰 香港3-广港隧道-解锁 - 快云
   - 🇭🇰A香港-中转 - ikunVPN
   - 🇭🇰B香港-中转 - ikunVPN
   - 🇭🇰 Hongkong-01 - 鹦鹉云
@@ -451,9 +446,6 @@ proxy-groups:
   - 🇭🇰 广港•香港279•高速 - 飞翔吧
   - 🇭🇰 香港 1 - 西瓜皮是真的皮
   - 🇭🇰 香港 2 - 西瓜皮是真的皮
-  - 🇭🇰 香港01-限时高速（限速50mbps） - 星速云StarSpeed
-  - 🇭🇰 香港02-限时高速（限速50mbps） - 星速云StarSpeed
-  - 🇭🇰 香港03-限时高速（限速50mbps） - 星速云StarSpeed
   - 🇭🇰 HK-香港01|流媒体|1X - 周树人Cloud
   - 🇭🇰 HK-香港02|流媒体|1X - 周树人Cloud
   - 🇭🇰 HK-香港03|流媒体|1X - 周树人Cloud
@@ -467,6 +459,7 @@ proxy-groups:
   interval: 30
   tolerance: 50
   proxies: &id003
+  - 🇹🇼 台湾-广港隧道-解锁 - 快云
   - 🇹🇼 🇨🇳A台湾-原生ip - ikunVPN
   - 🇹🇼 🇨🇳B台湾-原生ip - ikunVPN
   - 🇹🇼 Taiwan-01 - 鹦鹉云
@@ -494,6 +487,9 @@ proxy-groups:
   interval: 30
   tolerance: 50
   proxies: &id004
+  - 🇭🇰 香港2-广港隧道-解锁 - 快云
+  - 🇭🇰 香港1-广港隧道5Gbps - 快云
+  - 🇭🇰 香港3-广港隧道-解锁 - 快云
   - 🇭🇰A香港-中转 - ikunVPN
   - 🇭🇰B香港-中转 - ikunVPN
   - 🇭🇰 Hongkong-01 - 鹦鹉云
@@ -526,9 +522,6 @@ proxy-groups:
   - 🇭🇰 广港•香港279•高速 - 飞翔吧
   - 🇭🇰 香港 1 - 西瓜皮是真的皮
   - 🇭🇰 香港 2 - 西瓜皮是真的皮
-  - 🇭🇰 香港01-限时高速（限速50mbps） - 星速云StarSpeed
-  - 🇭🇰 香港02-限时高速（限速50mbps） - 星速云StarSpeed
-  - 🇭🇰 香港03-限时高速（限速50mbps） - 星速云StarSpeed
   - 🇭🇰 HK-香港01|流媒体|1X - 周树人Cloud
   - 🇭🇰 HK-香港02|流媒体|1X - 周树人Cloud
   - 🇭🇰 HK-香港03|流媒体|1X - 周树人Cloud
@@ -536,6 +529,7 @@ proxy-groups:
   - 🇭🇰 V4-4009|香港|x1.0 - 海豚云
   - 🇭🇰 V4-4010|香港|x2.0 - 海豚云
   - 🇭🇰 V4-4011|香港|x2.0 - 海豚云
+  - 🇹🇼 台湾-广港隧道-解锁 - 快云
   - 🇹🇼 🇨🇳A台湾-原生ip - ikunVPN
   - 🇹🇼 🇨🇳B台湾-原生ip - ikunVPN
   - 🇹🇼 Taiwan-01 - 鹦鹉云
@@ -564,6 +558,7 @@ proxy-groups:
   interval: 30
   tolerance: 50
   proxies: &id005
+  - 🇸🇬 新加坡-广新隧道-解锁 - 快云
   - 🇸🇬A新加坡-中转 - ikunVPN
   - 🇸🇬B新加坡-中转 - ikunVPN
   - 🇸🇬 Singapore-01 - 鹦鹉云
@@ -591,11 +586,6 @@ proxy-groups:
   - 🇸🇬 新加坡•高速130•铂金 - 飞翔吧
   - 🇸🇬 新加坡 1 Netflix  - 西瓜皮是真的皮
   - 🇸🇬 新加坡 2 Netflix - 西瓜皮是真的皮
-  - 🇸🇬 新加坡01-限时高速（限速50mbps） - 星速云StarSpeed
-  - 🇸🇬 新加坡02-限时高速（限速50mbps） - 星速云StarSpeed
-  - 🇸🇬 新加坡03-限时高速（限速50mbps） - 星速云StarSpeed
-  - 🇸🇬 新加坡01-南方移动 - 星速云StarSpeed
-  - 🇸🇬 新加坡02-南方移动 - 星速云StarSpeed
   - 🇸🇬新加坡01 - 都是梦
   - 🇸🇬新加坡02 - 都是梦
   - 🇸🇬新加坡03 - 都是梦
@@ -610,6 +600,8 @@ proxy-groups:
   interval: 30
   tolerance: 50
   proxies: &id006
+  - 🇯🇵 日本-广日隧道 - 快云
+  - 🇯🇵 日本-广日隧道-解锁 - 快云
   - 🇯🇵 Japan-01 - 鹦鹉云
   - 🇯🇵 Japan-02 - 鹦鹉云
   - 🇯🇵 Japan-03 - 鹦鹉云
@@ -641,9 +633,6 @@ proxy-groups:
   - 🇯🇵 日本•高速76•高速 - 飞翔吧
   - 🇯🇵 日本 1 Nico Abema - 西瓜皮是真的皮
   - 🇯🇵 日本 2 Nico Abema - 西瓜皮是真的皮
-  - 🇯🇵 日本01-限时高速（限速50mbps） - 星速云StarSpeed
-  - 🇯🇵 日本02-限时高速（限速50mbps） - 星速云StarSpeed
-  - 🇯🇵 日本01-南方移动 - 星速云StarSpeed
   - 🇯🇵日本01 - 都是梦
   - 🇯🇵日本-东京-02|0.2X - 周树人Cloud
   - 🇯🇵日本-东京-03|0.2X - 周树人Cloud
@@ -660,6 +649,7 @@ proxy-groups:
   interval: 30
   tolerance: 50
   proxies: &id007
+  - 🇺🇸 美国-广港隧道-解锁 - 快云
   - 🇺🇸A美国-原生ip - ikunVPN
   - 🇺🇸B美国-中转 - ikunVPN
   - 🇺🇸 USA-01 - 鹦鹉云
@@ -703,11 +693,6 @@ proxy-groups:
   - 🇺🇸 广港•美国288•高速 - 飞翔吧
   - 🇺🇸 美国 1 ChatGPT - 西瓜皮是真的皮
   - 🇺🇸 美国 2 ChatGPT - 西瓜皮是真的皮
-  - 🇺🇸 美国-限时高速（限速50mbps） - 星速云StarSpeed
-  - 🇺🇸 美国01-限时高速（限速50mbps） - 星速云StarSpeed
-  - 🇺🇸 美国02-限时高速（限速50mbps） - 星速云StarSpeed
-  - 🇺🇸 美国03-限时高速（限速50mbps） - 星速云StarSpeed
-  - 🇺🇸 美国01-南方移动 - 星速云StarSpeed
   - 🇺🇸美国01 - 都是梦
   - 🇺🇸美国02 - 都是梦
   - 🇺🇸美国03 - 都是梦
@@ -739,6 +724,7 @@ proxy-groups:
   interval: 30
   tolerance: 50
   proxies: &id008
+  - 🇨🇦 加拿大-广美隧道-解锁 - 快云
   - 🇲🇽A墨西哥-原生ip - ikunVPN
   - 🇲🇽B墨西哥-中转 - ikunVPN
   - 🇬🇧A英国-原生ip - ikunVPN
@@ -778,7 +764,6 @@ proxy-groups:
   - 🇮🇩 印度尼西亚 1 - 西瓜皮是真的皮
   - 🇮🇳 印度 1 - 西瓜皮是真的皮
   - 🇹🇷 土耳其 1 - 西瓜皮是真的皮
-  - 备用域名：xingsu.lol - 星速云StarSpeed
   - 🇰🇷韩国01 - 都是梦
   - 🇰🇷韩国02 - 都是梦
   - 🇦🇺澳大利亚01 - 都是梦
@@ -878,6 +863,15 @@ proxy-groups:
   type: select
   proxies: *id008
 proxies:
+- {name: 🇺🇸 美国-广港隧道-解锁 - 快云, server: hzct.hnytkm.com, port: 50333, type: vmess, uuid: 1427d1b1-9c88-3099-b752-d760e153daa5, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 香港2-广港隧道-解锁 - 快云, server: hzct.hnytkm.com, port: 23034, type: vmess, uuid: 1427d1b1-9c88-3099-b752-d760e153daa5, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 香港1-广港隧道5Gbps - 快云, server: lpl.xggj.xn--fiqs8s, port: 13839, type: vmess, uuid: 1427d1b1-9c88-3099-b752-d760e153daa5, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇨🇦 加拿大-广美隧道-解锁 - 快云, server: lpl.xggj.xn--fiqs8s, port: 45371, type: vmess, uuid: 1427d1b1-9c88-3099-b752-d760e153daa5, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼 台湾-广港隧道-解锁 - 快云, server: lpl.xggj.xn--fiqs8s, port: 27237, type: vmess, uuid: 1427d1b1-9c88-3099-b752-d760e153daa5, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬 新加坡-广新隧道-解锁 - 快云, server: lpl.xggj.xn--fiqs8s, port: 32131, type: vmess, uuid: 1427d1b1-9c88-3099-b752-d760e153daa5, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本-广日隧道 - 快云, server: hzct.hnytkm.com, port: 43604, type: vmess, uuid: 1427d1b1-9c88-3099-b752-d760e153daa5, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本-广日隧道-解锁 - 快云, server: lpl.xggj.xn--fiqs8s, port: 23416, type: vmess, uuid: 1427d1b1-9c88-3099-b752-d760e153daa5, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 香港3-广港隧道-解锁 - 快云, server: hzct.hnytkm.com, port: 43789, type: vmess, uuid: 1427d1b1-9c88-3099-b752-d760e153daa5, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇺🇸A美国-原生ip - ikunVPN, server: us-two.1234585.xyz, port: 80, type: vmess, uuid: 18009402-2acd-4915-9859-2398ee725604, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: us-two.1234585.xyz}}, udp: true}
 - {name: 🇺🇸B美国-中转 - ikunVPN, server: zfa.1234585.xyz, port: 12968, type: ss, cipher: aes-256-gcm, password: 18009402-2acd-4915-9859-2398ee725604, udp: true}
 - {name: 🇸🇬A新加坡-中转 - ikunVPN, server: zfa.1234585.xyz, port: 47735, type: ss, cipher: aes-256-gcm, password: 18009402-2acd-4915-9859-2398ee725604, udp: true}
@@ -1065,23 +1059,6 @@ proxies:
 - {name: 🇮🇩 印度尼西亚 1 - 西瓜皮是真的皮, server: cm1-xg.go001.buzz, port: 19883, type: vmess, uuid: fddfbcd9-ebe5-3141-a254-6cb30f8f711d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇮🇳 印度 1 - 西瓜皮是真的皮, server: cm1-xg.go001.buzz, port: 19882, type: vmess, uuid: fddfbcd9-ebe5-3141-a254-6cb30f8f711d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇹🇷 土耳其 1 - 西瓜皮是真的皮, server: cm1-xg.go001.buzz, port: 19881, type: vmess, uuid: fddfbcd9-ebe5-3141-a254-6cb30f8f711d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 备用域名：xingsu.lol - 星速云StarSpeed, server: speedip.eu.org, port: 80, type: vmess, uuid: aee17208-293c-4d78-add6-6d5bbdebdfcf, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /xingsuyun, headers: {Host: us6.xingsu.fun}}, udp: true}
-- {name: 🇭🇰 香港01-限时高速（限速50mbps） - 星速云StarSpeed, server: starspeed.tbh.iosds.com, port: 47120, type: ss, cipher: chacha20-ietf-poly1305, password: aee17208-293c-4d78-add6-6d5bbdebdfcf, udp: true}
-- {name: 🇭🇰 香港02-限时高速（限速50mbps） - 星速云StarSpeed, server: starspeed.tbh.iosds.com, port: 47120, type: ss, cipher: chacha20-ietf-poly1305, password: aee17208-293c-4d78-add6-6d5bbdebdfcf, udp: true}
-- {name: 🇭🇰 香港03-限时高速（限速50mbps） - 星速云StarSpeed, server: starspeed.tbh.iosds.com, port: 47120, type: ss, cipher: chacha20-ietf-poly1305, password: aee17208-293c-4d78-add6-6d5bbdebdfcf, udp: true}
-- {name: 🇯🇵 日本01-限时高速（限速50mbps） - 星速云StarSpeed, server: starspeed.tbh.iosds.com, port: 25854, type: ss, cipher: chacha20-ietf-poly1305, password: aee17208-293c-4d78-add6-6d5bbdebdfcf, udp: true}
-- {name: 🇯🇵 日本02-限时高速（限速50mbps） - 星速云StarSpeed, server: starspeed.tbh.iosds.com, port: 25854, type: ss, cipher: chacha20-ietf-poly1305, password: aee17208-293c-4d78-add6-6d5bbdebdfcf, udp: true}
-- {name: 🇸🇬 新加坡01-限时高速（限速50mbps） - 星速云StarSpeed, server: starspeed.tbh.iosds.com, port: 26963, type: ss, cipher: chacha20-ietf-poly1305, password: aee17208-293c-4d78-add6-6d5bbdebdfcf, udp: true}
-- {name: 🇸🇬 新加坡02-限时高速（限速50mbps） - 星速云StarSpeed, server: starspeed.tbh.iosds.com, port: 26963, type: ss, cipher: chacha20-ietf-poly1305, password: aee17208-293c-4d78-add6-6d5bbdebdfcf, udp: true}
-- {name: 🇸🇬 新加坡03-限时高速（限速50mbps） - 星速云StarSpeed, server: starspeed.tbh.iosds.com, port: 26963, type: ss, cipher: chacha20-ietf-poly1305, password: aee17208-293c-4d78-add6-6d5bbdebdfcf, udp: true}
-- {name: 🇺🇸 美国-限时高速（限速50mbps） - 星速云StarSpeed, server: starspeed.tbh.iosds.com, port: 19290, type: ss, cipher: chacha20-ietf-poly1305, password: aee17208-293c-4d78-add6-6d5bbdebdfcf, udp: true}
-- {name: 🇺🇸 美国01-限时高速（限速50mbps） - 星速云StarSpeed, server: starspeed.tbh.iosds.com, port: 19290, type: ss, cipher: chacha20-ietf-poly1305, password: aee17208-293c-4d78-add6-6d5bbdebdfcf, udp: true}
-- {name: 🇺🇸 美国02-限时高速（限速50mbps） - 星速云StarSpeed, server: starspeed.tbh.iosds.com, port: 19290, type: ss, cipher: chacha20-ietf-poly1305, password: aee17208-293c-4d78-add6-6d5bbdebdfcf, udp: true}
-- {name: 🇺🇸 美国03-限时高速（限速50mbps） - 星速云StarSpeed, server: starspeed.tbh.iosds.com, port: 19290, type: ss, cipher: chacha20-ietf-poly1305, password: aee17208-293c-4d78-add6-6d5bbdebdfcf, udp: true}
-- {name: 🇸🇬 新加坡01-南方移动 - 星速云StarSpeed, server: yd.xingsu.fun, port: 80, type: vmess, uuid: aee17208-293c-4d78-add6-6d5bbdebdfcf, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /xingsu, headers: {Host: sgyd1.xingsu.fun}}, udp: true}
-- {name: 🇸🇬 新加坡02-南方移动 - 星速云StarSpeed, server: yd.xingsu.fun, port: 80, type: vmess, uuid: aee17208-293c-4d78-add6-6d5bbdebdfcf, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /xingsu, headers: {Host: sgyd2.xingsu.fun}}, udp: true}
-- {name: 🇯🇵 日本01-南方移动 - 星速云StarSpeed, server: yd.xingsu.fun, port: 80, type: vmess, uuid: aee17208-293c-4d78-add6-6d5bbdebdfcf, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /xingsu, headers: {Host: jpyd1.xingsu.fun}}, udp: true}
-- {name: 🇺🇸 美国01-南方移动 - 星速云StarSpeed, server: yd.xingsu.fun, port: 80, type: vmess, uuid: aee17208-293c-4d78-add6-6d5bbdebdfcf, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /xingsu, headers: {Host: usyd1.xingsu.fun}}, udp: true}
 - {name: 🇺🇸美国01 - 都是梦, server: us2.doushimeng.com, port: 20052, type: ss, cipher: chacha20-ietf-poly1305, password: 7b877e2d-6c9a-4679-a352-4c1b10569a02, udp: true}
 - {name: 🇺🇸美国02 - 都是梦, server: us3.doushimeng.com, port: 21052, type: ss, cipher: chacha20-ietf-poly1305, password: 7b877e2d-6c9a-4679-a352-4c1b10569a02, udp: true}
 - {name: 🇺🇸美国03 - 都是梦, server: dl1.doushimeng.com, port: 2086, type: vmess, uuid: 7b877e2d-6c9a-4679-a352-4c1b10569a02, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /asdas, headers: {Host: cf-us10.doushimeng.com}}, udp: true}

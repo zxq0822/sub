@@ -1,0 +1,4 @@
+%YAML 1.1
+---
+proxies:
+- {name: 🇺🇸 美国-广港隧道-解锁 - 快云, server: hzct.hnytkm.com, port: 50333, type: vmess, uuid: 1427d1b1-9c88-3099-b752-d760e153daa5, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}

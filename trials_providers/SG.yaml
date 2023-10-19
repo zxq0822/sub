@@ -1,6 +1,7 @@
 %YAML 1.1
 ---
 proxies:
+- {name: 🇸🇬 新加坡-广新隧道-解锁 - 快云, server: lpl.xggj.xn--fiqs8s, port: 32131, type: vmess, uuid: 1427d1b1-9c88-3099-b752-d760e153daa5, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇸🇬A新加坡-中转 - ikunVPN, server: zfa.1234585.xyz, port: 47735, type: ss, cipher: aes-256-gcm, password: 18009402-2acd-4915-9859-2398ee725604, udp: true}
 - {name: 🇸🇬B新加坡-中转 - ikunVPN, server: zfa.1234585.xyz, port: 45543, type: ss, cipher: aes-256-gcm, password: 18009402-2acd-4915-9859-2398ee725604, udp: true}
 - {name: 🇸🇬 Singapore-01 - 鹦鹉云, server: yy.yingwuyun.cyou, port: 27301, type: ss, cipher: chacha20-ietf-poly1305, password: f82cf56c-ac0b-4426-badc-a4fd48c88de1, udp: true}
@@ -28,11 +29,6 @@ proxies:
 - {name: 🇸🇬 新加坡•高速130•铂金 - 飞翔吧, server: gg.58n.net, port: 20130, type: trojan, password: 39630739-9fd1-34ff-82d7-d7e119627e45, sni: x130.flybar.work, skip-cert-verify: true, udp: true}
 - {name: 🇸🇬 新加坡 1 Netflix  - 西瓜皮是真的皮, server: cm1-xg.go001.buzz, port: 19841, type: vmess, uuid: fddfbcd9-ebe5-3141-a254-6cb30f8f711d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇸🇬 新加坡 2 Netflix - 西瓜皮是真的皮, server: ct1-xg.go001.buzz, port: 19842, type: vmess, uuid: fddfbcd9-ebe5-3141-a254-6cb30f8f711d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇸🇬 新加坡01-限时高速（限速50mbps） - 星速云StarSpeed, server: starspeed.tbh.iosds.com, port: 26963, type: ss, cipher: chacha20-ietf-poly1305, password: aee17208-293c-4d78-add6-6d5bbdebdfcf, udp: true}
-- {name: 🇸🇬 新加坡02-限时高速（限速50mbps） - 星速云StarSpeed, server: starspeed.tbh.iosds.com, port: 26963, type: ss, cipher: chacha20-ietf-poly1305, password: aee17208-293c-4d78-add6-6d5bbdebdfcf, udp: true}
-- {name: 🇸🇬 新加坡03-限时高速（限速50mbps） - 星速云StarSpeed, server: starspeed.tbh.iosds.com, port: 26963, type: ss, cipher: chacha20-ietf-poly1305, password: aee17208-293c-4d78-add6-6d5bbdebdfcf, udp: true}
-- {name: 🇸🇬 新加坡01-南方移动 - 星速云StarSpeed, server: yd.xingsu.fun, port: 80, type: vmess, uuid: aee17208-293c-4d78-add6-6d5bbdebdfcf, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /xingsu, headers: {Host: sgyd1.xingsu.fun}}, udp: true}
-- {name: 🇸🇬 新加坡02-南方移动 - 星速云StarSpeed, server: yd.xingsu.fun, port: 80, type: vmess, uuid: aee17208-293c-4d78-add6-6d5bbdebdfcf, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /xingsu, headers: {Host: sgyd2.xingsu.fun}}, udp: true}
 - {name: 🇸🇬新加坡01 - 都是梦, server: sg3.doushimeng.com, port: 20052, type: ss, cipher: chacha20-ietf-poly1305, password: 7b877e2d-6c9a-4679-a352-4c1b10569a02, udp: true}
 - {name: 🇸🇬新加坡02 - 都是梦, server: sgggg.doushimeng.com, port: 20252, type: ss, cipher: chacha20-ietf-poly1305, password: 7b877e2d-6c9a-4679-a352-4c1b10569a02, udp: true}
 - {name: 🇸🇬新加坡03 - 都是梦, server: sg2.doushimeng.com, port: 20553, type: ss, cipher: chacha20-ietf-poly1305, password: 7b877e2d-6c9a-4679-a352-4c1b10569a02, udp: true}
