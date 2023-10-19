@@ -97,6 +97,7 @@ proxy-groups:
   - 🇹🇼 V4-4007|台湾|x2.0 - 海豚云
   - 🇹🇼 V4-4008|台湾|x2.0 - 海豚云
   - 🇸🇬 新加坡-广新隧道-解锁 - 快云
+  - 🇸🇬 新加坡2-广新隧道-解锁 - 快云
   - 🇸🇬A新加坡-中转 - ikunVPN
   - 🇸🇬B新加坡-中转 - ikunVPN
   - 🇸🇬 Singapore-01 - 鹦鹉云
@@ -559,6 +560,7 @@ proxy-groups:
   tolerance: 50
   proxies: &id005
   - 🇸🇬 新加坡-广新隧道-解锁 - 快云
+  - 🇸🇬 新加坡2-广新隧道-解锁 - 快云
   - 🇸🇬A新加坡-中转 - ikunVPN
   - 🇸🇬B新加坡-中转 - ikunVPN
   - 🇸🇬 Singapore-01 - 鹦鹉云
@@ -870,6 +872,7 @@ proxies:
 - {name: 🇨🇦 加拿大-广美隧道-解锁 - 快云, server: lpl.xggj.xn--fiqs8s, port: 45371, type: vmess, uuid: 1427d1b1-9c88-3099-b752-d760e153daa5, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇹🇼 台湾-广港隧道-解锁 - 快云, server: lpl.xggj.xn--fiqs8s, port: 27237, type: vmess, uuid: 1427d1b1-9c88-3099-b752-d760e153daa5, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇸🇬 新加坡-广新隧道-解锁 - 快云, server: lpl.xggj.xn--fiqs8s, port: 32131, type: vmess, uuid: 1427d1b1-9c88-3099-b752-d760e153daa5, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬 新加坡2-广新隧道-解锁 - 快云, server: hzct.hnytkm.com, port: 21476, type: vmess, uuid: 1427d1b1-9c88-3099-b752-d760e153daa5, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇯🇵 日本-广日隧道 - 快云, server: hzct.hnytkm.com, port: 43604, type: vmess, uuid: 1427d1b1-9c88-3099-b752-d760e153daa5, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇯🇵 日本-广日隧道-解锁 - 快云, server: lpl.xggj.xn--fiqs8s, port: 23416, type: vmess, uuid: 1427d1b1-9c88-3099-b752-d760e153daa5, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇭🇰 香港3-广港隧道-解锁 - 快云, server: hzct.hnytkm.com, port: 43789, type: vmess, uuid: 1427d1b1-9c88-3099-b752-d760e153daa5, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
