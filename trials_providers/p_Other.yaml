@@ -1,8 +1,8 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 距离下次重置剩余：11 天 - 大湾区坤厂, server: lpl.xggj.xn--fiqs8s, port: 39113, type: ss, cipher: chacha20-ietf-poly1305, password: e1f93177-c60b-4b14-9624-4f1a8dda8c06, udp: true}
-- {name: 距离下次重置剩余：11 天 - 北方航空, server: cdn.chigua.tk, port: 80, type: vmess, uuid: db0d09d2-48b3-4979-902b-a2698ff5288e, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /usc03, headers: {Host: usc03.galenet.online}}, udp: true}
+- {name: 距离下次重置剩余：11 天 - 大湾区坤厂, server: 45.14.105.44, port: 8080, type: vmess, uuid: e1f93177-c60b-4b14-9624-4f1a8dda8c06, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: '/quanstring?ed=2048', headers: {Host: us.quanstring.top}}, udp: true}
+- {name: 距离下次重置剩余：11 天 - 北方航空, server: cdn.chigua.tk, port: 80, type: vmess, uuid: f4960f90-b227-4f85-9ce6-ec091982ae6d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /usc03, headers: {Host: usc03.galenet.online}}, udp: true}
 - {name: 距离下次重置剩余：24 天 - 三藏云, server: sanzangyun.cc, port: 10086, type: vmess, uuid: c9097793-b1a3-46b7-9fdb-49bf1cbe22db, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: sanzangyun.cc}}, udp: true}
 - {name: 官网SanZangYun.com - 三藏云, server: sanzangyun.cc, port: 10086, type: vmess, uuid: c9097793-b1a3-46b7-9fdb-49bf1cbe22db, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: sanzangyun.cc}}, udp: true}
 - {name: 每次登录请更新订阅 - 三藏云, server: sanzangyun.cc, port: 10086, type: vmess, uuid: c9097793-b1a3-46b7-9fdb-49bf1cbe22db, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: sanzangyun.cc}}, udp: true}

@@ -1,4 +1,5 @@
 %YAML 1.1
 ---
 proxies:
+- {name: 🇭🇰|流媒体|3倍 - 大湾区坤厂, server: lpl.xggj.xn--fiqs8s, port: 39112, type: ss, cipher: chacha20-ietf-poly1305, password: e1f93177-c60b-4b14-9624-4f1a8dda8c06, udp: true}
 - {name: 🇭🇰|IEPL|3倍 - 大湾区坤厂, server: lpl.xggj.xn--fiqs8s, port: 39112, type: ss, cipher: chacha20-ietf-poly1305, password: e1f93177-c60b-4b14-9624-4f1a8dda8c06, udp: true}
