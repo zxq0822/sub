@@ -34,7 +34,6 @@ proxy-groups:
   - 🇺🇸 us免费 | 1.5x 美国02 - 三藏云
   - 🇺🇸 us免费 | 1.5x 美国03 - 三藏云
   - 🇺🇸 us免费 | 1.5x 美国04 - 三藏云
-  - 🇺🇸 us测试 | 1.5x 美国05 解锁流媒体 - 三藏云
   - TG群组@sanzangyun - 三藏云
   - 🇫🇷 fr免费 | 1.5x 法国01 - 三藏云
   - 🇫🇷 fr免费 | 1.5x 法国02 - 三藏云
@@ -102,7 +101,6 @@ proxy-groups:
   - 🇺🇸 us免费 | 1.5x 美国02 - 三藏云
   - 🇺🇸 us免费 | 1.5x 美国03 - 三藏云
   - 🇺🇸 us免费 | 1.5x 美国04 - 三藏云
-  - 🇺🇸 us测试 | 1.5x 美国05 解锁流媒体 - 三藏云
 - name: 🎏 ‍其他
   type: url-test
   url: https://i.ytimg.com/generate_204
@@ -132,14 +130,13 @@ proxies:
 - {name: 🇺🇸 us免费 | 1.5x 美国01 - 三藏云, server: usf01.sanzangyun.xyz, port: 32099, type: vmess, uuid: c9097793-b1a3-46b7-9fdb-49bf1cbe22db, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /cctv5/hd.m3u8, headers: {Host: usf01.sanzangyun.xyz}}, udp: true}
 - {name: 🇺🇸 us免费 | 1.5x 美国02 - 三藏云, server: usf02.sanzangyun.xyz, port: 43909, type: trojan, password: c9097793-b1a3-46b7-9fdb-49bf1cbe22db, sni: us02.sanzangyun.xyz, skip-cert-verify: true, udp: true}
 - {name: 🇺🇸 us免费 | 1.5x 美国03 - 三藏云, server: usf03.sanzangyun.xyz, port: 32915, type: vmess, uuid: c9097793-b1a3-46b7-9fdb-49bf1cbe22db, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /cctv5/hd.m3u8, headers: {Host: usf03.sanzangyun.xyz}}, udp: true}
-- {name: 🇺🇸 us免费 | 1.5x 美国04 - 三藏云, server: usf04.sanzangyun.xyz, port: 45375, type: trojan, password: c9097793-b1a3-46b7-9fdb-49bf1cbe22db, sni: free-cn-usd04.ssnode.one, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 us测试 | 1.5x 美国05 解锁流媒体 - 三藏云, server: usf05.sanzangyun.xyz, port: 32019, type: vmess, uuid: c9097793-b1a3-46b7-9fdb-49bf1cbe22db, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /cctv5/hd.m3u8, headers: {Host: usf05.sanzangyun.xyz}}, udp: true}
+- {name: 🇺🇸 us免费 | 1.5x 美国04 - 三藏云, server: usf04.sanzangyun.xyz, port: 45375, type: trojan, password: c9097793-b1a3-46b7-9fdb-49bf1cbe22db, sni: us04.sanzangyun.xyz, skip-cert-verify: true, udp: true}
 - {name: 🇯🇵 jp免费 | 1.5x 日本01 - 三藏云, server: jpf01.sanzangyun.xyz, port: 35009, type: vmess, uuid: c9097793-b1a3-46b7-9fdb-49bf1cbe22db, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /cctv5/hd.m3u8, headers: {Host: jpf01.sanzangyun.xyz}}, udp: true}
-- {name: 🇯🇵 jp免费 | 1.5x 日本02 - 三藏云, server: jpf02.sanzangyun.xyz, port: 40066, type: trojan, password: c9097793-b1a3-46b7-9fdb-49bf1cbe22db, sni: free-cn-jpd01.ssnode.one, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 jp免费 | 1.5x 日本02 - 三藏云, server: jpf02.sanzangyun.xyz, port: 40066, type: trojan, password: c9097793-b1a3-46b7-9fdb-49bf1cbe22db, sni: jp02.sanzangyun.xyz, skip-cert-verify: true, udp: true}
 - {name: 🇸🇬 sg免费 | 1.5x 新加坡01 - 三藏云, server: sgf01.sanzangyun.xyz, port: 29036, type: vmess, uuid: c9097793-b1a3-46b7-9fdb-49bf1cbe22db, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /cctv5/hd.m3u8, headers: {Host: sgf01.sanzangyun.xyz}}, udp: true}
-- {name: 🇸🇬 sg免费 | 1.5x 新加坡02 - 三藏云, server: sgf02.sanzangyun.xyz, port: 25802, type: trojan, password: c9097793-b1a3-46b7-9fdb-49bf1cbe22db, sni: free-cn-sgd02.ssnode.one, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬 sg免费 | 1.5x 新加坡02 - 三藏云, server: sgf02.sanzangyun.xyz, port: 25802, type: trojan, password: c9097793-b1a3-46b7-9fdb-49bf1cbe22db, sni: sg02.sanzangyun.xyz, skip-cert-verify: true, udp: true}
 - {name: 🇫🇷 fr免费 | 1.5x 法国01 - 三藏云, server: frf01.sanzangyun.xyz, port: 36099, type: vmess, uuid: c9097793-b1a3-46b7-9fdb-49bf1cbe22db, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /cctv5/hd.m3u8, headers: {Host: frf01.sanzangyun.xyz}}, udp: true}
-- {name: 🇫🇷 fr免费 | 1.5x 法国02 - 三藏云, server: frf02.sanzangyun.xyz, port: 40959, type: trojan, password: c9097793-b1a3-46b7-9fdb-49bf1cbe22db, sni: free-cn-frd01.ssnode.one, skip-cert-verify: true, udp: true}
+- {name: 🇫🇷 fr免费 | 1.5x 法国02 - 三藏云, server: frf02.sanzangyun.xyz, port: 40959, type: trojan, password: c9097793-b1a3-46b7-9fdb-49bf1cbe22db, sni: fr02.sanzangyun.xyz, skip-cert-verify: true, udp: true}
 rules:
 - DOMAIN-SUFFIX,acl4.ssr,DIRECT
 - DOMAIN-SUFFIX,ip6-localhost,DIRECT

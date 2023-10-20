@@ -2,4 +2,4 @@
 ---
 proxies:
 - {name: 🇯🇵 jp免费 | 1.5x 日本01 - 三藏云, server: jpf01.sanzangyun.xyz, port: 35009, type: vmess, uuid: c9097793-b1a3-46b7-9fdb-49bf1cbe22db, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /cctv5/hd.m3u8, headers: {Host: jpf01.sanzangyun.xyz}}, udp: true}
-- {name: 🇯🇵 jp免费 | 1.5x 日本02 - 三藏云, server: jpf02.sanzangyun.xyz, port: 40066, type: trojan, password: c9097793-b1a3-46b7-9fdb-49bf1cbe22db, sni: free-cn-jpd01.ssnode.one, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 jp免费 | 1.5x 日本02 - 三藏云, server: jpf02.sanzangyun.xyz, port: 40066, type: trojan, password: c9097793-b1a3-46b7-9fdb-49bf1cbe22db, sni: jp02.sanzangyun.xyz, skip-cert-verify: true, udp: true}
