@@ -1,7 +1,6 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇯🇵 日本•软银260•高速 - 飞翔吧, server: gg.58n.net, port: 31313, type: trojan, password: fc96c558-74f9-3eec-a222-fe0281aeb398, sni: z260.hongkongnode.top, skip-cert-verify: true, udp: true}
 - {name: 🇯🇵 中转•日本298•高速 - 飞翔吧, server: gg.58n.net, port: 20298, type: trojan, password: fc96c558-74f9-3eec-a222-fe0281aeb398, sni: z298.hongkongnode.top, skip-cert-verify: true, udp: true}
 - {name: 🇯🇵 中转•日本300•原生 - 飞翔吧, server: gg.58n.net, port: 20300, type: trojan, password: fc96c558-74f9-3eec-a222-fe0281aeb398, sni: z300.hongkongnode.top, skip-cert-verify: true, udp: true}
 - {name: 🇯🇵 日本•高速114•高速 - 飞翔吧, server: gg.58n.net, port: 41767, type: trojan, password: fc96c558-74f9-3eec-a222-fe0281aeb398, sni: x114.flybar.work, skip-cert-verify: true, udp: true}
