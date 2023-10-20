@@ -35,6 +35,7 @@ proxy-groups:
   - 🇺🇸 us免费 | 1.5x 美国03 - 三藏云
   - 🇺🇸 us免费 | 1.5x 美国04 - 三藏云
   - 🇺🇸 us测试 | 1.5x 美国05 解锁流媒体 - 三藏云
+  - TG群组@sanzangyun - 三藏云
   - 🇫🇷 fr免费 | 1.5x 法国01 - 三藏云
   - 🇫🇷 fr免费 | 1.5x 法国02 - 三藏云
 - name: 🛩️ ‍墙内
@@ -108,6 +109,7 @@ proxy-groups:
   interval: 30
   tolerance: 50
   proxies: &id005
+  - TG群组@sanzangyun - 三藏云
   - 🇫🇷 fr免费 | 1.5x 法国01 - 三藏云
   - 🇫🇷 fr免费 | 1.5x 法国02 - 三藏云
 - name: 👆🏻 ‍指定
@@ -126,6 +128,7 @@ proxy-groups:
   type: select
   proxies: *id005
 proxies:
+- {name: TG群组@sanzangyun - 三藏云, server: sanzangyun.cc, port: 10086, type: vmess, uuid: c9097793-b1a3-46b7-9fdb-49bf1cbe22db, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: sanzangyun.cc}}, udp: true}
 - {name: 🇺🇸 us免费 | 1.5x 美国01 - 三藏云, server: usf01.sanzangyun.xyz, port: 32099, type: vmess, uuid: c9097793-b1a3-46b7-9fdb-49bf1cbe22db, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /cctv5/hd.m3u8, headers: {Host: usf01.sanzangyun.xyz}}, udp: true}
 - {name: 🇺🇸 us免费 | 1.5x 美国02 - 三藏云, server: usf02.sanzangyun.xyz, port: 43909, type: trojan, password: c9097793-b1a3-46b7-9fdb-49bf1cbe22db, sni: free-cn-usd01.ssnode.one, skip-cert-verify: true, udp: true}
 - {name: 🇺🇸 us免费 | 1.5x 美国03 - 三藏云, server: usf03.sanzangyun.xyz, port: 32915, type: vmess, uuid: c9097793-b1a3-46b7-9fdb-49bf1cbe22db, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /cctv5/hd.m3u8, headers: {Host: usf03.sanzangyun.xyz}}, udp: true}
