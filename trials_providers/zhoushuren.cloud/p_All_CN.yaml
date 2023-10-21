@@ -1,4 +1,4 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇲🇴澳门特别行政区-01|1X - 周树人Cloud, server: zf.zsr-seoul2.661145.xyz, port: 40000, type: vmess, uuid: b736b97a-7c45-4328-8642-09a7acb7a41f, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /vcfdy56udfgsd43565hfdfsd, headers: {Host: www.apple.com}}, udp: true}
+- {name: 🇲🇴澳门特别行政区-01|1X - 周树人Cloud, server: zf.zsr-seoul2.661145.xyz, port: 40000, type: vmess, uuid: 7aebc89d-8937-4977-9040-a967f259182d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /vcfdy56udfgsd43565hfdfsd, headers: {Host: www.apple.com}}, udp: true}
