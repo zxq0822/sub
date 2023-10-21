@@ -1,4 +1,4 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 距离下次重置剩余：10 天 - 大湾区坤厂, server: 45.14.105.44, port: 1542, type: vmess, uuid: fe9f43e4-60fe-46d0-b963-f7099c05cfcf, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: '/quanstring?ed=2048', headers: {Host: us.quanstring.top}}, udp: true}
+- {name: 距离下次重置剩余：10 天 - 大湾区坤厂, server: 45.14.105.44, port: 1542, type: vmess, uuid: db2c6d72-f839-4295-a8fc-fd8dbbff1cb1, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: '/quanstring?ed=2048', headers: {Host: us.quanstring.top}}, udp: true}

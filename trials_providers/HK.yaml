@@ -23,8 +23,8 @@ proxies:
 - {name: 🇭🇰 香港02-Neflix|Disney+|HBO - 盛丰, server: hk.nodegroups.ink, port: 33204, type: vmess, uuid: 971280d6-068c-34c6-b88b-7b6cfb421474, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇭🇰 香港03-Netflix|Disney+|HBO - 盛丰, server: hk.nodegroups.ink, port: 33205, type: vmess, uuid: 971280d6-068c-34c6-b88b-7b6cfb421474, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇭🇰 香港04-Netflix|Disney+|HBO - 盛丰, server: hk.nodegroups.ink, port: 33218, type: vmess, uuid: 971280d6-068c-34c6-b88b-7b6cfb421474, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰|流媒体|3倍 - 大湾区坤厂, server: lpl.xggj.xn--fiqs8s, port: 39112, type: ss, cipher: chacha20-ietf-poly1305, password: fe9f43e4-60fe-46d0-b963-f7099c05cfcf, udp: true}
-- {name: 🇭🇰|IEPL|3倍 - 大湾区坤厂, server: lpl.xggj.xn--fiqs8s, port: 39112, type: ss, cipher: chacha20-ietf-poly1305, password: fe9f43e4-60fe-46d0-b963-f7099c05cfcf, udp: true}
+- {name: 🇭🇰|流媒体|3倍 - 大湾区坤厂, server: lpl.xggj.xn--fiqs8s, port: 39112, type: ss, cipher: chacha20-ietf-poly1305, password: db2c6d72-f839-4295-a8fc-fd8dbbff1cb1, udp: true}
+- {name: 🇭🇰|IEPL|3倍 - 大湾区坤厂, server: lpl.xggj.xn--fiqs8s, port: 39112, type: ss, cipher: chacha20-ietf-poly1305, password: db2c6d72-f839-4295-a8fc-fd8dbbff1cb1, udp: true}
 - {name: 🇭🇰 中转•香港301•高速 - 飞翔吧, server: gg.58n.net, port: 20301, type: trojan, password: b3746b2d-27a9-3850-8d43-591b43bb1647, sni: z301.hongkongnode.top, skip-cert-verify: true, udp: true}
 - {name: 🇭🇰 广港•香港143•高速 - 飞翔吧, server: gg.58n.net, port: 28678, type: trojan, password: b3746b2d-27a9-3850-8d43-591b43bb1647, sni: z143.hongkongnode.top, skip-cert-verify: true, udp: true}
 - {name: 🇭🇰 广港•香港269•高速 - 飞翔吧, server: gg.58n.net, port: 22741, type: trojan, password: b3746b2d-27a9-3850-8d43-591b43bb1647, sni: dufu.hongkongnode.top, skip-cert-verify: true, udp: true}
