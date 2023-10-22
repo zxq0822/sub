@@ -2,8 +2,8 @@
 ---
 proxies:
 - {name: 距离下次重置剩余：9 天 - 大湾区坤厂, server: lpl.xggj.xn--fiqs8s, port: 39112, type: ss, cipher: chacha20-ietf-poly1305, password: 598602ab-324d-4e36-8d12-20d34261e339, udp: true}
-- {name: 距离下次重置剩余：9 天 - 北方航空, server: cdn.chigua.tk, port: 80, type: vmess, uuid: 6caaff94-f542-42c8-9941-7bb469022532, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /usc03, headers: {Host: usc03.galenet.online}}, udp: true}
-- {name: 距离下次重置剩余：30 天 - 三藏云, server: sanzangyun.cc, port: 10086, type: vmess, uuid: 90395dc3-c3dd-4000-a7ec-bb56bc592866, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: sanzangyun.cc}}, udp: true}
+- {name: 距离下次重置剩余：8 天 - 北方航空, server: cdn.chigua.tk, port: 80, type: vmess, uuid: 6caaff94-f542-42c8-9941-7bb469022532, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /usc03, headers: {Host: usc03.galenet.online}}, udp: true}
+- {name: 距离下次重置剩余：29 天 - 三藏云, server: sanzangyun.cc, port: 10086, type: vmess, uuid: 90395dc3-c3dd-4000-a7ec-bb56bc592866, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: sanzangyun.cc}}, udp: true}
 - {name: 官网SanZangYun.com - 三藏云, server: sanzangyun.cc, port: 10086, type: vmess, uuid: 90395dc3-c3dd-4000-a7ec-bb56bc592866, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: sanzangyun.cc}}, udp: true}
 - {name: 每次登录请更新订阅 - 三藏云, server: sanzangyun.cc, port: 10086, type: vmess, uuid: 90395dc3-c3dd-4000-a7ec-bb56bc592866, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: sanzangyun.cc}}, udp: true}
 - {name: 有问题到官网发工单 - 三藏云, server: sanzangyun.cc, port: 10086, type: vmess, uuid: 90395dc3-c3dd-4000-a7ec-bb56bc592866, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: sanzangyun.cc}}, udp: true}
