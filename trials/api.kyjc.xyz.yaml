@@ -139,17 +139,17 @@ proxy-groups:
   type: select
   proxies: *id006
 proxies:
-- {name: 🇺🇸 美国1-广港隧道-解锁 - 快云, server: hzct.hnytkm.com, port: 50333, type: vmess, uuid: 4eee36f7-731d-38b8-acdd-915997bcbdb6, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 美国2-上港隧道-解锁 - 快云, server: hk.hnytkm.com, port: 32225, type: vmess, uuid: 4eee36f7-731d-38b8-acdd-915997bcbdb6, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 美国3L1-广港隧道-解锁 - 快云, server: hzct.hnytkm.com, port: 13526, type: vmess, uuid: 4eee36f7-731d-38b8-acdd-915997bcbdb6, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇨🇦 加拿大-广美隧道-解锁 - 快云, server: lpl.xggj.xn--fiqs8s, port: 45371, type: vmess, uuid: 4eee36f7-731d-38b8-acdd-915997bcbdb6, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇸🇬 新加坡L1-广新隧道-解锁 - 快云, server: lpl.xggj.xn--fiqs8s, port: 45914, type: vmess, uuid: 4eee36f7-731d-38b8-acdd-915997bcbdb6, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇸🇬 新加坡L2-上新隧道-解锁 - 快云, server: hk.hnytkm.com, port: 22045, type: vmess, uuid: 4eee36f7-731d-38b8-acdd-915997bcbdb6, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇸🇬 新加坡L3-广新隧道-解锁 - 快云, server: hzct.hnytkm.com, port: 10441, type: vmess, uuid: 4eee36f7-731d-38b8-acdd-915997bcbdb6, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 日本-广日隧道 - 快云, server: hzct.hnytkm.com, port: 43604, type: vmess, uuid: 4eee36f7-731d-38b8-acdd-915997bcbdb6, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 日本-广日隧道-解锁 - 快云, server: lpl.xggj.xn--fiqs8s, port: 23416, type: vmess, uuid: 4eee36f7-731d-38b8-acdd-915997bcbdb6, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 日本L1-广日隧道-解锁 - 快云, server: hzct.hnytkm.com, port: 58286, type: vmess, uuid: 4eee36f7-731d-38b8-acdd-915997bcbdb6, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 香港3-广港隧道-解锁 - 快云, server: hzct.hnytkm.com, port: 43789, type: vmess, uuid: 4eee36f7-731d-38b8-acdd-915997bcbdb6, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 美国1-广港隧道-解锁 - 快云, server: hzct.hnytkm.com, port: 50333, type: vmess, uuid: 1a3db724-b2e9-33a9-b958-91ab16849249, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 美国2-上港隧道-解锁 - 快云, server: hk.hnytkm.com, port: 32225, type: vmess, uuid: 1a3db724-b2e9-33a9-b958-91ab16849249, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 美国3L1-广港隧道-解锁 - 快云, server: hzct.hnytkm.com, port: 13526, type: vmess, uuid: 1a3db724-b2e9-33a9-b958-91ab16849249, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇨🇦 加拿大-广美隧道-解锁 - 快云, server: lpl.xggj.xn--fiqs8s, port: 45371, type: vmess, uuid: 1a3db724-b2e9-33a9-b958-91ab16849249, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬 新加坡L1-广新隧道-解锁 - 快云, server: lpl.xggj.xn--fiqs8s, port: 45914, type: vmess, uuid: 1a3db724-b2e9-33a9-b958-91ab16849249, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬 新加坡L2-上新隧道-解锁 - 快云, server: hk.hnytkm.com, port: 22045, type: vmess, uuid: 1a3db724-b2e9-33a9-b958-91ab16849249, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬 新加坡L3-广新隧道-解锁 - 快云, server: hzct.hnytkm.com, port: 10441, type: vmess, uuid: 1a3db724-b2e9-33a9-b958-91ab16849249, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本-广日隧道 - 快云, server: hzct.hnytkm.com, port: 43604, type: vmess, uuid: 1a3db724-b2e9-33a9-b958-91ab16849249, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本-广日隧道-解锁 - 快云, server: lpl.xggj.xn--fiqs8s, port: 23416, type: vmess, uuid: 1a3db724-b2e9-33a9-b958-91ab16849249, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本L1-广日隧道-解锁 - 快云, server: hzct.hnytkm.com, port: 58286, type: vmess, uuid: 1a3db724-b2e9-33a9-b958-91ab16849249, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 香港3-广港隧道-解锁 - 快云, server: hzct.hnytkm.com, port: 43789, type: vmess, uuid: 1a3db724-b2e9-33a9-b958-91ab16849249, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 rules:
 - DOMAIN-SUFFIX,acl4.ssr,DIRECT
 - DOMAIN-SUFFIX,ip6-localhost,DIRECT

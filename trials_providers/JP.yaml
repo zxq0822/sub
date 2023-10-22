@@ -1,9 +1,9 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇯🇵 日本-广日隧道 - 快云, server: hzct.hnytkm.com, port: 43604, type: vmess, uuid: 4eee36f7-731d-38b8-acdd-915997bcbdb6, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 日本-广日隧道-解锁 - 快云, server: lpl.xggj.xn--fiqs8s, port: 23416, type: vmess, uuid: 4eee36f7-731d-38b8-acdd-915997bcbdb6, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 日本L1-广日隧道-解锁 - 快云, server: hzct.hnytkm.com, port: 58286, type: vmess, uuid: 4eee36f7-731d-38b8-acdd-915997bcbdb6, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本-广日隧道 - 快云, server: hzct.hnytkm.com, port: 43604, type: vmess, uuid: 1a3db724-b2e9-33a9-b958-91ab16849249, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本-广日隧道-解锁 - 快云, server: lpl.xggj.xn--fiqs8s, port: 23416, type: vmess, uuid: 1a3db724-b2e9-33a9-b958-91ab16849249, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本L1-广日隧道-解锁 - 快云, server: hzct.hnytkm.com, port: 58286, type: vmess, uuid: 1a3db724-b2e9-33a9-b958-91ab16849249, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇯🇵 Japan-01 - 鹦鹉云, server: yy.yingwuyun.cyou, port: 27302, type: ss, cipher: chacha20-ietf-poly1305, password: f82cf56c-ac0b-4426-badc-a4fd48c88de1, udp: true}
 - {name: 🇯🇵 Japan-02 - 鹦鹉云, server: ly.yingwuyun.cyou, port: 27302, type: ss, cipher: chacha20-ietf-poly1305, password: f82cf56c-ac0b-4426-badc-a4fd48c88de1, udp: true}
 - {name: 🇯🇵 Japan-03 - 鹦鹉云, server: dy.yingwuyun.cyou, port: 27302, type: ss, cipher: chacha20-ietf-poly1305, password: f82cf56c-ac0b-4426-badc-a4fd48c88de1, udp: true}
