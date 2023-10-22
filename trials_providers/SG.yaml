@@ -4,9 +4,9 @@ proxies:
 - {name: 🇸🇬 新加坡L1-广新隧道-解锁 - 快云, server: lpl.xggj.xn--fiqs8s, port: 45914, type: vmess, uuid: 1a3db724-b2e9-33a9-b958-91ab16849249, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇸🇬 新加坡L2-上新隧道-解锁 - 快云, server: hk.hnytkm.com, port: 22045, type: vmess, uuid: 1a3db724-b2e9-33a9-b958-91ab16849249, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇸🇬 新加坡L3-广新隧道-解锁 - 快云, server: hzct.hnytkm.com, port: 10441, type: vmess, uuid: 1a3db724-b2e9-33a9-b958-91ab16849249, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇸🇬A新加坡-中转 - ikunVPN, server: zfa.1234585.xyz, port: 47735, type: ss, cipher: aes-256-gcm, password: 82040a16-80f9-4812-8381-15e91895f4f5, udp: true}
-- {name: 🇸🇬B新加坡-中转 - ikunVPN, server: zfa.1234585.xyz, port: 45543, type: ss, cipher: aes-256-gcm, password: 82040a16-80f9-4812-8381-15e91895f4f5, udp: true}
-- {name: 🇸🇬C新加坡-中转 - ikunVPN, server: xiongda006.daxiongda.top, port: 12468, type: ss, cipher: aes-256-gcm, password: 82040a16-80f9-4812-8381-15e91895f4f5, udp: true}
+- {name: 🇸🇬A新加坡-中转 - ikunVPN, server: zfa.1234585.xyz, port: 47735, type: ss, cipher: aes-256-gcm, password: 0731f91c-ef19-435c-a63c-4a2c9fe59027, udp: true}
+- {name: 🇸🇬B新加坡-中转 - ikunVPN, server: zfa.1234585.xyz, port: 45543, type: ss, cipher: aes-256-gcm, password: 0731f91c-ef19-435c-a63c-4a2c9fe59027, udp: true}
+- {name: 🇸🇬C新加坡-中转 - ikunVPN, server: xiongda006.daxiongda.top, port: 12468, type: ss, cipher: aes-256-gcm, password: 0731f91c-ef19-435c-a63c-4a2c9fe59027, udp: true}
 - {name: 🇸🇬 Singapore-01 - 鹦鹉云, server: yy.yingwuyun.cyou, port: 27301, type: ss, cipher: chacha20-ietf-poly1305, password: f82cf56c-ac0b-4426-badc-a4fd48c88de1, udp: true}
 - {name: 🇸🇬 Singapore-02 - 鹦鹉云, server: ly.yingwuyun.cyou, port: 27301, type: ss, cipher: chacha20-ietf-poly1305, password: f82cf56c-ac0b-4426-badc-a4fd48c88de1, udp: true}
 - {name: 🇸🇬 Singapore-03 - 鹦鹉云, server: dy.yingwuyun.cyou, port: 27301, type: ss, cipher: chacha20-ietf-poly1305, password: f82cf56c-ac0b-4426-badc-a4fd48c88de1, udp: true}
