@@ -2,7 +2,6 @@
 ---
 proxies:
 - {name: 🇨🇦 加拿大-广美隧道-解锁 - 快云, server: lpl.xggj.xn--fiqs8s, port: 45371, type: vmess, uuid: 4eee36f7-731d-38b8-acdd-915997bcbdb6, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇲🇽A墨西哥-原生ip - ikunVPN, server: mx-one.1234585.xyz, port: 80, type: vmess, uuid: 82040a16-80f9-4812-8381-15e91895f4f5, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: mx-one.1234585.xyz}}, udp: true}
 - {name: 🇲🇽B墨西哥-中转 - ikunVPN, server: zfa.1234585.xyz, port: 45419, type: vmess, uuid: 82040a16-80f9-4812-8381-15e91895f4f5, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: zfa.1234585.xyz}}, udp: true}
 - {name: 🇬🇧A英国-0.5倍率 - ikunVPN, server: gb-one.1234585.xyz, port: 80, type: vmess, uuid: 82040a16-80f9-4812-8381-15e91895f4f5, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: gb-one.1234585.xyz}}, udp: true}
 - {name: 🇬🇧B英国-0.5倍率 - ikunVPN, server: gb-two.1234585.xyz, port: 80, type: ss, cipher: aes-256-gcm, password: 82040a16-80f9-4812-8381-15e91895f4f5, udp: true}
@@ -39,10 +38,10 @@ proxies:
 - {name: 有问题到官网发工单 - 三藏云, server: sanzangyun.cc, port: 10086, type: vmess, uuid: 90395dc3-c3dd-4000-a7ec-bb56bc592866, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: sanzangyun.cc}}, udp: true}
 - {name: 🇫🇷 fr免费 | 1.5x 法国01 - 三藏云, server: frf01.sanzangyun.xyz, port: 36099, type: vmess, uuid: 90395dc3-c3dd-4000-a7ec-bb56bc592866, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /cctv5/hd.m3u8, headers: {Host: frf01.sanzangyun.xyz}}, udp: true}
 - {name: 🇫🇷 fr免费 | 1.5x 法国02 - 三藏云, server: frf02.sanzangyun.xyz, port: 40959, type: trojan, password: 90395dc3-c3dd-4000-a7ec-bb56bc592866, sni: fr02.sanzangyun.xyz, skip-cert-verify: true, udp: true}
-- {name: 🇬🇧 中转•英国267•高速 - 飞翔吧, server: gg.58n.net, port: 25238, type: trojan, password: 09ebf422-ee55-324d-a17e-1c647c24bf3a, sni: z267.hongkongnode.top, skip-cert-verify: true, udp: true}
-- {name: 🇬🇧 中转•英国268•高速 - 飞翔吧, server: gg.58n.net, port: 11215, type: trojan, password: 09ebf422-ee55-324d-a17e-1c647c24bf3a, sni: z268.hongkongnode.top, skip-cert-verify: true, udp: true}
-- {name: 🇰🇷 广港•韩国263•高速 - 飞翔吧, server: gg.58n.net, port: 45168, type: trojan, password: 09ebf422-ee55-324d-a17e-1c647c24bf3a, sni: z263.hongkongnode.top, skip-cert-verify: true, udp: true}
-- {name: 🇰🇷 广港•韩国264•高速 - 飞翔吧, server: gg.58n.net, port: 50355, type: trojan, password: 09ebf422-ee55-324d-a17e-1c647c24bf3a, sni: z264.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: 🇬🇧 中转•英国267•高速 - 飞翔吧, server: gg.58n.net, port: 25238, type: trojan, password: 76f0bc65-a2b9-3d11-bcdf-e7d325305b2c, sni: z267.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: 🇬🇧 中转•英国268•高速 - 飞翔吧, server: gg.58n.net, port: 11215, type: trojan, password: 76f0bc65-a2b9-3d11-bcdf-e7d325305b2c, sni: z268.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: 🇰🇷 广港•韩国263•高速 - 飞翔吧, server: gg.58n.net, port: 45168, type: trojan, password: 76f0bc65-a2b9-3d11-bcdf-e7d325305b2c, sni: z263.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: 🇰🇷 广港•韩国264•高速 - 飞翔吧, server: gg.58n.net, port: 50355, type: trojan, password: 76f0bc65-a2b9-3d11-bcdf-e7d325305b2c, sni: z264.hongkongnode.top, skip-cert-verify: true, udp: true}
 - {name: 🇷🇺 俄罗斯 1 - 西瓜皮是真的皮, server: cm1-xg.go001.buzz, port: 19894, type: vmess, uuid: b31f4662-b63c-3091-bf25-9fa7640cde90, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇫🇷 法国 1 - 西瓜皮是真的皮, server: cm1-xg.go001.buzz, port: 19892, type: vmess, uuid: b31f4662-b63c-3091-bf25-9fa7640cde90, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇬🇧 英国 1 - 西瓜皮是真的皮, server: cm1-xg.go001.buzz, port: 19893, type: vmess, uuid: b31f4662-b63c-3091-bf25-9fa7640cde90, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
