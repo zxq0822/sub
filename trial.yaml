@@ -98,7 +98,7 @@ proxy-groups:
   - 🇸🇬 新加坡03 - 盛丰
   - 🇸🇬 免费 | 1.5x 新加坡01 - 三藏云
   - 🇸🇬 免费 | 1.5x 新加坡02 - 三藏云
-  - 🇸🇬 付费 | 1.5x 新加坡01 流媒体 - 三藏云
+  - 🇸🇬 测试 | 1.5x 新加坡01 流媒体 - 三藏云
   - 🇸🇬 中转•新加坡299•高速 - 飞翔吧
   - 🇸🇬 中转•新加坡65•青铜 - 飞翔吧
   - 🇸🇬 中转•新加坡83•高速 - 飞翔吧
@@ -181,7 +181,7 @@ proxy-groups:
   - 🇺🇸 免费 | 1.5x 美国02 - 三藏云
   - 🇺🇸 免费 | 1.5x 美国03 - 三藏云
   - 🇺🇸 免费 | 1.5x 美国04 - 三藏云
-  - 🇺🇸 测试 | 1.5x 美国05 - 三藏云
+  - 🇺🇸 测试 | 1.5x 美国05 流媒体 - 三藏云
   - 🇺🇸 中转•美国295•高速 - 飞翔吧
   - 🇺🇸 中转•美国296•高速 - 飞翔吧
   - 🇺🇸 中转•美国40•高速 - 飞翔吧
@@ -483,7 +483,7 @@ proxy-groups:
   - 🇸🇬 新加坡03 - 盛丰
   - 🇸🇬 免费 | 1.5x 新加坡01 - 三藏云
   - 🇸🇬 免费 | 1.5x 新加坡02 - 三藏云
-  - 🇸🇬 付费 | 1.5x 新加坡01 流媒体 - 三藏云
+  - 🇸🇬 测试 | 1.5x 新加坡01 流媒体 - 三藏云
   - 🇸🇬 中转•新加坡299•高速 - 飞翔吧
   - 🇸🇬 中转•新加坡65•青铜 - 飞翔吧
   - 🇸🇬 中转•新加坡83•高速 - 飞翔吧
@@ -578,7 +578,7 @@ proxy-groups:
   - 🇺🇸 免费 | 1.5x 美国02 - 三藏云
   - 🇺🇸 免费 | 1.5x 美国03 - 三藏云
   - 🇺🇸 免费 | 1.5x 美国04 - 三藏云
-  - 🇺🇸 测试 | 1.5x 美国05 - 三藏云
+  - 🇺🇸 测试 | 1.5x 美国05 流媒体 - 三藏云
   - 🇺🇸 中转•美国295•高速 - 飞翔吧
   - 🇺🇸 中转•美国296•高速 - 飞翔吧
   - 🇺🇸 中转•美国40•高速 - 飞翔吧
@@ -865,14 +865,14 @@ proxies:
 - {name: 🇺🇸 免费 | 1.5x 美国02 - 三藏云, server: usf02.sanzangyun.xyz, port: 43909, type: trojan, password: 90395dc3-c3dd-4000-a7ec-bb56bc592866, sni: us02.sanzangyun.xyz, skip-cert-verify: true, udp: true}
 - {name: 🇺🇸 免费 | 1.5x 美国03 - 三藏云, server: usf03.sanzangyun.xyz, port: 32915, type: vmess, uuid: 90395dc3-c3dd-4000-a7ec-bb56bc592866, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /cctv5/hd.m3u8, headers: {Host: usf03.sanzangyun.xyz}}, udp: true}
 - {name: 🇺🇸 免费 | 1.5x 美国04 - 三藏云, server: usf04.sanzangyun.xyz, port: 45375, type: trojan, password: 90395dc3-c3dd-4000-a7ec-bb56bc592866, sni: us04.sanzangyun.xyz, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 测试 | 1.5x 美国05 - 三藏云, server: usf05.sanzangyun.xyz, port: 32019, type: vmess, uuid: 90395dc3-c3dd-4000-a7ec-bb56bc592866, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /cctv5/hd.m3u8, headers: {Host: usf05.sanzangyun.xyz}}, udp: true}
+- {name: 🇺🇸 测试 | 1.5x 美国05 流媒体 - 三藏云, server: usf05.sanzangyun.xyz, port: 32019, type: vmess, uuid: 90395dc3-c3dd-4000-a7ec-bb56bc592866, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /cctv5/hd.m3u8, headers: {Host: usf05.sanzangyun.xyz}}, udp: true}
 - {name: 🇯🇵 免费 | 1.5x 日本01 - 三藏云, server: jpf01.sanzangyun.xyz, port: 35009, type: vmess, uuid: 90395dc3-c3dd-4000-a7ec-bb56bc592866, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /cctv5/hd.m3u8, headers: {Host: jpf01.sanzangyun.xyz}}, udp: true}
 - {name: 🇯🇵 免费 | 1.5x 日本02 - 三藏云, server: jpf02.sanzangyun.xyz, port: 40066, type: trojan, password: 90395dc3-c3dd-4000-a7ec-bb56bc592866, sni: jp02.sanzangyun.xyz, skip-cert-verify: true, udp: true}
 - {name: 🇸🇬 免费 | 1.5x 新加坡01 - 三藏云, server: sgf01.sanzangyun.xyz, port: 29036, type: vmess, uuid: 90395dc3-c3dd-4000-a7ec-bb56bc592866, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /cctv5/hd.m3u8, headers: {Host: sgf01.sanzangyun.xyz}}, udp: true}
 - {name: 🇸🇬 免费 | 1.5x 新加坡02 - 三藏云, server: sgf02.sanzangyun.xyz, port: 25802, type: trojan, password: 90395dc3-c3dd-4000-a7ec-bb56bc592866, sni: sg02.sanzangyun.xyz, skip-cert-verify: true, udp: true}
 - {name: 🇫🇷 免费 | 1.5x 法国01 - 三藏云, server: frf01.sanzangyun.xyz, port: 36099, type: vmess, uuid: 90395dc3-c3dd-4000-a7ec-bb56bc592866, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /cctv5/hd.m3u8, headers: {Host: frf01.sanzangyun.xyz}}, udp: true}
 - {name: 🇫🇷 免费 | 1.5x 法国02 - 三藏云, server: frf02.sanzangyun.xyz, port: 40959, type: trojan, password: 90395dc3-c3dd-4000-a7ec-bb56bc592866, sni: fr02.sanzangyun.xyz, skip-cert-verify: true, udp: true}
-- {name: 🇸🇬 付费 | 1.5x 新加坡01 流媒体 - 三藏云, server: sgm01.sanzangyun.cyou, port: 40508, type: vmess, uuid: 90395dc3-c3dd-4000-a7ec-bb56bc592866, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /cctv5/hd.m3u8, headers: {Host: sgm01.sanzangyun.cyou}}, udp: true}
+- {name: 🇸🇬 测试 | 1.5x 新加坡01 流媒体 - 三藏云, server: sgm01.sanzangyun.cyou, port: 40508, type: vmess, uuid: 90395dc3-c3dd-4000-a7ec-bb56bc592866, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /cctv5/hd.m3u8, headers: {Host: sgm01.sanzangyun.cyou}}, udp: true}
 - {name: 🇭🇰 中转•香港301•高速 - 飞翔吧, server: gg.58n.net, port: 20301, type: trojan, password: dbd8beaf-64a4-3bae-83da-5ba74fd50cfd, sni: z301.hongkongnode.top, skip-cert-verify: true, udp: true}
 - {name: 🇹🇼 广港•台湾258•高速 - 飞翔吧, server: gg.58n.net, port: 17629, type: trojan, password: dbd8beaf-64a4-3bae-83da-5ba74fd50cfd, sni: z258.hongkongnode.top, skip-cert-verify: true, udp: true}
 - {name: 🇭🇰 广港•香港143•高速 - 飞翔吧, server: gg.58n.net, port: 28678, type: trojan, password: dbd8beaf-64a4-3bae-83da-5ba74fd50cfd, sni: z143.hongkongnode.top, skip-cert-verify: true, udp: true}
@@ -976,9 +976,9 @@ proxies:
 - {name: 🇧🇷巴西01 - 都是梦, server: dl1.doushimeng.com, port: 2086, type: vmess, uuid: ac8e138b-369a-49f2-bdad-c10fa04a440c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /uziiii, headers: {Host: cf-bx1.nicehand.top}}, udp: true}
 - {name: 🇧🇷巴西02 - 都是梦, server: dl1.doushimeng.com, port: 2086, type: vmess, uuid: ac8e138b-369a-49f2-bdad-c10fa04a440c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /uziiii, headers: {Host: cf-bx2.nicehand.top}}, udp: true}
 - {name: 🇧🇷巴西03 - 都是梦, server: dl1.doushimeng.com, port: 2082, type: vmess, uuid: ac8e138b-369a-49f2-bdad-c10fa04a440c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /asdas, headers: {Host: cf-bx4.doushimeng.com}}, udp: true}
-- {name: 【付费用户】油管秒开4K/8K，更多地区接入|公益 - 大白, server: 120.233.42.189, port: 58080, type: vmess, uuid: 9a10091d-34de-379b-a989-7362f0326d16, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, servername: d.db-link.in, network: ws, ws-opts: {path: /db00, headers: {Host: d.db-link.in}}, udp: true}
-- {name: '【免费用户】油管稳2K@30,限速稳720P|公益 - 大白', server: 120.241.46.222, port: 62002, type: vmess, uuid: 9a10091d-34de-379b-a989-7362f0326d16, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, servername: c.db-link.in, network: ws, ws-opts: {path: /db00, headers: {Host: c.db-link.in}}, udp: true}
-- {name: 【提供套餐】免费/按量不限时/不按量限时|公益 - 大白, server: 120.241.46.222, port: 61092, type: vmess, uuid: 9a10091d-34de-379b-a989-7362f0326d16, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, servername: e.db-link.in, network: ws, ws-opts: {path: /db00, headers: {Host: e.db-link.in}}, udp: true}
+- {name: 【付费用户】油管秒开4K/8K，更多地区接入|公益 - 大白, server: 120.233.42.181, port: 50080, type: vmess, uuid: 9a10091d-34de-379b-a989-7362f0326d16, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, servername: d.db-link.in, network: ws, ws-opts: {path: /db00, headers: {Host: d.db-link.in}}, udp: true}
+- {name: '【免费用户】油管稳2K@30,限速稳720P|公益 - 大白', server: 120.233.42.39, port: 50080, type: vmess, uuid: 9a10091d-34de-379b-a989-7362f0326d16, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, servername: c.db-link.in, network: ws, ws-opts: {path: /db00, headers: {Host: c.db-link.in}}, udp: true}
+- {name: 【提供套餐】免费/按量不限时/不按量限时|公益 - 大白, server: 120.233.42.189, port: 50080, type: vmess, uuid: 9a10091d-34de-379b-a989-7362f0326d16, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, servername: e.db-link.in, network: ws, ws-opts: {path: /db00, headers: {Host: e.db-link.in}}, udp: true}
 - {name: 【邀请用户】|最高返还40%|移动 - 大白, server: 162.159.134.5, port: 2082, type: vmess, uuid: 9a10091d-34de-379b-a989-7362f0326d16, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, servername: a.db-link.in, network: ws, ws-opts: {path: /db00, headers: {Host: a.db-link.in}}, udp: true}
 - {name: '【节点优先级】[按量]>[不限量]>[免费]>[公共订阅]|移动 - 大白', server: 162.159.135.52, port: 443, type: vmess, uuid: 9a10091d-34de-379b-a989-7362f0326d16, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: b.db-link.in, network: ws, ws-opts: {path: /db00, headers: {Host: b.db-link.in}}, udp: true}
 - {name: 🇭🇰 香港 - 超级机场, server: e.superjj.cc, port: 50001, type: ss, cipher: chacha20-ietf-poly1305, password: 8f87a5ff-ecd5-4b83-9542-67c3806abc91, udp: true}
