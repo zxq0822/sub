@@ -36,8 +36,6 @@ proxies:
 - {name: 🇹🇼 中转•台湾91•原生 - 飞翔吧, server: gg.58n.net, port: 21247, type: trojan, password: dbd8beaf-64a4-3bae-83da-5ba74fd50cfd, sni: x91.flybar.work, skip-cert-verify: true, udp: true}
 - {name: 🇹🇼 广港•台湾261•高速 - 飞翔吧, server: gg.58n.net, port: 33323, type: trojan, password: dbd8beaf-64a4-3bae-83da-5ba74fd50cfd, sni: z261.hongkongnode.top, skip-cert-verify: true, udp: true}
 - {name: 🇹🇼 广港•台湾262•高速 - 飞翔吧, server: gg.58n.net, port: 36821, type: trojan, password: dbd8beaf-64a4-3bae-83da-5ba74fd50cfd, sni: z262.hongkongnode.top, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰香港01-高速中转8倍率 - 快狗云, server: wzcmfwqhuifnwq.dfcloud.xyz, port: 50519, type: ss, cipher: chacha20-ietf-poly1305, password: 455b3565-342b-4c22-b2c2-62d1aa612e99, udp: true}
-- {name: 🇭🇰香港02-高速中转8倍率 - 快狗云, server: gzdxxnfqwnio.fucat.top, port: 48257, type: ss, cipher: chacha20-ietf-poly1305, password: 455b3565-342b-4c22-b2c2-62d1aa612e99, udp: true}
 - {name: 🇭🇰 香港 1 - 西瓜皮是真的皮, server: cm1-xg.go001.buzz, port: 19811, type: vmess, uuid: 88063a0a-0969-30ca-9037-63affd710762, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇭🇰 香港 2 - 西瓜皮是真的皮, server: ct1-xg.go001.buzz, port: 19812, type: vmess, uuid: 88063a0a-0969-30ca-9037-63affd710762, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇹🇼 台湾 1 动画疯 - 西瓜皮是真的皮, server: cm1-xg.go001.buzz, port: 19821, type: vmess, uuid: 88063a0a-0969-30ca-9037-63affd710762, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}

@@ -1,5 +1,0 @@
-%YAML 1.1
----
-proxies:
-- {name: 🇯🇵日本03-高速中转8倍率 - 快狗云, server: gzdxxnfqwnio.fucat.top, port: 36274, type: ss, cipher: chacha20-ietf-poly1305, password: 455b3565-342b-4c22-b2c2-62d1aa612e99, udp: true}
-- {name: 🇯🇵日本04-高速中转8倍率 - 快狗云, server: gzdxxnfqwnio.fucat.top, port: 48866, type: ss, cipher: chacha20-ietf-poly1305, password: 455b3565-342b-4c22-b2c2-62d1aa612e99, udp: true}
