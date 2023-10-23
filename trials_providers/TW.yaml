@@ -1,8 +1,8 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇹🇼 🇨🇳A台湾-原生ip - ikunVPN, server: tw-one.1234585.xyz, port: 80, type: vmess, uuid: 0731f91c-ef19-435c-a63c-4a2c9fe59027, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: tw-one.1234585.xyz}}, udp: true}
-- {name: 🇹🇼 🇨🇳B台湾-原生ip - ikunVPN, server: tw-one.1234585.xyz, port: 80, type: vmess, uuid: 0731f91c-ef19-435c-a63c-4a2c9fe59027, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: tw-one.1234585.xyz}}, udp: true}
+- {name: 🇹🇼 🇨🇳A台湾-原生ip - ikunVPN, server: tw-one.1234585.xyz, port: 80, type: vmess, uuid: 61e3828a-c27e-4f09-bfdb-67922a90898b, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: tw-one.1234585.xyz}}, udp: true}
+- {name: 🇹🇼 🇨🇳B台湾-原生ip - ikunVPN, server: tw-one.1234585.xyz, port: 80, type: vmess, uuid: 61e3828a-c27e-4f09-bfdb-67922a90898b, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: tw-one.1234585.xyz}}, udp: true}
 - {name: 🇹🇼 Taiwan - 番茄云, server: tw.fanqiecloud.top, port: 12482, type: ss, cipher: chacha20-ietf-poly1305, password: 49493673-02ba-4835-97bb-b2d30533de54, udp: true}
 - {name: 🇹🇼 台湾Hinet - 一颗机场, server: y1ktw1.kozow.com, port: 12290, type: vmess, uuid: 73e4af12-05c1-4dda-8e68-0c7afc56ed95, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇹🇼 台湾01-Hinet|Netflix|Disney+|动画疯 - 盛丰, server: tw.nodegroups.ink, port: 33206, type: vmess, uuid: 552b3d48-474b-304c-aedf-8f9f69918c04, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
