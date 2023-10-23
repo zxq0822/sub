@@ -1,7 +1,7 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 距离下次重置剩余：29 天 - 三藏云, server: sanzangyun.cc, port: 10086, type: vmess, uuid: 90395dc3-c3dd-4000-a7ec-bb56bc592866, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: sanzangyun.cc}}, udp: true}
+- {name: 距离下次重置剩余：28 天 - 三藏云, server: sanzangyun.cc, port: 10086, type: vmess, uuid: 90395dc3-c3dd-4000-a7ec-bb56bc592866, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: sanzangyun.cc}}, udp: true}
 - {name: 官网SanZangYun.com - 三藏云, server: sanzangyun.cc, port: 10086, type: vmess, uuid: 90395dc3-c3dd-4000-a7ec-bb56bc592866, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: sanzangyun.cc}}, udp: true}
 - {name: 每次登录请更新订阅 - 三藏云, server: sanzangyun.cc, port: 10086, type: vmess, uuid: 90395dc3-c3dd-4000-a7ec-bb56bc592866, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: sanzangyun.cc}}, udp: true}
 - {name: 有问题到官网发工单 - 三藏云, server: sanzangyun.cc, port: 10086, type: vmess, uuid: 90395dc3-c3dd-4000-a7ec-bb56bc592866, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: sanzangyun.cc}}, udp: true}
