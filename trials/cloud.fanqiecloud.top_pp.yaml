@@ -10,11 +10,13 @@ proxy-groups:
   type: select
   proxies:
   - ⚡ ‍低延迟
+  - 🇹🇼 ‍台湾
   - 🇸🇬 ‍新加坡
   - 🇯🇵 ‍日本
   - 🇺🇸 ‍美国
   - 🎏 ‍其他
   - 👆🏻 ‍指定
+  - 👆🏻🇹🇼 ‍台湾
   - 👆🏻🇸🇬 ‍新加坡
   - 👆🏻🇯🇵 ‍日本
   - 👆🏻🇺🇸 ‍美国
@@ -22,22 +24,13 @@ proxy-groups:
   - DIRECT
 - name: ⚡ ‍低延迟
   type: url-test
-  url: https://i.ytimg.com/generate_204
-  interval: 30
   tolerance: 50
-  proxies: &id001
-  - 🇸🇬 免费 | 1.5x 新加坡01 - 三藏云
-  - 🇸🇬 免费 | 1.5x 新加坡02 - 三藏云
-  - 🇯🇵 免费 | 1.5x 日本01 - 三藏云
-  - 🇯🇵 免费 | 1.5x 日本02 - 三藏云
-  - 🇺🇸 免费 | 1.5x 美国01 - 三藏云
-  - 🇺🇸 免费 | 1.5x 美国02 - 三藏云
-  - 🇺🇸 免费 | 1.5x 美国03 - 三藏云
-  - 🇺🇸 免费 | 1.5x 美国04 - 三藏云
-  - 🇺🇸 测试 | 1.5x 美国05 - 三藏云
-  - TG群组@sanzangyun - 三藏云
-  - 🇫🇷 免费 | 1.5x 法国01 - 三藏云
-  - 🇫🇷 免费 | 1.5x 法国02 - 三藏云
+  use: &id001
+  - TW
+  - SG
+  - JP
+  - US
+  - Other
 - name: 🛩️ ‍墙内
   type: select
   proxies:
@@ -53,8 +46,10 @@ proxy-groups:
 - name: 📺 ‍B站
   type: select
   proxies:
+  - 🇹🇼 ‍台湾
   - 🛩️ ‍墙内
   - 👆🏻 ‍指定
+  - 👆🏻🇹🇼 ‍台湾
   - ✈️ ‍起飞
 - name: 🤖 ‍OpenAI+Bing
   type: select
@@ -63,9 +58,11 @@ proxy-groups:
   - 🎏 ‍其他
   - 👆🏻🇺🇸 ‍美国
   - 👆🏻🎏 ‍其他
+  - 🇹🇼 ‍台湾
   - 🇸🇬 ‍新加坡
   - 🇯🇵 ‍日本
   - 👆🏻 ‍指定
+  - 👆🏻🇹🇼 ‍台湾
   - 👆🏻🇸🇬 ‍新加坡
   - 👆🏻🇯🇵 ‍日本
   - ✈️ ‍起飞
@@ -76,70 +73,95 @@ proxy-groups:
   - ✈️ ‍起飞
   - 🛩️ ‍墙内
   - 💩 ‍广告
+- name: 🇹🇼 ‍台湾
+  type: url-test
+  tolerance: 50
+  use: &id002
+  - TW
 - name: 🇸🇬 ‍新加坡
   type: url-test
-  url: https://i.ytimg.com/generate_204
-  interval: 30
   tolerance: 50
-  proxies: &id002
-  - 🇸🇬 免费 | 1.5x 新加坡01 - 三藏云
-  - 🇸🇬 免费 | 1.5x 新加坡02 - 三藏云
+  use: &id003
+  - SG
 - name: 🇯🇵 ‍日本
   type: url-test
-  url: https://i.ytimg.com/generate_204
-  interval: 30
   tolerance: 50
-  proxies: &id003
-  - 🇯🇵 免费 | 1.5x 日本01 - 三藏云
-  - 🇯🇵 免费 | 1.5x 日本02 - 三藏云
+  use: &id004
+  - JP
 - name: 🇺🇸 ‍美国
   type: url-test
-  url: https://i.ytimg.com/generate_204
-  interval: 30
   tolerance: 50
-  proxies: &id004
-  - 🇺🇸 免费 | 1.5x 美国01 - 三藏云
-  - 🇺🇸 免费 | 1.5x 美国02 - 三藏云
-  - 🇺🇸 免费 | 1.5x 美国03 - 三藏云
-  - 🇺🇸 免费 | 1.5x 美国04 - 三藏云
-  - 🇺🇸 测试 | 1.5x 美国05 - 三藏云
+  use: &id005
+  - US
 - name: 🎏 ‍其他
   type: url-test
-  url: https://i.ytimg.com/generate_204
-  interval: 30
   tolerance: 50
-  proxies: &id005
-  - TG群组@sanzangyun - 三藏云
-  - 🇫🇷 免费 | 1.5x 法国01 - 三藏云
-  - 🇫🇷 免费 | 1.5x 法国02 - 三藏云
+  use: &id006
+  - Other
 - name: 👆🏻 ‍指定
   type: select
-  proxies: *id001
+  use: *id001
+- name: 👆🏻🇹🇼 ‍台湾
+  type: select
+  use: *id002
 - name: 👆🏻🇸🇬 ‍新加坡
   type: select
-  proxies: *id002
+  use: *id003
 - name: 👆🏻🇯🇵 ‍日本
   type: select
-  proxies: *id003
+  use: *id004
 - name: 👆🏻🇺🇸 ‍美国
   type: select
-  proxies: *id004
+  use: *id005
 - name: 👆🏻🎏 ‍其他
   type: select
-  proxies: *id005
-proxies:
-- {name: TG群组@sanzangyun - 三藏云, server: sanzangyun.cc, port: 10086, type: vmess, uuid: 90395dc3-c3dd-4000-a7ec-bb56bc592866, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: sanzangyun.cc}}, udp: true}
-- {name: 🇺🇸 免费 | 1.5x 美国01 - 三藏云, server: usf01.sanzangyun.xyz, port: 32099, type: vmess, uuid: 90395dc3-c3dd-4000-a7ec-bb56bc592866, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /cctv5/hd.m3u8, headers: {Host: usf01.sanzangyun.xyz}}, udp: true}
-- {name: 🇺🇸 免费 | 1.5x 美国02 - 三藏云, server: usf02.sanzangyun.xyz, port: 43909, type: trojan, password: 90395dc3-c3dd-4000-a7ec-bb56bc592866, sni: us02.sanzangyun.xyz, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 免费 | 1.5x 美国03 - 三藏云, server: usf03.sanzangyun.xyz, port: 32915, type: vmess, uuid: 90395dc3-c3dd-4000-a7ec-bb56bc592866, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /cctv5/hd.m3u8, headers: {Host: usf03.sanzangyun.xyz}}, udp: true}
-- {name: 🇺🇸 免费 | 1.5x 美国04 - 三藏云, server: usf04.sanzangyun.xyz, port: 45375, type: trojan, password: 90395dc3-c3dd-4000-a7ec-bb56bc592866, sni: us04.sanzangyun.xyz, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 测试 | 1.5x 美国05 - 三藏云, server: usf05.sanzangyun.xyz, port: 32019, type: vmess, uuid: 90395dc3-c3dd-4000-a7ec-bb56bc592866, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /cctv5/hd.m3u8, headers: {Host: usf05.sanzangyun.xyz}}, udp: true}
-- {name: 🇯🇵 免费 | 1.5x 日本01 - 三藏云, server: jpf01.sanzangyun.xyz, port: 35009, type: vmess, uuid: 90395dc3-c3dd-4000-a7ec-bb56bc592866, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /cctv5/hd.m3u8, headers: {Host: jpf01.sanzangyun.xyz}}, udp: true}
-- {name: 🇯🇵 免费 | 1.5x 日本02 - 三藏云, server: jpf02.sanzangyun.xyz, port: 40066, type: trojan, password: 90395dc3-c3dd-4000-a7ec-bb56bc592866, sni: jp02.sanzangyun.xyz, skip-cert-verify: true, udp: true}
-- {name: 🇸🇬 免费 | 1.5x 新加坡01 - 三藏云, server: sgf01.sanzangyun.xyz, port: 29036, type: vmess, uuid: 90395dc3-c3dd-4000-a7ec-bb56bc592866, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /cctv5/hd.m3u8, headers: {Host: sgf01.sanzangyun.xyz}}, udp: true}
-- {name: 🇸🇬 免费 | 1.5x 新加坡02 - 三藏云, server: sgf02.sanzangyun.xyz, port: 25802, type: trojan, password: 90395dc3-c3dd-4000-a7ec-bb56bc592866, sni: sg02.sanzangyun.xyz, skip-cert-verify: true, udp: true}
-- {name: 🇫🇷 免费 | 1.5x 法国01 - 三藏云, server: frf01.sanzangyun.xyz, port: 36099, type: vmess, uuid: 90395dc3-c3dd-4000-a7ec-bb56bc592866, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /cctv5/hd.m3u8, headers: {Host: frf01.sanzangyun.xyz}}, udp: true}
-- {name: 🇫🇷 免费 | 1.5x 法国02 - 三藏云, server: frf02.sanzangyun.xyz, port: 40959, type: trojan, password: 90395dc3-c3dd-4000-a7ec-bb56bc592866, sni: fr02.sanzangyun.xyz, skip-cert-verify: true, udp: true}
+  use: *id006
+proxy-providers:
+  TW:
+    type: http
+    url: https://raw.kgithub.com/mfbpn/tg_mfbpn_sub/main/trials_providers/cloud.fanqiecloud.top/TW.yaml
+    interval: 180
+    path: trials_providers/cloud.fanqiecloud.top/TW.yaml
+    health-check:
+      enable: true
+      url: https://i.ytimg.com/generate_204
+      interval: 30
+  SG:
+    type: http
+    url: https://raw.kgithub.com/mfbpn/tg_mfbpn_sub/main/trials_providers/cloud.fanqiecloud.top/SG.yaml
+    interval: 180
+    path: trials_providers/cloud.fanqiecloud.top/SG.yaml
+    health-check:
+      enable: true
+      url: https://i.ytimg.com/generate_204
+      interval: 30
+  JP:
+    type: http
+    url: https://raw.kgithub.com/mfbpn/tg_mfbpn_sub/main/trials_providers/cloud.fanqiecloud.top/JP.yaml
+    interval: 180
+    path: trials_providers/cloud.fanqiecloud.top/JP.yaml
+    health-check:
+      enable: true
+      url: https://i.ytimg.com/generate_204
+      interval: 30
+  US:
+    type: http
+    url: https://raw.kgithub.com/mfbpn/tg_mfbpn_sub/main/trials_providers/cloud.fanqiecloud.top/US.yaml
+    interval: 180
+    path: trials_providers/cloud.fanqiecloud.top/US.yaml
+    health-check:
+      enable: true
+      url: https://i.ytimg.com/generate_204
+      interval: 30
+  Other:
+    type: http
+    url: https://raw.kgithub.com/mfbpn/tg_mfbpn_sub/main/trials_providers/cloud.fanqiecloud.top/Other.yaml
+    interval: 180
+    path: trials_providers/cloud.fanqiecloud.top/Other.yaml
+    health-check:
+      enable: true
+      url: https://i.ytimg.com/generate_204
+      interval: 30
 rules:
 - DOMAIN-SUFFIX,acl4.ssr,DIRECT
 - DOMAIN-SUFFIX,ip6-localhost,DIRECT
