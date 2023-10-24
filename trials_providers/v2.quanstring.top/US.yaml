@@ -3,3 +3,4 @@
 proxies:
 - {name: 🇺🇸|高速|优质IP - 大湾区坤厂, server: 154.7.179.5, port: 8080, type: vmess, uuid: a9df6012-d264-4f79-877e-0acdd0230717, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: '/quanstring?ed=2048', headers: {Host: us.quanstring.top}}, udp: true}
 - {name: 🇺🇸|流媒体|TikTok - 大湾区坤厂, server: 154.7.179.5, port: 8080, type: vmess, uuid: a9df6012-d264-4f79-877e-0acdd0230717, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: '/quanstring?ed=2048', headers: {Host: us.quanstring.top}}, udp: true}
+- {name: 🇺🇸|原生IP|优质IP - 大湾区坤厂, server: 154.7.179.5, port: 8080, type: vmess, uuid: a9df6012-d264-4f79-877e-0acdd0230717, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: '/quanstring?ed=2048', headers: {Host: us.quanstring.top}}, udp: true}
