@@ -10,47 +10,15 @@ proxy-groups:
   type: select
   proxies:
   - ⚡ ‍低延迟
-  - 🇭🇰 ‍香港
-  - 🇹🇼 ‍台湾
-  - 🇨🇳 ‍中国
-  - 🇸🇬 ‍新加坡
-  - 🇯🇵 ‍日本
-  - 🇺🇸 ‍美国
   - 🎏 ‍其他
   - 👆🏻 ‍指定
-  - 👆🏻🇭🇰 ‍香港
-  - 👆🏻🇹🇼 ‍台湾
-  - 👆🏻🇨🇳 ‍中国
-  - 👆🏻🇸🇬 ‍新加坡
-  - 👆🏻🇯🇵 ‍日本
-  - 👆🏻🇺🇸 ‍美国
   - 👆🏻🎏 ‍其他
   - DIRECT
 - name: ⚡ ‍低延迟
   type: url-test
-  url: https://i.ytimg.com/generate_204
-  interval: 30
   tolerance: 50
-  proxies: &id001
-  - 🇭🇰 香港01-Neflix|Disney+|HBO - 盛丰
-  - 🇭🇰 香港02-Neflix|Disney+|HBO - 盛丰
-  - 🇭🇰 香港03-Netflix|Disney+|HBO - 盛丰
-  - 🇭🇰 香港04-Netflix|Disney+|HBO - 盛丰
-  - 🇹🇼 台湾01-Hinet|Netflix|Disney+|动画疯 - 盛丰
-  - 🇹🇼 台湾02 - 盛丰
-  - 🇹🇼 台湾03-Netflix|Disney+|动画疯 - 盛丰
-  - 🇸🇬 新加坡01-Netflix|Disney+|动画疯 - 盛丰
-  - 🇸🇬 新加坡02 - 盛丰
-  - 🇸🇬 新加坡03 - 盛丰
-  - 🇯🇵 日本01-Netflix|Disney+|动画疯 - 盛丰
-  - 🇯🇵 日本02 - 盛丰
-  - 🇯🇵 日本03 - 盛丰
-  - 🇺🇸 美国01-Netflix|Disney+|动画疯 - 盛丰
-  - 🇺🇸 美国02 - 盛丰
-  - 🇺🇸 美国03 - 盛丰
-  - 🇰🇷 韩国01-Netflix|Disney+|动画疯 - 盛丰
-  - 🇰🇷 韩国02 - 盛丰
-  - 实验性线路1|全节点轮询自动切换 - 盛丰
+  use: &id001
+  - All
 - name: 🛩️ ‍墙内
   type: select
   proxies:
@@ -66,29 +34,15 @@ proxy-groups:
 - name: 📺 ‍B站
   type: select
   proxies:
-  - 🇨🇳 ‍中国
-  - 🇭🇰 ‍香港
-  - 🇹🇼 ‍台湾
   - 🛩️ ‍墙内
   - 👆🏻 ‍指定
-  - 👆🏻🇭🇰 ‍香港
-  - 👆🏻🇹🇼 ‍台湾
-  - 👆🏻🇨🇳 ‍中国
   - ✈️ ‍起飞
 - name: 🤖 ‍OpenAI+Bing
   type: select
   proxies:
-  - 🇺🇸 ‍美国
   - 🎏 ‍其他
-  - 👆🏻🇺🇸 ‍美国
   - 👆🏻🎏 ‍其他
-  - 🇹🇼 ‍台湾
-  - 🇸🇬 ‍新加坡
-  - 🇯🇵 ‍日本
   - 👆🏻 ‍指定
-  - 👆🏻🇹🇼 ‍台湾
-  - 👆🏻🇸🇬 ‍新加坡
-  - 👆🏻🇯🇵 ‍日本
   - ✈️ ‍起飞
   - 🛩️ ‍墙内
 - name: 🌐 ‍未知站点
@@ -97,118 +51,36 @@ proxy-groups:
   - ✈️ ‍起飞
   - 🛩️ ‍墙内
   - 💩 ‍广告
-- name: 🇭🇰 ‍香港
-  type: url-test
-  url: https://i.ytimg.com/generate_204
-  interval: 30
-  tolerance: 50
-  proxies: &id002
-  - 🇭🇰 香港01-Neflix|Disney+|HBO - 盛丰
-  - 🇭🇰 香港02-Neflix|Disney+|HBO - 盛丰
-  - 🇭🇰 香港03-Netflix|Disney+|HBO - 盛丰
-  - 🇭🇰 香港04-Netflix|Disney+|HBO - 盛丰
-- name: 🇹🇼 ‍台湾
-  type: url-test
-  url: https://i.ytimg.com/generate_204
-  interval: 30
-  tolerance: 50
-  proxies: &id003
-  - 🇹🇼 台湾01-Hinet|Netflix|Disney+|动画疯 - 盛丰
-  - 🇹🇼 台湾02 - 盛丰
-  - 🇹🇼 台湾03-Netflix|Disney+|动画疯 - 盛丰
-- name: 🇨🇳 ‍中国
-  type: url-test
-  url: https://i.ytimg.com/generate_204
-  interval: 30
-  tolerance: 50
-  proxies: &id004
-  - 🇭🇰 香港01-Neflix|Disney+|HBO - 盛丰
-  - 🇭🇰 香港02-Neflix|Disney+|HBO - 盛丰
-  - 🇭🇰 香港03-Netflix|Disney+|HBO - 盛丰
-  - 🇭🇰 香港04-Netflix|Disney+|HBO - 盛丰
-  - 🇹🇼 台湾01-Hinet|Netflix|Disney+|动画疯 - 盛丰
-  - 🇹🇼 台湾02 - 盛丰
-  - 🇹🇼 台湾03-Netflix|Disney+|动画疯 - 盛丰
-- name: 🇸🇬 ‍新加坡
-  type: url-test
-  url: https://i.ytimg.com/generate_204
-  interval: 30
-  tolerance: 50
-  proxies: &id005
-  - 🇸🇬 新加坡01-Netflix|Disney+|动画疯 - 盛丰
-  - 🇸🇬 新加坡02 - 盛丰
-  - 🇸🇬 新加坡03 - 盛丰
-- name: 🇯🇵 ‍日本
-  type: url-test
-  url: https://i.ytimg.com/generate_204
-  interval: 30
-  tolerance: 50
-  proxies: &id006
-  - 🇯🇵 日本01-Netflix|Disney+|动画疯 - 盛丰
-  - 🇯🇵 日本02 - 盛丰
-  - 🇯🇵 日本03 - 盛丰
-- name: 🇺🇸 ‍美国
-  type: url-test
-  url: https://i.ytimg.com/generate_204
-  interval: 30
-  tolerance: 50
-  proxies: &id007
-  - 🇺🇸 美国01-Netflix|Disney+|动画疯 - 盛丰
-  - 🇺🇸 美国02 - 盛丰
-  - 🇺🇸 美国03 - 盛丰
 - name: 🎏 ‍其他
   type: url-test
-  url: https://i.ytimg.com/generate_204
-  interval: 30
   tolerance: 50
-  proxies: &id008
-  - 🇰🇷 韩国01-Netflix|Disney+|动画疯 - 盛丰
-  - 🇰🇷 韩国02 - 盛丰
-  - 实验性线路1|全节点轮询自动切换 - 盛丰
+  use: &id002
+  - Other
 - name: 👆🏻 ‍指定
   type: select
-  proxies: *id001
-- name: 👆🏻🇭🇰 ‍香港
-  type: select
-  proxies: *id002
-- name: 👆🏻🇹🇼 ‍台湾
-  type: select
-  proxies: *id003
-- name: 👆🏻🇨🇳 ‍中国
-  type: select
-  proxies: *id004
-- name: 👆🏻🇸🇬 ‍新加坡
-  type: select
-  proxies: *id005
-- name: 👆🏻🇯🇵 ‍日本
-  type: select
-  proxies: *id006
-- name: 👆🏻🇺🇸 ‍美国
-  type: select
-  proxies: *id007
+  use: *id001
 - name: 👆🏻🎏 ‍其他
   type: select
-  proxies: *id008
-proxies:
-- {name: 🇭🇰 香港01-Neflix|Disney+|HBO - 盛丰, server: hk.nodegroups.ink, port: 33203, type: vmess, uuid: 552b3d48-474b-304c-aedf-8f9f69918c04, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 香港02-Neflix|Disney+|HBO - 盛丰, server: hk.nodegroups.ink, port: 33204, type: vmess, uuid: 552b3d48-474b-304c-aedf-8f9f69918c04, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 香港03-Netflix|Disney+|HBO - 盛丰, server: hk.nodegroups.ink, port: 33205, type: vmess, uuid: 552b3d48-474b-304c-aedf-8f9f69918c04, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 香港04-Netflix|Disney+|HBO - 盛丰, server: hk.nodegroups.ink, port: 33218, type: vmess, uuid: 552b3d48-474b-304c-aedf-8f9f69918c04, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 日本01-Netflix|Disney+|动画疯 - 盛丰, server: jp.nodegroups.ink, port: 33211, type: vmess, uuid: 552b3d48-474b-304c-aedf-8f9f69918c04, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 日本02 - 盛丰, server: jp.nodegroups.ink, port: 33212, type: vmess, uuid: 552b3d48-474b-304c-aedf-8f9f69918c04, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 日本03 - 盛丰, server: jp.nodegroups.ink, port: 33213, type: vmess, uuid: 552b3d48-474b-304c-aedf-8f9f69918c04, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇸🇬 新加坡01-Netflix|Disney+|动画疯 - 盛丰, server: sg.nodegroups.ink, port: 33214, type: vmess, uuid: 552b3d48-474b-304c-aedf-8f9f69918c04, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇸🇬 新加坡02 - 盛丰, server: sg.nodegroups.ink, port: 33910, type: vmess, uuid: 552b3d48-474b-304c-aedf-8f9f69918c04, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇸🇬 新加坡03 - 盛丰, server: sg.nodegroups.ink, port: 33215, type: vmess, uuid: 552b3d48-474b-304c-aedf-8f9f69918c04, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 美国01-Netflix|Disney+|动画疯 - 盛丰, server: us.nodegroups.ink, port: 33208, type: vmess, uuid: 552b3d48-474b-304c-aedf-8f9f69918c04, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 美国02 - 盛丰, server: us.nodegroups.ink, port: 33209, type: vmess, uuid: 552b3d48-474b-304c-aedf-8f9f69918c04, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 美国03 - 盛丰, server: us.nodegroups.ink, port: 33210, type: vmess, uuid: 552b3d48-474b-304c-aedf-8f9f69918c04, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇰🇷 韩国01-Netflix|Disney+|动画疯 - 盛丰, server: kr.nodegroups.ink, port: 33216, type: vmess, uuid: 552b3d48-474b-304c-aedf-8f9f69918c04, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇰🇷 韩国02 - 盛丰, server: kr.nodegroups.ink, port: 33217, type: vmess, uuid: 552b3d48-474b-304c-aedf-8f9f69918c04, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇹🇼 台湾01-Hinet|Netflix|Disney+|动画疯 - 盛丰, server: tw.nodegroups.ink, port: 33206, type: vmess, uuid: 552b3d48-474b-304c-aedf-8f9f69918c04, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇹🇼 台湾02 - 盛丰, server: tw.nodegroups.ink, port: 33207, type: vmess, uuid: 552b3d48-474b-304c-aedf-8f9f69918c04, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇹🇼 台湾03-Netflix|Disney+|动画疯 - 盛丰, server: tw.nodegroups.ink, port: 33221, type: vmess, uuid: 552b3d48-474b-304c-aedf-8f9f69918c04, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 实验性线路1|全节点轮询自动切换 - 盛丰, server: hk.nodegroups.ink, port: 49001, type: vmess, uuid: 552b3d48-474b-304c-aedf-8f9f69918c04, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+  use: *id002
+proxy-providers:
+  All:
+    type: http
+    url: https://raw.kgithub.com/mfbpn/tg_mfbpn_sub/main/trials_providers/v2.quanstring.top/All.yaml
+    interval: 180
+    path: trials_providers/v2.quanstring.top/All.yaml
+    health-check:
+      enable: true
+      url: https://i.ytimg.com/generate_204
+      interval: 30
+  Other:
+    type: http
+    url: https://raw.kgithub.com/mfbpn/tg_mfbpn_sub/main/trials_providers/v2.quanstring.top/Other.yaml
+    interval: 180
+    path: trials_providers/v2.quanstring.top/Other.yaml
+    health-check:
+      enable: true
+      url: https://i.ytimg.com/generate_204
+      interval: 30
 rules:
 - DOMAIN-SUFFIX,acl4.ssr,DIRECT
 - DOMAIN-SUFFIX,ip6-localhost,DIRECT
