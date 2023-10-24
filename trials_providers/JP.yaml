@@ -1,8 +1,8 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇯🇵 日本-广日隧道-解锁 - 快云, server: lpl.xggj.xn--fiqs8s, port: 23416, type: vmess, uuid: 9899ee1c-3896-383e-aa1a-a0df8b275529, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 日本L1-广日隧道-解锁 - 快云, server: hzct.hnytkm.com, port: 58286, type: vmess, uuid: 9899ee1c-3896-383e-aa1a-a0df8b275529, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本-广日隧道-解锁 - 快云, server: lpl.xggj.xn--fiqs8s, port: 23416, type: vmess, uuid: 4d3a3fc9-de54-3ce1-9e2a-4f2ed340ba67, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本L1-广日隧道-解锁 - 快云, server: hzct.hnytkm.com, port: 58286, type: vmess, uuid: 4d3a3fc9-de54-3ce1-9e2a-4f2ed340ba67, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇯🇵 日本核心 IEPL 01 - 便宜机场, server: jp1.fp3kemyh-cm4s-2hak-2gb9-w3534umy2sq5.9d8f269f96b25232-759cbb36d6548597.kaufen, port: 443, type: trojan, password: 48e5676b-9de3-49a5-819b-189962055884, sni: 13-231-155-134.nhost.00cdn.com, skip-cert-verify: true, udp: true}
 - {name: 🇯🇵 日本核心 IEPL 02 - 便宜机场, server: jp1.fp3kemyh-cm4s-2hak-2gb9-w3534umy2sq5.9d8f269f96b25232-759cbb36d6548597.kaufen, port: 443, type: trojan, password: 48e5676b-9de3-49a5-819b-189962055884, sni: 13-231-155-134.nhost.00cdn.com, skip-cert-verify: true, udp: true}
 - {name: 🇯🇵 日本核心 IEPL 03 - 便宜机场, server: jp1.fp3kemyh-cm4s-2hak-2gb9-w3534umy2sq5.9d8f269f96b25232-759cbb36d6548597.kaufen, port: 443, type: trojan, password: 48e5676b-9de3-49a5-819b-189962055884, sni: 13-231-155-134.nhost.00cdn.com, skip-cert-verify: true, udp: true}
@@ -30,8 +30,8 @@ proxies:
 - {name: 🇯🇵 日本•高速59•青铜 - 飞翔吧, server: gg.58n.net, port: 20059, type: trojan, password: b6312e5b-347f-362c-b201-026d42e3a740, sni: x59.flybar.work, skip-cert-verify: true, udp: true}
 - {name: 🇯🇵 日本•高速71•高速 - 飞翔吧, server: gg.58n.net, port: 20071, type: trojan, password: b6312e5b-347f-362c-b201-026d42e3a740, sni: x71.flybar.work, skip-cert-verify: true, udp: true}
 - {name: 🇯🇵 日本•高速76•高速 - 飞翔吧, server: gg.58n.net, port: 20076, type: trojan, password: b6312e5b-347f-362c-b201-026d42e3a740, sni: x76.flybar.work, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 日本 1 Nico Abema - 西瓜皮是真的皮, server: cm1-xg.go001.buzz, port: 19831, type: vmess, uuid: 41a62e93-8cf3-3e07-a26d-1c0eedf4bfea, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 日本 2 Nico Abema - 西瓜皮是真的皮, server: ct1-xg.go001.buzz, port: 19832, type: vmess, uuid: 41a62e93-8cf3-3e07-a26d-1c0eedf4bfea, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本 1 Nico Abema - 西瓜皮是真的皮, server: cm1-xg.go001.buzz, port: 19831, type: vmess, uuid: a69c6d13-da73-37d7-b90c-a4d5dac5ec4c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本 2 Nico Abema - 西瓜皮是真的皮, server: ct1-xg.go001.buzz, port: 19832, type: vmess, uuid: a69c6d13-da73-37d7-b90c-a4d5dac5ec4c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇯🇵日本01 - 都是梦, server: jp.doushimeng.com, port: 21403, type: ss, cipher: chacha20-ietf-poly1305, password: f6334dda-cf87-4760-8183-be75b27959e6, udp: true}
 - {name: 🇯🇵 日本 - 超级机场, server: ep.superjj.cc, port: 50021, type: ss, cipher: chacha20-ietf-poly1305, password: 8f87a5ff-ecd5-4b83-9542-67c3806abc91, udp: true}
 - {name: 🇯🇵 V4-4001|日本|x1.5 - 海豚云, server: cdn.node.user-sub.pddns-usersdk.com, port: 14109, type: vmess, uuid: 093104d5-c5e7-3455-99fd-c9045a940587, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /12e884bf-1622-7ceb-3009-7d47fdfs2f9a5, headers: {Host: cdn.node.user-sub.pddns-usersdk.com}}, udp: true}
