@@ -1,9 +1,9 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇺🇸 美国1-广港隧道-解锁 - 快云, server: hzct.hnytkm.com, port: 50333, type: vmess, uuid: 8b48ba16-114b-32d0-922e-3b8ab6ee75a4, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 美国2-上港隧道-解锁 - 快云, server: hk.hnytkm.com, port: 32225, type: vmess, uuid: 8b48ba16-114b-32d0-922e-3b8ab6ee75a4, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 美国3L1-广港隧道-解锁 - 快云, server: hzct.hnytkm.com, port: 13526, type: vmess, uuid: 8b48ba16-114b-32d0-922e-3b8ab6ee75a4, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 美国1-广港隧道-解锁 - 快云, server: hzct.hnytkm.com, port: 50333, type: vmess, uuid: 749f3be5-5388-30c0-847e-94ea5d24a7ee, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 美国2-上港隧道-解锁 - 快云, server: hk.hnytkm.com, port: 32225, type: vmess, uuid: 749f3be5-5388-30c0-847e-94ea5d24a7ee, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 美国3L1-广港隧道-解锁 - 快云, server: hzct.hnytkm.com, port: 13526, type: vmess, uuid: 749f3be5-5388-30c0-847e-94ea5d24a7ee, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇺🇸 美国核心 IEPL 01 - 便宜机场, server: us1-reality.fp3kemyh-cm4s-2hak-2gb9-w3534umy2sq5.9d8f269f96b25232-759cbb36d6548597.kaufen, port: 443, type: trojan, password: 48e5676b-9de3-49a5-819b-189962055884, sni: 13-231-155-134.nhost.00cdn.com, skip-cert-verify: true, udp: true}
 - {name: 🇺🇸 美国核心 IEPL 02 - 便宜机场, server: us1-reality.fp3kemyh-cm4s-2hak-2gb9-w3534umy2sq5.9d8f269f96b25232-759cbb36d6548597.kaufen, port: 443, type: trojan, password: 48e5676b-9de3-49a5-819b-189962055884, sni: 13-231-155-134.nhost.00cdn.com, skip-cert-verify: true, udp: true}
 - {name: '[🇺🇸] 打杂的01 x1 - 星河 583', server: v13.583182.xyz, port: 2053, type: vmess, uuid: ea941a81-922e-4df1-a707-69a372d52f63, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: v13.583181.xyz, network: ws, ws-opts: {path: /, headers: {Host: v13.583181.xyz}}, udp: true}
