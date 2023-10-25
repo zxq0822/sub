@@ -1,4 +1,4 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇭🇰 香港3-广港隧道-解锁 - 快云, server: hzct.hnytkm.com, port: 43789, type: vmess, uuid: 0adf63fe-0251-3f74-8356-91c227bb87fd, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 香港3-广港隧道-解锁 - 快云, server: hzct.hnytkm.com, port: 43789, type: vmess, uuid: 94c2a1ab-8840-36f3-8949-641c17d5eff3, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
