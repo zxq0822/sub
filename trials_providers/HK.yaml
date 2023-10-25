@@ -1,7 +1,7 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇭🇰 香港3-广港隧道-解锁 - 快云, server: hzct.hnytkm.com, port: 43789, type: vmess, uuid: 749f3be5-5388-30c0-847e-94ea5d24a7ee, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 香港3-广港隧道-解锁 - 快云, server: hzct.hnytkm.com, port: 43789, type: vmess, uuid: 3e950375-1cac-3bbd-b9bc-7c4d5fe037a1, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇭🇰 香港核心 IEPL 01 - 便宜机场, server: hk1-reality.fp3kemyh-cm4s-2hak-2gb9-w3534umy2sq5.9d8f269f96b25232-759cbb36d6548597.kaufen, port: 443, type: trojan, password: 48e5676b-9de3-49a5-819b-189962055884, sni: 13-231-155-134.nhost.00cdn.com, skip-cert-verify: true, udp: true}
 - {name: 🇭🇰 香港核心 IEPL 02 - 便宜机场, server: hk1-reality.fp3kemyh-cm4s-2hak-2gb9-w3534umy2sq5.9d8f269f96b25232-759cbb36d6548597.kaufen, port: 443, type: trojan, password: 48e5676b-9de3-49a5-819b-189962055884, sni: 13-231-155-134.nhost.00cdn.com, skip-cert-verify: true, udp: true}
 - {name: 🇭🇰 香港 101 - 墙了个墙, server: hkvip102.qlgq1.pw, port: 10443, type: trojan, password: eaa16b7c-bd74-3154-bfbf-57f9a27525d4, sni: hkvip102.qlgq1.pw, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: hkvip102}, udp: true}
@@ -14,6 +14,7 @@ proxies:
 - {name: 🇭🇰 香港 108 - 墙了个墙, server: hkvip103.qlgq1.pw, port: 30443, type: trojan, password: eaa16b7c-bd74-3154-bfbf-57f9a27525d4, sni: hkvip103.qlgq1.pw, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: hkvip103}, udp: true}
 - {name: 🇭🇰 香港 109 - 墙了个墙, server: hkvip103.qlgq1.pw, port: 40443, type: trojan, password: eaa16b7c-bd74-3154-bfbf-57f9a27525d4, sni: hkvip103.qlgq1.pw, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: hkvip103}, udp: true}
 - {name: 🇭🇰 香港 110 - 墙了个墙, server: hkvip103.qlgq1.pw, port: 50443, type: trojan, password: eaa16b7c-bd74-3154-bfbf-57f9a27525d4, sni: hkvip103.qlgq1.pw, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: hkvip103}, udp: true}
+- {name: 🇭🇰-广联-中转 - 大湾区坤厂, server: 110.72.100.83, port: 33290, type: ss, cipher: chacha20-ietf-poly1305, password: a9df6012-d264-4f79-877e-0acdd0230717, udp: true}
 - {name: 🇭🇰 中转•香港301•高速 - 飞翔吧, server: gg.58n.net, port: 20301, type: trojan, password: c579f163-3830-3606-aab0-d97fb96bd1eb, sni: z301.hongkongnode.top, skip-cert-verify: true, udp: true}
 - {name: 🇭🇰 广港•香港143•高速 - 飞翔吧, server: gg.58n.net, port: 28678, type: trojan, password: c579f163-3830-3606-aab0-d97fb96bd1eb, sni: z143.hongkongnode.top, skip-cert-verify: true, udp: true}
 - {name: 🇭🇰 广港•香港269•高速 - 飞翔吧, server: gg.58n.net, port: 22741, type: trojan, password: c579f163-3830-3606-aab0-d97fb96bd1eb, sni: dufu.hongkongnode.top, skip-cert-verify: true, udp: true}
