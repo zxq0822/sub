@@ -1,7 +1,8 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇺🇸专线|广联| - 大湾区坤厂, server: 110.72.100.83, port: 52011, type: ss, cipher: chacha20-ietf-poly1305, password: 00bcbb2c-74b8-40e5-aa29-6ed75d873616, udp: true}
+- {name: 🇺🇸原生IP-9929-广联 - 大湾区坤厂, server: 110.72.100.83, port: 56540, type: ss, cipher: chacha20-ietf-poly1305, password: 00bcbb2c-74b8-40e5-aa29-6ed75d873616, udp: true}
+- {name: 🇺🇸-专线-广联 - 大湾区坤厂, server: 110.72.100.83, port: 52011, type: ss, cipher: chacha20-ietf-poly1305, password: 00bcbb2c-74b8-40e5-aa29-6ed75d873616, udp: true}
 - {name: 🇺🇸流媒体|ChatGPT| - 大湾区坤厂, server: 110.72.100.83, port: 52011, type: ss, cipher: chacha20-ietf-poly1305, password: 00bcbb2c-74b8-40e5-aa29-6ed75d873616, udp: true}
 - {name: 🇺🇸专线|北方| - 大湾区坤厂, server: xiongda005.daxiongda.top, port: 39110, type: ss, cipher: chacha20-ietf-poly1305, password: 00bcbb2c-74b8-40e5-aa29-6ed75d873616, udp: true}
 - {name: 🇺🇸-直连 - 大湾区坤厂, server: 74.48.98.249, port: 8080, type: vmess, uuid: 00bcbb2c-74b8-40e5-aa29-6ed75d873616, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: '/quanstring?ed=2048', headers: {Host: us.quanstring.top}}, udp: true}
