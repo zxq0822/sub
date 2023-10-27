@@ -1,0 +1,6 @@
+%YAML 1.1
+---
+proxies:
+- {name: 🇻🇳 越南鸡-日本 - 大湾区坤厂, server: 110.72.100.83, port: 42812, type: ss, cipher: chacha20-ietf-poly1305, password: 73c04c17-ffc5-4a6f-b723-3727f2068b00, udp: true}
+- {name: 🇻🇳 越南鸡-新加坡 - 大湾区坤厂, server: 110.72.100.83, port: 10357, type: ss, cipher: chacha20-ietf-poly1305, password: 73c04c17-ffc5-4a6f-b723-3727f2068b00, udp: true}
+- {name: 🇻🇳 越南鸡-直连 - 大湾区坤厂, server: 103.245.237.59, port: 9999, type: ss, cipher: chacha20-ietf-poly1305, password: 73c04c17-ffc5-4a6f-b723-3727f2068b00, udp: true}
