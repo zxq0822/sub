@@ -221,8 +221,8 @@ proxy-groups:
   - 🇻🇳 越南 1 - 西瓜皮是真的皮
   - 🇮🇳 印度 1 - 西瓜皮是真的皮
   - 🇹🇷 土耳其 1 - 西瓜皮是真的皮
-  - 🇻🇳 越南鸡-日本 - 大湾区坤厂
-  - 🇻🇳 越南鸡-新加坡 - 大湾区坤厂
+  - 🇻🇳 越南鸡-日本-高速 - 大湾区坤厂
+  - 🇻🇳 越南鸡-首尔-高速 - 大湾区坤厂
   - 🇻🇳 越南鸡-直连 - 大湾区坤厂
   - 🇰🇷 韩国首尔|甲骨文 - 一颗机场
   - 🇳🇱 荷兰|甲骨文 - 一颗机场
@@ -264,8 +264,8 @@ proxy-groups:
   - 🇧🇷巴西01 - 都是梦
   - 🇧🇷巴西02 - 都是梦
   - 🇧🇷巴西03 - 都是梦
-  - 【付费用户】油管秒开4K/8K，更多地区接入|公益 - 大白
-  - 【免费用户】油管稳2K@30,限速稳720P|公益 - 大白
+  - 【付费用户】油管秒开4K/8K|更多地区接入|公益 - 大白
+  - 【免费用户】油管稳2K@30/限速稳720P|公益 - 大白
   - 【提供套餐】免费/按量不限时/不按量限时|公益 - 大白
   - 【邀请用户】|最高返还40%|移动 - 大白
   - 【节点优先级】[按量]>[不限量]>[免费]>[公共订阅]|移动 - 大白
@@ -599,8 +599,8 @@ proxy-groups:
   - 🇻🇳 越南 1 - 西瓜皮是真的皮
   - 🇮🇳 印度 1 - 西瓜皮是真的皮
   - 🇹🇷 土耳其 1 - 西瓜皮是真的皮
-  - 🇻🇳 越南鸡-日本 - 大湾区坤厂
-  - 🇻🇳 越南鸡-新加坡 - 大湾区坤厂
+  - 🇻🇳 越南鸡-日本-高速 - 大湾区坤厂
+  - 🇻🇳 越南鸡-首尔-高速 - 大湾区坤厂
   - 🇻🇳 越南鸡-直连 - 大湾区坤厂
   - 🇰🇷 韩国首尔|甲骨文 - 一颗机场
   - 🇳🇱 荷兰|甲骨文 - 一颗机场
@@ -642,8 +642,8 @@ proxy-groups:
   - 🇧🇷巴西01 - 都是梦
   - 🇧🇷巴西02 - 都是梦
   - 🇧🇷巴西03 - 都是梦
-  - 【付费用户】油管秒开4K/8K，更多地区接入|公益 - 大白
-  - 【免费用户】油管稳2K@30,限速稳720P|公益 - 大白
+  - 【付费用户】油管秒开4K/8K|更多地区接入|公益 - 大白
+  - 【免费用户】油管稳2K@30/限速稳720P|公益 - 大白
   - 【提供套餐】免费/按量不限时/不按量限时|公益 - 大白
   - 【邀请用户】|最高返还40%|移动 - 大白
   - 【节点优先级】[按量]>[不限量]>[免费]>[公共订阅]|移动 - 大白
@@ -793,16 +793,16 @@ proxies:
 - {name: 🇸🇬 新加坡核心 IEPL 03 - 便宜机场, server: sg2-reality.fp3kemyh-cm4s-2hak-2gb9-w3534umy2sq5.9d8f269f96b25232-759cbb36d6548597.kaufen, port: 443, type: trojan, password: 48e5676b-9de3-49a5-819b-189962055884, sni: 13-231-155-134.nhost.00cdn.com, skip-cert-verify: true, udp: true}
 - {name: 🇸🇬 新加坡核心 IEPL 04 - 便宜机场, server: sg2-reality.fp3kemyh-cm4s-2hak-2gb9-w3534umy2sq5.9d8f269f96b25232-759cbb36d6548597.kaufen, port: 443, type: trojan, password: 48e5676b-9de3-49a5-819b-189962055884, sni: 13-231-155-134.nhost.00cdn.com, skip-cert-verify: true, udp: true}
 - {name: 🇺🇸9929-北方-日本-1倍 - 大湾区坤厂, server: 110.72.100.83, port: 42812, type: ss, cipher: chacha20-ietf-poly1305, password: 73c04c17-ffc5-4a6f-b723-3727f2068b00, udp: true}
-- {name: 🇺🇸4837-南方-广联-1倍 - 大湾区坤厂, server: 110.72.100.83, port: 52011, type: ss, cipher: chacha20-ietf-poly1305, password: 73c04c17-ffc5-4a6f-b723-3727f2068b00, udp: true}
+- {name: 🇺🇸4837-南方-广联-1倍 - 大湾区坤厂, server: 110.72.100.83, port: 42812, type: ss, cipher: chacha20-ietf-poly1305, password: 73c04c17-ffc5-4a6f-b723-3727f2068b00, udp: true}
 - {name: 🇺🇸4837-北方-首尔-1倍 - 大湾区坤厂, server: xiongda006.daxiongda.top, port: 11644, type: ss, cipher: chacha20-ietf-poly1305, password: 73c04c17-ffc5-4a6f-b723-3727f2068b00, udp: true}
 - {name: 🇺🇸-直连 - 大湾区坤厂, server: 74.48.98.249, port: 8080, type: vmess, uuid: 73c04c17-ffc5-4a6f-b723-3727f2068b00, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: '/quanstring?ed=2048', headers: {Host: us.quanstring.top}}, udp: true}
-- {name: 🇺🇸流媒体|ChatGPT| - 大湾区坤厂, server: 110.72.100.83, port: 52011, type: ss, cipher: chacha20-ietf-poly1305, password: 73c04c17-ffc5-4a6f-b723-3727f2068b00, udp: true}
-- {name: 🇭🇰-广联-1.5倍 - 大湾区坤厂, server: 110.72.100.83, port: 33290, type: ss, cipher: chacha20-ietf-poly1305, password: 73c04c17-ffc5-4a6f-b723-3727f2068b00, udp: true}
+- {name: 🇺🇸流媒体|ChatGPT| - 大湾区坤厂, server: 110.72.100.83, port: 42812, type: ss, cipher: chacha20-ietf-poly1305, password: 73c04c17-ffc5-4a6f-b723-3727f2068b00, udp: true}
+- {name: 🇭🇰-广联-1.5倍 - 大湾区坤厂, server: 110.72.100.83, port: 42812, type: ss, cipher: chacha20-ietf-poly1305, password: 73c04c17-ffc5-4a6f-b723-3727f2068b00, udp: true}
 - {name: 🇭🇰-北方-首尔-1.5倍 - 大湾区坤厂, server: xiongda006.daxiongda.top, port: 37973, type: ss, cipher: chacha20-ietf-poly1305, password: 73c04c17-ffc5-4a6f-b723-3727f2068b00, udp: true}
-- {name: 🇻🇳 越南鸡-日本 - 大湾区坤厂, server: 110.72.100.83, port: 42812, type: ss, cipher: chacha20-ietf-poly1305, password: 73c04c17-ffc5-4a6f-b723-3727f2068b00, udp: true}
-- {name: 🇻🇳 越南鸡-新加坡 - 大湾区坤厂, server: 110.72.100.83, port: 10357, type: ss, cipher: chacha20-ietf-poly1305, password: 73c04c17-ffc5-4a6f-b723-3727f2068b00, udp: true}
+- {name: 🇻🇳 越南鸡-日本-高速 - 大湾区坤厂, server: 110.72.100.83, port: 42812, type: ss, cipher: chacha20-ietf-poly1305, password: 73c04c17-ffc5-4a6f-b723-3727f2068b00, udp: true}
+- {name: 🇻🇳 越南鸡-首尔-高速 - 大湾区坤厂, server: xiongda006.daxiongda.top, port: 38813, type: ss, cipher: chacha20-ietf-poly1305, password: 73c04c17-ffc5-4a6f-b723-3727f2068b00, udp: true}
 - {name: 🇻🇳 越南鸡-直连 - 大湾区坤厂, server: 103.245.237.59, port: 9999, type: ss, cipher: chacha20-ietf-poly1305, password: 73c04c17-ffc5-4a6f-b723-3727f2068b00, udp: true}
-- {name: 🇸🇬-南方-广联-2倍 - 大湾区坤厂, server: 110.72.100.83, port: 23062, type: ss, cipher: chacha20-ietf-poly1305, password: 73c04c17-ffc5-4a6f-b723-3727f2068b00, udp: true}
+- {name: 🇸🇬-南方-广联-2倍 - 大湾区坤厂, server: 110.72.100.83, port: 42812, type: ss, cipher: chacha20-ietf-poly1305, password: 73c04c17-ffc5-4a6f-b723-3727f2068b00, udp: true}
 - {name: 🇸🇬-北方-首尔-2倍 - 大湾区坤厂, server: xiongda006.daxiongda.top, port: 17844, type: ss, cipher: chacha20-ietf-poly1305, password: 73c04c17-ffc5-4a6f-b723-3727f2068b00, udp: true}
 - {name: 🇺🇸 美国堪萨斯1 - 一颗机场, server: us1.cou.gay, port: 443, type: vmess, uuid: 379af13b-ff87-429c-b0b4-50bd542b5ce6, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: '/us1?ed=2048', headers: {Host: us1.cou.gay}}, udp: true}
 - {name: 🇺🇸 美国堪萨斯2 - 一颗机场, server: cf.13d7s.site, port: 443, type: vmess, uuid: 379af13b-ff87-429c-b0b4-50bd542b5ce6, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: '/us1?ed=2048', headers: {Host: us1.cou.gay}}, udp: true}
@@ -890,9 +890,9 @@ proxies:
 - {name: 🇸🇬新加坡01 - 都是梦, server: sg3.doushimeng.com, port: 20052, type: ss, cipher: chacha20-ietf-poly1305, password: c46f37d3-6709-4505-8553-96cd8061a155, udp: true}
 - {name: 🇸🇬新加坡02 - 都是梦, server: sgggg.doushimeng.com, port: 20252, type: ss, cipher: chacha20-ietf-poly1305, password: c46f37d3-6709-4505-8553-96cd8061a155, udp: true}
 - {name: 🇸🇬新加坡03 - 都是梦, server: sg2.doushimeng.com, port: 20553, type: ss, cipher: chacha20-ietf-poly1305, password: c46f37d3-6709-4505-8553-96cd8061a155, udp: true}
-- {name: 【付费用户】油管秒开4K/8K，更多地区接入|公益 - 大白, server: 120.241.46.222, port: 62002, type: vmess, uuid: 9a10091d-34de-379b-a989-7362f0326d16, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, servername: cache.cn-db.top, network: ws, ws-opts: {path: /db00, headers: {Host: cache.cn-db.top}}, udp: true}
-- {name: '【免费用户】油管稳2K@30,限速稳720P|公益 - 大白', server: 120.241.46.222, port: 61002, type: vmess, uuid: 9a10091d-34de-379b-a989-7362f0326d16, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, servername: data.cn-db.top, network: ws, ws-opts: {path: /db00, headers: {Host: data.cn-db.top}}, udp: true}
-- {name: 【提供套餐】免费/按量不限时/不按量限时|公益 - 大白, server: 120.241.46.222, port: 61051, type: vmess, uuid: 9a10091d-34de-379b-a989-7362f0326d16, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, servername: cache.cn-db.top, network: ws, ws-opts: {path: /db00, headers: {Host: cache.cn-db.top}}, udp: true}
+- {name: 【付费用户】油管秒开4K/8K|更多地区接入|公益 - 大白, server: 120.241.46.222, port: 62013, type: vmess, uuid: 9a10091d-34de-379b-a989-7362f0326d16, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, servername: cache.cn-db.top, network: ws, ws-opts: {path: /db00, headers: {Host: cache.cn-db.top}}, udp: true}
+- {name: 【免费用户】油管稳2K@30/限速稳720P|公益 - 大白, server: 120.241.46.222, port: 62004, type: vmess, uuid: 9a10091d-34de-379b-a989-7362f0326d16, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, servername: data.cn-db.top, network: ws, ws-opts: {path: /db00, headers: {Host: data.cn-db.top}}, udp: true}
+- {name: 【提供套餐】免费/按量不限时/不按量限时|公益 - 大白, server: 120.241.46.223, port: 61006, type: vmess, uuid: 9a10091d-34de-379b-a989-7362f0326d16, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, servername: cache.cn-db.top, network: ws, ws-opts: {path: /db00, headers: {Host: cache.cn-db.top}}, udp: true}
 - {name: 【邀请用户】|最高返还40%|移动 - 大白, server: sd.db-link.in, port: 2082, type: vmess, uuid: 9a10091d-34de-379b-a989-7362f0326d16, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, servername: cache.cn-db.top, network: ws, ws-opts: {path: /db00, headers: {Host: cache.cn-db.top}}, udp: true}
 - {name: '【节点优先级】[按量]>[不限量]>[免费]>[公共订阅]|移动 - 大白', server: sd.db-link.in, port: 443, type: vmess, uuid: 9a10091d-34de-379b-a989-7362f0326d16, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: data.cn-db.top, network: ws, ws-opts: {path: /db00, headers: {Host: data.cn-db.top}}, udp: true}
 - {name: '[🇺🇸] 打杂的01 x1 - 星河 583', server: v13.583182.xyz, port: 2053, type: vmess, uuid: ea941a81-922e-4df1-a707-69a372d52f63, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: v13.583181.xyz, network: ws, ws-opts: {path: /, headers: {Host: v13.583181.xyz}}, udp: true}
