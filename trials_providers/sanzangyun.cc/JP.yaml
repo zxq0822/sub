@@ -1,0 +1,5 @@
+%YAML 1.1
+---
+proxies:
+- {name: 🇯🇵JP免费01中转 - 三藏云, server: jpf01.sanzangyun.xyz, port: 35009, type: vmess, uuid: 90395dc3-c3dd-4000-a7ec-bb56bc592866, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /cctv5/hd.m3u8, headers: {Host: jpf01.sanzangyun.xyz}}, udp: true}
+- {name: 🇯🇵JP免费02直连 - 三藏云, server: jpf02.sanzangyun.xyz, port: 40066, type: trojan, password: 90395dc3-c3dd-4000-a7ec-bb56bc592866, sni: jpf02.sanzangyun.xyz, skip-cert-verify: true, udp: true}
