@@ -1,5 +1,5 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇸🇬 新加坡2-广新隧道-解锁 - 快云, server: hzct.hnytkm.com, port: 21476, type: vmess, uuid: cacf5ca2-8bf4-3c8e-ad67-2d932def0f42, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇸🇬 新加坡L1-广新隧道-解锁 - 快云, server: lpl.xggj.xn--fiqs8s, port: 45914, type: vmess, uuid: cacf5ca2-8bf4-3c8e-ad67-2d932def0f42, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬 新加坡2-广新隧道-解锁 - 快云, server: hzct.hnytkm.com, port: 21476, type: vmess, uuid: 0640b5b6-13d0-3831-9db9-ddc1ab68063f, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬 新加坡L1-广新隧道-解锁 - 快云, server: lpl.xggj.xn--fiqs8s, port: 45914, type: vmess, uuid: 0640b5b6-13d0-3831-9db9-ddc1ab68063f, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
