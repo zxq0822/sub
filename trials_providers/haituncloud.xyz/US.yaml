@@ -1,5 +1,5 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇺🇸 V4-4005|美国|x2.0 - 海豚云, server: cdn.node.user-sub.pddns-usersdk.com, port: 11301, type: vmess, uuid: a5a1a085-f73b-30c5-a6f6-221da5fd1136, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /ef483582-6269-468c-93af-c512ec2b8a61, headers: {Host: cdn.node.user-sub.pddns-usersdk.com}}, udp: true}
-- {name: 🇺🇸 V4-4006|美国|x1.5 - 海豚云, server: cdn.node.user-sub.pddns-usersdk.com, port: 11302, type: vmess, uuid: a5a1a085-f73b-30c5-a6f6-221da5fd1136, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /ef483582-6269-468c-93af-c512ec2b8a61, headers: {Host: cdn.node.user-sub.pddns-usersdk.com}}, udp: true}
+- {name: 🇺🇸 V4-4005|美国|x2.0 - 海豚云, server: cdn.node.user-sub.pddns-usersdk.com, port: 11301, type: vmess, uuid: 8b4db9ed-721c-3598-8e9c-d17983623e10, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /ef483582-6269-468c-93af-c512ec2b8a61, headers: {Host: cdn.node.user-sub.pddns-usersdk.com}}, udp: true}
+- {name: 🇺🇸 V4-4006|美国|x1.5 - 海豚云, server: cdn.node.user-sub.pddns-usersdk.com, port: 11302, type: vmess, uuid: 8b4db9ed-721c-3598-8e9c-d17983623e10, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /ef483582-6269-468c-93af-c512ec2b8a61, headers: {Host: cdn.node.user-sub.pddns-usersdk.com}}, udp: true}
