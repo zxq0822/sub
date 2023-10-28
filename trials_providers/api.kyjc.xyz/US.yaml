@@ -1,7 +1,7 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇺🇸 美国1-广港隧道-解锁 - 快云, server: hzct.hnytkm.com, port: 50333, type: vmess, uuid: 92348d45-6290-3488-b269-8f266024e808, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 美国2-上港隧道-解锁 - 快云, server: hk.hnytkm.com, port: 32225, type: vmess, uuid: 92348d45-6290-3488-b269-8f266024e808, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 美国3L1-广港隧道-解锁 - 快云, server: hzct.hnytkm.com, port: 13526, type: vmess, uuid: 92348d45-6290-3488-b269-8f266024e808, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 美国-广美隧道 - 快云, server: lpl.xggj.xn--fiqs8s, port: 29865, type: vmess, uuid: 92348d45-6290-3488-b269-8f266024e808, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 美国1-广港隧道-解锁 - 快云, server: hzct.hnytkm.com, port: 50333, type: vmess, uuid: 749c0a58-ebb3-3e7c-8ace-0babc1633a88, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 美国2-上港隧道-解锁 - 快云, server: hk.hnytkm.com, port: 32225, type: vmess, uuid: 749c0a58-ebb3-3e7c-8ace-0babc1633a88, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 美国3L1-广港隧道-解锁 - 快云, server: hzct.hnytkm.com, port: 13526, type: vmess, uuid: 749c0a58-ebb3-3e7c-8ace-0babc1633a88, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 美国-广美隧道 - 快云, server: lpl.xggj.xn--fiqs8s, port: 29865, type: vmess, uuid: 749c0a58-ebb3-3e7c-8ace-0babc1633a88, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
