@@ -1,4 +1,4 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 距离下次重置剩余：3 天 - 一颗机场, server: us1.cou.gay, port: 443, type: vmess, uuid: 379af13b-ff87-429c-b0b4-50bd542b5ce6, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: '/us1?ed=2048', headers: {Host: us1.cou.gay}}, udp: true}
+- {name: 距离下次重置剩余：3 天 - 一颗机场, server: us1.cou.gay, port: 443, type: vmess, uuid: f05bcdd3-c95f-462b-bb94-c28b05c2024c, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: '/us1?ed=2048', headers: {Host: us1.cou.gay}}, udp: true}
