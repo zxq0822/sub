@@ -2,19 +2,19 @@
 ---
 proxies:
 - {name: 🇯🇵 日本 - 超级机场, server: ep.superjj.cc, port: 50021, type: ss, cipher: chacha20-ietf-poly1305, password: 8f87a5ff-ecd5-4b83-9542-67c3806abc91, udp: true}
-- {name: 🇯🇵 中转•日本298•高速 - 飞翔吧, server: gg.58n.net, port: 20298, type: trojan, password: ace26cec-a1bc-3b1f-9cff-a6b98049707a, sni: z298.hongkongnode.top, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 中转•日本300•原生 - 飞翔吧, server: gg.58n.net, port: 20300, type: trojan, password: ace26cec-a1bc-3b1f-9cff-a6b98049707a, sni: z300.hongkongnode.top, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 日本•高速114•高速 - 飞翔吧, server: gg.58n.net, port: 41767, type: trojan, password: ace26cec-a1bc-3b1f-9cff-a6b98049707a, sni: x114.flybar.work, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 日本•高速115•高速 - 飞翔吧, server: gg.58n.net, port: 54178, type: trojan, password: ace26cec-a1bc-3b1f-9cff-a6b98049707a, sni: x115.flybar.work, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 日本•高速139•铂金 - 飞翔吧, server: gg.58n.net, port: 20139, type: trojan, password: ace26cec-a1bc-3b1f-9cff-a6b98049707a, sni: z139.hongkongnode.top, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 日本•高速140•铂金 - 飞翔吧, server: gg.58n.net, port: 20140, type: trojan, password: ace26cec-a1bc-3b1f-9cff-a6b98049707a, sni: z140.hongkongnode.top, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 日本•高速141•铂金 - 飞翔吧, server: gg.58n.net, port: 20141, type: trojan, password: ace26cec-a1bc-3b1f-9cff-a6b98049707a, sni: z141.hongkongnode.top, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 日本•高速142•原生 - 飞翔吧, server: gg.58n.net, port: 20142, type: trojan, password: ace26cec-a1bc-3b1f-9cff-a6b98049707a, sni: z142.hongkongnode.top, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 日本•高速59•青铜 - 飞翔吧, server: gg.58n.net, port: 20059, type: trojan, password: ace26cec-a1bc-3b1f-9cff-a6b98049707a, sni: x59.flybar.work, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 日本•高速71•高速 - 飞翔吧, server: gg.58n.net, port: 20071, type: trojan, password: ace26cec-a1bc-3b1f-9cff-a6b98049707a, sni: x71.flybar.work, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 日本•高速76•高速 - 飞翔吧, server: gg.58n.net, port: 20076, type: trojan, password: ace26cec-a1bc-3b1f-9cff-a6b98049707a, sni: x76.flybar.work, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 日本 1 Nico Abema - 西瓜皮是真的皮, server: cm1-xg.go001.buzz, port: 19831, type: vmess, uuid: 119da348-ea21-381b-b1f5-2fa32b68068d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 日本 2 Nico Abema - 西瓜皮是真的皮, server: ct1-xg.go001.buzz, port: 19832, type: vmess, uuid: 119da348-ea21-381b-b1f5-2fa32b68068d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 中转•日本298•高速 - 飞翔吧, server: gg.58n.net, port: 20298, type: trojan, password: e9d8258f-67f6-3ba1-95a2-538eff72e788, sni: z298.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 中转•日本300•原生 - 飞翔吧, server: gg.58n.net, port: 20300, type: trojan, password: e9d8258f-67f6-3ba1-95a2-538eff72e788, sni: z300.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本•高速114•高速 - 飞翔吧, server: gg.58n.net, port: 41767, type: trojan, password: e9d8258f-67f6-3ba1-95a2-538eff72e788, sni: x114.flybar.work, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本•高速115•高速 - 飞翔吧, server: gg.58n.net, port: 54178, type: trojan, password: e9d8258f-67f6-3ba1-95a2-538eff72e788, sni: x115.flybar.work, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本•高速139•铂金 - 飞翔吧, server: gg.58n.net, port: 20139, type: trojan, password: e9d8258f-67f6-3ba1-95a2-538eff72e788, sni: z139.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本•高速140•铂金 - 飞翔吧, server: gg.58n.net, port: 20140, type: trojan, password: e9d8258f-67f6-3ba1-95a2-538eff72e788, sni: z140.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本•高速141•铂金 - 飞翔吧, server: gg.58n.net, port: 20141, type: trojan, password: e9d8258f-67f6-3ba1-95a2-538eff72e788, sni: z141.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本•高速142•原生 - 飞翔吧, server: gg.58n.net, port: 20142, type: trojan, password: e9d8258f-67f6-3ba1-95a2-538eff72e788, sni: z142.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本•高速59•青铜 - 飞翔吧, server: gg.58n.net, port: 20059, type: trojan, password: e9d8258f-67f6-3ba1-95a2-538eff72e788, sni: x59.flybar.work, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本•高速71•高速 - 飞翔吧, server: gg.58n.net, port: 20071, type: trojan, password: e9d8258f-67f6-3ba1-95a2-538eff72e788, sni: x71.flybar.work, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本•高速76•高速 - 飞翔吧, server: gg.58n.net, port: 20076, type: trojan, password: e9d8258f-67f6-3ba1-95a2-538eff72e788, sni: x76.flybar.work, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本 1 Nico Abema - 西瓜皮是真的皮, server: cm1-xg.go001.buzz, port: 19831, type: vmess, uuid: 23ecf9b1-fe6e-3012-bdef-c1bda6023db1, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本 2 Nico Abema - 西瓜皮是真的皮, server: ct1-xg.go001.buzz, port: 19832, type: vmess, uuid: 23ecf9b1-fe6e-3012-bdef-c1bda6023db1, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇯🇵 日本东京|甲骨文 - 一颗机场, server: ora-jp6.cou.gay, port: 26152, type: ss, cipher: chacha20-ietf-poly1305, password: 35351eb1-d4ca-4b8a-b725-d46ebc03bcb8, udp: true}
 - {name: 🇯🇵 日本A丨Lin丨流媒体 - Tannel中继网络服务, server: www.zztannel.com, port: 62001, type: vmess, uuid: a643f34f-1b9f-3984-8c61-9775af91a66f, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇯🇵 日本 101 - 墙了个墙, server: jpvip102.qlgq1.pw, port: 10443, type: trojan, password: eb9f6593-afa3-350c-8364-dfdb4e2aea63, sni: jpvip102.qlgq1.pw, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: jpvip102}, udp: true}
