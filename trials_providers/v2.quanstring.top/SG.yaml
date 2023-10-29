@@ -2,4 +2,4 @@
 ---
 proxies:
 - {name: 🇸🇬-北方-首尔-2倍 - 大湾区坤厂, server: xiongda006.daxiongda.top, port: 17844, type: ss, cipher: chacha20-ietf-poly1305, password: bab4c82e-71e0-4e79-a6d2-baf9034fc8cd, udp: true}
-- {name: 🇸🇬-北方-首尔2-2倍 - 大湾区坤厂, server: xiongda005.daxiongda.top, port: 26275, type: ss, cipher: chacha20-ietf-poly1305, password: bab4c82e-71e0-4e79-a6d2-baf9034fc8cd, udp: true}
+- {name: 🇸🇬-北方-首尔2-2倍 - 大湾区坤厂, server: xiongda005.daxiongda.top, port: 22065, type: ss, cipher: chacha20-ietf-poly1305, password: bab4c82e-71e0-4e79-a6d2-baf9034fc8cd, udp: true}
