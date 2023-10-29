@@ -1,7 +1,7 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 距离下次重置剩余：2 天 - 一颗机场, server: us1.cou.gay, port: 443, type: vmess, uuid: 35351eb1-d4ca-4b8a-b725-d46ebc03bcb8, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: '/us1?ed=2048', headers: {Host: us1.cou.gay}}, udp: true}
+- {name: 距离下次重置剩余：1 天 - 一颗机场, server: us1.cou.gay, port: 443, type: vmess, uuid: 35351eb1-d4ca-4b8a-b725-d46ebc03bcb8, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: '/us1?ed=2048', headers: {Host: us1.cou.gay}}, udp: true}
 - {name: 🇰🇷 韩国首尔|甲骨文 - 一颗机场, server: ora-9.cou.gay, port: 22152, type: ss, cipher: chacha20-ietf-poly1305, password: 35351eb1-d4ca-4b8a-b725-d46ebc03bcb8, udp: true}
 - {name: 🇳🇱 荷兰1 - 一颗机场, server: nl1.cou.gay, port: 443, type: vmess, uuid: 35351eb1-d4ca-4b8a-b725-d46ebc03bcb8, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: '/nl1?ed=2048', headers: {Host: nl1.cou.gay}}, udp: true}
 - {name: 🇳🇱 荷兰2 - 一颗机场, server: 443.cf.bestl.de, port: 443, type: vmess, uuid: 35351eb1-d4ca-4b8a-b725-d46ebc03bcb8, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: '/nl1?ed=2048', headers: {Host: nl1.cou.gay}}, udp: true}
