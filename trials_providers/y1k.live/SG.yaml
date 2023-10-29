@@ -2,4 +2,6 @@
 ---
 proxies:
 - {name: 🇸🇬 新加坡|甲骨文 - 一颗机场, server: ora-sg4.cou.gay, port: 23502, type: vmess, uuid: f05bcdd3-c95f-462b-bb94-c28b05c2024c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇸🇬 新加坡|DO - 一颗机场, server: do-sg1.cou.gay, port: 39102, type: ss, cipher: chacha20-ietf-poly1305, password: f05bcdd3-c95f-462b-bb94-c28b05c2024c, udp: true}
+- {name: 🇸🇬 新加坡1 - 一颗机场, server: dosg1.cou.gay, port: 443, type: vmess, uuid: f05bcdd3-c95f-462b-bb94-c28b05c2024c, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: '/dosg1?ed=2048', headers: {Host: dosg1.cou.gay}}, udp: true}
+- {name: 🇸🇬 新加坡2 - 一颗机场, server: 443.cf.bestl.de, port: 443, type: vmess, uuid: f05bcdd3-c95f-462b-bb94-c28b05c2024c, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: '/dosg1?ed=2048', headers: {Host: dosg1.cou.gay}}, udp: true}
+- {name: 🇸🇬 新加坡3 - 一颗机场, server: cfip.gay, port: 443, type: vmess, uuid: f05bcdd3-c95f-462b-bb94-c28b05c2024c, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: '/dosg1?ed=2048', headers: {Host: dosg1.cou.gay}}, udp: true}

@@ -80,7 +80,9 @@ proxy-groups:
   - 🇸🇬-南方-广联-2倍 - 大湾区坤厂
   - 🇸🇬-北方-首尔-2倍 - 大湾区坤厂
   - 🇸🇬 新加坡|甲骨文 - 一颗机场
-  - 🇸🇬 新加坡|DO - 一颗机场
+  - 🇸🇬 新加坡1 - 一颗机场
+  - 🇸🇬 新加坡2 - 一颗机场
+  - 🇸🇬 新加坡3 - 一颗机场
   - 🇸🇬 新加坡 101 - 墙了个墙
   - 🇸🇬 新加坡 102 - 墙了个墙
   - 🇸🇬 新加坡 103 - 墙了个墙
@@ -152,7 +154,6 @@ proxy-groups:
   - 🇺🇸 美国堪萨斯1 - 一颗机场
   - 🇺🇸 美国堪萨斯2 - 一颗机场
   - 🇺🇸 美国堪萨斯3 - 一颗机场
-  - 🇺🇸 美国洛杉矶 - 一颗机场
   - 🇺🇸 美国 凤凰城101 - 墙了个墙
   - 🇺🇸 美国 凤凰城102 - 墙了个墙
   - 🇺🇸 美国 凤凰城103 - 墙了个墙
@@ -203,7 +204,9 @@ proxy-groups:
   - 🇻🇳 越南鸡-首尔-高速 - 大湾区坤厂
   - 🇻🇳 越南鸡-日本-高速 - 大湾区坤厂
   - 🇰🇷 韩国首尔|甲骨文 - 一颗机场
-  - 🇳🇱 荷兰|甲骨文 - 一颗机场
+  - 🇳🇱 荷兰1 - 一颗机场
+  - 🇳🇱 荷兰2 - 一颗机场
+  - 🇳🇱 荷兰3 - 一颗机场
   - 🇮🇹 意大利1 - 一颗机场
   - 🇮🇹 意大利2 - 一颗机场
   - 🇮🇹 意大利3 - 一颗机场
@@ -413,7 +416,9 @@ proxy-groups:
   - 🇸🇬-南方-广联-2倍 - 大湾区坤厂
   - 🇸🇬-北方-首尔-2倍 - 大湾区坤厂
   - 🇸🇬 新加坡|甲骨文 - 一颗机场
-  - 🇸🇬 新加坡|DO - 一颗机场
+  - 🇸🇬 新加坡1 - 一颗机场
+  - 🇸🇬 新加坡2 - 一颗机场
+  - 🇸🇬 新加坡3 - 一颗机场
   - 🇸🇬 新加坡 101 - 墙了个墙
   - 🇸🇬 新加坡 102 - 墙了个墙
   - 🇸🇬 新加坡 103 - 墙了个墙
@@ -497,7 +502,6 @@ proxy-groups:
   - 🇺🇸 美国堪萨斯1 - 一颗机场
   - 🇺🇸 美国堪萨斯2 - 一颗机场
   - 🇺🇸 美国堪萨斯3 - 一颗机场
-  - 🇺🇸 美国洛杉矶 - 一颗机场
   - 🇺🇸 美国 凤凰城101 - 墙了个墙
   - 🇺🇸 美国 凤凰城102 - 墙了个墙
   - 🇺🇸 美国 凤凰城103 - 墙了个墙
@@ -554,7 +558,9 @@ proxy-groups:
   - 🇻🇳 越南鸡-首尔-高速 - 大湾区坤厂
   - 🇻🇳 越南鸡-日本-高速 - 大湾区坤厂
   - 🇰🇷 韩国首尔|甲骨文 - 一颗机场
-  - 🇳🇱 荷兰|甲骨文 - 一颗机场
+  - 🇳🇱 荷兰1 - 一颗机场
+  - 🇳🇱 荷兰2 - 一颗机场
+  - 🇳🇱 荷兰3 - 一颗机场
   - 🇮🇹 意大利1 - 一颗机场
   - 🇮🇹 意大利2 - 一颗机场
   - 🇮🇹 意大利3 - 一颗机场
@@ -732,11 +738,12 @@ proxies:
 - {name: 🇺🇸 美国堪萨斯1 - 一颗机场, server: us1.cou.gay, port: 443, type: vmess, uuid: f05bcdd3-c95f-462b-bb94-c28b05c2024c, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: '/us1?ed=2048', headers: {Host: us1.cou.gay}}, udp: true}
 - {name: 🇺🇸 美国堪萨斯2 - 一颗机场, server: cf.13d7s.site, port: 443, type: vmess, uuid: f05bcdd3-c95f-462b-bb94-c28b05c2024c, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: '/us1?ed=2048', headers: {Host: us1.cou.gay}}, udp: true}
 - {name: 🇺🇸 美国堪萨斯3 - 一颗机场, server: time.is, port: 443, type: vmess, uuid: f05bcdd3-c95f-462b-bb94-c28b05c2024c, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: '/us1?ed=2048', headers: {Host: us1.cou.gay}}, udp: true}
-- {name: 🇺🇸 美国洛杉矶 - 一颗机场, server: 108.181.113.100, port: 20070, type: vmess, uuid: f05bcdd3-c95f-462b-bb94-c28b05c2024c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇹🇼 台湾Hinet - 一颗机场, server: y1ktw1.kozow.com, port: 12290, type: vmess, uuid: f05bcdd3-c95f-462b-bb94-c28b05c2024c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇯🇵 日本东京|甲骨文 - 一颗机场, server: ora-jp6.cou.gay, port: 26152, type: ss, cipher: chacha20-ietf-poly1305, password: f05bcdd3-c95f-462b-bb94-c28b05c2024c, udp: true}
 - {name: 🇰🇷 韩国首尔|甲骨文 - 一颗机场, server: ora-9.cou.gay, port: 22152, type: ss, cipher: chacha20-ietf-poly1305, password: f05bcdd3-c95f-462b-bb94-c28b05c2024c, udp: true}
-- {name: 🇳🇱 荷兰|甲骨文 - 一颗机场, server: nl1.cou.gay, port: 21102, type: ss, cipher: chacha20-ietf-poly1305, password: f05bcdd3-c95f-462b-bb94-c28b05c2024c, udp: true}
+- {name: 🇳🇱 荷兰1 - 一颗机场, server: nl1.cou.gay, port: 443, type: vmess, uuid: f05bcdd3-c95f-462b-bb94-c28b05c2024c, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: '/nl1?ed=2048', headers: {Host: nl1.cou.gay}}, udp: true}
+- {name: 🇳🇱 荷兰2 - 一颗机场, server: 443.cf.bestl.de, port: 443, type: vmess, uuid: f05bcdd3-c95f-462b-bb94-c28b05c2024c, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: '/nl1?ed=2048', headers: {Host: nl1.cou.gay}}, udp: true}
+- {name: 🇳🇱 荷兰3 - 一颗机场, server: cfip.gay, port: 443, type: vmess, uuid: f05bcdd3-c95f-462b-bb94-c28b05c2024c, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: '/nl1?ed=2048', headers: {Host: nl1.cou.gay}}, udp: true}
 - {name: 🇮🇹 意大利1 - 一颗机场, server: it1.cou.gay, port: 443, type: vmess, uuid: f05bcdd3-c95f-462b-bb94-c28b05c2024c, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: '/it1?ed=2048', headers: {Host: it1.cou.gay}}, udp: true}
 - {name: 🇮🇹 意大利2 - 一颗机场, server: v4.cfnode.eu.org, port: 443, type: vmess, uuid: f05bcdd3-c95f-462b-bb94-c28b05c2024c, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: '/it1?ed=2048', headers: {Host: it1.cou.gay}}, udp: true}
 - {name: 🇮🇹 意大利3 - 一颗机场, server: time.is, port: 443, type: vmess, uuid: f05bcdd3-c95f-462b-bb94-c28b05c2024c, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: '/it1?ed=2048', headers: {Host: it1.cou.gay}}, udp: true}
@@ -748,7 +755,9 @@ proxies:
 - {name: 🇪🇸 西班牙2 - 一颗机场, server: tunneltransfer.bpyjc.com, port: 443, type: vmess, uuid: f05bcdd3-c95f-462b-bb94-c28b05c2024c, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: '/es1?ed=2048', headers: {Host: es1.531131.xyz}}, udp: true}
 - {name: 🇪🇸 西班牙3 - 一颗机场, server: m.hnten.com, port: 443, type: vmess, uuid: f05bcdd3-c95f-462b-bb94-c28b05c2024c, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: '/es1?ed=2048', headers: {Host: es1.531131.xyz}}, udp: true}
 - {name: 🇸🇬 新加坡|甲骨文 - 一颗机场, server: ora-sg4.cou.gay, port: 23502, type: vmess, uuid: f05bcdd3-c95f-462b-bb94-c28b05c2024c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇸🇬 新加坡|DO - 一颗机场, server: do-sg1.cou.gay, port: 39102, type: ss, cipher: chacha20-ietf-poly1305, password: f05bcdd3-c95f-462b-bb94-c28b05c2024c, udp: true}
+- {name: 🇸🇬 新加坡1 - 一颗机场, server: dosg1.cou.gay, port: 443, type: vmess, uuid: f05bcdd3-c95f-462b-bb94-c28b05c2024c, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: '/dosg1?ed=2048', headers: {Host: dosg1.cou.gay}}, udp: true}
+- {name: 🇸🇬 新加坡2 - 一颗机场, server: 443.cf.bestl.de, port: 443, type: vmess, uuid: f05bcdd3-c95f-462b-bb94-c28b05c2024c, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: '/dosg1?ed=2048', headers: {Host: dosg1.cou.gay}}, udp: true}
+- {name: 🇸🇬 新加坡3 - 一颗机场, server: cfip.gay, port: 443, type: vmess, uuid: f05bcdd3-c95f-462b-bb94-c28b05c2024c, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: '/dosg1?ed=2048', headers: {Host: dosg1.cou.gay}}, udp: true}
 - {name: 🇺🇸 美国 凤凰城101 - 墙了个墙, server: pxvip101.qlgq1.pw, port: 10443, type: trojan, password: 855727e6-9c06-37b7-816c-63791b003029, sni: pxvip101.qlgq1.pw, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: pxvip101}, udp: true}
 - {name: 🇺🇸 美国 凤凰城102 - 墙了个墙, server: pxvip101.qlgq1.pw, port: 20443, type: trojan, password: 855727e6-9c06-37b7-816c-63791b003029, sni: pxvip101.qlgq1.pw, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: pxvip101}, udp: true}
 - {name: 🇺🇸 美国 凤凰城103 - 墙了个墙, server: pxvip101.qlgq1.pw, port: 30443, type: trojan, password: 855727e6-9c06-37b7-816c-63791b003029, sni: pxvip101.qlgq1.pw, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: pxvip101}, udp: true}
@@ -836,18 +845,18 @@ proxies:
 - {name: 🇨🇦 加拿大-广美隧道-解锁 - 快云, server: lpl.xggj.xn--fiqs8s, port: 45371, type: vmess, uuid: 638defa8-26bf-33f4-b418-87503a7777d2, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇸🇬 新加坡2-广新隧道-解锁 - 快云, server: hzct.hnytkm.com, port: 21476, type: vmess, uuid: 638defa8-26bf-33f4-b418-87503a7777d2, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇸🇬 新加坡L1-广新隧道-解锁 - 快云, server: lpl.xggj.xn--fiqs8s, port: 45914, type: vmess, uuid: 638defa8-26bf-33f4-b418-87503a7777d2, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 V4-4005|美国|x2.0 - 海豚云, server: cdn.node.user-sub.pddns-usersdk.com, port: 11301, type: vmess, uuid: 8b4db9ed-721c-3598-8e9c-d17983623e10, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /ef483582-6269-468c-93af-c512ec2b8a61, headers: {Host: cdn.node.user-sub.pddns-usersdk.com}}, udp: true}
-- {name: 🇺🇸 V4-4006|美国|x1.5 - 海豚云, server: cdn.node.user-sub.pddns-usersdk.com, port: 11302, type: vmess, uuid: 8b4db9ed-721c-3598-8e9c-d17983623e10, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /ef483582-6269-468c-93af-c512ec2b8a61, headers: {Host: cdn.node.user-sub.pddns-usersdk.com}}, udp: true}
-- {name: 🇭🇰 V4-4009|香港|x1.0 - 海豚云, server: cdn.node.user-sub.pddns-usersdk.com, port: 13004, type: vmess, uuid: 8b4db9ed-721c-3598-8e9c-d17983623e10, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /ef483582-6269-468c-93af-c511eccb8a69, headers: {Host: cdn.node.user-sub.pddns-usersdk.com}}, udp: true}
-- {name: 🇭🇰 V4-4010|香港|x2.0 - 海豚云, server: cdn.node.user-sub.pddns-usersdk.com, port: 13002, type: vmess, uuid: 8b4db9ed-721c-3598-8e9c-d17983623e10, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /ef483582-6269-468c-93af-c511eccb8a69, headers: {Host: cdn.node.user-sub.pddns-usersdk.com}}, udp: true}
-- {name: 🇭🇰 V4-4011|香港|x2.0 - 海豚云, server: cdn.node.user-sub.pddns-usersdk.com, port: 17002, type: vmess, uuid: 8b4db9ed-721c-3598-8e9c-d17983623e10, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /af483582-6269-468c-93af-c512ec2b1a61, headers: {Host: cdn.node.user-sub.pddns-usersdk.com}}, udp: true}
-- {name: 🇹🇼 V4-4007|台湾|x2.0 - 海豚云, server: cdn.node.user-sub.pddns-usersdk.com, port: 14099, type: vmess, uuid: 8b4db9ed-721c-3598-8e9c-d17983623e10, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /ef483582-6269-468c-93af-c511eccb8a69, headers: {Host: cdn.node.user-sub.pddns-usersdk.com}}, udp: true}
-- {name: 🇹🇼 V4-4008|台湾|x2.0 - 海豚云, server: cdn.node.user-sub.pddns-usersdk.com, port: 14000, type: vmess, uuid: 8b4db9ed-721c-3598-8e9c-d17983623e10, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /ef483582-6269-468c-93af-c511eccb8a69, headers: {Host: cdn.node.user-sub.pddns-usersdk.com}}, udp: true}
-- {name: 🇯🇵 V4-4001|日本|x1.5 - 海豚云, server: cdn.node.user-sub.pddns-usersdk.com, port: 14109, type: vmess, uuid: 8b4db9ed-721c-3598-8e9c-d17983623e10, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /12e884bf-1622-7ceb-3009-7d47fdfs2f9a5, headers: {Host: cdn.node.user-sub.pddns-usersdk.com}}, udp: true}
-- {name: 🇯🇵 V4-4002|日本|x2.0 - 海豚云, server: cdn.node.user-sub.pddns-usersdk.com, port: 14110, type: vmess, uuid: 8b4db9ed-721c-3598-8e9c-d17983623e10, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /12e884bf-1622-7ceb-3009-7d47fdfs2f9a5, headers: {Host: cdn.node.user-sub.pddns-usersdk.com}}, udp: true}
-- {name: 🇯🇵 V4-4012|日本|x2.0 - 海豚云, server: cdn.node.user-sub.pddns-usersdk.com, port: 14770, type: vmess, uuid: 8b4db9ed-721c-3598-8e9c-d17983623e10, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /12e884bf-1622-7ceb-3009-7d47fdfs2f9a5, headers: {Host: cdn.node.user-sub.pddns-usersdk.com}}, udp: true}
-- {name: 🇸🇬 V4-4003|新加坡|x2.0 - 海豚云, server: cdn.node.user-sub.pddns-usersdk.com, port: 12001, type: vmess, uuid: 8b4db9ed-721c-3598-8e9c-d17983623e10, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /12e884bf-1622-7ceb-3009-7d47fdfs2f9a5, headers: {Host: cdn.node.user-sub.pddns-usersdk.com}}, udp: true}
-- {name: 🇸🇬 V4-4004|新加坡|x2.0 - 海豚云, server: cdn.node.user-sub.pddns-usersdk.com, port: 12002, type: vmess, uuid: 8b4db9ed-721c-3598-8e9c-d17983623e10, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /12e884bf-1622-7ceb-3009-7d47fd1322f9a5, headers: {Host: cdn.node.user-sub.pddns-usersdk.com}}, udp: true}
+- {name: 🇺🇸 V4-4005|美国|x2.0 - 海豚云, server: cdn.node.user-sub.pddns-usersdk.com, port: 11301, type: vmess, uuid: 5a187130-1daa-33a0-bb98-302a1c00232a, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /ef483582-6269-468c-93af-c512ec2b8a61, headers: {Host: cdn.node.user-sub.pddns-usersdk.com}}, udp: true}
+- {name: 🇺🇸 V4-4006|美国|x1.5 - 海豚云, server: cdn.node.user-sub.pddns-usersdk.com, port: 11302, type: vmess, uuid: 5a187130-1daa-33a0-bb98-302a1c00232a, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /ef483582-6269-468c-93af-c512ec2b8a61, headers: {Host: cdn.node.user-sub.pddns-usersdk.com}}, udp: true}
+- {name: 🇭🇰 V4-4009|香港|x1.0 - 海豚云, server: cdn.node.user-sub.pddns-usersdk.com, port: 13004, type: vmess, uuid: 5a187130-1daa-33a0-bb98-302a1c00232a, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /ef483582-6269-468c-93af-c511eccb8a69, headers: {Host: cdn.node.user-sub.pddns-usersdk.com}}, udp: true}
+- {name: 🇭🇰 V4-4010|香港|x2.0 - 海豚云, server: cdn.node.user-sub.pddns-usersdk.com, port: 13002, type: vmess, uuid: 5a187130-1daa-33a0-bb98-302a1c00232a, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /ef483582-6269-468c-93af-c511eccb8a69, headers: {Host: cdn.node.user-sub.pddns-usersdk.com}}, udp: true}
+- {name: 🇭🇰 V4-4011|香港|x2.0 - 海豚云, server: cdn.node.user-sub.pddns-usersdk.com, port: 17002, type: vmess, uuid: 5a187130-1daa-33a0-bb98-302a1c00232a, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /af483582-6269-468c-93af-c512ec2b1a61, headers: {Host: cdn.node.user-sub.pddns-usersdk.com}}, udp: true}
+- {name: 🇹🇼 V4-4007|台湾|x2.0 - 海豚云, server: cdn.node.user-sub.pddns-usersdk.com, port: 14099, type: vmess, uuid: 5a187130-1daa-33a0-bb98-302a1c00232a, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /ef483582-6269-468c-93af-c511eccb8a69, headers: {Host: cdn.node.user-sub.pddns-usersdk.com}}, udp: true}
+- {name: 🇹🇼 V4-4008|台湾|x2.0 - 海豚云, server: cdn.node.user-sub.pddns-usersdk.com, port: 14000, type: vmess, uuid: 5a187130-1daa-33a0-bb98-302a1c00232a, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /ef483582-6269-468c-93af-c511eccb8a69, headers: {Host: cdn.node.user-sub.pddns-usersdk.com}}, udp: true}
+- {name: 🇯🇵 V4-4001|日本|x1.5 - 海豚云, server: cdn.node.user-sub.pddns-usersdk.com, port: 14109, type: vmess, uuid: 5a187130-1daa-33a0-bb98-302a1c00232a, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /12e884bf-1622-7ceb-3009-7d47fdfs2f9a5, headers: {Host: cdn.node.user-sub.pddns-usersdk.com}}, udp: true}
+- {name: 🇯🇵 V4-4002|日本|x2.0 - 海豚云, server: cdn.node.user-sub.pddns-usersdk.com, port: 14110, type: vmess, uuid: 5a187130-1daa-33a0-bb98-302a1c00232a, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /12e884bf-1622-7ceb-3009-7d47fdfs2f9a5, headers: {Host: cdn.node.user-sub.pddns-usersdk.com}}, udp: true}
+- {name: 🇯🇵 V4-4012|日本|x2.0 - 海豚云, server: cdn.node.user-sub.pddns-usersdk.com, port: 14770, type: vmess, uuid: 5a187130-1daa-33a0-bb98-302a1c00232a, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /12e884bf-1622-7ceb-3009-7d47fdfs2f9a5, headers: {Host: cdn.node.user-sub.pddns-usersdk.com}}, udp: true}
+- {name: 🇸🇬 V4-4003|新加坡|x2.0 - 海豚云, server: cdn.node.user-sub.pddns-usersdk.com, port: 12001, type: vmess, uuid: 5a187130-1daa-33a0-bb98-302a1c00232a, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /12e884bf-1622-7ceb-3009-7d47fdfs2f9a5, headers: {Host: cdn.node.user-sub.pddns-usersdk.com}}, udp: true}
+- {name: 🇸🇬 V4-4004|新加坡|x2.0 - 海豚云, server: cdn.node.user-sub.pddns-usersdk.com, port: 12002, type: vmess, uuid: 5a187130-1daa-33a0-bb98-302a1c00232a, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /12e884bf-1622-7ceb-3009-7d47fd1322f9a5, headers: {Host: cdn.node.user-sub.pddns-usersdk.com}}, udp: true}
 - {name: 🇺🇸 America - 番茄云, server: us.fanqiecloud.top, port: 22752, type: ss, cipher: chacha20-ietf-poly1305, password: 87a8aadf-7563-4fde-98b7-bff700b70db1, udp: true}
 - {name: 🇹🇼 Taiwan - 番茄云, server: tw.fanqiecloud.top, port: 12482, type: ss, cipher: chacha20-ietf-poly1305, password: 87a8aadf-7563-4fde-98b7-bff700b70db1, udp: true}
 - {name: 🇯🇵 Japan - 番茄云, server: jp.fanqiecloud.top, port: 21402, type: ss, cipher: chacha20-ietf-poly1305, password: 87a8aadf-7563-4fde-98b7-bff700b70db1, udp: true}
