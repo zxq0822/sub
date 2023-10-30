@@ -5,6 +5,9 @@ proxies:
 - {name: 🇭🇰 香港 2 - 超级机场, server: sp.superjj.cc, port: 51002, type: vmess, uuid: 8f87a5ff-ecd5-4b83-9542-67c3806abc91, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇭🇰 香港 3 - 超级机场, server: sp.superjj.cc, port: 51003, type: vmess, uuid: 8f87a5ff-ecd5-4b83-9542-67c3806abc91, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇭🇰 香港 4 - 超级机场, server: sp.superjj.cc, port: 51004, type: vmess, uuid: 8f87a5ff-ecd5-4b83-9542-67c3806abc91, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 香港3 - 十元一年, server: twzz.shiyuanyinian.xyz, port: 60001, type: ss, cipher: chacha20-ietf-poly1305, password: fb65a690-34d6-4f2b-8040-955899e705cd, udp: true}
+- {name: 🇭🇰 香港4 - 十元一年, server: twzz.shiyuanyinian.xyz, port: 60001, type: ss, cipher: chacha20-ietf-poly1305, password: fb65a690-34d6-4f2b-8040-955899e705cd, udp: true}
+- {name: 🇭🇰 香港5 - 十元一年, server: twzz.shiyuanyinian.xyz, port: 60001, type: ss, cipher: chacha20-ietf-poly1305, password: fb65a690-34d6-4f2b-8040-955899e705cd, udp: true}
 - {name: 🇭🇰 中转•香港301•高速 - 飞翔吧, server: gg.58n.net, port: 20301, type: trojan, password: cee3d0c1-044b-3ffe-91bf-324f5546a563, sni: z301.hongkongnode.top, skip-cert-verify: true, udp: true}
 - {name: 🇹🇼 广港•台湾258•高速 - 飞翔吧, server: gg.58n.net, port: 17629, type: trojan, password: cee3d0c1-044b-3ffe-91bf-324f5546a563, sni: z258.hongkongnode.top, skip-cert-verify: true, udp: true}
 - {name: 🇭🇰 广港•香港143•高速 - 飞翔吧, server: gg.58n.net, port: 28678, type: trojan, password: cee3d0c1-044b-3ffe-91bf-324f5546a563, sni: z143.hongkongnode.top, skip-cert-verify: true, udp: true}

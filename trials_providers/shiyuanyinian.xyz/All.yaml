@@ -1,0 +1,9 @@
+%YAML 1.1
+---
+proxies:
+- {name: 🇭🇰 香港3 - 十元一年, server: twzz.shiyuanyinian.xyz, port: 60001, type: ss, cipher: chacha20-ietf-poly1305, password: fb65a690-34d6-4f2b-8040-955899e705cd, udp: true}
+- {name: 🇭🇰 香港4 - 十元一年, server: twzz.shiyuanyinian.xyz, port: 60001, type: ss, cipher: chacha20-ietf-poly1305, password: fb65a690-34d6-4f2b-8040-955899e705cd, udp: true}
+- {name: 🇭🇰 香港5 - 十元一年, server: twzz.shiyuanyinian.xyz, port: 60001, type: ss, cipher: chacha20-ietf-poly1305, password: fb65a690-34d6-4f2b-8040-955899e705cd, udp: true}
+- {name: 🇷🇺 俄罗斯3 - 十元一年, server: twzz.shiyuanyinian.xyz, port: 60002, type: vmess, uuid: fb65a690-34d6-4f2b-8040-955899e705cd, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: eluosi45ggg.fly64jfgwhale.xyz, network: ws, ws-opts: {path: /, headers: {Host: twzz.shiyuanyinian.xyz}}, udp: true}
+- {name: 🇷🇺 俄罗斯4 - 十元一年, server: twzz.shiyuanyinian.xyz, port: 60002, type: vmess, uuid: fb65a690-34d6-4f2b-8040-955899e705cd, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: eluosi45ggg.fly64jfgwhale.xyz, network: ws, ws-opts: {path: /, headers: {Host: twzz.shiyuanyinian.xyz}}, udp: true}
+- {name: 🇷🇺 俄罗斯5 - 十元一年, server: twzz.shiyuanyinian.xyz, port: 60002, type: vmess, uuid: fb65a690-34d6-4f2b-8040-955899e705cd, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: eluosi45ggg.fly64jfgwhale.xyz, network: ws, ws-opts: {path: /, headers: {Host: twzz.shiyuanyinian.xyz}}, udp: true}

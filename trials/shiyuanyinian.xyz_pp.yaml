@@ -10,21 +10,18 @@ proxy-groups:
   type: select
   proxies:
   - ⚡ ‍低延迟
+  - 🇭🇰 ‍香港
   - 🎏 ‍其他
   - 👆🏻 ‍指定
+  - 👆🏻🇭🇰 ‍香港
   - 👆🏻🎏 ‍其他
   - DIRECT
 - name: ⚡ ‍低延迟
   type: url-test
-  url: https://i.ytimg.com/generate_204
-  interval: 30
   tolerance: 50
-  proxies: &id001
-  - 【付费用户】油管秒开4K/8K|更多地区接入|公益 - 大白
-  - 【免费用户】油管稳2K@30/限速稳720P|公益 - 大白
-  - 【提供套餐】免费/按量不限时/不按量限时|公益 - 大白
-  - 【邀请用户】|最高返还40%|移动 - 大白
-  - 【节点优先级】[按量]>[不限量]>[免费]>[公共订阅]|移动 - 大白
+  use: &id001
+  - HK
+  - Other
 - name: 🛩️ ‍墙内
   type: select
   proxies:
@@ -40,8 +37,10 @@ proxy-groups:
 - name: 📺 ‍B站
   type: select
   proxies:
+  - 🇭🇰 ‍香港
   - 🛩️ ‍墙内
   - 👆🏻 ‍指定
+  - 👆🏻🇭🇰 ‍香港
   - ✈️ ‍起飞
 - name: 🤖 ‍OpenAI+Bing
   type: select
@@ -57,29 +56,44 @@ proxy-groups:
   - ✈️ ‍起飞
   - 🛩️ ‍墙内
   - 💩 ‍广告
+- name: 🇭🇰 ‍香港
+  type: url-test
+  tolerance: 50
+  use: &id002
+  - HK
 - name: 🎏 ‍其他
   type: url-test
-  url: https://i.ytimg.com/generate_204
-  interval: 30
   tolerance: 50
-  proxies: &id002
-  - 【付费用户】油管秒开4K/8K|更多地区接入|公益 - 大白
-  - 【免费用户】油管稳2K@30/限速稳720P|公益 - 大白
-  - 【提供套餐】免费/按量不限时/不按量限时|公益 - 大白
-  - 【邀请用户】|最高返还40%|移动 - 大白
-  - 【节点优先级】[按量]>[不限量]>[免费]>[公共订阅]|移动 - 大白
+  use: &id003
+  - Other
 - name: 👆🏻 ‍指定
   type: select
-  proxies: *id001
+  use: *id001
+- name: 👆🏻🇭🇰 ‍香港
+  type: select
+  use: *id002
 - name: 👆🏻🎏 ‍其他
   type: select
-  proxies: *id002
-proxies:
-- {name: 【付费用户】油管秒开4K/8K|更多地区接入|公益 - 大白, server: 120.241.46.223, port: 64011, type: vmess, uuid: 9a10091d-34de-379b-a989-7362f0326d16, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, servername: cache.cn-db.top, network: ws, ws-opts: {path: /db00, headers: {Host: cache.cn-db.top}}, udp: true}
-- {name: 【免费用户】油管稳2K@30/限速稳720P|公益 - 大白, server: 120.241.46.223, port: 64092, type: vmess, uuid: 9a10091d-34de-379b-a989-7362f0326d16, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, servername: data.cn-db.top, network: ws, ws-opts: {path: /db00, headers: {Host: data.cn-db.top}}, udp: true}
-- {name: 【提供套餐】免费/按量不限时/不按量限时|公益 - 大白, server: 120.241.46.223, port: 64091, type: vmess, uuid: 9a10091d-34de-379b-a989-7362f0326d16, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, servername: cache.cn-db.top, network: ws, ws-opts: {path: /db00, headers: {Host: cache.cn-db.top}}, udp: true}
-- {name: 【邀请用户】|最高返还40%|移动 - 大白, server: sd.db-link.in, port: 443, type: vmess, uuid: 9a10091d-34de-379b-a989-7362f0326d16, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: cache.cn-db.top, network: ws, ws-opts: {path: /db00, headers: {Host: cache.cn-db.top}}, udp: true}
-- {name: '【节点优先级】[按量]>[不限量]>[免费]>[公共订阅]|移动 - 大白', server: sd.db-link.in, port: 443, type: vmess, uuid: 9a10091d-34de-379b-a989-7362f0326d16, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: data.cn-db.top, network: ws, ws-opts: {path: /db00, headers: {Host: data.cn-db.top}}, udp: true}
+  use: *id003
+proxy-providers:
+  HK:
+    type: http
+    url: https://raw.kgithub.com/mfbpn/tg_mfbpn_sub/main/trials_providers/shiyuanyinian.xyz/HK.yaml
+    interval: 180
+    path: trials_providers/shiyuanyinian.xyz/HK.yaml
+    health-check:
+      enable: true
+      url: https://i.ytimg.com/generate_204
+      interval: 30
+  Other:
+    type: http
+    url: https://raw.kgithub.com/mfbpn/tg_mfbpn_sub/main/trials_providers/shiyuanyinian.xyz/Other.yaml
+    interval: 180
+    path: trials_providers/shiyuanyinian.xyz/Other.yaml
+    health-check:
+      enable: true
+      url: https://i.ytimg.com/generate_204
+      interval: 30
 rules:
 - DOMAIN-SUFFIX,acl4.ssr,DIRECT
 - DOMAIN-SUFFIX,ip6-localhost,DIRECT
