@@ -1,4 +1,4 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇨🇦 加拿大-广美隧道-解锁 - 快云, server: lpl.xggj.xn--fiqs8s, port: 45371, type: vmess, uuid: 9d5e2094-0774-3d30-b257-df7958a309a7, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇨🇦 加拿大-广美隧道-解锁 - 快云, server: lpl.xggj.xn--fiqs8s, port: 45371, type: vmess, uuid: 1c29f53d-3304-3001-995a-2b7f46e5d2b8, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
