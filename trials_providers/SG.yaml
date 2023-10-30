@@ -1,7 +1,10 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇸🇬 新加坡 - 超级机场, server: ep.superjj.cc, port: 50031, type: ss, cipher: chacha20-ietf-poly1305, password: 8f87a5ff-ecd5-4b83-9542-67c3806abc91, udp: true}
+- {name: 🇸🇬 新加坡 1 - 超级机场, server: ep.superjj.cc, port: 50031, type: ss, cipher: chacha20-ietf-poly1305, password: 8f87a5ff-ecd5-4b83-9542-67c3806abc91, udp: true}
+- {name: 🇸🇬 新加坡 2 - 超级机场, server: ep.superjj.cc, port: 50031, type: ss, cipher: chacha20-ietf-poly1305, password: 8f87a5ff-ecd5-4b83-9542-67c3806abc91, udp: true}
+- {name: 🇸🇬 新加坡 3 - 超级机场, server: ep.superjj.cc, port: 50031, type: ss, cipher: chacha20-ietf-poly1305, password: 8f87a5ff-ecd5-4b83-9542-67c3806abc91, udp: true}
+- {name: 🇸🇬 新加坡 4 - 超级机场, server: ep.superjj.cc, port: 50031, type: ss, cipher: chacha20-ietf-poly1305, password: 8f87a5ff-ecd5-4b83-9542-67c3806abc91, udp: true}
 - {name: 🇸🇬 中转•新加坡299•高速 - 飞翔吧, server: gg.58n.net, port: 20299, type: trojan, password: 439d598d-1fee-39c0-a748-b067260cbf67, sni: x299.flybar.work, skip-cert-verify: true, udp: true}
 - {name: 🇸🇬 中转•新加坡65•青铜 - 飞翔吧, server: gg.58n.net, port: 17806, type: trojan, password: 439d598d-1fee-39c0-a748-b067260cbf67, sni: x65.flybar.work, skip-cert-verify: true, udp: true}
 - {name: 🇸🇬 中转•新加坡83•高速 - 飞翔吧, server: gg.58n.net, port: 30712, type: trojan, password: 439d598d-1fee-39c0-a748-b067260cbf67, sni: x83.flybar.work, skip-cert-verify: true, udp: true}

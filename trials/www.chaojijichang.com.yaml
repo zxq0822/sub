@@ -24,9 +24,18 @@ proxy-groups:
   interval: 30
   tolerance: 50
   proxies: &id001
-  - 🇸🇬 新加坡 - 超级机场
-  - 🇯🇵 日本 - 超级机场
-  - 🇺🇸 美国 - 超级机场
+  - 🇸🇬 新加坡 1 - 超级机场
+  - 🇸🇬 新加坡 2 - 超级机场
+  - 🇸🇬 新加坡 3 - 超级机场
+  - 🇸🇬 新加坡 4 - 超级机场
+  - 🇯🇵 日本 1 - 超级机场
+  - 🇯🇵 日本 2 - 超级机场
+  - 🇯🇵 日本 3 - 超级机场
+  - 🇯🇵 日本 4 - 超级机场
+  - 🇺🇸 美国 1 - 超级机场
+  - 🇺🇸 美国 2 - 超级机场
+  - 🇺🇸 美国 3 - 超级机场
+  - 🇺🇸 美国 4 - 超级机场
 - name: 🛩️ ‍墙内
   type: select
   proxies:
@@ -69,21 +78,30 @@ proxy-groups:
   interval: 30
   tolerance: 50
   proxies: &id002
-  - 🇸🇬 新加坡 - 超级机场
+  - 🇸🇬 新加坡 1 - 超级机场
+  - 🇸🇬 新加坡 2 - 超级机场
+  - 🇸🇬 新加坡 3 - 超级机场
+  - 🇸🇬 新加坡 4 - 超级机场
 - name: 🇯🇵 ‍日本
   type: url-test
   url: https://i.ytimg.com/generate_204
   interval: 30
   tolerance: 50
   proxies: &id003
-  - 🇯🇵 日本 - 超级机场
+  - 🇯🇵 日本 1 - 超级机场
+  - 🇯🇵 日本 2 - 超级机场
+  - 🇯🇵 日本 3 - 超级机场
+  - 🇯🇵 日本 4 - 超级机场
 - name: 🇺🇸 ‍美国
   type: url-test
   url: https://i.ytimg.com/generate_204
   interval: 30
   tolerance: 50
   proxies: &id004
-  - 🇺🇸 美国 - 超级机场
+  - 🇺🇸 美国 1 - 超级机场
+  - 🇺🇸 美国 2 - 超级机场
+  - 🇺🇸 美国 3 - 超级机场
+  - 🇺🇸 美国 4 - 超级机场
 - name: 👆🏻 ‍指定
   type: select
   proxies: *id001
@@ -97,9 +115,18 @@ proxy-groups:
   type: select
   proxies: *id004
 proxies:
-- {name: 🇯🇵 日本 - 超级机场, server: ep.superjj.cc, port: 50021, type: ss, cipher: chacha20-ietf-poly1305, password: 8f87a5ff-ecd5-4b83-9542-67c3806abc91, udp: true}
-- {name: 🇸🇬 新加坡 - 超级机场, server: ep.superjj.cc, port: 50031, type: ss, cipher: chacha20-ietf-poly1305, password: 8f87a5ff-ecd5-4b83-9542-67c3806abc91, udp: true}
-- {name: 🇺🇸 美国 - 超级机场, server: ep.superjj.cc, port: 50041, type: ss, cipher: chacha20-ietf-poly1305, password: 8f87a5ff-ecd5-4b83-9542-67c3806abc91, udp: true}
+- {name: 🇯🇵 日本 1 - 超级机场, server: ep.superjj.cc, port: 50021, type: ss, cipher: chacha20-ietf-poly1305, password: 8f87a5ff-ecd5-4b83-9542-67c3806abc91, udp: true}
+- {name: 🇯🇵 日本 2 - 超级机场, server: ep.superjj.cc, port: 50021, type: ss, cipher: chacha20-ietf-poly1305, password: 8f87a5ff-ecd5-4b83-9542-67c3806abc91, udp: true}
+- {name: 🇯🇵 日本 3 - 超级机场, server: ep.superjj.cc, port: 50021, type: ss, cipher: chacha20-ietf-poly1305, password: 8f87a5ff-ecd5-4b83-9542-67c3806abc91, udp: true}
+- {name: 🇯🇵 日本 4 - 超级机场, server: ep.superjj.cc, port: 50021, type: ss, cipher: chacha20-ietf-poly1305, password: 8f87a5ff-ecd5-4b83-9542-67c3806abc91, udp: true}
+- {name: 🇸🇬 新加坡 1 - 超级机场, server: ep.superjj.cc, port: 50031, type: ss, cipher: chacha20-ietf-poly1305, password: 8f87a5ff-ecd5-4b83-9542-67c3806abc91, udp: true}
+- {name: 🇸🇬 新加坡 2 - 超级机场, server: ep.superjj.cc, port: 50031, type: ss, cipher: chacha20-ietf-poly1305, password: 8f87a5ff-ecd5-4b83-9542-67c3806abc91, udp: true}
+- {name: 🇸🇬 新加坡 3 - 超级机场, server: ep.superjj.cc, port: 50031, type: ss, cipher: chacha20-ietf-poly1305, password: 8f87a5ff-ecd5-4b83-9542-67c3806abc91, udp: true}
+- {name: 🇸🇬 新加坡 4 - 超级机场, server: ep.superjj.cc, port: 50031, type: ss, cipher: chacha20-ietf-poly1305, password: 8f87a5ff-ecd5-4b83-9542-67c3806abc91, udp: true}
+- {name: 🇺🇸 美国 1 - 超级机场, server: ep.superjj.cc, port: 50041, type: ss, cipher: chacha20-ietf-poly1305, password: 8f87a5ff-ecd5-4b83-9542-67c3806abc91, udp: true}
+- {name: 🇺🇸 美国 2 - 超级机场, server: ep.superjj.cc, port: 50041, type: ss, cipher: chacha20-ietf-poly1305, password: 8f87a5ff-ecd5-4b83-9542-67c3806abc91, udp: true}
+- {name: 🇺🇸 美国 3 - 超级机场, server: ep.superjj.cc, port: 50041, type: ss, cipher: chacha20-ietf-poly1305, password: 8f87a5ff-ecd5-4b83-9542-67c3806abc91, udp: true}
+- {name: 🇺🇸 美国 4 - 超级机场, server: ep.superjj.cc, port: 50041, type: ss, cipher: chacha20-ietf-poly1305, password: 8f87a5ff-ecd5-4b83-9542-67c3806abc91, udp: true}
 rules:
 - DOMAIN-SUFFIX,acl4.ssr,DIRECT
 - DOMAIN-SUFFIX,ip6-localhost,DIRECT
