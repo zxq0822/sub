@@ -1,6 +1,8 @@
 %YAML 1.1
 ---
 proxies:
+- {name: 🇯🇵日本03-高速中转8倍率 - 快狗云, server: gzdxxnfqwnio.fucat.top, port: 36274, type: ss, cipher: chacha20-ietf-poly1305, password: 4842f7ac-68af-4878-8e54-4bfbb6ddc6e3, udp: true}
+- {name: 🇯🇵日本04-高速中转8倍率 - 快狗云, server: gzdxxnfqwnio.fucat.top, port: 48866, type: ss, cipher: chacha20-ietf-poly1305, password: 4842f7ac-68af-4878-8e54-4bfbb6ddc6e3, udp: true}
 - {name: 🇯🇵 日本 1 - 超级机场, server: ep.superjj.cc, port: 50021, type: ss, cipher: chacha20-ietf-poly1305, password: 8f87a5ff-ecd5-4b83-9542-67c3806abc91, udp: true}
 - {name: 🇯🇵 日本 2 - 超级机场, server: ep.superjj.cc, port: 50021, type: ss, cipher: chacha20-ietf-poly1305, password: 8f87a5ff-ecd5-4b83-9542-67c3806abc91, udp: true}
 - {name: 🇯🇵 日本 3 - 超级机场, server: ep.superjj.cc, port: 50021, type: ss, cipher: chacha20-ietf-poly1305, password: 8f87a5ff-ecd5-4b83-9542-67c3806abc91, udp: true}
@@ -25,9 +27,9 @@ proxies:
 - {name: 🇯🇵 日本 103 - 墙了个墙, server: jpvip102.qlgq1.pw, port: 30443, type: trojan, password: eb9f6593-afa3-350c-8364-dfdb4e2aea63, sni: jpvip102.qlgq1.pw, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: jpvip102}, udp: true}
 - {name: 🇯🇵 日本 104 - 墙了个墙, server: jpvip102.qlgq1.pw, port: 40443, type: trojan, password: eb9f6593-afa3-350c-8364-dfdb4e2aea63, sni: jpvip102.qlgq1.pw, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: jpvip102}, udp: true}
 - {name: 🇯🇵 日本 105 - 墙了个墙, server: jpvip102.qlgq1.pw, port: 50443, type: trojan, password: eb9f6593-afa3-350c-8364-dfdb4e2aea63, sni: jpvip102.qlgq1.pw, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: jpvip102}, udp: true}
-- {name: 🇯🇵日本01 - 都是梦, server: jp.doushimeng.com, port: 21403, type: ss, cipher: chacha20-ietf-poly1305, password: ced73497-4fcb-4bfd-bc14-75276b69dba5, udp: true}
-- {name: 🇯🇵 日本-广日隧道-解锁 - 快云, server: lpl.xggj.xn--fiqs8s, port: 23416, type: vmess, uuid: 867da341-57f5-338c-b95f-adea22e4152b, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 日本L1-广日隧道-解锁 - 快云, server: hzct.hnytkm.com, port: 58286, type: vmess, uuid: 867da341-57f5-338c-b95f-adea22e4152b, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵日本01 - 都是梦, server: jp.doushimeng.com, port: 21403, type: ss, cipher: chacha20-ietf-poly1305, password: bef2eae8-2700-438c-b71a-ff20b778a00e, udp: true}
+- {name: 🇯🇵 日本-广日隧道-解锁 - 快云, server: lpl.xggj.xn--fiqs8s, port: 23416, type: vmess, uuid: f33ac80a-48c9-3c37-8829-8a4b75ffa476, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本L1-广日隧道-解锁 - 快云, server: hzct.hnytkm.com, port: 58286, type: vmess, uuid: f33ac80a-48c9-3c37-8829-8a4b75ffa476, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇯🇵 V4-4001|日本|x1.5 - 海豚云, server: cdn.node.user-sub.pddns-usersdk.com, port: 14109, type: vmess, uuid: 593eabe1-e3e4-3aff-aa86-2e536fd54701, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /12e884bf-1622-7ceb-3009-7d47fdfs2f9a5, headers: {Host: cdn.node.user-sub.pddns-usersdk.com}}, udp: true}
 - {name: 🇯🇵 V4-4002|日本|x2.0 - 海豚云, server: cdn.node.user-sub.pddns-usersdk.com, port: 14110, type: vmess, uuid: 593eabe1-e3e4-3aff-aa86-2e536fd54701, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /12e884bf-1622-7ceb-3009-7d47fdfs2f9a5, headers: {Host: cdn.node.user-sub.pddns-usersdk.com}}, udp: true}
 - {name: 🇯🇵 V4-4012|日本|x2.0 - 海豚云, server: cdn.node.user-sub.pddns-usersdk.com, port: 14770, type: vmess, uuid: 593eabe1-e3e4-3aff-aa86-2e536fd54701, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /12e884bf-1622-7ceb-3009-7d47fdfs2f9a5, headers: {Host: cdn.node.user-sub.pddns-usersdk.com}}, udp: true}

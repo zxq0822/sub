@@ -1,0 +1,5 @@
+%YAML 1.1
+---
+proxies:
+- {name: 🇭🇰香港01-高速中转8倍率 - 快狗云, server: wzcmfwqhuifnwq.dfcloud.xyz, port: 50519, type: ss, cipher: chacha20-ietf-poly1305, password: 4842f7ac-68af-4878-8e54-4bfbb6ddc6e3, udp: true}
+- {name: 🇭🇰香港02-高速中转8倍率 - 快狗云, server: gzdxxnfqwnio.fucat.top, port: 48257, type: ss, cipher: chacha20-ietf-poly1305, password: 4842f7ac-68af-4878-8e54-4bfbb6ddc6e3, udp: true}
