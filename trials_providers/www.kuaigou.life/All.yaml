@@ -1,14 +1,6 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇭🇰香港01-高速中转8倍率 - 快狗云, server: wzcmfwqhuifnwq.dfcloud.xyz, port: 50519, type: ss, cipher: chacha20-ietf-poly1305, password: 4842f7ac-68af-4878-8e54-4bfbb6ddc6e3, udp: true}
-- {name: 🇭🇰香港02-高速中转8倍率 - 快狗云, server: gzdxxnfqwnio.fucat.top, port: 48257, type: ss, cipher: chacha20-ietf-poly1305, password: 4842f7ac-68af-4878-8e54-4bfbb6ddc6e3, udp: true}
-- {name: 🇯🇵日本03-高速中转8倍率 - 快狗云, server: gzdxxnfqwnio.fucat.top, port: 36274, type: ss, cipher: chacha20-ietf-poly1305, password: 4842f7ac-68af-4878-8e54-4bfbb6ddc6e3, udp: true}
-- {name: 🇯🇵日本04-高速中转8倍率 - 快狗云, server: gzdxxnfqwnio.fucat.top, port: 48866, type: ss, cipher: chacha20-ietf-poly1305, password: 4842f7ac-68af-4878-8e54-4bfbb6ddc6e3, udp: true}
-- {name: 🇸🇬新加坡02-高速中转8倍率 - 快狗云, server: wzcmfwqhuifnwq.dfcloud.xyz, port: 57601, type: ss, cipher: chacha20-ietf-poly1305, password: 4842f7ac-68af-4878-8e54-4bfbb6ddc6e3, udp: true}
-- {name: 🇸🇬新加坡03-高速中转8倍率 - 快狗云, server: wzcmfwqhuifnwq.dfcloud.xyz, port: 58946, type: ss, cipher: chacha20-ietf-poly1305, password: 4842f7ac-68af-4878-8e54-4bfbb6ddc6e3, udp: true}
-- {name: 🇺🇸美国01-高速中转8倍率 - 快狗云, server: wzcmfwqhuifnwq.dfcloud.xyz, port: 52839, type: ss, cipher: chacha20-ietf-poly1305, password: 4842f7ac-68af-4878-8e54-4bfbb6ddc6e3, udp: true}
-- {name: 🇺🇸美国02-高速中转8倍率 - 快狗云, server: wzcmfwqhuifnwq.dfcloud.xyz, port: 14154, type: ss, cipher: chacha20-ietf-poly1305, password: 4842f7ac-68af-4878-8e54-4bfbb6ddc6e3, udp: true}
 - {name: 🇰🇷 韩国01 优选（1倍率） - 快狗云, server: go.gujuji.top, port: 8080, type: vmess, uuid: 4842f7ac-68af-4878-8e54-4bfbb6ddc6e3, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: kr-01.gujuji.top}}, udp: true}
 - {name: 🇨🇦 加拿大new01（1倍率） - 快狗云, server: ca-new01.gujuji.top, port: 8080, type: vmess, uuid: 4842f7ac-68af-4878-8e54-4bfbb6ddc6e3, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: ca-new01.gujuji.top}}, udp: true}
 - {name: 🇨🇦 加拿大new01优选（1倍率） - 快狗云, server: go.gujuji.top, port: 8080, type: vmess, uuid: 4842f7ac-68af-4878-8e54-4bfbb6ddc6e3, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: ca-new01.gujuji.top}}, udp: true}

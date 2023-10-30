@@ -1,8 +1,6 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇭🇰香港01-高速中转8倍率 - 快狗云, server: wzcmfwqhuifnwq.dfcloud.xyz, port: 50519, type: ss, cipher: chacha20-ietf-poly1305, password: 4842f7ac-68af-4878-8e54-4bfbb6ddc6e3, udp: true}
-- {name: 🇭🇰香港02-高速中转8倍率 - 快狗云, server: gzdxxnfqwnio.fucat.top, port: 48257, type: ss, cipher: chacha20-ietf-poly1305, password: 4842f7ac-68af-4878-8e54-4bfbb6ddc6e3, udp: true}
 - {name: 🇭🇰 中转•香港301•高速 - 飞翔吧, server: gg.58n.net, port: 20301, type: trojan, password: eb3bf8b6-32ba-3422-9b04-4a622c674f53, sni: z301.hongkongnode.top, skip-cert-verify: true, udp: true}
 - {name: 🇭🇰 广港•香港143•高速 - 飞翔吧, server: gg.58n.net, port: 28678, type: trojan, password: eb3bf8b6-32ba-3422-9b04-4a622c674f53, sni: z143.hongkongnode.top, skip-cert-verify: true, udp: true}
 - {name: 🇭🇰 广港•香港269•高速 - 飞翔吧, server: gg.58n.net, port: 22741, type: trojan, password: eb3bf8b6-32ba-3422-9b04-4a622c674f53, sni: dufu.hongkongnode.top, skip-cert-verify: true, udp: true}
@@ -11,8 +9,8 @@ proxies:
 - {name: 🇭🇰 广港•香港259•高速 - 飞翔吧, server: gg.58n.net, port: 24603, type: trojan, password: eb3bf8b6-32ba-3422-9b04-4a622c674f53, sni: z259.hongkongnode.top, skip-cert-verify: true, udp: true}
 - {name: 🇭🇰 广港•香港278•高速 - 飞翔吧, server: gg.58n.net, port: 20278, type: trojan, password: eb3bf8b6-32ba-3422-9b04-4a622c674f53, sni: z278.hongkongnode.top, skip-cert-verify: true, udp: true}
 - {name: 🇭🇰 广港•香港279•高速 - 飞翔吧, server: gg.58n.net, port: 20279, type: trojan, password: eb3bf8b6-32ba-3422-9b04-4a622c674f53, sni: z279.hongkongnode.top, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 香港 1 - 西瓜皮是真的皮, server: cm1-xg.go001.buzz, port: 19811, type: vmess, uuid: 4c38086f-3fad-3f3f-abd2-8b5786039833, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 香港 2 - 西瓜皮是真的皮, server: ct1-xg.go001.buzz, port: 19812, type: vmess, uuid: 4c38086f-3fad-3f3f-abd2-8b5786039833, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 香港 1 - 西瓜皮是真的皮, server: cm1-xg.go001.buzz, port: 19811, type: vmess, uuid: de73505c-3193-347f-974d-1b1255ca3a5c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 香港 2 - 西瓜皮是真的皮, server: ct1-xg.go001.buzz, port: 19812, type: vmess, uuid: de73505c-3193-347f-974d-1b1255ca3a5c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇭🇰 香港A丨HKBN丨流媒体 - Tannel中继网络服务, server: www.zztannel.com, port: 62016, type: vmess, uuid: f3cb4e24-adcf-36e6-8a3d-9f72b265516b, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇭🇰 香港B丨BGP丨流媒体 - Tannel中继网络服务, server: iepl.zztannel.com, port: 62003, type: vmess, uuid: f3cb4e24-adcf-36e6-8a3d-9f72b265516b, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇭🇰 香港 101 - 墙了个墙, server: hkvip102.qlgq1.pw, port: 10443, type: trojan, password: eb9f6593-afa3-350c-8364-dfdb4e2aea63, sni: hkvip102.qlgq1.pw, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: hkvip102}, udp: true}
