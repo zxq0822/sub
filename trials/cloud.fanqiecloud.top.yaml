@@ -147,7 +147,7 @@ proxies:
 - {name: 🇯🇵 Japan - 番茄云, server: jp.fanqiecloud.top, port: 21402, type: ss, cipher: chacha20-ietf-poly1305, password: 87a8aadf-7563-4fde-98b7-bff700b70db1, udp: true}
 - {name: 🇰🇷 South Korea - 番茄云, server: kr.fanqiecloud.top, port: 21504, type: ss, cipher: chacha20-ietf-poly1305, password: 87a8aadf-7563-4fde-98b7-bff700b70db1, udp: true}
 - {name: 🇸🇬 Singapore - 番茄云, server: sg.fanqiecloud.top, port: 24352, type: ss, cipher: chacha20-ietf-poly1305, password: 87a8aadf-7563-4fde-98b7-bff700b70db1, udp: true}
-- {name: 🇹🇼 Taiwan - 番茄云, server: tw.fanqiecloud.top, port: 12482, type: ss, cipher: chacha20-ietf-poly1305, password: 87a8aadf-7563-4fde-98b7-bff700b70db1, udp: true}
+- {name: 🇹🇼 Taiwan - 番茄云, server: tw.fanqiecloud.top, port: 48889, type: ss, cipher: chacha20-ietf-poly1305, password: 87a8aadf-7563-4fde-98b7-bff700b70db1, udp: true}
 - {name: 🇨🇦 Canada - 番茄云, server: cf.fanqiecloud.top, port: 20749, type: ss, cipher: chacha20-ietf-poly1305, password: 87a8aadf-7563-4fde-98b7-bff700b70db1, udp: true}
 - {name: 🇧🇷 Brazil - 番茄云, server: bx.fanqiecloud.top, port: 20902, type: ss, cipher: chacha20-ietf-poly1305, password: 87a8aadf-7563-4fde-98b7-bff700b70db1, udp: true}
 - {name: 🇮🇹 Italy - 番茄云, server: it.fanqiecloud.top, port: 22802, type: ss, cipher: chacha20-ietf-poly1305, password: 87a8aadf-7563-4fde-98b7-bff700b70db1, udp: true}
