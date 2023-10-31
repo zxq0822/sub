@@ -1,0 +1,4 @@
+%YAML 1.1
+---
+proxies:
+- {name: 🇭🇰 香港 - sspanel, server: xg107.npv4.com, port: 443, type: trojan, password: ccf8b638-2931-3e3b-910b-59a11b46d5c2, sni: xg107.npv4.com, skip-cert-verify: true, udp: true}
