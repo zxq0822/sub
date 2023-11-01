@@ -158,6 +158,7 @@ proxy-groups:
   - 🇺🇸 广港•美国288•高速 - 飞翔吧
   - 🇺🇸 美国 1 ChatGPT - 西瓜皮是真的皮
   - 🇺🇸 美国 2 ChatGPT - 西瓜皮是真的皮
+  - 🇺🇸4837-南方-广联-0.3倍 - 大湾区坤厂
   - 🇺🇸4837-首尔01 - 大湾区坤厂
   - 🇺🇸4837-首尔02 - 大湾区坤厂
   - 🇺🇸-直连-联通推荐 - 大湾区坤厂
@@ -519,6 +520,7 @@ proxy-groups:
   - 🇺🇸 广港•美国288•高速 - 飞翔吧
   - 🇺🇸 美国 1 ChatGPT - 西瓜皮是真的皮
   - 🇺🇸 美国 2 ChatGPT - 西瓜皮是真的皮
+  - 🇺🇸4837-南方-广联-0.3倍 - 大湾区坤厂
   - 🇺🇸4837-首尔01 - 大湾区坤厂
   - 🇺🇸4837-首尔02 - 大湾区坤厂
   - 🇺🇸-直连-联通推荐 - 大湾区坤厂
@@ -762,6 +764,7 @@ proxies:
 - {name: 🇹🇷 土耳其 1 - 西瓜皮是真的皮, server: cm1-xg.go001.buzz, port: 19881, type: vmess, uuid: daa52309-3695-3322-b0e4-88fe367e73fa, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇸🇬 新加坡 1 Netflix  - 西瓜皮是真的皮, server: cm1-xg.go001.buzz, port: 19841, type: vmess, uuid: daa52309-3695-3322-b0e4-88fe367e73fa, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇸🇬 新加坡 2 Netflix - 西瓜皮是真的皮, server: ct1-xg.go001.buzz, port: 19842, type: vmess, uuid: daa52309-3695-3322-b0e4-88fe367e73fa, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸4837-南方-广联-0.3倍 - 大湾区坤厂, server: 110.72.100.83, port: 42812, type: ss, cipher: chacha20-ietf-poly1305, password: 41d94aec-50f6-4442-a960-17e7201bee44, udp: true}
 - {name: 🇺🇸4837-首尔01 - 大湾区坤厂, server: xiongda006.daxiongda.top, port: 11644, type: ss, cipher: chacha20-ietf-poly1305, password: 41d94aec-50f6-4442-a960-17e7201bee44, udp: true}
 - {name: 🇺🇸4837-首尔02 - 大湾区坤厂, server: xiongda005.daxiongda.top, port: 48995, type: ss, cipher: chacha20-ietf-poly1305, password: 41d94aec-50f6-4442-a960-17e7201bee44, udp: true}
 - {name: 🇺🇸-直连-联通推荐 - 大湾区坤厂, server: 74.48.98.249, port: 8080, type: vmess, uuid: 41d94aec-50f6-4442-a960-17e7201bee44, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: '/quanstring?ed=2048', headers: {Host: us.quanstring.top}}, udp: true}
