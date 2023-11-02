@@ -1,14 +1,6 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇭🇰香港01-高速中转8倍率 - 快狗云, server: 36.133.182.93, port: 30582, type: ss, cipher: chacha20-ietf-poly1305, password: f5b3d1b6-be81-451f-8053-f8ad9b175920, udp: true}
-- {name: 🇭🇰香港02-高速中转8倍率 - 快狗云, server: 36.140.123.205, port: 21797, type: ss, cipher: chacha20-ietf-poly1305, password: f5b3d1b6-be81-451f-8053-f8ad9b175920, udp: true}
-- {name: 🇯🇵日本03-高速中转8倍率 - 快狗云, server: 36.133.182.93, port: 20371, type: ss, cipher: chacha20-ietf-poly1305, password: f5b3d1b6-be81-451f-8053-f8ad9b175920, udp: true}
-- {name: 🇯🇵日本04-高速中转8倍率 - 快狗云, server: 36.140.123.205, port: 27478, type: ss, cipher: chacha20-ietf-poly1305, password: f5b3d1b6-be81-451f-8053-f8ad9b175920, udp: true}
-- {name: 🇸🇬新加坡02-高速中转8倍率 - 快狗云, server: 36.133.182.93, port: 24024, type: ss, cipher: chacha20-ietf-poly1305, password: f5b3d1b6-be81-451f-8053-f8ad9b175920, udp: true}
-- {name: 🇸🇬新加坡03-高速中转8倍率 - 快狗云, server: 36.140.123.205, port: 45203, type: ss, cipher: chacha20-ietf-poly1305, password: f5b3d1b6-be81-451f-8053-f8ad9b175920, udp: true}
-- {name: 🇺🇸美国01-高速中转8倍率 - 快狗云, server: 36.133.182.93, port: 30537, type: ss, cipher: chacha20-ietf-poly1305, password: f5b3d1b6-be81-451f-8053-f8ad9b175920, udp: true}
-- {name: 🇺🇸美国02-高速中转8倍率 - 快狗云, server: 36.140.123.205, port: 48770, type: ss, cipher: chacha20-ietf-poly1305, password: f5b3d1b6-be81-451f-8053-f8ad9b175920, udp: true}
 - {name: 🇰🇷 韩国01 优选（1倍率） - 快狗云, server: go.gujuji.top, port: 8080, type: vmess, uuid: f5b3d1b6-be81-451f-8053-f8ad9b175920, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: kr-01.gujuji.top}}, udp: true}
 - {name: 🇨🇦 加拿大new01（1倍率） - 快狗云, server: ca-new01.gujuji.top, port: 8080, type: vmess, uuid: f5b3d1b6-be81-451f-8053-f8ad9b175920, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: ca-new01.gujuji.top}}, udp: true}
 - {name: 🇨🇦 加拿大new01优选（1倍率） - 快狗云, server: go.gujuji.top, port: 8080, type: vmess, uuid: f5b3d1b6-be81-451f-8053-f8ad9b175920, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: ca-new01.gujuji.top}}, udp: true}

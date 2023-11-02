@@ -1,5 +1,0 @@
-%YAML 1.1
----
-proxies:
-- {name: 🇯🇵日本03-高速中转8倍率 - 快狗云, server: 36.133.182.93, port: 20371, type: ss, cipher: chacha20-ietf-poly1305, password: f5b3d1b6-be81-451f-8053-f8ad9b175920, udp: true}
-- {name: 🇯🇵日本04-高速中转8倍率 - 快狗云, server: 36.140.123.205, port: 27478, type: ss, cipher: chacha20-ietf-poly1305, password: f5b3d1b6-be81-451f-8053-f8ad9b175920, udp: true}
