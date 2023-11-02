@@ -5,8 +5,8 @@ proxies:
 - {name: 🇯🇵 日本东京|甲骨文 - 一颗机场, server: ora-jp6.cou.gay, port: 26152, type: ss, cipher: chacha20-ietf-poly1305, password: ef6dbd27-6d1f-4a43-99d9-7817baf9d413, udp: true}
 - {name: 🇯🇵 Japan - 番茄云, server: jp.fanqiecloud.top, port: 21402, type: ss, cipher: chacha20-ietf-poly1305, password: d2b9286e-50ba-403d-a2e8-052206924a59, udp: true}
 - {name: 🇯🇵日本01 - 都是梦, server: jp.doushimeng.com, port: 21403, type: ss, cipher: chacha20-ietf-poly1305, password: 232950ba-9c4f-4a97-bd7f-32ef058ddfc6, udp: true}
-- {name: 🇯🇵 日本 1 Nico Abema - 西瓜皮是真的皮, server: xg.cm.go002.xyz, port: 19831, type: vmess, uuid: cddcbaa7-44bd-35a6-8d4c-3ef1b4f6f0b2, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 日本 2 Nico Abema - 西瓜皮是真的皮, server: xg.ct1.go002.xyz, port: 19832, type: vmess, uuid: cddcbaa7-44bd-35a6-8d4c-3ef1b4f6f0b2, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本 1 Nico Abema - 西瓜皮是真的皮, server: xg.cm.go002.xyz, port: 19831, type: vmess, uuid: e696bb0b-eb76-3d38-9a9a-a91c2c5f1205, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本 2 Nico Abema - 西瓜皮是真的皮, server: xg.ct1.go002.xyz, port: 19832, type: vmess, uuid: e696bb0b-eb76-3d38-9a9a-a91c2c5f1205, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇯🇵 日本 1 - 超级机场, server: ep.superjj.cc, port: 52001, type: vmess, uuid: 8f87a5ff-ecd5-4b83-9542-67c3806abc91, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇯🇵 日本 2 - 超级机场, server: ep.superjj.cc, port: 52002, type: vmess, uuid: 8f87a5ff-ecd5-4b83-9542-67c3806abc91, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇯🇵 日本 3 - 超级机场, server: ep.superjj.cc, port: 52003, type: vmess, uuid: 8f87a5ff-ecd5-4b83-9542-67c3806abc91, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}

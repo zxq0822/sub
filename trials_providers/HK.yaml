@@ -4,15 +4,14 @@ proxies:
 - {name: 🇭🇰 香港A丨HKBN丨流媒体 - Tannel中继网络服务, server: www.zztannel.com, port: 62016, type: vmess, uuid: a8d8b4fa-b90b-3643-83a0-960a22e68d9f, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇭🇰 香港B丨BGP丨流媒体 - Tannel中继网络服务, server: iepl.zztannel.com, port: 62003, type: vmess, uuid: a8d8b4fa-b90b-3643-83a0-960a22e68d9f, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇭🇰-南方强烈推荐 - 大湾区坤厂, server: 110.72.100.83, port: 39692, type: ss, cipher: chacha20-ietf-poly1305, password: 71306e08-fb4c-4483-b8f5-0f236eca9a81, udp: true}
-- {name: 🇭🇰-专线01-2.5倍 - 大湾区坤厂, server: xiongda006.daxiongda.top, port: 33286, type: ss, cipher: chacha20-ietf-poly1305, password: 71306e08-fb4c-4483-b8f5-0f236eca9a81, udp: true}
 - {name: 🇭🇰-专线02-2.5倍 - 大湾区坤厂, server: xiongda005.daxiongda.top, port: 20803, type: ss, cipher: chacha20-ietf-poly1305, password: 71306e08-fb4c-4483-b8f5-0f236eca9a81, udp: true}
 - {name: 🇭🇰-流媒体02-2.5倍 - 大湾区坤厂, server: xiongda005.daxiongda.top, port: 20803, type: ss, cipher: chacha20-ietf-poly1305, password: 71306e08-fb4c-4483-b8f5-0f236eca9a81, udp: true}
 - {name: 🇭🇰 香港3 - 十元一年, server: twzz.shiyuanyinian.xyz, port: 60001, type: ss, cipher: chacha20-ietf-poly1305, password: fb65a690-34d6-4f2b-8040-955899e705cd, udp: true}
 - {name: 🇭🇰 香港4 - 十元一年, server: twzz.shiyuanyinian.xyz, port: 60001, type: ss, cipher: chacha20-ietf-poly1305, password: fb65a690-34d6-4f2b-8040-955899e705cd, udp: true}
 - {name: 🇭🇰 香港5 - 十元一年, server: twzz.shiyuanyinian.xyz, port: 60001, type: ss, cipher: chacha20-ietf-poly1305, password: fb65a690-34d6-4f2b-8040-955899e705cd, udp: true}
 - {name: 🇭🇰 香港 - sspanel, server: xg107.npv4.com, port: 443, type: trojan, password: b415ee76-f693-3ca8-b1be-e3cd0de33f94, sni: xg107.npv4.com, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 香港 1 - 西瓜皮是真的皮, server: xg.cm.go002.xyz, port: 19811, type: vmess, uuid: cddcbaa7-44bd-35a6-8d4c-3ef1b4f6f0b2, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 香港 2 - 西瓜皮是真的皮, server: xg.ct1.go002.xyz, port: 19812, type: vmess, uuid: cddcbaa7-44bd-35a6-8d4c-3ef1b4f6f0b2, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 香港 1 - 西瓜皮是真的皮, server: xg.cm.go002.xyz, port: 19811, type: vmess, uuid: e696bb0b-eb76-3d38-9a9a-a91c2c5f1205, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 香港 2 - 西瓜皮是真的皮, server: xg.ct1.go002.xyz, port: 19812, type: vmess, uuid: e696bb0b-eb76-3d38-9a9a-a91c2c5f1205, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇭🇰 香港 1 - 超级机场, server: sp.superjj.cc, port: 51001, type: vmess, uuid: 8f87a5ff-ecd5-4b83-9542-67c3806abc91, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇭🇰 香港 2 - 超级机场, server: sp.superjj.cc, port: 51002, type: vmess, uuid: 8f87a5ff-ecd5-4b83-9542-67c3806abc91, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇭🇰 香港 3 - 超级机场, server: sp.superjj.cc, port: 51003, type: vmess, uuid: 8f87a5ff-ecd5-4b83-9542-67c3806abc91, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
