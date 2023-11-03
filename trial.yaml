@@ -34,8 +34,6 @@ proxy-groups:
   proxies: &id001
   - 🇭🇰 香港A丨HKBN丨流媒体 - Tannel中继网络服务
   - 🇭🇰 香港B丨BGP丨流媒体 - Tannel中继网络服务
-  - 🇭🇰-南方强烈推荐 - 大湾区坤厂
-  - 🇭🇰-专线01-2.5倍 - 大湾区坤厂
   - 🇭🇰 Churros-香港 - 大湾区坤厂
   - 🇭🇰 香港3 - 十元一年
   - 🇭🇰 香港4 - 十元一年
@@ -84,7 +82,6 @@ proxy-groups:
   - 🇸🇬 新加坡1 - 一颗机场
   - 🇸🇬 新加坡2 - 一颗机场
   - 🇸🇬 新加坡3 - 一颗机场
-  - 🇸🇬-专线01-2倍 - 大湾区坤厂
   - 🇸🇬 Wap-新加坡 - 大湾区坤厂
   - 🇸🇬 Singapore - 番茄云
   - '[🇸🇬] 打杂的02 x1 - 星河 583'
@@ -143,8 +140,6 @@ proxy-groups:
   - 🇺🇸 美国圣何塞2 - 一颗机场
   - 🇺🇸 美国圣何塞3 - 一颗机场
   - 🇺🇸-ChatGPT-流媒体-TikTok-稳定 - 大湾区坤厂
-  - 🇺🇸9929-专线01-1倍 - 大湾区坤厂
-  - 🇺🇸4837-专线01-0.85倍 - 大湾区坤厂
   - 🇺🇸-直连-联通推荐 - 大湾区坤厂
   - 🇺🇸 America - 番茄云
   - 🇺🇸 us-1 - fastest
@@ -326,8 +321,6 @@ proxy-groups:
   proxies: &id002
   - 🇭🇰 香港A丨HKBN丨流媒体 - Tannel中继网络服务
   - 🇭🇰 香港B丨BGP丨流媒体 - Tannel中继网络服务
-  - 🇭🇰-南方强烈推荐 - 大湾区坤厂
-  - 🇭🇰-专线01-2.5倍 - 大湾区坤厂
   - 🇭🇰 Churros-香港 - 大湾区坤厂
   - 🇭🇰 香港3 - 十元一年
   - 🇭🇰 香港4 - 十元一年
@@ -386,8 +379,6 @@ proxy-groups:
   proxies: &id004
   - 🇭🇰 香港A丨HKBN丨流媒体 - Tannel中继网络服务
   - 🇭🇰 香港B丨BGP丨流媒体 - Tannel中继网络服务
-  - 🇭🇰-南方强烈推荐 - 大湾区坤厂
-  - 🇭🇰-专线01-2.5倍 - 大湾区坤厂
   - 🇭🇰 Churros-香港 - 大湾区坤厂
   - 🇭🇰 香港3 - 十元一年
   - 🇭🇰 香港4 - 十元一年
@@ -442,7 +433,6 @@ proxy-groups:
   - 🇸🇬 新加坡1 - 一颗机场
   - 🇸🇬 新加坡2 - 一颗机场
   - 🇸🇬 新加坡3 - 一颗机场
-  - 🇸🇬-专线01-2倍 - 大湾区坤厂
   - 🇸🇬 Wap-新加坡 - 大湾区坤厂
   - 🇸🇬 Singapore - 番茄云
   - '[🇸🇬] 打杂的02 x1 - 星河 583'
@@ -513,8 +503,6 @@ proxy-groups:
   - 🇺🇸 美国圣何塞2 - 一颗机场
   - 🇺🇸 美国圣何塞3 - 一颗机场
   - 🇺🇸-ChatGPT-流媒体-TikTok-稳定 - 大湾区坤厂
-  - 🇺🇸9929-专线01-1倍 - 大湾区坤厂
-  - 🇺🇸4837-专线01-0.85倍 - 大湾区坤厂
   - 🇺🇸-直连-联通推荐 - 大湾区坤厂
   - 🇺🇸 America - 番茄云
   - 🇺🇸 us-1 - fastest
@@ -703,11 +691,6 @@ proxies:
 - {name: 🇦🇺 澳大利亚悉尼3 - 一颗机场, server: v4.cfnode.eu.org, port: 443, type: vmess, uuid: ef6dbd27-6d1f-4a43-99d9-7817baf9d413, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: '/au1?ed=2048', headers: {Host: au1.cou.gay}}, udp: true}
 - {name: WePc-4837-SS-稳定 - 大湾区坤厂, server: 154.7.179.11, port: 9999, type: ss, cipher: chacha20-ietf-poly1305, password: 037ddf1e-1766-4fc3-b3aa-6b3fe170d077, udp: true}
 - {name: 🇺🇸-ChatGPT-流媒体-TikTok-稳定 - 大湾区坤厂, server: 154.12.53.143, port: 9999, type: ss, cipher: chacha20-ietf-poly1305, password: 037ddf1e-1766-4fc3-b3aa-6b3fe170d077, udp: true}
-- {name: 🇭🇰-南方强烈推荐 - 大湾区坤厂, server: 110.72.100.83, port: 39692, type: ss, cipher: chacha20-ietf-poly1305, password: 037ddf1e-1766-4fc3-b3aa-6b3fe170d077, udp: true}
-- {name: 🇺🇸9929-专线01-1倍 - 大湾区坤厂, server: xiongda006.daxiongda.top, port: 11644, type: ss, cipher: chacha20-ietf-poly1305, password: 037ddf1e-1766-4fc3-b3aa-6b3fe170d077, udp: true}
-- {name: 🇺🇸4837-专线01-0.85倍 - 大湾区坤厂, server: xiongda006.daxiongda.top, port: 11644, type: ss, cipher: chacha20-ietf-poly1305, password: 037ddf1e-1766-4fc3-b3aa-6b3fe170d077, udp: true}
-- {name: 🇸🇬-专线01-2倍 - 大湾区坤厂, server: xiongda006.daxiongda.top, port: 17844, type: ss, cipher: chacha20-ietf-poly1305, password: 037ddf1e-1766-4fc3-b3aa-6b3fe170d077, udp: true}
-- {name: 🇭🇰-专线01-2.5倍 - 大湾区坤厂, server: xiongda006.daxiongda.top, port: 33286, type: ss, cipher: chacha20-ietf-poly1305, password: 037ddf1e-1766-4fc3-b3aa-6b3fe170d077, udp: true}
 - {name: 🇺🇸-直连-联通推荐 - 大湾区坤厂, server: 74.48.98.249, port: 8080, type: vmess, uuid: 037ddf1e-1766-4fc3-b3aa-6b3fe170d077, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: '/quanstring?ed=2048', headers: {Host: us.quanstring.top}}, udp: true}
 - {name: 🇸🇬 Wap-新加坡 - 大湾区坤厂, server: 45.145.154.2, port: 9999, type: ss, cipher: chacha20-ietf-poly1305, password: 037ddf1e-1766-4fc3-b3aa-6b3fe170d077, udp: true}
 - {name: 🇭🇰 Churros-香港 - 大湾区坤厂, server: 103.229.54.136, port: 9999, type: ss, cipher: chacha20-ietf-poly1305, password: 037ddf1e-1766-4fc3-b3aa-6b3fe170d077, udp: true}
