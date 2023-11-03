@@ -1,4 +1,6 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇭🇰 Churros-香港 - 大湾区坤厂, server: 103.229.54.136, port: 9999, type: ss, cipher: chacha20-ietf-poly1305, password: 28494f11-cfbd-4051-ad44-1c5f76c7b2b0, udp: true}
+- {name: 🇭🇰-南方强烈推荐 - 大湾区坤厂, server: 110.72.100.83, port: 39692, type: ss, cipher: chacha20-ietf-poly1305, password: 037ddf1e-1766-4fc3-b3aa-6b3fe170d077, udp: true}
+- {name: 🇭🇰-专线01-2.5倍 - 大湾区坤厂, server: xiongda006.daxiongda.top, port: 33286, type: ss, cipher: chacha20-ietf-poly1305, password: 037ddf1e-1766-4fc3-b3aa-6b3fe170d077, udp: true}
+- {name: 🇭🇰 Churros-香港 - 大湾区坤厂, server: 103.229.54.136, port: 9999, type: ss, cipher: chacha20-ietf-poly1305, password: 037ddf1e-1766-4fc3-b3aa-6b3fe170d077, udp: true}
