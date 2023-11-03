@@ -209,7 +209,6 @@ proxy-groups:
   - 🇧🇷 Brazil - 番茄云
   - 🇮🇹 Italy - 番茄云
   - 🇮🇳 India - 番茄云
-  - 🇸🇦 Saudi Arabia - 番茄云
   - 🇦🇪 Dubai - 番茄云
   - aa-1 - fastest
   - pp-1 - fastest
@@ -578,7 +577,6 @@ proxy-groups:
   - 🇧🇷 Brazil - 番茄云
   - 🇮🇹 Italy - 番茄云
   - 🇮🇳 India - 番茄云
-  - 🇸🇦 Saudi Arabia - 番茄云
   - 🇦🇪 Dubai - 番茄云
   - aa-1 - fastest
   - pp-1 - fastest
@@ -689,11 +687,11 @@ proxies:
 - {name: 🇦🇺 澳大利亚悉尼1 - 一颗机场, server: au1.cou.gay, port: 443, type: vmess, uuid: ef6dbd27-6d1f-4a43-99d9-7817baf9d413, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: '/au1?ed=2048', headers: {Host: au1.cou.gay}}, udp: true}
 - {name: 🇦🇺 澳大利亚悉尼2 - 一颗机场, server: time.is, port: 443, type: vmess, uuid: ef6dbd27-6d1f-4a43-99d9-7817baf9d413, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: '/au1?ed=2048', headers: {Host: au1.cou.gay}}, udp: true}
 - {name: 🇦🇺 澳大利亚悉尼3 - 一颗机场, server: v4.cfnode.eu.org, port: 443, type: vmess, uuid: ef6dbd27-6d1f-4a43-99d9-7817baf9d413, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: '/au1?ed=2048', headers: {Host: au1.cou.gay}}, udp: true}
-- {name: WePc-4837-SS-稳定 - 大湾区坤厂, server: 154.7.179.11, port: 9999, type: ss, cipher: chacha20-ietf-poly1305, password: 037ddf1e-1766-4fc3-b3aa-6b3fe170d077, udp: true}
-- {name: 🇺🇸-ChatGPT-流媒体-TikTok-稳定 - 大湾区坤厂, server: 154.12.53.143, port: 9999, type: ss, cipher: chacha20-ietf-poly1305, password: 037ddf1e-1766-4fc3-b3aa-6b3fe170d077, udp: true}
-- {name: 🇺🇸-直连-联通推荐 - 大湾区坤厂, server: 74.48.98.249, port: 8080, type: vmess, uuid: 037ddf1e-1766-4fc3-b3aa-6b3fe170d077, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: '/quanstring?ed=2048', headers: {Host: us.quanstring.top}}, udp: true}
-- {name: 🇸🇬 Wap-新加坡 - 大湾区坤厂, server: 45.145.154.2, port: 9999, type: ss, cipher: chacha20-ietf-poly1305, password: 037ddf1e-1766-4fc3-b3aa-6b3fe170d077, udp: true}
-- {name: 🇭🇰 Churros-香港 - 大湾区坤厂, server: 103.229.54.136, port: 9999, type: ss, cipher: chacha20-ietf-poly1305, password: 037ddf1e-1766-4fc3-b3aa-6b3fe170d077, udp: true}
+- {name: WePc-4837-SS-稳定 - 大湾区坤厂, server: 154.7.179.11, port: 9999, type: ss, cipher: chacha20-ietf-poly1305, password: 73e162b5-cc03-4a9c-9c84-62f896ca0ce7, udp: true}
+- {name: 🇺🇸-ChatGPT-流媒体-TikTok-稳定 - 大湾区坤厂, server: 154.12.53.143, port: 9999, type: ss, cipher: chacha20-ietf-poly1305, password: 73e162b5-cc03-4a9c-9c84-62f896ca0ce7, udp: true}
+- {name: 🇺🇸-直连-联通推荐 - 大湾区坤厂, server: 74.48.98.249, port: 8080, type: vmess, uuid: 73e162b5-cc03-4a9c-9c84-62f896ca0ce7, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: '/quanstring?ed=2048', headers: {Host: us.quanstring.top}}, udp: true}
+- {name: 🇸🇬 Wap-新加坡 - 大湾区坤厂, server: 45.145.154.2, port: 9999, type: ss, cipher: chacha20-ietf-poly1305, password: 73e162b5-cc03-4a9c-9c84-62f896ca0ce7, udp: true}
+- {name: 🇭🇰 Churros-香港 - 大湾区坤厂, server: 103.229.54.136, port: 9999, type: ss, cipher: chacha20-ietf-poly1305, password: 73e162b5-cc03-4a9c-9c84-62f896ca0ce7, udp: true}
 - {name: 🇭🇰 香港3 - 十元一年, server: twzz.shiyuanyinian.xyz, port: 60001, type: ss, cipher: chacha20-ietf-poly1305, password: fb65a690-34d6-4f2b-8040-955899e705cd, udp: true}
 - {name: 🇭🇰 香港4 - 十元一年, server: twzz.shiyuanyinian.xyz, port: 60001, type: ss, cipher: chacha20-ietf-poly1305, password: fb65a690-34d6-4f2b-8040-955899e705cd, udp: true}
 - {name: 🇭🇰 香港5 - 十元一年, server: twzz.shiyuanyinian.xyz, port: 60001, type: ss, cipher: chacha20-ietf-poly1305, password: fb65a690-34d6-4f2b-8040-955899e705cd, udp: true}
@@ -709,7 +707,6 @@ proxies:
 - {name: 🇧🇷 Brazil - 番茄云, server: bx.fanqiecloud.top, port: 20902, type: ss, cipher: chacha20-ietf-poly1305, password: d2b9286e-50ba-403d-a2e8-052206924a59, udp: true}
 - {name: 🇮🇹 Italy - 番茄云, server: it.fanqiecloud.top, port: 22802, type: ss, cipher: chacha20-ietf-poly1305, password: d2b9286e-50ba-403d-a2e8-052206924a59, udp: true}
 - {name: 🇮🇳 India - 番茄云, server: dl1.fanqiecloud.top, port: 2086, type: vmess, uuid: d2b9286e-50ba-403d-a2e8-052206924a59, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /sssddd, headers: {Host: cf-in.fanqiecloud.top}}, udp: true}
-- {name: 🇸🇦 Saudi Arabia - 番茄云, server: dl1.fanqiecloud.top, port: 2086, type: vmess, uuid: d2b9286e-50ba-403d-a2e8-052206924a59, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /sssddd, headers: {Host: cf-st.fanqiecloud.top}}, udp: true}
 - {name: 🇦🇪 Dubai - 番茄云, server: dl1.fanqiecloud.top, port: 2086, type: vmess, uuid: d2b9286e-50ba-403d-a2e8-052206924a59, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /sssddd, headers: {Host: cf-db.fanqiecloud.top}}, udp: true}
 - {name: aa-1 - fastest, server: aa.looooooongnet.lol, port: 443, type: vmess, uuid: 71c6ccc1-855c-4a7c-b315-7e33035dad25, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: aa.looooooongnet.lol, network: grpc, grpc-opts: {grpc-service-name: douk.looooooongnet.lol}, udp: true}
 - {name: 🇺🇸 us-1 - fastest, server: ss.looooooongnet.lol, port: 443, type: vmess, uuid: 71c6ccc1-855c-4a7c-b315-7e33035dad25, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: ss.looooooongnet.lol, network: grpc, grpc-opts: {grpc-service-name: dous.looooooongnet.lol}, udp: true}
