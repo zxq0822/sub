@@ -73,6 +73,7 @@ proxy-groups:
   - 🇹🇼 台湾A丨Hinet丨流媒体 - Tannel中继网络服务
   - 🇹🇼 Taiwan - 番茄云
   - 🇹🇼台湾01 - 都是梦
+  - 🇹🇼台湾02 - 都是梦
   - 🇹🇼 台湾 1 动画疯 - 西瓜皮是真的皮
   - 🇹🇼 台湾 2 动画疯 - 西瓜皮是真的皮
   - 🇹🇼 V4-4007|台湾|x2.0 - 海豚云
@@ -385,6 +386,7 @@ proxy-groups:
   - 🇹🇼 台湾A丨Hinet丨流媒体 - Tannel中继网络服务
   - 🇹🇼 Taiwan - 番茄云
   - 🇹🇼台湾01 - 都是梦
+  - 🇹🇼台湾02 - 都是梦
   - 🇹🇼 台湾 1 动画疯 - 西瓜皮是真的皮
   - 🇹🇼 台湾 2 动画疯 - 西瓜皮是真的皮
   - 🇹🇼 V4-4007|台湾|x2.0 - 海豚云
@@ -441,6 +443,7 @@ proxy-groups:
   - 🇹🇼 台湾A丨Hinet丨流媒体 - Tannel中继网络服务
   - 🇹🇼 Taiwan - 番茄云
   - 🇹🇼台湾01 - 都是梦
+  - 🇹🇼台湾02 - 都是梦
   - 🇹🇼 台湾 1 动画疯 - 西瓜皮是真的皮
   - 🇹🇼 台湾 2 动画疯 - 西瓜皮是真的皮
   - 🇹🇼 V4-4007|台湾|x2.0 - 海豚云
@@ -703,9 +706,9 @@ proxy-groups:
   type: select
   proxies: *id008
 proxies:
-- {name: 【付费用户】油管秒开4K/8K|更多地区接入|公益 - 大白, server: 120.241.46.223, port: 64011, type: vmess, uuid: 9a10091d-34de-379b-a989-7362f0326d16, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, servername: cache-hk-1.cn-db.top, network: ws, ws-opts: {path: /db00, headers: {Host: cache-hk-1.cn-db.top}}, udp: true}
-- {name: 【免费用户】油管稳2K@30/限速稳720P|公益 - 大白, server: 120.241.46.222, port: 64091, type: vmess, uuid: 9a10091d-34de-379b-a989-7362f0326d16, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, servername: data-hk-3.cn-db.top, network: ws, ws-opts: {path: /db00, headers: {Host: data-hk-3.cn-db.top}}, udp: true}
-- {name: 【提供套餐】免费/按量不限时/不按量限时|公益 - 大白, server: 120.241.46.222, port: 64001, type: vmess, uuid: 9a10091d-34de-379b-a989-7362f0326d16, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, servername: cache-hk-2.cn-db.top, network: ws, ws-opts: {path: /db00, headers: {Host: cache-hk-2.cn-db.top}}, udp: true}
+- {name: 【付费用户】油管秒开4K/8K|更多地区接入|公益 - 大白, server: 120.241.46.222, port: 63005, type: vmess, uuid: 9a10091d-34de-379b-a989-7362f0326d16, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, servername: cache-hk-1.cn-db.top, network: ws, ws-opts: {path: /db00, headers: {Host: cache-hk-1.cn-db.top}}, udp: true}
+- {name: 【免费用户】油管稳2K@30/限速稳720P|公益 - 大白, server: 120.241.46.223, port: 63082, type: vmess, uuid: 9a10091d-34de-379b-a989-7362f0326d16, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, servername: data-hk-3.cn-db.top, network: ws, ws-opts: {path: /db00, headers: {Host: data-hk-3.cn-db.top}}, udp: true}
+- {name: 【提供套餐】免费/按量不限时/不按量限时|公益 - 大白, server: 120.241.46.223, port: 62091, type: vmess, uuid: 9a10091d-34de-379b-a989-7362f0326d16, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, servername: cache-hk-2.cn-db.top, network: ws, ws-opts: {path: /db00, headers: {Host: cache-hk-2.cn-db.top}}, udp: true}
 - {name: 【邀请用户】|最高返还40%|移动 - 大白, server: sd.db-link.in, port: 443, type: vmess, uuid: 9a10091d-34de-379b-a989-7362f0326d16, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: cache-hk-1.cn-db.top, network: ws, ws-opts: {path: /db00, headers: {Host: cache-hk-1.cn-db.top}}, udp: true}
 - {name: '【节点优先级】[按量]>[不限量]>[免费]>[公共订阅]|移动 - 大白', server: sd.db-link.in, port: 443, type: vmess, uuid: 9a10091d-34de-379b-a989-7362f0326d16, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: data-hk-1.cn-db.top, network: ws, ws-opts: {path: /db00, headers: {Host: data-hk-1.cn-db.top}}, udp: true}
 - {name: 🇹🇼 台湾A丨Hinet丨流媒体 - Tannel中继网络服务, server: www.zztannel.com, port: 62012, type: vmess, uuid: 2acda9e9-15ab-3c83-80d4-51ffa4a05ea5, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
@@ -785,6 +788,7 @@ proxies:
 - {name: 🇺🇸美国02 - 都是梦, server: us4.doushimeng.com, port: 20802, type: ss, cipher: chacha20-ietf-poly1305, password: 6e927844-7da4-4813-9138-9329df15cf99, udp: true}
 - {name: 🇺🇸美国03 - 都是梦, server: dl1.doushimeng.com, port: 2095, type: vmess, uuid: 6e927844-7da4-4813-9138-9329df15cf99, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /asdas, headers: {Host: cf-us.doushimeng.com}}, udp: true}
 - {name: 🇹🇼台湾01 - 都是梦, server: dl7.doushimeng.com, port: 2086, type: vmess, uuid: 6e927844-7da4-4813-9138-9329df15cf99, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /asdas, headers: {Host: cf-tw.doushimeng.com}}, udp: true}
+- {name: 🇹🇼台湾02 - 都是梦, server: tw.doushimeng.com, port: 48888, type: ss, cipher: chacha20-ietf-poly1305, password: 6e927844-7da4-4813-9138-9329df15cf99, udp: true}
 - {name: 🇰🇷韩国01 - 都是梦, server: kr.doushimeng.com, port: 22553, type: ss, cipher: chacha20-ietf-poly1305, password: 6e927844-7da4-4813-9138-9329df15cf99, udp: true}
 - {name: 🇰🇷韩国02 - 都是梦, server: dl3.doushimeng.com, port: 2086, type: vmess, uuid: 6e927844-7da4-4813-9138-9329df15cf99, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /asdas, headers: {Host: cf-kr2.112592.xyz}}, udp: true}
 - {name: 🇸🇬新加坡01 - 都是梦, server: sg3.doushimeng.com, port: 20052, type: ss, cipher: chacha20-ietf-poly1305, password: 6e927844-7da4-4813-9138-9329df15cf99, udp: true}
