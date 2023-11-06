@@ -1,6 +1,6 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 距离下次重置剩余：24 天 - fastest, server: aa.looooooongnet.lol, port: 443, type: vmess, uuid: 71c6ccc1-855c-4a7c-b315-7e33035dad25, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: aa.looooooongnet.lol, network: grpc, grpc-opts: {grpc-service-name: douk.looooooongnet.lol}, udp: true}
-- {name: aa-1 - fastest, server: aa.looooooongnet.lol, port: 443, type: vmess, uuid: 71c6ccc1-855c-4a7c-b315-7e33035dad25, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: aa.looooooongnet.lol, network: grpc, grpc-opts: {grpc-service-name: douk.looooooongnet.lol}, udp: true}
-- {name: pp-1 - fastest, server: pp.looooooongnet.lol, port: 443, type: vmess, uuid: 71c6ccc1-855c-4a7c-b315-7e33035dad25, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: pp.looooooongnet.lol, network: grpc, grpc-opts: {grpc-service-name: /}, udp: true}
+- {name: 距离下次重置剩余：24 天 - fastest, server: aa.looooooongnet.lol, port: 443, type: vmess, uuid: fa3e7ea1-45cc-4d7e-866e-151b5669503b, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: aa.looooooongnet.lol, network: grpc, grpc-opts: {grpc-service-name: douk.looooooongnet.lol}, udp: true}
+- {name: aa-1 - fastest, server: aa.looooooongnet.lol, port: 443, type: vmess, uuid: fa3e7ea1-45cc-4d7e-866e-151b5669503b, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: aa.looooooongnet.lol, network: grpc, grpc-opts: {grpc-service-name: douk.looooooongnet.lol}, udp: true}
+- {name: pp-1 - fastest, server: pp.looooooongnet.lol, port: 443, type: vmess, uuid: fa3e7ea1-45cc-4d7e-866e-151b5669503b, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: pp.looooooongnet.lol, network: grpc, grpc-opts: {grpc-service-name: /}, udp: true}
