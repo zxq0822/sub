@@ -1,0 +1,4 @@
+%YAML 1.1
+---
+proxies:
+- {name: 节点失效，请手动更新。点击刷新按钮 - 大湾区坤厂, server: 103.229.54.136, port: 9999, type: ss, cipher: chacha20-ietf-poly1305, password: f3053f80-e9a1-42d2-b269-0af59656e48d, udp: true}
