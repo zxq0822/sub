@@ -1,0 +1,4 @@
+%YAML 1.1
+---
+proxies:
+- {name: 🇺🇸 US-线路测试-无限制随便跑 - 大白, server: sd.db-link.in, port: 443, type: trojan, password: 9a10091d-34de-379b-a989-7362f0326d16, sni: fss.db-link.in, skip-cert-verify: true, udp: true}
