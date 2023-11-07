@@ -9,14 +9,14 @@ proxies:
 - {name: 🇭🇰 香港/HK | 杭联 - 鸡鸡云, server: zzzjlt.jjyhk.com, port: 11917, type: ss, cipher: chacha20-ietf-poly1305, password: 765b0b81-a0e4-4213-89b1-33e319339a2a, udp: true}
 - {name: 🇭🇰 香港/HK | 沪日 - 鸡鸡云, server: zzshdx.jjyhk.com, port: 11917, type: ss, cipher: chacha20-ietf-poly1305, password: 765b0b81-a0e4-4213-89b1-33e319339a2a, udp: true}
 - {name: 🇭🇰 香港/HK | 苏移 - 鸡鸡云, server: zzjsyd.jjyhk.com, port: 11914, type: ss, cipher: chacha20-ietf-poly1305, password: 765b0b81-a0e4-4213-89b1-33e319339a2a, udp: true}
-- {name: 🇭🇰-专线①-2.5倍 - 大湾区坤厂, server: s7.daxiongda.top, port: 33286, type: ss, cipher: chacha20-ietf-poly1305, password: 65443100-ad59-4fde-9b72-2acf5e2046e4, udp: true}
-- {name: 🇭🇰-专线②-2.5倍 - 大湾区坤厂, server: s8.daxiongda.top, port: 20803, type: ss, cipher: chacha20-ietf-poly1305, password: 65443100-ad59-4fde-9b72-2acf5e2046e4, udp: true}
+- {name: 🇭🇰-专线①-3倍 - 大湾区坤厂, server: s7.daxiongda.top, port: 33286, type: ss, cipher: chacha20-ietf-poly1305, password: 65443100-ad59-4fde-9b72-2acf5e2046e4, udp: true}
+- {name: 🇭🇰-专线②-3倍 - 大湾区坤厂, server: s8.daxiongda.top, port: 20803, type: ss, cipher: chacha20-ietf-poly1305, password: 65443100-ad59-4fde-9b72-2acf5e2046e4, udp: true}
 - {name: 🇭🇰-流媒体②-2.5倍 - 大湾区坤厂, server: s8.daxiongda.top, port: 20803, type: ss, cipher: chacha20-ietf-poly1305, password: 65443100-ad59-4fde-9b72-2acf5e2046e4, udp: true}
 - {name: 🇭🇰 香港3 - 十元一年, server: twzz.shiyuanyinian.xyz, port: 60001, type: ss, cipher: chacha20-ietf-poly1305, password: fb65a690-34d6-4f2b-8040-955899e705cd, udp: true}
 - {name: 🇭🇰 香港4 - 十元一年, server: twzz.shiyuanyinian.xyz, port: 60001, type: ss, cipher: chacha20-ietf-poly1305, password: fb65a690-34d6-4f2b-8040-955899e705cd, udp: true}
 - {name: 🇭🇰 香港5 - 十元一年, server: twzz.shiyuanyinian.xyz, port: 60001, type: ss, cipher: chacha20-ietf-poly1305, password: fb65a690-34d6-4f2b-8040-955899e705cd, udp: true}
-- {name: 🇹🇼 Taiwan - 番茄云, server: tw.fanqiecloud.top, port: 48889, type: ss, cipher: chacha20-ietf-poly1305, password: 081243c6-19e6-4af8-84b3-51ef405fa367, udp: true}
-- {name: 🇹🇼 Taiwan 2 - 番茄云, server: dl4.fanqiecloud.top, port: 2086, type: vmess, uuid: 081243c6-19e6-4af8-84b3-51ef405fa367, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /sssddd, headers: {Host: cf-tw.fanqiecloud.top}}, udp: true}
+- {name: 🇹🇼 Taiwan - 番茄云, server: tw.fanqiecloud.top, port: 48889, type: ss, cipher: chacha20-ietf-poly1305, password: a1509da8-c602-4616-9214-76ef0605e445, udp: true}
+- {name: 🇹🇼 Taiwan 2 - 番茄云, server: dl4.fanqiecloud.top, port: 2086, type: vmess, uuid: a1509da8-c602-4616-9214-76ef0605e445, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /sssddd, headers: {Host: cf-tw.fanqiecloud.top}}, udp: true}
 - {name: 🇹🇼台湾01 - 都是梦, server: proxy1.doushimeng.com, port: 48888, type: ss, cipher: chacha20-ietf-poly1305, password: b86ded64-b00f-49d5-bcb6-a194864df936, udp: true}
 - {name: 🇹🇼台湾02 - 都是梦, server: dl-tw.doushimeng.com, port: 80, type: vmess, uuid: b86ded64-b00f-49d5-bcb6-a194864df936, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /asdas, headers: {Host: cf-tw.doushimeng.com}}, udp: true}
 - {name: 🇹🇼台湾03 - 都是梦, server: tw.doushimeng.com, port: 48888, type: ss, cipher: chacha20-ietf-poly1305, password: b86ded64-b00f-49d5-bcb6-a194864df936, udp: true}
