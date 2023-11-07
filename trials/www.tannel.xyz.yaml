@@ -32,7 +32,7 @@ proxy-groups:
   - 🇭🇰 香港B丨BGP丨流媒体 - Tannel中继网络服务
   - 🇹🇼 台湾A丨Hinet丨流媒体 - Tannel中继网络服务
   - 🇯🇵 日本A丨Lin丨流媒体 - Tannel中继网络服务
-  - 🇺🇲 美国A丨洛杉矶丨流媒体 - Tannel中继网络服务
+  - 🇺🇲 美国A丨芝加哥丨流媒体 - Tannel中继网络服务
 - name: 🛩️ ‍墙内
   type: select
   proxies:
@@ -112,7 +112,7 @@ proxy-groups:
   interval: 30
   tolerance: 50
   proxies: &id006
-  - 🇺🇲 美国A丨洛杉矶丨流媒体 - Tannel中继网络服务
+  - 🇺🇲 美国A丨芝加哥丨流媒体 - Tannel中继网络服务
 - name: 👆🏻 ‍指定
   type: select
   proxies: *id001
@@ -134,7 +134,7 @@ proxy-groups:
 proxies:
 - {name: 🇹🇼 台湾A丨Hinet丨流媒体 - Tannel中继网络服务, server: www.zztannel.com, port: 62012, type: vmess, uuid: d85c3cd3-b974-3d3d-8fb5-16ab31b5d6a1, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇯🇵 日本A丨Lin丨流媒体 - Tannel中继网络服务, server: www.zztannel.com, port: 62001, type: vmess, uuid: d85c3cd3-b974-3d3d-8fb5-16ab31b5d6a1, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇺🇲 美国A丨洛杉矶丨流媒体 - Tannel中继网络服务, server: www.zztannel.com, port: 62028, type: vmess, uuid: d85c3cd3-b974-3d3d-8fb5-16ab31b5d6a1, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇺🇲 美国A丨芝加哥丨流媒体 - Tannel中继网络服务, server: www.zztannel.com, port: 62028, type: vmess, uuid: d85c3cd3-b974-3d3d-8fb5-16ab31b5d6a1, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇭🇰 香港A丨HKBN丨流媒体 - Tannel中继网络服务, server: www.zztannel.com, port: 62016, type: vmess, uuid: d85c3cd3-b974-3d3d-8fb5-16ab31b5d6a1, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇭🇰 香港B丨BGP丨流媒体 - Tannel中继网络服务, server: iepl.zztannel.com, port: 62003, type: vmess, uuid: d85c3cd3-b974-3d3d-8fb5-16ab31b5d6a1, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 rules:
