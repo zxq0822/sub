@@ -1,5 +1,5 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇸🇬-专线①-2倍 - 大湾区坤厂, server: s7.daxiongda.top, port: 17844, type: ss, cipher: chacha20-ietf-poly1305, password: 6621d8e4-792d-4256-90e1-7cb50c0c2cfd, udp: true}
-- {name: 🇸🇬-专线②-2倍 - 大湾区坤厂, server: s8.daxiongda.top, port: 22065, type: ss, cipher: chacha20-ietf-poly1305, password: 6621d8e4-792d-4256-90e1-7cb50c0c2cfd, udp: true}
+- {name: 🇸🇬-专线①-2倍 - 大湾区坤厂, server: s7.daxiongda.top, port: 17844, type: ss, cipher: chacha20-ietf-poly1305, password: 65443100-ad59-4fde-9b72-2acf5e2046e4, udp: true}
+- {name: 🇸🇬-专线②-2倍 - 大湾区坤厂, server: s8.daxiongda.top, port: 22065, type: ss, cipher: chacha20-ietf-poly1305, password: 65443100-ad59-4fde-9b72-2acf5e2046e4, udp: true}
