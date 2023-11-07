@@ -1,4 +1,0 @@
-%YAML 1.1
----
-proxies:
-- {name: DV-9929-10T - 大湾区坤厂, server: 154.7.181.138, port: 9999, type: ss, cipher: chacha20-ietf-poly1305, password: f00a38f1-0808-4090-87b7-af6412b1a38c, udp: true}

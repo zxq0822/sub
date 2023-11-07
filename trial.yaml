@@ -234,7 +234,6 @@ proxy-groups:
   - 🇦🇺 澳大利亚悉尼1 - 一颗机场
   - 🇦🇺 澳大利亚悉尼2 - 一颗机场
   - 🇦🇺 澳大利亚悉尼3 - 一颗机场
-  - DV-9929-10T - 大湾区坤厂
   - 🇷🇺 俄罗斯3 - 十元一年
   - 🇷🇺 俄罗斯4 - 十元一年
   - 🇷🇺 俄罗斯5 - 十元一年
@@ -651,7 +650,6 @@ proxy-groups:
   - 🇦🇺 澳大利亚悉尼1 - 一颗机场
   - 🇦🇺 澳大利亚悉尼2 - 一颗机场
   - 🇦🇺 澳大利亚悉尼3 - 一颗机场
-  - DV-9929-10T - 大湾区坤厂
   - 🇷🇺 俄罗斯3 - 十元一年
   - 🇷🇺 俄罗斯4 - 十元一年
   - 🇷🇺 俄罗斯5 - 十元一年
@@ -808,7 +806,6 @@ proxies:
 - {name: 🇭🇰-专线02-2.5倍 - 大湾区坤厂, server: s8.daxiongda.top, port: 20803, type: ss, cipher: chacha20-ietf-poly1305, password: f00a38f1-0808-4090-87b7-af6412b1a38c, udp: true}
 - {name: 🇭🇰-流媒体02-2.5倍 - 大湾区坤厂, server: s8.daxiongda.top, port: 20803, type: ss, cipher: chacha20-ietf-poly1305, password: f00a38f1-0808-4090-87b7-af6412b1a38c, udp: true}
 - {name: 🇺🇸-直连-联通推荐 - 大湾区坤厂, server: 74.48.98.249, port: 8080, type: vmess, uuid: f00a38f1-0808-4090-87b7-af6412b1a38c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: '/quanstring?ed=2048', headers: {Host: us.quanstring.top}}, udp: true}
-- {name: DV-9929-10T - 大湾区坤厂, server: 154.7.181.138, port: 9999, type: ss, cipher: chacha20-ietf-poly1305, password: f00a38f1-0808-4090-87b7-af6412b1a38c, udp: true}
 - {name: 🇺🇸-ChatGPT-流媒体-TikTok-稳定 - 大湾区坤厂, server: sh.888888.wtf, port: 20492, type: ss, cipher: chacha20-ietf-poly1305, password: f00a38f1-0808-4090-87b7-af6412b1a38c, udp: true}
 - {name: 🇭🇰 香港3 - 十元一年, server: twzz.shiyuanyinian.xyz, port: 60001, type: ss, cipher: chacha20-ietf-poly1305, password: fb65a690-34d6-4f2b-8040-955899e705cd, udp: true}
 - {name: 🇭🇰 香港4 - 十元一年, server: twzz.shiyuanyinian.xyz, port: 60001, type: ss, cipher: chacha20-ietf-poly1305, password: fb65a690-34d6-4f2b-8040-955899e705cd, udp: true}
