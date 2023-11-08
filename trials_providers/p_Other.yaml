@@ -1,9 +1,9 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 【dabai.in】<<节点购买地址|公益 - 大白, server: 120.241.46.223, port: 62002, type: vmess, uuid: 9a10091d-34de-379b-a989-7362f0326d16, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, servername: data-hk-2.cn-db.top, network: ws, ws-opts: {path: /db00, headers: {Host: data-hk-2.cn-db.top}}, udp: true}
-- {name: 【db01.in】<<节点购买地址|公益 - 大白, server: 120.241.46.223, port: 61013, type: vmess, uuid: 9a10091d-34de-379b-a989-7362f0326d16, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, servername: cache-hk-2.cn-db.top, network: ws, ws-opts: {path: /db00, headers: {Host: cache-hk-2.cn-db.top}}, udp: true}
-- {name: 用不了更新订阅或重新导入 - 鸡鸡云, server: jjyhk.com, port: 24910, type: ss, cipher: chacha20-ietf-poly1305, password: 765b0b81-a0e4-4213-89b1-33e319339a2a, udp: true}
+- {name: 【dabai.in】<<节点购买地址|公益 - 大白, server: 120.241.46.223, port: 61011, type: vmess, uuid: 9a10091d-34de-379b-a989-7362f0326d16, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, servername: data-hk-2.cn-db.top, network: ws, ws-opts: {path: /db00, headers: {Host: data-hk-2.cn-db.top}}, udp: true}
+- {name: 【db01.in】<<节点购买地址|公益 - 大白, server: 120.241.46.223, port: 61001, type: vmess, uuid: 9a10091d-34de-379b-a989-7362f0326d16, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, servername: cache-hk-2.cn-db.top, network: ws, ws-opts: {path: /db00, headers: {Host: cache-hk-2.cn-db.top}}, udp: true}
+- {name: 用不了更新订阅或重新导入 - 鸡鸡云, server: jjyhk.com, port: 24910, type: ss, cipher: chacha20-ietf-poly1305, password: 5a777f28-43c6-4908-af81-7814830517ee, udp: true}
 - {name: 距离下次重置剩余：22 天 - 一颗机场, server: us1.cou.gay, port: 443, type: vmess, uuid: 33150641-f991-4b89-b31b-d2cfd0817f31, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: '/us1?ed=2048', headers: {Host: us1.cou.gay}}, udp: true}
 - {name: 节点失效，请手动更新。点击刷新按钮 - 大湾区坤厂, server: 103.229.54.136, port: 9999, type: ss, cipher: chacha20-ietf-poly1305, password: 11875ede-408b-4806-a88c-7ae2da9520d3, udp: true}
 - {name: 距离下次重置剩余：22 天 - fastest, server: gg.looooooongnet.lol, port: 443, type: vmess, uuid: fa3e7ea1-45cc-4d7e-866e-151b5669503b, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: gg.looooooongnet.lol, network: grpc, grpc-opts: {grpc-service-name: /}, udp: true}
