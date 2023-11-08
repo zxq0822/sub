@@ -1,0 +1,4 @@
+%YAML 1.1
+---
+proxies:
+- {name: 节点失效，请手动更新。点击刷新按钮 - 大湾区机场, server: 103.229.54.136, port: 9999, type: ss, cipher: chacha20-ietf-poly1305, password: cb50da10-664d-4e87-87c5-3f8d124507d3, udp: true}

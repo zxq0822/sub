@@ -1,0 +1,5 @@
+%YAML 1.1
+---
+proxies:
+- {name: 🇺🇸 美国1-广港隧道-解锁 - 快云, server: 120.240.48.247, port: 50333, type: vmess, uuid: 3a1f93ef-1bf2-33ab-8d4e-882f2c2158a5, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 美国2-广港隧道-解锁 - 快云, server: gz.888898.beauty, port: 43833, type: vmess, uuid: 3a1f93ef-1bf2-33ab-8d4e-882f2c2158a5, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
