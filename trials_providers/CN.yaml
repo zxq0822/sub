@@ -1,9 +1,9 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇹🇼 台湾A丨Hinet丨流媒体 - Tannel中继网络服务, server: www.zztannel.com, port: 62012, type: vmess, uuid: d85c3cd3-b974-3d3d-8fb5-16ab31b5d6a1, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 香港A丨HKBN丨流媒体 - Tannel中继网络服务, server: www.zztannel.com, port: 62016, type: vmess, uuid: d85c3cd3-b974-3d3d-8fb5-16ab31b5d6a1, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 香港B丨BGP丨流媒体 - Tannel中继网络服务, server: iepl.zztannel.com, port: 62003, type: vmess, uuid: d85c3cd3-b974-3d3d-8fb5-16ab31b5d6a1, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼 台湾A丨Hinet丨流媒体 - Tannel中继网络服务, server: www.zztannel.com, port: 62012, type: vmess, uuid: 3425919d-0c62-39b2-8cb9-53c5354bcc08, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 香港A丨HKBN丨流媒体 - Tannel中继网络服务, server: www.zztannel.com, port: 62016, type: vmess, uuid: 3425919d-0c62-39b2-8cb9-53c5354bcc08, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 香港B丨BGP丨流媒体 - Tannel中继网络服务, server: iepl.zztannel.com, port: 62003, type: vmess, uuid: 3425919d-0c62-39b2-8cb9-53c5354bcc08, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇭🇰 香港-1/HK | 杭联 - 鸡鸡云, server: zzzjlt.jjyhk.com, port: 11191, type: ss, cipher: chacha20-ietf-poly1305, password: 765b0b81-a0e4-4213-89b1-33e319339a2a, udp: true}
 - {name: 🇭🇰 香港-1/HK | 深联 - 鸡鸡云, server: zzszlt.jjyhk.com, port: 11191, type: ss, cipher: chacha20-ietf-poly1305, password: 765b0b81-a0e4-4213-89b1-33e319339a2a, udp: true}
 - {name: 🇭🇰 香港/HK | 杭联 - 鸡鸡云, server: zzzjlt.jjyhk.com, port: 11917, type: ss, cipher: chacha20-ietf-poly1305, password: 765b0b81-a0e4-4213-89b1-33e319339a2a, udp: true}
@@ -25,10 +25,6 @@ proxies:
 - {name: 🇭🇰 香港 2 - 西瓜皮是真的皮, server: xg.ct1.go002.xyz, port: 19812, type: vmess, uuid: e10c57f1-3ad8-3e42-86fb-18bfb8137042, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇹🇼 台湾 1 动画疯 - 西瓜皮是真的皮, server: xg.cm.go002.xyz, port: 19821, type: vmess, uuid: e10c57f1-3ad8-3e42-86fb-18bfb8137042, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇹🇼 台湾 2 动画疯 - 西瓜皮是真的皮, server: xg.ct1.go002.xyz, port: 19822, type: vmess, uuid: e10c57f1-3ad8-3e42-86fb-18bfb8137042, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 香港 1 - 超级机场, server: sp.superjj.cc, port: 51001, type: vmess, uuid: 8f87a5ff-ecd5-4b83-9542-67c3806abc91, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 香港 2 - 超级机场, server: sp.superjj.cc, port: 51002, type: vmess, uuid: 8f87a5ff-ecd5-4b83-9542-67c3806abc91, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 香港 3 - 超级机场, server: sp.superjj.cc, port: 51003, type: vmess, uuid: 8f87a5ff-ecd5-4b83-9542-67c3806abc91, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 香港 4 - 超级机场, server: sp.superjj.cc, port: 51004, type: vmess, uuid: 8f87a5ff-ecd5-4b83-9542-67c3806abc91, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇭🇰 香港 101 - 墙了个墙, server: hkvip102.qlgq1.pw, port: 10443, type: trojan, password: 476466d5-a63a-3f3e-8e89-089b145284c9, sni: hkvip102.qlgq1.pw, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: hkvip102}, udp: true}
 - {name: 🇭🇰 香港 102 - 墙了个墙, server: hkvip102.qlgq1.pw, port: 20443, type: trojan, password: 476466d5-a63a-3f3e-8e89-089b145284c9, sni: hkvip102.qlgq1.pw, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: hkvip102}, udp: true}
 - {name: 🇭🇰 香港 103 - 墙了个墙, server: hkvip102.qlgq1.pw, port: 30443, type: trojan, password: 476466d5-a63a-3f3e-8e89-089b145284c9, sni: hkvip102.qlgq1.pw, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: hkvip102}, udp: true}
