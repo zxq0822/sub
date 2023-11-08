@@ -1,7 +1,7 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇺🇸 US-线路测试-无限制随便跑 - 大白, server: sd.db-link.in, port: 443, type: trojan, password: 9a10091d-34de-379b-a989-7362f0326d16, sni: fss.db-link.in, skip-cert-verify: true, network: ws, ws-opts: {path: '', headers: {Host: fss.db-link.in}}, udp: true}
+- {name: 🇺🇸 US-线路测试-无限制随便跑 - 大白, server: sd.db-link.in, port: 443, type: trojan, password: 9a10091d-34de-379b-a989-7362f0326d16, sni: fss.db-link.in, skip-cert-verify: true, udp: true}
 - {name: 🇺🇲 美国A丨芝加哥丨流媒体 - Tannel中继网络服务, server: www.zztannel.com, port: 62028, type: vmess, uuid: 3425919d-0c62-39b2-8cb9-53c5354bcc08, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇺🇸 美国-1/US | 苏移 - 鸡鸡云, server: zzjsyd.jjyhk.com, port: 13334, type: ss, cipher: chacha20-ietf-poly1305, password: 5a777f28-43c6-4908-af81-7814830517ee, udp: true}
 - {name: 🇺🇸 美国-1/US | 沪联 - 鸡鸡云, server: zj.xn--iiq222b6igvp5c.com, port: 57243, type: ss, cipher: chacha20-ietf-poly1305, password: 5a777f28-43c6-4908-af81-7814830517ee, udp: true}
