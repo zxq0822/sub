@@ -1,5 +1,5 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇯🇵 v2日本-广日隧道 - 快云, server: 120.240.48.247, port: 43604, type: vmess, uuid: 229eecd5-baca-3690-958e-aefd9fb54648, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 日本-广日隧道-解锁 - 快云, server: gz.888898.beauty, port: 43887, type: vmess, uuid: 229eecd5-baca-3690-958e-aefd9fb54648, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 v2日本-广日隧道 - 快云, server: 120.240.48.247, port: 43604, type: vmess, uuid: eed07948-bedd-3872-ae09-01e2928e29d2, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本-广日隧道-解锁 - 快云, server: gz.888898.beauty, port: 43887, type: vmess, uuid: eed07948-bedd-3872-ae09-01e2928e29d2, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
