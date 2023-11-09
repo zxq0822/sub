@@ -1,10 +1,10 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇺🇸顶级专线①-1倍 - 大湾区机场, server: s7.daxiongda.top, port: 40631, type: ss, cipher: chacha20-ietf-poly1305, password: cb50da10-664d-4e87-87c5-3f8d124507d3, udp: true}
-- {name: 🇺🇸顶级专线②-1倍 - 大湾区机场, server: s8.daxiongda.top, port: 29447, type: ss, cipher: chacha20-ietf-poly1305, password: cb50da10-664d-4e87-87c5-3f8d124507d3, udp: true}
-- {name: 🇺🇸优质①-0.85倍 - 大湾区机场, server: s7.daxiongda.top, port: 11644, type: ss, cipher: chacha20-ietf-poly1305, password: cb50da10-664d-4e87-87c5-3f8d124507d3, udp: true}
-- {name: 🇺🇸优质②-0.85倍 - 大湾区机场, server: s8.daxiongda.top, port: 48995, type: ss, cipher: chacha20-ietf-poly1305, password: cb50da10-664d-4e87-87c5-3f8d124507d3, udp: true}
-- {name: 🇺🇸精品①-1倍 - 大湾区机场, server: s7.daxiongda.top, port: 30544, type: ss, cipher: chacha20-ietf-poly1305, password: cb50da10-664d-4e87-87c5-3f8d124507d3, udp: true}
-- {name: 🇺🇸精品②-1倍 - 大湾区机场, server: s8.daxiongda.top, port: 12517, type: ss, cipher: chacha20-ietf-poly1305, password: cb50da10-664d-4e87-87c5-3f8d124507d3, udp: true}
-- {name: 🇺🇸-直连-联通推荐 - 大湾区机场, server: 74.48.98.249, port: 8080, type: vmess, uuid: cb50da10-664d-4e87-87c5-3f8d124507d3, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: '/quanstring?ed=2048', headers: {Host: us.quanstring.top}}, udp: true}
+- {name: 🇺🇸顶级专线①-1倍 - 大湾区机场, server: s7.daxiongda.top, port: 40631, type: ss, cipher: chacha20-ietf-poly1305, password: 5ec8ebe8-5721-4d10-a2eb-6077329cb00d, udp: true}
+- {name: 🇺🇸顶级专线②-1倍 - 大湾区机场, server: s8.daxiongda.top, port: 29447, type: ss, cipher: chacha20-ietf-poly1305, password: 5ec8ebe8-5721-4d10-a2eb-6077329cb00d, udp: true}
+- {name: 🇺🇸优质①-0.85倍 - 大湾区机场, server: s7.daxiongda.top, port: 11644, type: ss, cipher: chacha20-ietf-poly1305, password: 5ec8ebe8-5721-4d10-a2eb-6077329cb00d, udp: true}
+- {name: 🇺🇸优质②-0.85倍 - 大湾区机场, server: s8.daxiongda.top, port: 48995, type: ss, cipher: chacha20-ietf-poly1305, password: 5ec8ebe8-5721-4d10-a2eb-6077329cb00d, udp: true}
+- {name: 🇺🇸精品①-1倍 - 大湾区机场, server: s7.daxiongda.top, port: 30544, type: ss, cipher: chacha20-ietf-poly1305, password: 5ec8ebe8-5721-4d10-a2eb-6077329cb00d, udp: true}
+- {name: 🇺🇸精品②-1倍 - 大湾区机场, server: s8.daxiongda.top, port: 12517, type: ss, cipher: chacha20-ietf-poly1305, password: 5ec8ebe8-5721-4d10-a2eb-6077329cb00d, udp: true}
+- {name: 🇺🇸-直连-联通推荐 - 大湾区机场, server: 74.48.98.249, port: 8080, type: vmess, uuid: 5ec8ebe8-5721-4d10-a2eb-6077329cb00d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: '/quanstring?ed=2048', headers: {Host: us.quanstring.top}}, udp: true}
