@@ -1,0 +1,5 @@
+%YAML 1.1
+---
+proxies:
+- {name: 🇸🇬-专线①-2倍 - 大湾区机场, server: s7.daxiongda.top, port: 17844, type: ss, cipher: chacha20-ietf-poly1305, password: 5ec8ebe8-5721-4d10-a2eb-6077329cb00d, udp: true}
+- {name: 🇸🇬-专线②-2倍 - 大湾区机场, server: s8.daxiongda.top, port: 22065, type: ss, cipher: chacha20-ietf-poly1305, password: 5ec8ebe8-5721-4d10-a2eb-6077329cb00d, udp: true}
