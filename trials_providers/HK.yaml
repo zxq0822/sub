@@ -6,16 +6,16 @@ proxies:
 - {name: 🇭🇰 香港3 - 十元一年, server: twzz.shiyuanyinian.xyz, port: 60001, type: ss, cipher: chacha20-ietf-poly1305, password: fb65a690-34d6-4f2b-8040-955899e705cd, udp: true}
 - {name: 🇭🇰 香港4 - 十元一年, server: twzz.shiyuanyinian.xyz, port: 60001, type: ss, cipher: chacha20-ietf-poly1305, password: fb65a690-34d6-4f2b-8040-955899e705cd, udp: true}
 - {name: 🇭🇰 香港5 - 十元一年, server: twzz.shiyuanyinian.xyz, port: 60001, type: ss, cipher: chacha20-ietf-poly1305, password: fb65a690-34d6-4f2b-8040-955899e705cd, udp: true}
-- {name: 🇭🇰 香港 1 - 西瓜皮是真的皮, server: xg.cm.go002.xyz, port: 19811, type: vmess, uuid: 1f2c8427-ac57-3ca6-956b-a4d2fd97cfba, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 香港 2 - 西瓜皮是真的皮, server: xg.ct1.go002.xyz, port: 19812, type: vmess, uuid: 1f2c8427-ac57-3ca6-956b-a4d2fd97cfba, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 香港 1 - 西瓜皮是真的皮, server: xg.cm.go002.xyz, port: 19811, type: vmess, uuid: 0da6e733-86be-3f5b-b44c-1da2f7d64795, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 香港 2 - 西瓜皮是真的皮, server: xg.ct1.go002.xyz, port: 19812, type: vmess, uuid: 0da6e733-86be-3f5b-b44c-1da2f7d64795, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇭🇰 HK / 香港 | 华南 - 小白云, server: hk1.iepl.cooc.icu, port: 21881, type: ss, cipher: aes-256-gcm, password: 14a11ac9-96d7-4611-b037-1b8b77d422c2, udp: true}
 - {name: 🇭🇰 HK / 香港 | 华东 - 小白云, server: hk2.iepl.cooc.icu, port: 22881, type: ss, cipher: aes-256-gcm, password: 14a11ac9-96d7-4611-b037-1b8b77d422c2, udp: true}
 - {name: 🇭🇰 HK / 香港 | 混合 - 小白云, server: hk3.iepl.cooc.icu, port: 23881, type: ss, cipher: aes-256-gcm, password: 14a11ac9-96d7-4611-b037-1b8b77d422c2, udp: true}
-- {name: 🇭🇰 香港2-广港隧道-解锁 - 快云, server: gz.sh6678458.top, port: 23034, type: vmess, uuid: 7dcffe9f-e746-3c65-9ba5-a5d1fd5796ba, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 香港1-广港隧道 - 快云, server: 120.240.48.247, port: 64784, type: vmess, uuid: 7dcffe9f-e746-3c65-9ba5-a5d1fd5796ba, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 香港-杭隧道-解锁 - 快云, server: gz.888898.beauty, port: 48165, type: vmess, uuid: 7dcffe9f-e746-3c65-9ba5-a5d1fd5796ba, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 香港3 - 快云, server: gz.888898.beauty, port: 38263, type: vmess, uuid: 7dcffe9f-e746-3c65-9ba5-a5d1fd5796ba, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 香港6-广港隧道-解锁 - 快云, server: gz.888898.beauty, port: 47916, type: vmess, uuid: 7dcffe9f-e746-3c65-9ba5-a5d1fd5796ba, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 香港2-广港隧道-解锁 - 快云, server: gz.sh6678458.top, port: 23034, type: vmess, uuid: 7ea8060a-775d-3b2f-89cf-60a5ab7a1e76, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 香港1-广港隧道 - 快云, server: 120.240.48.247, port: 64784, type: vmess, uuid: 7ea8060a-775d-3b2f-89cf-60a5ab7a1e76, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 香港-杭隧道-解锁 - 快云, server: gz.888898.beauty, port: 48165, type: vmess, uuid: 7ea8060a-775d-3b2f-89cf-60a5ab7a1e76, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 香港3 - 快云, server: gz.888898.beauty, port: 38263, type: vmess, uuid: 7ea8060a-775d-3b2f-89cf-60a5ab7a1e76, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 香港6-广港隧道-解锁 - 快云, server: gz.888898.beauty, port: 47916, type: vmess, uuid: 7ea8060a-775d-3b2f-89cf-60a5ab7a1e76, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇭🇰 香港 - sspanel, server: xg107.npv4.com, port: 443, type: trojan, password: 0337ed4c-0155-36fa-8b50-73a807c46899, sni: xg107.npv4.com, skip-cert-verify: true, udp: true}
 - {name: 🇭🇰 香港-1/HK | 杭联 - 鸡鸡云, server: zzzjlt.jjyhk.com, port: 11191, type: ss, cipher: chacha20-ietf-poly1305, password: c6ef0beb-32d1-486d-9772-10c6b646dbf1, udp: true}
 - {name: 🇭🇰 香港-1/HK | 深联 - 鸡鸡云, server: zzszlt.jjyhk.com, port: 11191, type: ss, cipher: chacha20-ietf-poly1305, password: c6ef0beb-32d1-486d-9772-10c6b646dbf1, udp: true}
