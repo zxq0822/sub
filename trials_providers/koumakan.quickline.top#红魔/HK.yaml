@@ -1,10 +1,10 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇭🇰 香港03|广港专线|NF - 紅魔館網路, server: gzydc.073505.cn, port: 10659, type: ss, cipher: aes-128-gcm, password: bc15c7b8-9f99-4f60-aece-08b3d5110100, udp: true}
-- {name: 🇭🇰 香港02|广港专线|NF - 紅魔館網路, server: gzydc.073505.cn, port: 41190, type: ss, cipher: aes-128-gcm, password: bc15c7b8-9f99-4f60-aece-08b3d5110100, udp: true}
-- {name: 🇭🇰 香港07|广港专线|NF - 紅魔館網路, server: gzydc.073505.cn, port: 34444, type: ss, cipher: aes-128-gcm, password: bc15c7b8-9f99-4f60-aece-08b3d5110100, udp: true}
-- {name: 🇭🇰 香港04|广港专线|NF - 紅魔館網路, server: gzydc.073505.cn, port: 41466, type: ss, cipher: aes-128-gcm, password: bc15c7b8-9f99-4f60-aece-08b3d5110100, udp: true}
-- {name: 🇭🇰 香港01|广港专线|NF - 紅魔館網路, server: gzyda.073505.cn, port: 16635, type: ss, cipher: aes-128-gcm, password: bc15c7b8-9f99-4f60-aece-08b3d5110100, udp: true}
-- {name: 🇭🇰 香港05|广港专线|NF - 紅魔館網路, server: gzydc.073505.cn, port: 12545, type: ss, cipher: aes-128-gcm, password: bc15c7b8-9f99-4f60-aece-08b3d5110100, udp: true}
-- {name: 🇭🇰 香港06|广港专线|NF - 紅魔館網路, server: gzyda.073505.cn, port: 14026, type: ss, cipher: aes-128-gcm, password: bc15c7b8-9f99-4f60-aece-08b3d5110100, udp: true}
+- {name: 🇭🇰 香港03|广港专线|NF - 紅魔館網路, server: gzydc.073505.cn, port: 10659, type: ss, cipher: aes-128-gcm, password: 44469ad2-4921-4a77-9d03-cc76dcc569e7, udp: true}
+- {name: 🇭🇰 香港02|广港专线|NF - 紅魔館網路, server: gzydc.073505.cn, port: 41190, type: ss, cipher: aes-128-gcm, password: 44469ad2-4921-4a77-9d03-cc76dcc569e7, udp: true}
+- {name: 🇭🇰 香港07|广港专线|NF - 紅魔館網路, server: gzydc.073505.cn, port: 34444, type: ss, cipher: aes-128-gcm, password: 44469ad2-4921-4a77-9d03-cc76dcc569e7, udp: true}
+- {name: 🇭🇰 香港04|广港专线|NF - 紅魔館網路, server: gzydc.073505.cn, port: 41466, type: ss, cipher: aes-128-gcm, password: 44469ad2-4921-4a77-9d03-cc76dcc569e7, udp: true}
+- {name: 🇭🇰 香港01|广港专线|NF - 紅魔館網路, server: gzyda.073505.cn, port: 16635, type: ss, cipher: aes-128-gcm, password: 44469ad2-4921-4a77-9d03-cc76dcc569e7, udp: true}
+- {name: 🇭🇰 香港05|广港专线|NF - 紅魔館網路, server: gzydc.073505.cn, port: 12545, type: ss, cipher: aes-128-gcm, password: 44469ad2-4921-4a77-9d03-cc76dcc569e7, udp: true}
+- {name: 🇭🇰 香港06|广港专线|NF - 紅魔館網路, server: gzyda.073505.cn, port: 14026, type: ss, cipher: aes-128-gcm, password: 44469ad2-4921-4a77-9d03-cc76dcc569e7, udp: true}

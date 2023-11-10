@@ -1,6 +1,6 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇸🇬 新加坡|新杭专线|NF - 紅魔館網路, server: hzcu.073505.cn, port: 36899, type: ss, cipher: aes-128-gcm, password: bc15c7b8-9f99-4f60-aece-08b3d5110100, udp: true}
-- {name: 🇸🇬 新加坡2|新杭专线|NF - 紅魔館網路, server: hzcu.073505.cn, port: 31501, type: ss, cipher: aes-128-gcm, password: bc15c7b8-9f99-4f60-aece-08b3d5110100, udp: true}
-- {name: 🇸🇬 新加坡3|新杭专线|NF - 紅魔館網路, server: gzyda.073505.cn, port: 47759, type: ss, cipher: aes-128-gcm, password: bc15c7b8-9f99-4f60-aece-08b3d5110100, udp: true}
+- {name: 🇸🇬 新加坡|新杭专线|NF - 紅魔館網路, server: hzcu.073505.cn, port: 36899, type: ss, cipher: aes-128-gcm, password: 44469ad2-4921-4a77-9d03-cc76dcc569e7, udp: true}
+- {name: 🇸🇬 新加坡2|新杭专线|NF - 紅魔館網路, server: hzcu.073505.cn, port: 31501, type: ss, cipher: aes-128-gcm, password: 44469ad2-4921-4a77-9d03-cc76dcc569e7, udp: true}
+- {name: 🇸🇬 新加坡3|新杭专线|NF - 紅魔館網路, server: gzyda.073505.cn, port: 47759, type: ss, cipher: aes-128-gcm, password: 44469ad2-4921-4a77-9d03-cc76dcc569e7, udp: true}
