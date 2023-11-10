@@ -1,11 +1,11 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇯🇵 日本01|日沪专线|NF - 紅魔館網路, server: gzyda.073505.cn, port: 61523, type: ss, cipher: aes-128-gcm, password: 68ceaafd-3efc-4c1f-be4e-08b768e58eb0, udp: true}
-- {name: 🇯🇵 日本IPV6节点|在仅IPV4下无法访问|NF|低倍率 - 紅魔館網路, server: idcwikijpv6.redreimu.xyz, port: 45443, type: ss, cipher: chacha20-ietf-poly1305, password: 68ceaafd-3efc-4c1f-be4e-08b768e58eb0, udp: true}
-- {name: 🇯🇵 日本03|日沪专线|NF - 紅魔館網路, server: shshcua.073505.cn, port: 57783, type: ss, cipher: aes-128-gcm, password: 68ceaafd-3efc-4c1f-be4e-08b768e58eb0, udp: true}
-- {name: 🇯🇵 日本04|日沪专线|NF - 紅魔館網路, server: shshcua.073505.cn, port: 38886, type: ss, cipher: aes-128-gcm, password: 68ceaafd-3efc-4c1f-be4e-08b768e58eb0, udp: true}
-- {name: 🇯🇵 日本05|日沪专线|NF - 紅魔館網路, server: shshcua.073505.cn, port: 63607, type: ss, cipher: aes-128-gcm, password: 68ceaafd-3efc-4c1f-be4e-08b768e58eb0, udp: true}
-- {name: 🇯🇵 日本06|日沪专线|NF - 紅魔館網路, server: shshcua.073505.cn, port: 44261, type: ss, cipher: aes-128-gcm, password: 68ceaafd-3efc-4c1f-be4e-08b768e58eb0, udp: true}
-- {name: 🇯🇵 日本07|日沪专线|NF - 紅魔館網路, server: shshcua.073505.cn, port: 36369, type: ss, cipher: aes-128-gcm, password: 68ceaafd-3efc-4c1f-be4e-08b768e58eb0, udp: true}
-- {name: 🇯🇵 日本08|日沪专线|NF - 紅魔館網路, server: shshcua.073505.cn, port: 48030, type: ss, cipher: aes-128-gcm, password: 68ceaafd-3efc-4c1f-be4e-08b768e58eb0, udp: true}
+- {name: 🇯🇵 日本01|日沪专线|NF - 紅魔館網路, server: gzyda.073505.cn, port: 61523, type: ss, cipher: aes-128-gcm, password: c124bca2-3021-42e5-b08d-e70b99333fae, udp: true}
+- {name: 🇯🇵 日本IPV6节点|在仅IPV4下无法访问|NF|低倍率 - 紅魔館網路, server: idcwikijpv6.redreimu.xyz, port: 45443, type: ss, cipher: chacha20-ietf-poly1305, password: c124bca2-3021-42e5-b08d-e70b99333fae, udp: true}
+- {name: 🇯🇵 日本03|日沪专线|NF - 紅魔館網路, server: shshcua.073505.cn, port: 57783, type: ss, cipher: aes-128-gcm, password: c124bca2-3021-42e5-b08d-e70b99333fae, udp: true}
+- {name: 🇯🇵 日本04|日沪专线|NF - 紅魔館網路, server: shshcua.073505.cn, port: 38886, type: ss, cipher: aes-128-gcm, password: c124bca2-3021-42e5-b08d-e70b99333fae, udp: true}
+- {name: 🇯🇵 日本05|日沪专线|NF - 紅魔館網路, server: shshcua.073505.cn, port: 63607, type: ss, cipher: aes-128-gcm, password: c124bca2-3021-42e5-b08d-e70b99333fae, udp: true}
+- {name: 🇯🇵 日本06|日沪专线|NF - 紅魔館網路, server: shshcua.073505.cn, port: 44261, type: ss, cipher: aes-128-gcm, password: c124bca2-3021-42e5-b08d-e70b99333fae, udp: true}
+- {name: 🇯🇵 日本07|日沪专线|NF - 紅魔館網路, server: shshcua.073505.cn, port: 36369, type: ss, cipher: aes-128-gcm, password: c124bca2-3021-42e5-b08d-e70b99333fae, udp: true}
+- {name: 🇯🇵 日本08|日沪专线|NF - 紅魔館網路, server: shshcua.073505.cn, port: 48030, type: ss, cipher: aes-128-gcm, password: c124bca2-3021-42e5-b08d-e70b99333fae, udp: true}
