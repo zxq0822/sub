@@ -53,6 +53,8 @@ proxy-groups:
   - 🇭🇰 香港/HK | 杭联 - 鸡鸡云
   - 🇭🇰 香港/HK | 沪日 - 鸡鸡云
   - 🇭🇰 香港/HK | 苏移 - 鸡鸡云
+  - 🇭🇰-专线②-2.5倍 - 大湾区机场
+  - 🇭🇰-流媒体②-2.5倍 - 大湾区机场
   - 🇭🇰 香港 101 - 墙了个墙
   - 🇭🇰 香港 102 - 墙了个墙
   - 🇭🇰 香港 103 - 墙了个墙
@@ -106,8 +108,8 @@ proxy-groups:
   - 🇸🇬新加坡02 - 都是梦
   - 🇸🇬新加坡03 - 都是梦
   - 🇸🇬 新加坡2-杭新隧道-解锁 - 快云
-  - 🇸🇬-专线①-2倍 - 大湾区机场
-  - 🇸🇬-专线②-2倍 - 大湾区机场
+  - 🇸🇬-专线①-1.75倍 - 大湾区机场
+  - 🇸🇬-专线②-1.75倍 - 大湾区机场
   - 🇸🇬 新加坡 101 - 墙了个墙
   - 🇸🇬 新加坡 102 - 墙了个墙
   - 🇸🇬 新加坡 103 - 墙了个墙
@@ -410,6 +412,8 @@ proxy-groups:
   - 🇭🇰 香港/HK | 杭联 - 鸡鸡云
   - 🇭🇰 香港/HK | 沪日 - 鸡鸡云
   - 🇭🇰 香港/HK | 苏移 - 鸡鸡云
+  - 🇭🇰-专线②-2.5倍 - 大湾区机场
+  - 🇭🇰-流媒体②-2.5倍 - 大湾区机场
   - 🇭🇰 香港 101 - 墙了个墙
   - 🇭🇰 香港 102 - 墙了个墙
   - 🇭🇰 香港 103 - 墙了个墙
@@ -483,6 +487,8 @@ proxy-groups:
   - 🇭🇰 香港/HK | 杭联 - 鸡鸡云
   - 🇭🇰 香港/HK | 沪日 - 鸡鸡云
   - 🇭🇰 香港/HK | 苏移 - 鸡鸡云
+  - 🇭🇰-专线②-2.5倍 - 大湾区机场
+  - 🇭🇰-流媒体②-2.5倍 - 大湾区机场
   - 🇭🇰 香港 101 - 墙了个墙
   - 🇭🇰 香港 102 - 墙了个墙
   - 🇭🇰 香港 103 - 墙了个墙
@@ -542,8 +548,8 @@ proxy-groups:
   - 🇸🇬新加坡02 - 都是梦
   - 🇸🇬新加坡03 - 都是梦
   - 🇸🇬 新加坡2-杭新隧道-解锁 - 快云
-  - 🇸🇬-专线①-2倍 - 大湾区机场
-  - 🇸🇬-专线②-2倍 - 大湾区机场
+  - 🇸🇬-专线①-1.75倍 - 大湾区机场
+  - 🇸🇬-专线②-1.75倍 - 大湾区机场
   - 🇸🇬 新加坡 101 - 墙了个墙
   - 🇸🇬 新加坡 102 - 墙了个墙
   - 🇸🇬 新加坡 103 - 墙了个墙
@@ -816,11 +822,11 @@ proxy-groups:
   type: select
   proxies: *id008
 proxies:
-- {name: 【双11活动】低至六折活动|公益 - 大白, server: 120.241.46.223, port: 61082, type: vmess, uuid: 08ff0ffb-31bd-3a45-b3db-e286bf0d0eda, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, servername: cache-hk-2.cn-db.top, network: ws, ws-opts: {path: /db00, headers: {Host: cache-hk-2.cn-db.top}}, udp: true}
+- {name: 【双11活动】低至六折活动|公益 - 大白, server: 120.241.46.223, port: 61005, type: vmess, uuid: 08ff0ffb-31bd-3a45-b3db-e286bf0d0eda, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, servername: cache-hk-2.cn-db.top, network: ws, ws-opts: {path: /db00, headers: {Host: cache-hk-2.cn-db.top}}, udp: true}
 - {name: 🇺🇸 US-线路测试-无限制随便跑 - 大白, server: sd.db-link.in, port: 443, type: trojan, password: 08ff0ffb-31bd-3a45-b3db-e286bf0d0eda, sni: fss.db-link.in, skip-cert-verify: true, network: ws, ws-opts: {path: '', headers: {Host: fss.db-link.in}}, udp: true}
-- {name: 【付费用户】油管秒开4K/8K|更多地区接入|公益 - 大白, server: 120.241.46.223, port: 63092, type: vmess, uuid: 08ff0ffb-31bd-3a45-b3db-e286bf0d0eda, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, servername: cache-hk-1.cn-db.top, network: ws, ws-opts: {path: /db00, headers: {Host: cache-hk-1.cn-db.top}}, udp: true}
-- {name: 【免费用户】油管稳2K@30/限速稳720P|公益 - 大白, server: 120.241.46.223, port: 62011, type: vmess, uuid: 08ff0ffb-31bd-3a45-b3db-e286bf0d0eda, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, servername: data-hk-3.cn-db.top, network: ws, ws-opts: {path: /db00, headers: {Host: data-hk-3.cn-db.top}}, udp: true}
-- {name: 【提供套餐】免费/按量不限时/不按量限时|公益 - 大白, server: 120.241.46.223, port: 61092, type: vmess, uuid: 08ff0ffb-31bd-3a45-b3db-e286bf0d0eda, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, servername: cache-hk-2.cn-db.top, network: ws, ws-opts: {path: /db00, headers: {Host: cache-hk-2.cn-db.top}}, udp: true}
+- {name: 【付费用户】油管秒开4K/8K|更多地区接入|公益 - 大白, server: 120.241.46.223, port: 63011, type: vmess, uuid: 08ff0ffb-31bd-3a45-b3db-e286bf0d0eda, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, servername: cache-hk-1.cn-db.top, network: ws, ws-opts: {path: /db00, headers: {Host: cache-hk-1.cn-db.top}}, udp: true}
+- {name: 【免费用户】油管稳2K@30/限速稳720P|公益 - 大白, server: 120.241.46.223, port: 64006, type: vmess, uuid: 08ff0ffb-31bd-3a45-b3db-e286bf0d0eda, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, servername: data-hk-3.cn-db.top, network: ws, ws-opts: {path: /db00, headers: {Host: data-hk-3.cn-db.top}}, udp: true}
+- {name: 【提供套餐】免费/按量不限时/不按量限时|公益 - 大白, server: 120.241.46.223, port: 61013, type: vmess, uuid: 08ff0ffb-31bd-3a45-b3db-e286bf0d0eda, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, servername: cache-hk-2.cn-db.top, network: ws, ws-opts: {path: /db00, headers: {Host: cache-hk-2.cn-db.top}}, udp: true}
 - {name: 【邀请用户】|最高返还40%|移动 - 大白, server: sd.db-link.in, port: 80, type: vmess, uuid: 08ff0ffb-31bd-3a45-b3db-e286bf0d0eda, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, servername: cache-hk-1.cn-db.top, network: ws, ws-opts: {path: /db00, headers: {Host: cache-hk-1.cn-db.top}}, udp: true}
 - {name: '【节点优先级】[按量]>[不限量]>[免费]>[公共订阅]|移动 - 大白', server: sd.db-link.in, port: 80, type: vmess, uuid: 08ff0ffb-31bd-3a45-b3db-e286bf0d0eda, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, servername: data-hk-1.cn-db.top, network: ws, ws-opts: {path: /db00, headers: {Host: data-hk-1.cn-db.top}}, udp: true}
 - {name: 🇹🇼 台湾A丨Hinet丨流媒体 - Tannel中继网络服务, server: www.zztannel.com, port: 62012, type: vmess, uuid: fdd3069f-bb7a-3496-8587-0c0ae5e79d3d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
@@ -881,26 +887,26 @@ proxies:
 - {name: 🇩🇪 Germany - 番茄云, server: de.fanqiecloud.top, port: 22302, type: ss, cipher: chacha20-ietf-poly1305, password: a1509da8-c602-4616-9214-76ef0605e445, udp: true}
 - {name: 🇳🇱 Netherlands - 番茄云, server: dl2.fanqiecloud.top, port: 2086, type: vmess, uuid: a1509da8-c602-4616-9214-76ef0605e445, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /sssddd, headers: {Host: cf-nl.fanqiecloud.top}}, udp: true}
 - {name: 🇦🇪 Dubai - 番茄云, server: dl1.fanqiecloud.top, port: 2086, type: vmess, uuid: a1509da8-c602-4616-9214-76ef0605e445, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /sssddd, headers: {Host: cf-db.fanqiecloud.top}}, udp: true}
-- {name: 🇭🇰 香港 1 - 西瓜皮是真的皮, server: xg.cm.go002.xyz, port: 19811, type: vmess, uuid: 6dea94fd-760b-3c90-86de-9b833076eb11, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 香港 2 - 西瓜皮是真的皮, server: xg.ct1.go002.xyz, port: 19812, type: vmess, uuid: 6dea94fd-760b-3c90-86de-9b833076eb11, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇹🇼 台湾 1 动画疯 - 西瓜皮是真的皮, server: xg.cm.go002.xyz, port: 19821, type: vmess, uuid: 6dea94fd-760b-3c90-86de-9b833076eb11, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇹🇼 台湾 2 动画疯 - 西瓜皮是真的皮, server: xg.ct1.go002.xyz, port: 19822, type: vmess, uuid: 6dea94fd-760b-3c90-86de-9b833076eb11, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 日本 1 Nico Abema - 西瓜皮是真的皮, server: xg.cm.go002.xyz, port: 19831, type: vmess, uuid: 6dea94fd-760b-3c90-86de-9b833076eb11, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 日本 2 Nico Abema - 西瓜皮是真的皮, server: xg.ct1.go002.xyz, port: 19832, type: vmess, uuid: 6dea94fd-760b-3c90-86de-9b833076eb11, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇸🇬 新加坡 1 Netflix  - 西瓜皮是真的皮, server: xg.cm.go002.xyz, port: 19841, type: vmess, uuid: 6dea94fd-760b-3c90-86de-9b833076eb11, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇸🇬 新加坡 2 Netflix - 西瓜皮是真的皮, server: xg.ct1.go002.xyz, port: 19842, type: vmess, uuid: 6dea94fd-760b-3c90-86de-9b833076eb11, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 美国 1 ChatGPT - 西瓜皮是真的皮, server: xg.cm.go002.xyz, port: 19861, type: vmess, uuid: 6dea94fd-760b-3c90-86de-9b833076eb11, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 美国 2 ChatGPT - 西瓜皮是真的皮, server: xg.ct1.go002.xyz, port: 19862, type: vmess, uuid: 6dea94fd-760b-3c90-86de-9b833076eb11, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇷🇺 俄罗斯 1 - 西瓜皮是真的皮, server: xg.cm.go002.xyz, port: 19894, type: vmess, uuid: 6dea94fd-760b-3c90-86de-9b833076eb11, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇫🇷 法国 1 - 西瓜皮是真的皮, server: xg.cm.go002.xyz, port: 19892, type: vmess, uuid: 6dea94fd-760b-3c90-86de-9b833076eb11, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇬🇧 英国 1 - 西瓜皮是真的皮, server: xg.cm.go002.xyz, port: 19893, type: vmess, uuid: 6dea94fd-760b-3c90-86de-9b833076eb11, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇳🇱 荷兰 1 - 西瓜皮是真的皮, server: xg.cm.go002.xyz, port: 19895, type: vmess, uuid: 6dea94fd-760b-3c90-86de-9b833076eb11, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇩🇪 德国 1 - 西瓜皮是真的皮, server: xg.cm.go002.xyz, port: 19891, type: vmess, uuid: 6dea94fd-760b-3c90-86de-9b833076eb11, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇮🇩 印度尼西亚 1 - 西瓜皮是真的皮, server: xg.cm.go002.xyz, port: 19883, type: vmess, uuid: 6dea94fd-760b-3c90-86de-9b833076eb11, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇹🇭 泰国 1 - 西瓜皮是真的皮, server: xg.cm.go002.xyz, port: 19884, type: vmess, uuid: 6dea94fd-760b-3c90-86de-9b833076eb11, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇻🇳 越南 1 - 西瓜皮是真的皮, server: xg.cm.go002.xyz, port: 19885, type: vmess, uuid: 6dea94fd-760b-3c90-86de-9b833076eb11, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇮🇳 印度 1 - 西瓜皮是真的皮, server: xg.cm.go002.xyz, port: 19882, type: vmess, uuid: 6dea94fd-760b-3c90-86de-9b833076eb11, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇹🇷 土耳其 1 - 西瓜皮是真的皮, server: xg.cm.go002.xyz, port: 19881, type: vmess, uuid: 6dea94fd-760b-3c90-86de-9b833076eb11, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 香港 1 - 西瓜皮是真的皮, server: xg.cm.go002.xyz, port: 19811, type: vmess, uuid: 64776d64-b0c1-3b64-8b24-57abd4bb5c8a, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 香港 2 - 西瓜皮是真的皮, server: xg.ct1.go002.xyz, port: 19812, type: vmess, uuid: 64776d64-b0c1-3b64-8b24-57abd4bb5c8a, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼 台湾 1 动画疯 - 西瓜皮是真的皮, server: xg.cm.go002.xyz, port: 19821, type: vmess, uuid: 64776d64-b0c1-3b64-8b24-57abd4bb5c8a, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼 台湾 2 动画疯 - 西瓜皮是真的皮, server: xg.ct1.go002.xyz, port: 19822, type: vmess, uuid: 64776d64-b0c1-3b64-8b24-57abd4bb5c8a, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本 1 Nico Abema - 西瓜皮是真的皮, server: xg.cm.go002.xyz, port: 19831, type: vmess, uuid: 64776d64-b0c1-3b64-8b24-57abd4bb5c8a, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本 2 Nico Abema - 西瓜皮是真的皮, server: xg.ct1.go002.xyz, port: 19832, type: vmess, uuid: 64776d64-b0c1-3b64-8b24-57abd4bb5c8a, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬 新加坡 1 Netflix  - 西瓜皮是真的皮, server: xg.cm.go002.xyz, port: 19841, type: vmess, uuid: 64776d64-b0c1-3b64-8b24-57abd4bb5c8a, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬 新加坡 2 Netflix - 西瓜皮是真的皮, server: xg.ct1.go002.xyz, port: 19842, type: vmess, uuid: 64776d64-b0c1-3b64-8b24-57abd4bb5c8a, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 美国 1 ChatGPT - 西瓜皮是真的皮, server: xg.cm.go002.xyz, port: 19861, type: vmess, uuid: 64776d64-b0c1-3b64-8b24-57abd4bb5c8a, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 美国 2 ChatGPT - 西瓜皮是真的皮, server: xg.ct1.go002.xyz, port: 19862, type: vmess, uuid: 64776d64-b0c1-3b64-8b24-57abd4bb5c8a, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇷🇺 俄罗斯 1 - 西瓜皮是真的皮, server: xg.cm.go002.xyz, port: 19894, type: vmess, uuid: 64776d64-b0c1-3b64-8b24-57abd4bb5c8a, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇫🇷 法国 1 - 西瓜皮是真的皮, server: xg.cm.go002.xyz, port: 19892, type: vmess, uuid: 64776d64-b0c1-3b64-8b24-57abd4bb5c8a, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇬🇧 英国 1 - 西瓜皮是真的皮, server: xg.cm.go002.xyz, port: 19893, type: vmess, uuid: 64776d64-b0c1-3b64-8b24-57abd4bb5c8a, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇳🇱 荷兰 1 - 西瓜皮是真的皮, server: xg.cm.go002.xyz, port: 19895, type: vmess, uuid: 64776d64-b0c1-3b64-8b24-57abd4bb5c8a, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇩🇪 德国 1 - 西瓜皮是真的皮, server: xg.cm.go002.xyz, port: 19891, type: vmess, uuid: 64776d64-b0c1-3b64-8b24-57abd4bb5c8a, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇮🇩 印度尼西亚 1 - 西瓜皮是真的皮, server: xg.cm.go002.xyz, port: 19883, type: vmess, uuid: 64776d64-b0c1-3b64-8b24-57abd4bb5c8a, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇹🇭 泰国 1 - 西瓜皮是真的皮, server: xg.cm.go002.xyz, port: 19884, type: vmess, uuid: 64776d64-b0c1-3b64-8b24-57abd4bb5c8a, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇻🇳 越南 1 - 西瓜皮是真的皮, server: xg.cm.go002.xyz, port: 19885, type: vmess, uuid: 64776d64-b0c1-3b64-8b24-57abd4bb5c8a, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇮🇳 印度 1 - 西瓜皮是真的皮, server: xg.cm.go002.xyz, port: 19882, type: vmess, uuid: 64776d64-b0c1-3b64-8b24-57abd4bb5c8a, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇹🇷 土耳其 1 - 西瓜皮是真的皮, server: xg.cm.go002.xyz, port: 19881, type: vmess, uuid: 64776d64-b0c1-3b64-8b24-57abd4bb5c8a, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: gg-1 - fastest, server: gg.looooooongnet.lol, port: 443, type: vmess, uuid: fa3e7ea1-45cc-4d7e-866e-151b5669503b, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: gg.looooooongnet.lol, network: grpc, grpc-opts: {grpc-service-name: /}, udp: true}
 - {name: TG群组：https://t.me/xh583180 - 星河 583, server: v1.583182.xyz, port: 2096, type: vmess, uuid: ea941a81-922e-4df1-a707-69a372d52f63, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: v1.583181.xyz, network: ws, ws-opts: {path: /, headers: {Host: v1.583181.xyz}}, udp: true}
 - {name: '[🇺🇸] 打杂的01 x1 - 星河 583', server: v13.583182.xyz, port: 2053, type: vmess, uuid: ea941a81-922e-4df1-a707-69a372d52f63, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: v13.583181.xyz, network: ws, ws-opts: {path: /, headers: {Host: v13.583181.xyz}}, udp: true}
@@ -1000,8 +1006,10 @@ proxies:
 - {name: 🇺🇸优质②-0.85倍 - 大湾区机场, server: s8.daxiongda.top, port: 48995, type: ss, cipher: chacha20-ietf-poly1305, password: aeb33678-04f2-402a-8c53-f46eca345d4d, udp: true}
 - {name: 🇺🇸精品①-1倍 - 大湾区机场, server: s7.daxiongda.top, port: 30544, type: ss, cipher: chacha20-ietf-poly1305, password: aeb33678-04f2-402a-8c53-f46eca345d4d, udp: true}
 - {name: 🇺🇸精品②-1倍 - 大湾区机场, server: s8.daxiongda.top, port: 12517, type: ss, cipher: chacha20-ietf-poly1305, password: aeb33678-04f2-402a-8c53-f46eca345d4d, udp: true}
-- {name: 🇸🇬-专线①-2倍 - 大湾区机场, server: s7.daxiongda.top, port: 17844, type: ss, cipher: chacha20-ietf-poly1305, password: aeb33678-04f2-402a-8c53-f46eca345d4d, udp: true}
-- {name: 🇸🇬-专线②-2倍 - 大湾区机场, server: s8.daxiongda.top, port: 22065, type: ss, cipher: chacha20-ietf-poly1305, password: aeb33678-04f2-402a-8c53-f46eca345d4d, udp: true}
+- {name: 🇸🇬-专线①-1.75倍 - 大湾区机场, server: s7.daxiongda.top, port: 17844, type: ss, cipher: chacha20-ietf-poly1305, password: aeb33678-04f2-402a-8c53-f46eca345d4d, udp: true}
+- {name: 🇸🇬-专线②-1.75倍 - 大湾区机场, server: s8.daxiongda.top, port: 22065, type: ss, cipher: chacha20-ietf-poly1305, password: aeb33678-04f2-402a-8c53-f46eca345d4d, udp: true}
+- {name: 🇭🇰-专线②-2.5倍 - 大湾区机场, server: s8.daxiongda.top, port: 20803, type: ss, cipher: chacha20-ietf-poly1305, password: aeb33678-04f2-402a-8c53-f46eca345d4d, udp: true}
+- {name: 🇭🇰-流媒体②-2.5倍 - 大湾区机场, server: s8.daxiongda.top, port: 20803, type: ss, cipher: chacha20-ietf-poly1305, password: aeb33678-04f2-402a-8c53-f46eca345d4d, udp: true}
 - {name: 🇺🇸-直连-联通推荐 - 大湾区机场, server: 74.48.98.249, port: 8080, type: vmess, uuid: aeb33678-04f2-402a-8c53-f46eca345d4d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: '/quanstring?ed=2048', headers: {Host: us.quanstring.top}}, udp: true}
 - {name: 🇺🇸-ChatGPT-流媒体-TikTok-1 倍 - 大湾区机场, server: 74.48.98.249, port: 8080, type: vmess, uuid: aeb33678-04f2-402a-8c53-f46eca345d4d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: '/quanstring?ed=2048', headers: {Host: us.quanstring.top}}, udp: true}
 - {name: 🇩🇪 德国 法兰克福101 - 墙了个墙, server: fkvip101.qlgq1.pw, port: 10443, type: trojan, password: 3a2ecbba-bd7c-3f0c-bee8-b102f3c3eace, sni: fkvip101.qlgq1.pw, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: fkvip101}, udp: true}
