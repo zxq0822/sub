@@ -1,4 +1,4 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇲🇴 澳门|广新专线|NF - 紅魔館網路, server: gzyda.073505.cn, port: 31591, type: ss, cipher: aes-128-gcm, password: 44469ad2-4921-4a77-9d03-cc76dcc569e7, udp: true}
+- {name: 🇲🇴 澳门|广新专线|NF - 紅魔館網路, server: gzyda.073505.cn, port: 31591, type: ss, cipher: aes-128-gcm, password: 7e1a1a81-e23a-4910-9462-0631e9f50b43, udp: true}

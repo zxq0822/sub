@@ -3,21 +3,21 @@
 proxies:
 - {name: 🇭🇰 香港A丨HKBN丨流媒体 - Tannel中继网络服务, server: www.zztannel.com, port: 62016, type: vmess, uuid: dadb9921-84f9-331a-b2b7-d47504f72165, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇭🇰 香港B丨BGP丨流媒体 - Tannel中继网络服务, server: iepl.zztannel.com, port: 62003, type: vmess, uuid: dadb9921-84f9-331a-b2b7-d47504f72165, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 香港03|广港专线|NF - 紅魔館網路, server: gzydc.073505.cn, port: 10659, type: ss, cipher: aes-128-gcm, password: 44469ad2-4921-4a77-9d03-cc76dcc569e7, udp: true}
-- {name: 🇭🇰 香港02|广港专线|NF - 紅魔館網路, server: gzydc.073505.cn, port: 41190, type: ss, cipher: aes-128-gcm, password: 44469ad2-4921-4a77-9d03-cc76dcc569e7, udp: true}
-- {name: 🇭🇰 香港07|广港专线|NF - 紅魔館網路, server: gzydc.073505.cn, port: 34444, type: ss, cipher: aes-128-gcm, password: 44469ad2-4921-4a77-9d03-cc76dcc569e7, udp: true}
-- {name: 🇭🇰 香港04|广港专线|NF - 紅魔館網路, server: gzydc.073505.cn, port: 41466, type: ss, cipher: aes-128-gcm, password: 44469ad2-4921-4a77-9d03-cc76dcc569e7, udp: true}
-- {name: 🇭🇰 香港01|广港专线|NF - 紅魔館網路, server: gzyda.073505.cn, port: 16635, type: ss, cipher: aes-128-gcm, password: 44469ad2-4921-4a77-9d03-cc76dcc569e7, udp: true}
-- {name: 🇭🇰 香港05|广港专线|NF - 紅魔館網路, server: gzydc.073505.cn, port: 12545, type: ss, cipher: aes-128-gcm, password: 44469ad2-4921-4a77-9d03-cc76dcc569e7, udp: true}
-- {name: 🇭🇰 香港06|广港专线|NF - 紅魔館網路, server: gzyda.073505.cn, port: 14026, type: ss, cipher: aes-128-gcm, password: 44469ad2-4921-4a77-9d03-cc76dcc569e7, udp: true}
+- {name: 🇭🇰 香港03|广港专线|NF - 紅魔館網路, server: gzydc.073505.cn, port: 10659, type: ss, cipher: aes-128-gcm, password: 7e1a1a81-e23a-4910-9462-0631e9f50b43, udp: true}
+- {name: 🇭🇰 香港02|广港专线|NF - 紅魔館網路, server: gzydc.073505.cn, port: 41190, type: ss, cipher: aes-128-gcm, password: 7e1a1a81-e23a-4910-9462-0631e9f50b43, udp: true}
+- {name: 🇭🇰 香港07|广港专线|NF - 紅魔館網路, server: gzydc.073505.cn, port: 34444, type: ss, cipher: aes-128-gcm, password: 7e1a1a81-e23a-4910-9462-0631e9f50b43, udp: true}
+- {name: 🇭🇰 香港04|广港专线|NF - 紅魔館網路, server: gzydc.073505.cn, port: 41466, type: ss, cipher: aes-128-gcm, password: 7e1a1a81-e23a-4910-9462-0631e9f50b43, udp: true}
+- {name: 🇭🇰 香港01|广港专线|NF - 紅魔館網路, server: gzyda.073505.cn, port: 16635, type: ss, cipher: aes-128-gcm, password: 7e1a1a81-e23a-4910-9462-0631e9f50b43, udp: true}
+- {name: 🇭🇰 香港05|广港专线|NF - 紅魔館網路, server: gzydc.073505.cn, port: 12545, type: ss, cipher: aes-128-gcm, password: 7e1a1a81-e23a-4910-9462-0631e9f50b43, udp: true}
+- {name: 🇭🇰 香港06|广港专线|NF - 紅魔館網路, server: gzyda.073505.cn, port: 14026, type: ss, cipher: aes-128-gcm, password: 7e1a1a81-e23a-4910-9462-0631e9f50b43, udp: true}
 - {name: 🇭🇰 香港3 - 十元一年, server: twzz.shiyuanyinian.xyz, port: 60001, type: ss, cipher: chacha20-ietf-poly1305, password: fb65a690-34d6-4f2b-8040-955899e705cd, udp: true}
 - {name: 🇭🇰 香港4 - 十元一年, server: twzz.shiyuanyinian.xyz, port: 60001, type: ss, cipher: chacha20-ietf-poly1305, password: fb65a690-34d6-4f2b-8040-955899e705cd, udp: true}
 - {name: 🇭🇰 香港5 - 十元一年, server: twzz.shiyuanyinian.xyz, port: 60001, type: ss, cipher: chacha20-ietf-poly1305, password: fb65a690-34d6-4f2b-8040-955899e705cd, udp: true}
-- {name: 🇭🇰 香港 1 - 西瓜皮是真的皮, server: xg.cm.go002.xyz, port: 19811, type: vmess, uuid: d55e4e17-ba1d-34bd-be24-60c84d61cf96, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 香港 2 - 西瓜皮是真的皮, server: xg.ct1.go002.xyz, port: 19812, type: vmess, uuid: d55e4e17-ba1d-34bd-be24-60c84d61cf96, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 HK / 香港 | 华南 - 小白云, server: hk1.iepl.cooc.icu, port: 21881, type: ss, cipher: aes-256-gcm, password: e40d88f8-f3cc-404a-a2a2-4dfd6a6920ea, udp: true}
-- {name: 🇭🇰 HK / 香港 | 华东 - 小白云, server: hk2.iepl.cooc.icu, port: 22881, type: ss, cipher: aes-256-gcm, password: e40d88f8-f3cc-404a-a2a2-4dfd6a6920ea, udp: true}
-- {name: 🇭🇰 HK / 香港 | 混合 - 小白云, server: hk3.iepl.cooc.icu, port: 23881, type: ss, cipher: aes-256-gcm, password: e40d88f8-f3cc-404a-a2a2-4dfd6a6920ea, udp: true}
+- {name: 🇭🇰 香港 1 - 西瓜皮是真的皮, server: xg.cm.go002.xyz, port: 19811, type: vmess, uuid: a4942873-acb1-3666-a9fb-219efe9f2a8d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 香港 2 - 西瓜皮是真的皮, server: xg.ct1.go002.xyz, port: 19812, type: vmess, uuid: a4942873-acb1-3666-a9fb-219efe9f2a8d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 HK / 香港 | 华南 - 小白云, server: hk1.iepl.cooc.icu, port: 21881, type: ss, cipher: aes-256-gcm, password: 955458a8-eab8-422b-b163-7a8d08642b36, udp: true}
+- {name: 🇭🇰 HK / 香港 | 华东 - 小白云, server: hk2.iepl.cooc.icu, port: 22881, type: ss, cipher: aes-256-gcm, password: 955458a8-eab8-422b-b163-7a8d08642b36, udp: true}
+- {name: 🇭🇰 HK / 香港 | 混合 - 小白云, server: hk3.iepl.cooc.icu, port: 23881, type: ss, cipher: aes-256-gcm, password: 955458a8-eab8-422b-b163-7a8d08642b36, udp: true}
 - {name: 🇭🇰 香港2-广港隧道-解锁 - 快云, server: gz.sh6678458.top, port: 23034, type: vmess, uuid: 8e07bc74-d769-39bd-bcd1-f333d75806f9, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇭🇰 香港1-广港隧道 - 快云, server: 120.240.48.247, port: 64784, type: vmess, uuid: 8e07bc74-d769-39bd-bcd1-f333d75806f9, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇭🇰 香港-杭隧道-解锁 - 快云, server: gz.888898.beauty, port: 48165, type: vmess, uuid: 8e07bc74-d769-39bd-bcd1-f333d75806f9, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
