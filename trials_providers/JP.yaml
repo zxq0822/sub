@@ -2,20 +2,20 @@
 ---
 proxies:
 - {name: 🇯🇵 日本A丨Lin丨流媒体 - Tannel中继网络服务, server: www.zztannel.com, port: 62001, type: vmess, uuid: dadb9921-84f9-331a-b2b7-d47504f72165, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 日本01|日沪专线|NF - 紅魔館網路, server: gzyda.073505.cn, port: 61523, type: ss, cipher: aes-128-gcm, password: 44487ca9-afc4-475f-b8bd-0d786ec9ff11, udp: true}
-- {name: 🇯🇵 日本IPV6节点|在仅IPV4下无法访问|NF|低倍率 - 紅魔館網路, server: idcwikijpv6.redreimu.xyz, port: 45443, type: ss, cipher: chacha20-ietf-poly1305, password: 44487ca9-afc4-475f-b8bd-0d786ec9ff11, udp: true}
-- {name: 🇯🇵 日本03|日沪专线|NF - 紅魔館網路, server: shshcua.073505.cn, port: 57783, type: ss, cipher: aes-128-gcm, password: 44487ca9-afc4-475f-b8bd-0d786ec9ff11, udp: true}
-- {name: 🇯🇵 日本04|日沪专线|NF - 紅魔館網路, server: shshcua.073505.cn, port: 38886, type: ss, cipher: aes-128-gcm, password: 44487ca9-afc4-475f-b8bd-0d786ec9ff11, udp: true}
-- {name: 🇯🇵 日本05|日沪专线|NF - 紅魔館網路, server: shshcua.073505.cn, port: 63607, type: ss, cipher: aes-128-gcm, password: 44487ca9-afc4-475f-b8bd-0d786ec9ff11, udp: true}
-- {name: 🇯🇵 日本06|日沪专线|NF - 紅魔館網路, server: shshcua.073505.cn, port: 44261, type: ss, cipher: aes-128-gcm, password: 44487ca9-afc4-475f-b8bd-0d786ec9ff11, udp: true}
-- {name: 🇯🇵 日本07|日沪专线|NF - 紅魔館網路, server: shshcua.073505.cn, port: 36369, type: ss, cipher: aes-128-gcm, password: 44487ca9-afc4-475f-b8bd-0d786ec9ff11, udp: true}
-- {name: 🇯🇵 日本08|日沪专线|NF - 紅魔館網路, server: shshcua.073505.cn, port: 48030, type: ss, cipher: aes-128-gcm, password: 44487ca9-afc4-475f-b8bd-0d786ec9ff11, udp: true}
+- {name: 🇯🇵 日本01|日沪专线|NF - 紅魔館網路, server: gzyda.073505.cn, port: 61523, type: ss, cipher: aes-128-gcm, password: 1f27fce8-392e-4eb7-87d7-3ce1ca012ded, udp: true}
+- {name: 🇯🇵 日本IPV6节点|在仅IPV4下无法访问|NF|低倍率 - 紅魔館網路, server: idcwikijpv6.redreimu.xyz, port: 45443, type: ss, cipher: chacha20-ietf-poly1305, password: 1f27fce8-392e-4eb7-87d7-3ce1ca012ded, udp: true}
+- {name: 🇯🇵 日本03|日沪专线|NF - 紅魔館網路, server: shshcua.073505.cn, port: 57783, type: ss, cipher: aes-128-gcm, password: 1f27fce8-392e-4eb7-87d7-3ce1ca012ded, udp: true}
+- {name: 🇯🇵 日本04|日沪专线|NF - 紅魔館網路, server: shshcua.073505.cn, port: 38886, type: ss, cipher: aes-128-gcm, password: 1f27fce8-392e-4eb7-87d7-3ce1ca012ded, udp: true}
+- {name: 🇯🇵 日本05|日沪专线|NF - 紅魔館網路, server: shshcua.073505.cn, port: 63607, type: ss, cipher: aes-128-gcm, password: 1f27fce8-392e-4eb7-87d7-3ce1ca012ded, udp: true}
+- {name: 🇯🇵 日本06|日沪专线|NF - 紅魔館網路, server: shshcua.073505.cn, port: 44261, type: ss, cipher: aes-128-gcm, password: 1f27fce8-392e-4eb7-87d7-3ce1ca012ded, udp: true}
+- {name: 🇯🇵 日本07|日沪专线|NF - 紅魔館網路, server: shshcua.073505.cn, port: 36369, type: ss, cipher: aes-128-gcm, password: 1f27fce8-392e-4eb7-87d7-3ce1ca012ded, udp: true}
+- {name: 🇯🇵 日本08|日沪专线|NF - 紅魔館網路, server: shshcua.073505.cn, port: 48030, type: ss, cipher: aes-128-gcm, password: 1f27fce8-392e-4eb7-87d7-3ce1ca012ded, udp: true}
 - {name: '🇯🇵 [vip①]日本1 - MG Network', server: 8.v2-ray.cyou, port: 23608, type: vmess, uuid: 1fe0a907-22d6-3340-aa46-1496a5f09711, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: '🇯🇵 [vip①]日本2 - MG Network', server: 19.v2-ray.cyou, port: 23619, type: vmess, uuid: 1fe0a907-22d6-3340-aa46-1496a5f09711, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 19.v2-ray.cyou}}, udp: true}
 - {name: 🇯🇵 日本东京|甲骨文 - 一颗机场, server: ora-jp6.cou.gay, port: 26152, type: ss, cipher: chacha20-ietf-poly1305, password: 33150641-f991-4b89-b31b-d2cfd0817f31, udp: true}
 - {name: 🇯🇵 Japan - 番茄云, server: proxy1.fanqiecloud.top, port: 26202, type: ss, cipher: chacha20-ietf-poly1305, password: a1509da8-c602-4616-9214-76ef0605e445, udp: true}
-- {name: 🇯🇵 日本 1 Nico Abema - 西瓜皮是真的皮, server: xg.cm.go002.xyz, port: 19831, type: vmess, uuid: b1250cea-ae27-32f9-8a50-3bb1dfaf6311, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 日本 2 Nico Abema - 西瓜皮是真的皮, server: xg.ct1.go002.xyz, port: 19832, type: vmess, uuid: b1250cea-ae27-32f9-8a50-3bb1dfaf6311, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本 1 Nico Abema - 西瓜皮是真的皮, server: xg.cm.go002.xyz, port: 19831, type: vmess, uuid: 2cc9a532-828c-369f-89ae-d014306a2907, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本 2 Nico Abema - 西瓜皮是真的皮, server: xg.ct1.go002.xyz, port: 19832, type: vmess, uuid: 2cc9a532-828c-369f-89ae-d014306a2907, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇯🇵 JP / 日本 | 华东 - 小白云, server: jp1.iepl.cooc.icu, port: 47100, type: ss, cipher: aes-256-gcm, password: be6c9a83-0c8f-428d-babe-5cbda3086639, udp: true}
 - {name: 🇯🇵 JP / 日本 | 华南 - 小白云, server: jp2.iepl.cooc.icu, port: 47101, type: ss, cipher: aes-256-gcm, password: be6c9a83-0c8f-428d-babe-5cbda3086639, udp: true}
 - {name: 🇯🇵 JP / 日本 | 混合 - 小白云, server: jp3.iepl.cooc.icu, port: 19881, type: ss, cipher: aes-256-gcm, password: be6c9a83-0c8f-428d-babe-5cbda3086639, udp: true}
