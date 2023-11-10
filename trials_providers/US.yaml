@@ -1,7 +1,7 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇺🇸 US-线路测试-无限制随便跑 - 大白, server: sd.db-link.in, port: 443, type: trojan, password: 08ff0ffb-31bd-3a45-b3db-e286bf0d0eda, sni: fss.db-link.in, skip-cert-verify: true, network: ws, ws-opts: {path: '', headers: {Host: fss.db-link.in}}, udp: true}
+- {name: 🇺🇸 US-线路测试-无限制随便跑 - 大白, server: sd.db-link.in, port: 443, type: trojan, password: 08ff0ffb-31bd-3a45-b3db-e286bf0d0eda, sni: fss.db-link.in, skip-cert-verify: true, udp: true}
 - {name: 🇺🇲 美国A丨芝加哥丨流媒体 - Tannel中继网络服务, server: www.zztannel.com, port: 62028, type: vmess, uuid: dadb9921-84f9-331a-b2b7-d47504f72165, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇺🇸 Lx-Cloud|禁止倒卖|美国01 - Lx-Cloud, server: 111.47.212.12, port: 60937, type: vmess, uuid: cdc2d333-3d2d-4c82-afe5-429bb2755ce8, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇺🇸 美国02|日沪专线|NF - 紅魔館網路, server: shshcua.073505.cn, port: 23603, type: ss, cipher: aes-128-gcm, password: 44487ca9-afc4-475f-b8bd-0d786ec9ff11, udp: true}
@@ -23,11 +23,11 @@ proxies:
 - {name: 🇺🇸 美国 1 ChatGPT - 西瓜皮是真的皮, server: xg.cm.go002.xyz, port: 19861, type: vmess, uuid: b1250cea-ae27-32f9-8a50-3bb1dfaf6311, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇺🇸 美国 2 ChatGPT - 西瓜皮是真的皮, server: xg.ct1.go002.xyz, port: 19862, type: vmess, uuid: b1250cea-ae27-32f9-8a50-3bb1dfaf6311, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: '[🇺🇸] 打杂的01 x1 - 星河 583', server: v13.583182.xyz, port: 2053, type: vmess, uuid: ea941a81-922e-4df1-a707-69a372d52f63, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: v13.583181.xyz, network: ws, ws-opts: {path: /, headers: {Host: v13.583181.xyz}}, udp: true}
-- {name: 🇺🇸 US / 美国 | 华东 - 小白云, server: usa1.iepl.cooc.icu, port: 31881, type: ss, cipher: aes-256-gcm, password: 06910b72-5bcc-43f1-926b-87d294f6f8f1, udp: true}
-- {name: 🇺🇸 US / 美国 | 华南 - 小白云, server: usa2.iepl.cooc.icu, port: 32881, type: ss, cipher: aes-256-gcm, password: 06910b72-5bcc-43f1-926b-87d294f6f8f1, udp: true}
-- {name: 🇺🇸 US / 美国 | 混合 - 小白云, server: usa3.iepl.cooc.icu, port: 33881, type: ss, cipher: aes-256-gcm, password: 06910b72-5bcc-43f1-926b-87d294f6f8f1, udp: true}
-- {name: 🇺🇸 美国 / 华东 | 原生 - 小白云, server: usa4.iepl.cooc.icu, port: 34881, type: ss, cipher: aes-256-gcm, password: 06910b72-5bcc-43f1-926b-87d294f6f8f1, udp: true}
-- {name: 🇺🇸 美国 / 华南 | 原生 - 小白云, server: usa5.iepl.cooc.icu, port: 35881, type: ss, cipher: aes-256-gcm, password: 06910b72-5bcc-43f1-926b-87d294f6f8f1, udp: true}
+- {name: 🇺🇸 US / 美国 | 华东 - 小白云, server: usa1.iepl.cooc.icu, port: 31881, type: ss, cipher: aes-256-gcm, password: be6c9a83-0c8f-428d-babe-5cbda3086639, udp: true}
+- {name: 🇺🇸 US / 美国 | 华南 - 小白云, server: usa2.iepl.cooc.icu, port: 32881, type: ss, cipher: aes-256-gcm, password: be6c9a83-0c8f-428d-babe-5cbda3086639, udp: true}
+- {name: 🇺🇸 US / 美国 | 混合 - 小白云, server: usa3.iepl.cooc.icu, port: 33881, type: ss, cipher: aes-256-gcm, password: be6c9a83-0c8f-428d-babe-5cbda3086639, udp: true}
+- {name: 🇺🇸 美国 / 华东 | 原生 - 小白云, server: usa4.iepl.cooc.icu, port: 34881, type: ss, cipher: aes-256-gcm, password: be6c9a83-0c8f-428d-babe-5cbda3086639, udp: true}
+- {name: 🇺🇸 美国 / 华南 | 原生 - 小白云, server: usa5.iepl.cooc.icu, port: 35881, type: ss, cipher: aes-256-gcm, password: be6c9a83-0c8f-428d-babe-5cbda3086639, udp: true}
 - {name: 🇺🇸美国01 - 都是梦, server: us4.doushimeng.com, port: 20802, type: ss, cipher: chacha20-ietf-poly1305, password: 46556155-56e5-4d83-afdc-07336dc30bcd, udp: true}
 - {name: 🇺🇸美国02 - 都是梦, server: dl8.doushimeng.com, port: 2095, type: vmess, uuid: 46556155-56e5-4d83-afdc-07336dc30bcd, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /asdas, headers: {Host: cf-us.doushimeng.com}}, udp: true}
 - {name: 🇺🇸美国03 - 都是梦, server: us.doushimeng.com, port: 22853, type: ss, cipher: chacha20-ietf-poly1305, password: 46556155-56e5-4d83-afdc-07336dc30bcd, udp: true}

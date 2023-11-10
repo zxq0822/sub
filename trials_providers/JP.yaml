@@ -16,9 +16,9 @@ proxies:
 - {name: 🇯🇵 Japan - 番茄云, server: proxy1.fanqiecloud.top, port: 26202, type: ss, cipher: chacha20-ietf-poly1305, password: a1509da8-c602-4616-9214-76ef0605e445, udp: true}
 - {name: 🇯🇵 日本 1 Nico Abema - 西瓜皮是真的皮, server: xg.cm.go002.xyz, port: 19831, type: vmess, uuid: b1250cea-ae27-32f9-8a50-3bb1dfaf6311, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇯🇵 日本 2 Nico Abema - 西瓜皮是真的皮, server: xg.ct1.go002.xyz, port: 19832, type: vmess, uuid: b1250cea-ae27-32f9-8a50-3bb1dfaf6311, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 JP / 日本 | 华东 - 小白云, server: jp1.iepl.cooc.icu, port: 47100, type: ss, cipher: aes-256-gcm, password: 06910b72-5bcc-43f1-926b-87d294f6f8f1, udp: true}
-- {name: 🇯🇵 JP / 日本 | 华南 - 小白云, server: jp2.iepl.cooc.icu, port: 47101, type: ss, cipher: aes-256-gcm, password: 06910b72-5bcc-43f1-926b-87d294f6f8f1, udp: true}
-- {name: 🇯🇵 JP / 日本 | 混合 - 小白云, server: jp3.iepl.cooc.icu, port: 19881, type: ss, cipher: aes-256-gcm, password: 06910b72-5bcc-43f1-926b-87d294f6f8f1, udp: true}
+- {name: 🇯🇵 JP / 日本 | 华东 - 小白云, server: jp1.iepl.cooc.icu, port: 47100, type: ss, cipher: aes-256-gcm, password: be6c9a83-0c8f-428d-babe-5cbda3086639, udp: true}
+- {name: 🇯🇵 JP / 日本 | 华南 - 小白云, server: jp2.iepl.cooc.icu, port: 47101, type: ss, cipher: aes-256-gcm, password: be6c9a83-0c8f-428d-babe-5cbda3086639, udp: true}
+- {name: 🇯🇵 JP / 日本 | 混合 - 小白云, server: jp3.iepl.cooc.icu, port: 19881, type: ss, cipher: aes-256-gcm, password: be6c9a83-0c8f-428d-babe-5cbda3086639, udp: true}
 - {name: 🇯🇵日本01 - 都是梦, server: proxy1.doushimeng.com, port: 26203, type: ss, cipher: chacha20-ietf-poly1305, password: 46556155-56e5-4d83-afdc-07336dc30bcd, udp: true}
 - {name: 🇯🇵 v2日本-广日隧道 - 快云, server: 120.240.48.247, port: 43604, type: vmess, uuid: 4a094267-7348-3228-b837-789b308bdec9, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇯🇵 日本-广日隧道-解锁 - 快云, server: gz.888898.beauty, port: 43887, type: vmess, uuid: 4a094267-7348-3228-b837-789b308bdec9, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
