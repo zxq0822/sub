@@ -10,25 +10,33 @@ proxy-groups:
   type: select
   proxies:
   - ⚡ ‍低延迟
+  - 🇭🇰 ‍香港
+  - 🇹🇼 ‍台湾
+  - 🇨🇳 ‍中国
+  - 🇸🇬 ‍新加坡
+  - 🇯🇵 ‍日本
   - 🇺🇸 ‍美国
   - 🎏 ‍其他
   - 👆🏻 ‍指定
+  - 👆🏻🇭🇰 ‍香港
+  - 👆🏻🇹🇼 ‍台湾
+  - 👆🏻🇨🇳 ‍中国
+  - 👆🏻🇸🇬 ‍新加坡
+  - 👆🏻🇯🇵 ‍日本
   - 👆🏻🇺🇸 ‍美国
   - 👆🏻🎏 ‍其他
   - DIRECT
 - name: ⚡ ‍低延迟
   type: url-test
-  url: https://i.ytimg.com/generate_204
-  interval: 30
   tolerance: 50
-  proxies: &id001
-  - 🇺🇸 US-线路测试-无限制随便跑 - 大白
-  - 【双11活动】低至六折活动|公益 - 大白
-  - 【付费用户】油管秒开4K/8K|更多地区接入|公益 - 大白
-  - 【免费用户】油管稳2K@30/限速稳720P|公益 - 大白
-  - 【提供套餐】免费/按量不限时/不按量限时|公益 - 大白
-  - 【邀请用户】|最高返还40%|移动 - 大白
-  - 【节点优先级】[按量]>[不限量]>[免费]>[公共订阅]|移动 - 大白
+  use: &id001
+  - HK
+  - TW
+  - SG
+  - JP
+  - US
+  - p_All_Other
+  - p_All_CN
 - name: 🛩️ ‍墙内
   type: select
   proxies:
@@ -44,8 +52,14 @@ proxy-groups:
 - name: 📺 ‍B站
   type: select
   proxies:
+  - 🇨🇳 ‍中国
+  - 🇭🇰 ‍香港
+  - 🇹🇼 ‍台湾
   - 🛩️ ‍墙内
   - 👆🏻 ‍指定
+  - 👆🏻🇭🇰 ‍香港
+  - 👆🏻🇹🇼 ‍台湾
+  - 👆🏻🇨🇳 ‍中国
   - ✈️ ‍起飞
 - name: 🤖 ‍OpenAI+Bing
   type: select
@@ -54,7 +68,13 @@ proxy-groups:
   - 🎏 ‍其他
   - 👆🏻🇺🇸 ‍美国
   - 👆🏻🎏 ‍其他
+  - 🇹🇼 ‍台湾
+  - 🇸🇬 ‍新加坡
+  - 🇯🇵 ‍日本
   - 👆🏻 ‍指定
+  - 👆🏻🇹🇼 ‍台湾
+  - 👆🏻🇸🇬 ‍新加坡
+  - 👆🏻🇯🇵 ‍日本
   - ✈️ ‍起飞
   - 🛩️ ‍墙内
 - name: 🌐 ‍未知站点
@@ -63,42 +83,131 @@ proxy-groups:
   - ✈️ ‍起飞
   - 🛩️ ‍墙内
   - 💩 ‍广告
+- name: 🇭🇰 ‍香港
+  type: url-test
+  tolerance: 50
+  use: &id002
+  - HK
+- name: 🇹🇼 ‍台湾
+  type: url-test
+  tolerance: 50
+  use: &id003
+  - TW
+- name: 🇨🇳 ‍中国
+  type: url-test
+  tolerance: 50
+  use: &id004
+  - HK
+  - TW
+  - p_All_CN
+- name: 🇸🇬 ‍新加坡
+  type: url-test
+  tolerance: 50
+  use: &id005
+  - SG
+- name: 🇯🇵 ‍日本
+  type: url-test
+  tolerance: 50
+  use: &id006
+  - JP
 - name: 🇺🇸 ‍美国
   type: url-test
-  url: https://i.ytimg.com/generate_204
-  interval: 30
   tolerance: 50
-  proxies: &id002
-  - 🇺🇸 US-线路测试-无限制随便跑 - 大白
+  use: &id007
+  - US
 - name: 🎏 ‍其他
   type: url-test
-  url: https://i.ytimg.com/generate_204
-  interval: 30
   tolerance: 50
-  proxies: &id003
-  - 【双11活动】低至六折活动|公益 - 大白
-  - 【付费用户】油管秒开4K/8K|更多地区接入|公益 - 大白
-  - 【免费用户】油管稳2K@30/限速稳720P|公益 - 大白
-  - 【提供套餐】免费/按量不限时/不按量限时|公益 - 大白
-  - 【邀请用户】|最高返还40%|移动 - 大白
-  - 【节点优先级】[按量]>[不限量]>[免费]>[公共订阅]|移动 - 大白
+  use: &id008
+  - p_All_Other
 - name: 👆🏻 ‍指定
   type: select
-  proxies: *id001
+  use: *id001
+- name: 👆🏻🇭🇰 ‍香港
+  type: select
+  use: *id002
+- name: 👆🏻🇹🇼 ‍台湾
+  type: select
+  use: *id003
+- name: 👆🏻🇨🇳 ‍中国
+  type: select
+  use: *id004
+- name: 👆🏻🇸🇬 ‍新加坡
+  type: select
+  use: *id005
+- name: 👆🏻🇯🇵 ‍日本
+  type: select
+  use: *id006
 - name: 👆🏻🇺🇸 ‍美国
   type: select
-  proxies: *id002
+  use: *id007
 - name: 👆🏻🎏 ‍其他
   type: select
-  proxies: *id003
-proxies:
-- {name: 【双11活动】低至六折活动|公益 - 大白, server: 120.241.46.223, port: 62004, type: vmess, uuid: 08ff0ffb-31bd-3a45-b3db-e286bf0d0eda, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, servername: cache-hk-2.cn-db.top, network: ws, ws-opts: {path: /db00, headers: {Host: cache-hk-2.cn-db.top}}, udp: true}
-- {name: 🇺🇸 US-线路测试-无限制随便跑 - 大白, server: sd.db-link.in, port: 443, type: trojan, password: 08ff0ffb-31bd-3a45-b3db-e286bf0d0eda, sni: fss.db-link.in, skip-cert-verify: true, network: ws, ws-opts: {path: '', headers: {Host: fss.db-link.in}}, udp: true}
-- {name: 【付费用户】油管秒开4K/8K|更多地区接入|公益 - 大白, server: 120.241.46.223, port: 62011, type: vmess, uuid: 08ff0ffb-31bd-3a45-b3db-e286bf0d0eda, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, servername: cache-hk-1.cn-db.top, network: ws, ws-opts: {path: /db00, headers: {Host: cache-hk-1.cn-db.top}}, udp: true}
-- {name: 【免费用户】油管稳2K@30/限速稳720P|公益 - 大白, server: 120.241.46.223, port: 64092, type: vmess, uuid: 08ff0ffb-31bd-3a45-b3db-e286bf0d0eda, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, servername: data-hk-3.cn-db.top, network: ws, ws-opts: {path: /db00, headers: {Host: data-hk-3.cn-db.top}}, udp: true}
-- {name: 【提供套餐】免费/按量不限时/不按量限时|公益 - 大白, server: 120.241.46.223, port: 63004, type: vmess, uuid: 08ff0ffb-31bd-3a45-b3db-e286bf0d0eda, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, servername: cache-hk-2.cn-db.top, network: ws, ws-opts: {path: /db00, headers: {Host: cache-hk-2.cn-db.top}}, udp: true}
-- {name: 【邀请用户】|最高返还40%|移动 - 大白, server: sd.db-link.in, port: 80, type: vmess, uuid: 08ff0ffb-31bd-3a45-b3db-e286bf0d0eda, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, servername: cache-hk-1.cn-db.top, network: ws, ws-opts: {path: /db00, headers: {Host: cache-hk-1.cn-db.top}}, udp: true}
-- {name: '【节点优先级】[按量]>[不限量]>[免费]>[公共订阅]|移动 - 大白', server: sd.db-link.in, port: 80, type: vmess, uuid: 08ff0ffb-31bd-3a45-b3db-e286bf0d0eda, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, servername: data-hk-1.cn-db.top, network: ws, ws-opts: {path: /db00, headers: {Host: data-hk-1.cn-db.top}}, udp: true}
+  use: *id008
+proxy-providers:
+  HK:
+    type: http
+    url: https://raw.kgithub.com/mfbpn/tg_mfbpn_sub/main/trials_providers/koumakan.quickline.top#红魔/HK.yaml
+    interval: 180
+    path: trials_providers/koumakan.quickline.top#红魔/HK.yaml
+    health-check:
+      enable: true
+      url: https://i.ytimg.com/generate_204
+      interval: 30
+  TW:
+    type: http
+    url: https://raw.kgithub.com/mfbpn/tg_mfbpn_sub/main/trials_providers/koumakan.quickline.top#红魔/TW.yaml
+    interval: 180
+    path: trials_providers/koumakan.quickline.top#红魔/TW.yaml
+    health-check:
+      enable: true
+      url: https://i.ytimg.com/generate_204
+      interval: 30
+  SG:
+    type: http
+    url: https://raw.kgithub.com/mfbpn/tg_mfbpn_sub/main/trials_providers/koumakan.quickline.top#红魔/SG.yaml
+    interval: 180
+    path: trials_providers/koumakan.quickline.top#红魔/SG.yaml
+    health-check:
+      enable: true
+      url: https://i.ytimg.com/generate_204
+      interval: 30
+  JP:
+    type: http
+    url: https://raw.kgithub.com/mfbpn/tg_mfbpn_sub/main/trials_providers/koumakan.quickline.top#红魔/JP.yaml
+    interval: 180
+    path: trials_providers/koumakan.quickline.top#红魔/JP.yaml
+    health-check:
+      enable: true
+      url: https://i.ytimg.com/generate_204
+      interval: 30
+  US:
+    type: http
+    url: https://raw.kgithub.com/mfbpn/tg_mfbpn_sub/main/trials_providers/koumakan.quickline.top#红魔/US.yaml
+    interval: 180
+    path: trials_providers/koumakan.quickline.top#红魔/US.yaml
+    health-check:
+      enable: true
+      url: https://i.ytimg.com/generate_204
+      interval: 30
+  p_All_Other:
+    type: http
+    url: https://raw.kgithub.com/mfbpn/tg_mfbpn_sub/main/trials_providers/koumakan.quickline.top#红魔/p_All_Other.yaml
+    interval: 180
+    path: trials_providers/koumakan.quickline.top#红魔/p_All_Other.yaml
+    health-check:
+      enable: true
+      url: https://i.ytimg.com/generate_204
+      interval: 30
+  p_All_CN:
+    type: http
+    url: https://raw.kgithub.com/mfbpn/tg_mfbpn_sub/main/trials_providers/koumakan.quickline.top#红魔/p_All_CN.yaml
+    interval: 180
+    path: trials_providers/koumakan.quickline.top#红魔/p_All_CN.yaml
+    health-check:
+      enable: true
+      url: https://i.ytimg.com/generate_204
+      interval: 30
 rules:
 - DOMAIN-SUFFIX,acl4.ssr,DIRECT
 - DOMAIN-SUFFIX,ip6-localhost,DIRECT

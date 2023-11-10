@@ -1,0 +1,4 @@
+%YAML 1.1
+---
+proxies:
+- {name: 距离下次重置剩余：20 天 - 紅魔館網路, server: gzyda.073505.cn, port: 61523, type: ss, cipher: aes-128-gcm, password: bc15c7b8-9f99-4f60-aece-08b3d5110100, udp: true}
