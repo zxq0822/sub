@@ -1,15 +1,15 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇺🇸 US-线路测试-无限制随便跑 - 大白, server: sd.db-link.in, port: 443, type: trojan, password: 08ff0ffb-31bd-3a45-b3db-e286bf0d0eda, sni: fss.db-link.in, skip-cert-verify: true, network: ws, ws-opts: {path: '', headers: {Host: fss.db-link.in}}, udp: true}
+- {name: 🇺🇸 US-线路测试-无限制随便跑 - 大白, server: sd.db-link.in, port: 443, type: trojan, password: 08ff0ffb-31bd-3a45-b3db-e286bf0d0eda, sni: fss.db-link.in, skip-cert-verify: true, udp: true}
 - {name: 🇺🇲 美国A丨芝加哥丨流媒体 - Tannel中继网络服务, server: www.zztannel.com, port: 62028, type: vmess, uuid: dadb9921-84f9-331a-b2b7-d47504f72165, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇺🇸 Lx-Cloud|禁止倒卖|美国01 - Lx-Cloud, server: 111.47.212.12, port: 60937, type: vmess, uuid: cdc2d333-3d2d-4c82-afe5-429bb2755ce8, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 美国02|日沪专线|NF - 紅魔館網路, server: shshcua.073505.cn, port: 23603, type: ss, cipher: aes-128-gcm, password: 7e1a1a81-e23a-4910-9462-0631e9f50b43, udp: true}
-- {name: 🇺🇸 美国03|沪美专线|NF - 紅魔館網路, server: shdx.073505.cn, port: 49726, type: ss, cipher: aes-128-gcm, password: 7e1a1a81-e23a-4910-9462-0631e9f50b43, udp: true}
-- {name: 🇺🇸 美国04|沪美专线|NF - 紅魔館網路, server: shdx.073505.cn, port: 57756, type: ss, cipher: aes-128-gcm, password: 7e1a1a81-e23a-4910-9462-0631e9f50b43, udp: true}
-- {name: 🇺🇸 美国07|沪美专线|NF - 紅魔館網路, server: shdx.073505.cn, port: 32859, type: ss, cipher: aes-128-gcm, password: 7e1a1a81-e23a-4910-9462-0631e9f50b43, udp: true}
-- {name: 🇺🇸 美国08|沪美专线|NF - 紅魔館網路, server: shdx.073505.cn, port: 64206, type: ss, cipher: aes-128-gcm, password: 7e1a1a81-e23a-4910-9462-0631e9f50b43, udp: true}
-- {name: 🇺🇸 美国09|沪美专线|NF - 紅魔館網路, server: bjcu.073505.cn, port: 27944, type: ss, cipher: aes-128-gcm, password: 7e1a1a81-e23a-4910-9462-0631e9f50b43, udp: true}
+- {name: 🇺🇸 美国02|日沪专线|NF - 紅魔館網路, server: shshcua.073505.cn, port: 23603, type: ss, cipher: aes-128-gcm, password: 68ceaafd-3efc-4c1f-be4e-08b768e58eb0, udp: true}
+- {name: 🇺🇸 美国03|沪美专线|NF - 紅魔館網路, server: shdx.073505.cn, port: 49726, type: ss, cipher: aes-128-gcm, password: 68ceaafd-3efc-4c1f-be4e-08b768e58eb0, udp: true}
+- {name: 🇺🇸 美国04|沪美专线|NF - 紅魔館網路, server: shdx.073505.cn, port: 57756, type: ss, cipher: aes-128-gcm, password: 68ceaafd-3efc-4c1f-be4e-08b768e58eb0, udp: true}
+- {name: 🇺🇸 美国07|沪美专线|NF - 紅魔館網路, server: shdx.073505.cn, port: 32859, type: ss, cipher: aes-128-gcm, password: 68ceaafd-3efc-4c1f-be4e-08b768e58eb0, udp: true}
+- {name: 🇺🇸 美国08|沪美专线|NF - 紅魔館網路, server: shdx.073505.cn, port: 64206, type: ss, cipher: aes-128-gcm, password: 68ceaafd-3efc-4c1f-be4e-08b768e58eb0, udp: true}
+- {name: 🇺🇸 美国09|沪美专线|NF - 紅魔館網路, server: bjcu.073505.cn, port: 27944, type: ss, cipher: aes-128-gcm, password: 68ceaafd-3efc-4c1f-be4e-08b768e58eb0, udp: true}
 - {name: '🇺🇸 [vip①]美国1 - MG Network', server: 14.v2-ray.cyou, port: 23614, type: vmess, uuid: 125f7c60-ee4f-3aed-ad39-77e5048b54ce, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 14.v2-ray.cyou}}, udp: true}
 - {name: '🇺🇸 [vip①]美国2 - MG Network', server: 15.v2-ray.cyou, port: 23615, type: vmess, uuid: 125f7c60-ee4f-3aed-ad39-77e5048b54ce, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 15.v2-ray.cyou}}, udp: true}
 - {name: 🇺🇸 美国堪萨斯1 - 一颗机场, server: us1.cou.gay, port: 443, type: vmess, uuid: 33150641-f991-4b89-b31b-d2cfd0817f31, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: '/us1?ed=2048', headers: {Host: us1.cou.gay}}, udp: true}
@@ -31,8 +31,8 @@ proxies:
 - {name: 🇺🇸美国01 - 都是梦, server: us4.doushimeng.com, port: 20802, type: ss, cipher: chacha20-ietf-poly1305, password: 3de37d0e-3fac-4426-ba2f-1380a09b7d72, udp: true}
 - {name: 🇺🇸美国02 - 都是梦, server: dl8.doushimeng.com, port: 2095, type: vmess, uuid: 3de37d0e-3fac-4426-ba2f-1380a09b7d72, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /asdas, headers: {Host: cf-us.doushimeng.com}}, udp: true}
 - {name: 🇺🇸美国03 - 都是梦, server: us.doushimeng.com, port: 22853, type: ss, cipher: chacha20-ietf-poly1305, password: 3de37d0e-3fac-4426-ba2f-1380a09b7d72, udp: true}
-- {name: 🇺🇸 美国1-广港隧道-解锁 - 快云, server: 120.240.48.247, port: 50333, type: vmess, uuid: 8c3fcccb-603c-345c-929c-984481508017, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 美国2-广港隧道-解锁 - 快云, server: gz.888898.beauty, port: 43833, type: vmess, uuid: 8c3fcccb-603c-345c-929c-984481508017, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 美国1-广港隧道-解锁 - 快云, server: 120.240.48.247, port: 50333, type: vmess, uuid: 95eacc60-78d6-3794-adc9-6908686360e8, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 美国2-广港隧道-解锁 - 快云, server: gz.888898.beauty, port: 43833, type: vmess, uuid: 95eacc60-78d6-3794-adc9-6908686360e8, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇺🇸 美国-1/US | 苏移 - 鸡鸡云, server: zzjsyd.jjyhk.com, port: 13334, type: ss, cipher: chacha20-ietf-poly1305, password: c6ef0beb-32d1-486d-9772-10c6b646dbf1, udp: true}
 - {name: 🇺🇸 美国-1/US | 沪联 - 鸡鸡云, server: zj.xn--iiq222b6igvp5c.com, port: 57243, type: ss, cipher: chacha20-ietf-poly1305, password: c6ef0beb-32d1-486d-9772-10c6b646dbf1, udp: true}
 - {name: 🇺🇸 美国-1/US | 上移 - 鸡鸡云, server: zzshyd1.jjyhk.com, port: 12694, type: ss, cipher: chacha20-ietf-poly1305, password: c6ef0beb-32d1-486d-9772-10c6b646dbf1, udp: true}
