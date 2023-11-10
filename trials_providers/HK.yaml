@@ -8,9 +8,9 @@ proxies:
 - {name: 🇭🇰 香港5 - 十元一年, server: twzz.shiyuanyinian.xyz, port: 60001, type: ss, cipher: chacha20-ietf-poly1305, password: fb65a690-34d6-4f2b-8040-955899e705cd, udp: true}
 - {name: 🇭🇰 香港 1 - 西瓜皮是真的皮, server: xg.cm.go002.xyz, port: 19811, type: vmess, uuid: 6dea94fd-760b-3c90-86de-9b833076eb11, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇭🇰 香港 2 - 西瓜皮是真的皮, server: xg.ct1.go002.xyz, port: 19812, type: vmess, uuid: 6dea94fd-760b-3c90-86de-9b833076eb11, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 HK / 香港 | 华南 - 小白云, server: hk1.iepl.cooc.icu, port: 21881, type: ss, cipher: aes-256-gcm, password: 1e7583c4-9bb2-48f8-96f3-a96f624ba565, udp: true}
-- {name: 🇭🇰 HK / 香港 | 华东 - 小白云, server: hk2.iepl.cooc.icu, port: 22881, type: ss, cipher: aes-256-gcm, password: 1e7583c4-9bb2-48f8-96f3-a96f624ba565, udp: true}
-- {name: 🇭🇰 HK / 香港 | 混合 - 小白云, server: hk3.iepl.cooc.icu, port: 23881, type: ss, cipher: aes-256-gcm, password: 1e7583c4-9bb2-48f8-96f3-a96f624ba565, udp: true}
+- {name: 🇭🇰 HK / 香港 | 华南 - 小白云, server: hk1.iepl.cooc.icu, port: 21881, type: ss, cipher: aes-256-gcm, password: b86dfd26-aa0b-4be9-b6cc-0301c486bdbb, udp: true}
+- {name: 🇭🇰 HK / 香港 | 华东 - 小白云, server: hk2.iepl.cooc.icu, port: 22881, type: ss, cipher: aes-256-gcm, password: b86dfd26-aa0b-4be9-b6cc-0301c486bdbb, udp: true}
+- {name: 🇭🇰 HK / 香港 | 混合 - 小白云, server: hk3.iepl.cooc.icu, port: 23881, type: ss, cipher: aes-256-gcm, password: b86dfd26-aa0b-4be9-b6cc-0301c486bdbb, udp: true}
 - {name: 🇭🇰 香港2-广港隧道-解锁 - 快云, server: gz.sh6678458.top, port: 23034, type: vmess, uuid: 2d508b75-f84d-39b4-a915-c90ffbe3624a, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇭🇰 香港1-广港隧道 - 快云, server: 120.240.48.247, port: 64784, type: vmess, uuid: 2d508b75-f84d-39b4-a915-c90ffbe3624a, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇭🇰 香港-杭隧道-解锁 - 快云, server: gz.888898.beauty, port: 48165, type: vmess, uuid: 2d508b75-f84d-39b4-a915-c90ffbe3624a, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
