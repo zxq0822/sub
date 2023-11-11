@@ -2,14 +2,14 @@
 ---
 proxies:
 - {name: 【dabai.in】<<节点购买地址|公益 - 大白, server: 112.29.200.17, port: 12127, type: vmess, uuid: 08ff0ffb-31bd-3a45-b3db-e286bf0d0eda, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, servername: data-hk-2.cn-db.top, network: ws, ws-opts: {path: /db00, headers: {Host: data-hk-2.cn-db.top}}, udp: true}
-- {name: 【db01.in】<<节点购买地址|公益 - 大白, server: 120.241.46.223, port: 61082, type: vmess, uuid: 08ff0ffb-31bd-3a45-b3db-e286bf0d0eda, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, servername: cache-hk-2.cn-db.top, network: ws, ws-opts: {path: /db00, headers: {Host: cache-hk-2.cn-db.top}}, udp: true}
+- {name: 【db01.in】<<节点购买地址|公益 - 大白, server: 120.241.46.223, port: 61091, type: vmess, uuid: 08ff0ffb-31bd-3a45-b3db-e286bf0d0eda, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, servername: cache-hk-2.cn-db.top, network: ws, ws-opts: {path: /db00, headers: {Host: cache-hk-2.cn-db.top}}, udp: true}
 - {name: 距离下次重置剩余：29 天 - Lx-Cloud, server: 111.47.212.12, port: 60937, type: vmess, uuid: 1533ba62-63e1-4cbe-a9c2-82ff1b27034c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 距离下次重置剩余：19 天 - 紅魔館網路, server: gzyda.073505.cn, port: 61523, type: ss, cipher: aes-128-gcm, password: 72d0d7d9-f1a7-4a32-80ef-d9fa432b7120, udp: true}
 - {name: 距离下次重置剩余：19 天 - 一颗机场, server: us1.cou.gay, port: 443, type: vmess, uuid: 33150641-f991-4b89-b31b-d2cfd0817f31, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: '/us1?ed=2048', headers: {Host: us1.cou.gay}}, udp: true}
 - {name: 请使用clash Meta内核的客户端 - 养老机场-Reality-Hy-Hy2, server: 1.1.1.1, port: 80, type: vmess, uuid: aaaaaaaa-bbbb-cccc-cccc-dddddddddddd, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 距离下次重置剩余：19 天 - fastest, server: gg.looooooongnet.lol, port: 443, type: vmess, uuid: fa3e7ea1-45cc-4d7e-866e-151b5669503b, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: gg.looooooongnet.lol, network: grpc, grpc-opts: {grpc-service-name: /}, udp: true}
-- {name: 官网：www.kyjs.xyz（非节点） - 快云, server: hzct.hnytkm.com, port: 58286, type: vmess, uuid: ba7e1f72-08db-3ce7-9ee8-cef0d126c091, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 提示：使用前请更新订阅 - 快云, server: lpl.xggj.xn--fiqs8s, port: 29865, type: vmess, uuid: ba7e1f72-08db-3ce7-9ee8-cef0d126c091, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 官网：www.kyjs.xyz（非节点） - 快云, server: hzct.hnytkm.com, port: 58286, type: vmess, uuid: 1f2e9c77-5a2b-353c-9e35-9e1b9e8d7578, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 提示：使用前请更新订阅 - 快云, server: lpl.xggj.xn--fiqs8s, port: 29865, type: vmess, uuid: 1f2e9c77-5a2b-353c-9e35-9e1b9e8d7578, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 用不了更新订阅或重新导入 - 鸡鸡云, server: jjyhk.com, port: 24910, type: ss, cipher: chacha20-ietf-poly1305, password: c6ef0beb-32d1-486d-9772-10c6b646dbf1, udp: true}
 - {name: 距离下次重置剩余：19 天 - 北方航空, server: cdn.chigua.tk, port: 80, type: vmess, uuid: f6ffe5dc-abf9-44f4-839d-2d7ff34cd74b, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /usc03, headers: {Host: usc03.galenet.online}}, udp: true}
 - {name: 节点失效，请手动更新。点击刷新按钮 - 大湾区机场, server: 103.229.54.136, port: 9999, type: ss, cipher: chacha20-ietf-poly1305, password: 7dcf3ed3-1e7f-436d-9b93-fa0f0bde04a7, udp: true}

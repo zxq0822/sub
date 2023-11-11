@@ -17,7 +17,7 @@ proxies:
 - {name: 🇸🇬新加坡01 - 都是梦, server: sg3.doushimeng.com, port: 20052, type: ss, cipher: chacha20-ietf-poly1305, password: 1aa51167-5918-4925-b53d-cdfe78155eae, udp: true}
 - {name: 🇸🇬新加坡02 - 都是梦, server: proxy1.doushimeng.com, port: 20253, type: ss, cipher: chacha20-ietf-poly1305, password: 1aa51167-5918-4925-b53d-cdfe78155eae, udp: true}
 - {name: 🇸🇬新加坡03 - 都是梦, server: sg2.doushimeng.com, port: 20553, type: ss, cipher: chacha20-ietf-poly1305, password: 1aa51167-5918-4925-b53d-cdfe78155eae, udp: true}
-- {name: 🇸🇬 新加坡2-杭新隧道-解锁 - 快云, server: hz.888898.beauty, port: 43667, type: vmess, uuid: ba7e1f72-08db-3ce7-9ee8-cef0d126c091, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬 新加坡2-杭新隧道-解锁 - 快云, server: hz.888898.beauty, port: 43667, type: vmess, uuid: 1f2e9c77-5a2b-353c-9e35-9e1b9e8d7578, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇸🇬-专线①-1.75倍 - 大湾区机场, server: s7.daxiongda.top, port: 17844, type: ss, cipher: chacha20-ietf-poly1305, password: 7dcf3ed3-1e7f-436d-9b93-fa0f0bde04a7, udp: true}
 - {name: 🇸🇬-专线②-1.75倍 - 大湾区机场, server: s8.daxiongda.top, port: 22065, type: ss, cipher: chacha20-ietf-poly1305, password: 7dcf3ed3-1e7f-436d-9b93-fa0f0bde04a7, udp: true}
 - {name: 🇸🇬 新加坡 101 - 墙了个墙, server: sgvip101.qlgq1.pw, port: 10443, type: trojan, password: 1843b5d9-d169-3213-b7b8-8631bba4c44c, sni: sgvip101.qlgq1.pw, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: sgvip101}, udp: true}

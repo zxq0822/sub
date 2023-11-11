@@ -53,7 +53,7 @@ proxy-groups:
   - 🇭🇰 HK / 香港 | 混合 - 小白云
   - 🇭🇰 香港2-广港隧道-解锁 - 快云
   - 🇭🇰 香港7-上港隧道-解锁 - 快云
-  - 🇭🇰 香港1-杭港隧道 - 快云
+  - 🇭🇰 香港1-广港隧道 - 快云
   - 🇭🇰 香港-广港隧道-解锁 - 快云
   - 🇭🇰 香港-杭隧道-解锁 - 快云
   - 🇭🇰 香港6-广港隧道-解锁 - 快云
@@ -168,7 +168,6 @@ proxy-groups:
   - 🇯🇵 JP / 日本 | 混合 - 小白云
   - 🇯🇵日本01 - 都是梦
   - 🇯🇵 v2日本-广日隧道 - 快云
-  - 🇯🇵 日本-广日隧道-解锁 - 快云
   - 🇯🇵 日本/JP | 苏移 - 鸡鸡云
   - 🇯🇵 日本/JP | 深联 - 鸡鸡云
   - 🇯🇵 日本 101 - 墙了个墙
@@ -228,8 +227,8 @@ proxy-groups:
   - 🇺🇸美国 🌐「达拉斯」 - 北方航空
   - 🇺🇸顶级专线①-0.7倍 - 大湾区机场
   - 🇺🇸顶级专线②-0.7倍 - 大湾区机场
-  - 🇺🇸优质①-0.85倍 - 大湾区机场
-  - 🇺🇸优质②-0.85倍 - 大湾区机场
+  - 🇺🇸原生IP①-0.85倍 - 大湾区机场
+  - 🇺🇸ChatGPT-流媒体②-0.85倍 - 大湾区机场
   - 🇺🇸精品①-1倍 - 大湾区机场
   - 🇺🇸精品②-1倍 - 大湾区机场
   - 🇺🇸-直连-联通推荐 - 大湾区机场
@@ -516,7 +515,7 @@ proxy-groups:
   - 🇭🇰 HK / 香港 | 混合 - 小白云
   - 🇭🇰 香港2-广港隧道-解锁 - 快云
   - 🇭🇰 香港7-上港隧道-解锁 - 快云
-  - 🇭🇰 香港1-杭港隧道 - 快云
+  - 🇭🇰 香港1-广港隧道 - 快云
   - 🇭🇰 香港-广港隧道-解锁 - 快云
   - 🇭🇰 香港-杭隧道-解锁 - 快云
   - 🇭🇰 香港6-广港隧道-解锁 - 快云
@@ -613,7 +612,7 @@ proxy-groups:
   - 🇭🇰 HK / 香港 | 混合 - 小白云
   - 🇭🇰 香港2-广港隧道-解锁 - 快云
   - 🇭🇰 香港7-上港隧道-解锁 - 快云
-  - 🇭🇰 香港1-杭港隧道 - 快云
+  - 🇭🇰 香港1-广港隧道 - 快云
   - 🇭🇰 香港-广港隧道-解锁 - 快云
   - 🇭🇰 香港-杭隧道-解锁 - 快云
   - 🇭🇰 香港6-广港隧道-解锁 - 快云
@@ -741,7 +740,6 @@ proxy-groups:
   - 🇯🇵 JP / 日本 | 混合 - 小白云
   - 🇯🇵日本01 - 都是梦
   - 🇯🇵 v2日本-广日隧道 - 快云
-  - 🇯🇵 日本-广日隧道-解锁 - 快云
   - 🇯🇵 日本/JP | 苏移 - 鸡鸡云
   - 🇯🇵 日本/JP | 深联 - 鸡鸡云
   - 🇯🇵 日本 101 - 墙了个墙
@@ -807,8 +805,8 @@ proxy-groups:
   - 🇺🇸美国 🌐「达拉斯」 - 北方航空
   - 🇺🇸顶级专线①-0.7倍 - 大湾区机场
   - 🇺🇸顶级专线②-0.7倍 - 大湾区机场
-  - 🇺🇸优质①-0.85倍 - 大湾区机场
-  - 🇺🇸优质②-0.85倍 - 大湾区机场
+  - 🇺🇸原生IP①-0.85倍 - 大湾区机场
+  - 🇺🇸ChatGPT-流媒体②-0.85倍 - 大湾区机场
   - 🇺🇸精品①-1倍 - 大湾区机场
   - 🇺🇸精品②-1倍 - 大湾区机场
   - 🇺🇸-直连-联通推荐 - 大湾区机场
@@ -1052,11 +1050,11 @@ proxy-groups:
   type: select
   proxies: *id008
 proxies:
-- {name: 【双11活动】低至六折活动|公益 - 大白, server: 112.29.200.12, port: 13722, type: vmess, uuid: 08ff0ffb-31bd-3a45-b3db-e286bf0d0eda, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, servername: cache-hk-2.cn-db.top, network: ws, ws-opts: {path: /db00, headers: {Host: cache-hk-2.cn-db.top}}, udp: true}
-- {name: 🇺🇸 US-线路测试-无限制随便跑 - 大白, server: sd.db-link.in, port: 443, type: trojan, password: 08ff0ffb-31bd-3a45-b3db-e286bf0d0eda, sni: fss.db-link.in, skip-cert-verify: true, network: ws, ws-opts: {path: '', headers: {Host: fss.db-link.in}}, udp: true}
-- {name: 【付费用户】油管秒开4K/8K|更多地区接入|公益 - 大白, server: 120.241.46.223, port: 64092, type: vmess, uuid: 08ff0ffb-31bd-3a45-b3db-e286bf0d0eda, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, servername: cache-hk-1.cn-db.top, network: ws, ws-opts: {path: /db00, headers: {Host: cache-hk-1.cn-db.top}}, udp: true}
-- {name: 【免费用户】油管稳2K@30/限速稳720P|公益 - 大白, server: 112.29.200.12, port: 12130, type: vmess, uuid: 08ff0ffb-31bd-3a45-b3db-e286bf0d0eda, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, servername: data-hk-3.cn-db.top, network: ws, ws-opts: {path: /db00, headers: {Host: data-hk-3.cn-db.top}}, udp: true}
-- {name: 【提供套餐】免费/按量不限时/不按量限时|公益 - 大白, server: 120.241.46.223, port: 64006, type: vmess, uuid: 08ff0ffb-31bd-3a45-b3db-e286bf0d0eda, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, servername: cache-hk-2.cn-db.top, network: ws, ws-opts: {path: /db00, headers: {Host: cache-hk-2.cn-db.top}}, udp: true}
+- {name: 【双11活动】低至六折活动|公益 - 大白, server: 120.241.46.223, port: 61005, type: vmess, uuid: 08ff0ffb-31bd-3a45-b3db-e286bf0d0eda, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, servername: cache-hk-2.cn-db.top, network: ws, ws-opts: {path: /db00, headers: {Host: cache-hk-2.cn-db.top}}, udp: true}
+- {name: 🇺🇸 US-线路测试-无限制随便跑 - 大白, server: sd.db-link.in, port: 443, type: trojan, password: 08ff0ffb-31bd-3a45-b3db-e286bf0d0eda, sni: fss.db-link.in, skip-cert-verify: true, udp: true}
+- {name: 【付费用户】油管秒开4K/8K|更多地区接入|公益 - 大白, server: 112.29.200.11, port: 12127, type: vmess, uuid: 08ff0ffb-31bd-3a45-b3db-e286bf0d0eda, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, servername: cache-hk-1.cn-db.top, network: ws, ws-opts: {path: /db00, headers: {Host: cache-hk-1.cn-db.top}}, udp: true}
+- {name: 【免费用户】油管稳2K@30/限速稳720P|公益 - 大白, server: 112.29.200.12, port: 28005, type: vmess, uuid: 08ff0ffb-31bd-3a45-b3db-e286bf0d0eda, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, servername: data-hk-3.cn-db.top, network: ws, ws-opts: {path: /db00, headers: {Host: data-hk-3.cn-db.top}}, udp: true}
+- {name: 【提供套餐】免费/按量不限时/不按量限时|公益 - 大白, server: 112.29.200.17, port: 13722, type: vmess, uuid: 08ff0ffb-31bd-3a45-b3db-e286bf0d0eda, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, servername: cache-hk-2.cn-db.top, network: ws, ws-opts: {path: /db00, headers: {Host: cache-hk-2.cn-db.top}}, udp: true}
 - {name: 【邀请用户】|最高返还40%|移动 - 大白, server: sd.db-link.in, port: 80, type: vmess, uuid: 08ff0ffb-31bd-3a45-b3db-e286bf0d0eda, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, servername: cache-hk-1.cn-db.top, network: ws, ws-opts: {path: /db00, headers: {Host: cache-hk-1.cn-db.top}}, udp: true}
 - {name: '【节点优先级】[按量]>[不限量]>[免费]>[公共订阅]|移动 - 大白', server: sd.db-link.in, port: 80, type: vmess, uuid: 08ff0ffb-31bd-3a45-b3db-e286bf0d0eda, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, servername: data-hk-1.cn-db.top, network: ws, ws-opts: {path: /db00, headers: {Host: data-hk-1.cn-db.top}}, udp: true}
 - {name: 🇹🇼 台湾A丨Hinet丨流媒体 - Tannel中继网络服务, server: www.zztannel.com, port: 62012, type: vmess, uuid: daaa4dd7-b1d5-31f5-8197-01c59019864a, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
@@ -1300,19 +1298,18 @@ proxies:
 - {name: 🇧🇷巴西02 - 都是梦, server: dl2.doushimeng.com, port: 2086, type: vmess, uuid: 1aa51167-5918-4925-b53d-cdfe78155eae, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /uziiii, headers: {Host: cf-bx2.nicehand.top}}, udp: true}
 - {name: 🇧🇷巴西03 - 都是梦, server: dl1.doushimeng.com, port: 2082, type: vmess, uuid: 1aa51167-5918-4925-b53d-cdfe78155eae, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /asdas, headers: {Host: cf-bx4.doushimeng.com}}, udp: true}
 - {name: 🇧🇷巴西04 - 都是梦, server: dl3.doushimeng.com, port: 2086, type: vmess, uuid: 1aa51167-5918-4925-b53d-cdfe78155eae, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /uziiii, headers: {Host: cf-bx3.doushimeng.com}}, udp: true}
-- {name: 🇺🇸 美国1-杭港隧道-解锁 - 快云, server: hz.888898.beauty, port: 46331, type: vmess, uuid: ba7e1f72-08db-3ce7-9ee8-cef0d126c091, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 美国2-广港隧道-解锁 - 快云, server: gz.888898.beauty, port: 43833, type: vmess, uuid: ba7e1f72-08db-3ce7-9ee8-cef0d126c091, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 香港2-广港隧道-解锁 - 快云, server: gz.sh6678458.top, port: 23034, type: vmess, uuid: ba7e1f72-08db-3ce7-9ee8-cef0d126c091, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 香港7-上港隧道-解锁 - 快云, server: gd.888888.wtf, port: 39158, type: vmess, uuid: ba7e1f72-08db-3ce7-9ee8-cef0d126c091, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, servername: 206.237.6.69, udp: true}
-- {name: 🇭🇰 香港1-杭港隧道 - 快云, server: hz.888898.beauty, port: 46916, type: vmess, uuid: ba7e1f72-08db-3ce7-9ee8-cef0d126c091, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 v2日本-广日隧道 - 快云, server: 120.240.48.247, port: 43604, type: vmess, uuid: ba7e1f72-08db-3ce7-9ee8-cef0d126c091, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇨🇦 加拿大-杭港隧道-解锁 - 快云, server: hz.888898.beauty, port: 43689, type: vmess, uuid: ba7e1f72-08db-3ce7-9ee8-cef0d126c091, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇹🇼 台湾-广港隧道-解锁 - 快云, server: hz.888898.beauty, port: 46913, type: vmess, uuid: ba7e1f72-08db-3ce7-9ee8-cef0d126c091, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇸🇬 新加坡2-杭新隧道-解锁 - 快云, server: hz.888898.beauty, port: 43667, type: vmess, uuid: ba7e1f72-08db-3ce7-9ee8-cef0d126c091, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 日本-广日隧道-解锁 - 快云, server: gz.888898.beauty, port: 43887, type: vmess, uuid: ba7e1f72-08db-3ce7-9ee8-cef0d126c091, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 香港-广港隧道-解锁 - 快云, server: gz.888898.beauty, port: 38263, type: vmess, uuid: ba7e1f72-08db-3ce7-9ee8-cef0d126c091, alterId: 20, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 香港-杭隧道-解锁 - 快云, server: hz.888898.beauty, port: 41290, type: vmess, uuid: ba7e1f72-08db-3ce7-9ee8-cef0d126c091, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 香港6-广港隧道-解锁 - 快云, server: gz.888898.beauty, port: 47916, type: vmess, uuid: ba7e1f72-08db-3ce7-9ee8-cef0d126c091, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 美国1-杭港隧道-解锁 - 快云, server: hz.888898.beauty, port: 46331, type: vmess, uuid: 1f2e9c77-5a2b-353c-9e35-9e1b9e8d7578, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 美国2-广港隧道-解锁 - 快云, server: gz.888898.beauty, port: 43833, type: vmess, uuid: 1f2e9c77-5a2b-353c-9e35-9e1b9e8d7578, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 香港2-广港隧道-解锁 - 快云, server: gz.888898.beauty, port: 23034, type: vmess, uuid: 1f2e9c77-5a2b-353c-9e35-9e1b9e8d7578, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 香港7-上港隧道-解锁 - 快云, server: gd.888888.wtf, port: 39158, type: vmess, uuid: 1f2e9c77-5a2b-353c-9e35-9e1b9e8d7578, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, servername: 206.237.6.69, udp: true}
+- {name: 🇭🇰 香港1-广港隧道 - 快云, server: gz.888898.beauty, port: 52239, type: vmess, uuid: 1f2e9c77-5a2b-353c-9e35-9e1b9e8d7578, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 v2日本-广日隧道 - 快云, server: gd.888888.wtf, port: 16422, type: vmess, uuid: 1f2e9c77-5a2b-353c-9e35-9e1b9e8d7578, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇨🇦 加拿大-杭港隧道-解锁 - 快云, server: hz.888898.beauty, port: 43689, type: vmess, uuid: 1f2e9c77-5a2b-353c-9e35-9e1b9e8d7578, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼 台湾-广港隧道-解锁 - 快云, server: hz.888898.beauty, port: 46913, type: vmess, uuid: 1f2e9c77-5a2b-353c-9e35-9e1b9e8d7578, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬 新加坡2-杭新隧道-解锁 - 快云, server: hz.888898.beauty, port: 43667, type: vmess, uuid: 1f2e9c77-5a2b-353c-9e35-9e1b9e8d7578, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 香港-广港隧道-解锁 - 快云, server: gz.888898.beauty, port: 38263, type: vmess, uuid: 1f2e9c77-5a2b-353c-9e35-9e1b9e8d7578, alterId: 20, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 香港-杭隧道-解锁 - 快云, server: gz.888898.beauty, port: 50674, type: vmess, uuid: 1f2e9c77-5a2b-353c-9e35-9e1b9e8d7578, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 香港6-广港隧道-解锁 - 快云, server: gz.888898.beauty, port: 47916, type: vmess, uuid: 1f2e9c77-5a2b-353c-9e35-9e1b9e8d7578, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇭🇰 香港 - sspanel, server: xg107.npv4.com, port: 443, type: trojan, password: d1fa1330-6b67-3ea5-9528-6795cc596299, sni: xg107.npv4.com, skip-cert-verify: true, udp: true}
 - {name: 🇺🇸 美国-1/US | 苏移 - 鸡鸡云, server: zzjsyd.jjyhk.com, port: 13334, type: ss, cipher: chacha20-ietf-poly1305, password: c6ef0beb-32d1-486d-9772-10c6b646dbf1, udp: true}
 - {name: 🇺🇸 美国-1/US | 沪联 - 鸡鸡云, server: zj.xn--iiq222b6igvp5c.com, port: 57243, type: ss, cipher: chacha20-ietf-poly1305, password: c6ef0beb-32d1-486d-9772-10c6b646dbf1, udp: true}
@@ -1338,8 +1335,8 @@ proxies:
 - {name: 🇺🇸美国 🌐「达拉斯」 - 北方航空, server: cdn.chigua.tk, port: 80, type: vmess, uuid: f6ffe5dc-abf9-44f4-839d-2d7ff34cd74b, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /usc03, headers: {Host: usc03.galenet.online}}, udp: true}
 - {name: 🇺🇸顶级专线①-0.7倍 - 大湾区机场, server: s7.daxiongda.top, port: 40631, type: ss, cipher: chacha20-ietf-poly1305, password: 7dcf3ed3-1e7f-436d-9b93-fa0f0bde04a7, udp: true}
 - {name: 🇺🇸顶级专线②-0.7倍 - 大湾区机场, server: s8.daxiongda.top, port: 29447, type: ss, cipher: chacha20-ietf-poly1305, password: 7dcf3ed3-1e7f-436d-9b93-fa0f0bde04a7, udp: true}
-- {name: 🇺🇸优质①-0.85倍 - 大湾区机场, server: s7.daxiongda.top, port: 11644, type: ss, cipher: chacha20-ietf-poly1305, password: 7dcf3ed3-1e7f-436d-9b93-fa0f0bde04a7, udp: true}
-- {name: 🇺🇸优质②-0.85倍 - 大湾区机场, server: s8.daxiongda.top, port: 48995, type: ss, cipher: chacha20-ietf-poly1305, password: 7dcf3ed3-1e7f-436d-9b93-fa0f0bde04a7, udp: true}
+- {name: 🇺🇸原生IP①-0.85倍 - 大湾区机场, server: s7.daxiongda.top, port: 11644, type: ss, cipher: chacha20-ietf-poly1305, password: 7dcf3ed3-1e7f-436d-9b93-fa0f0bde04a7, udp: true}
+- {name: 🇺🇸ChatGPT-流媒体②-0.85倍 - 大湾区机场, server: s8.daxiongda.top, port: 48995, type: ss, cipher: chacha20-ietf-poly1305, password: 7dcf3ed3-1e7f-436d-9b93-fa0f0bde04a7, udp: true}
 - {name: 🇺🇸精品①-1倍 - 大湾区机场, server: s7.daxiongda.top, port: 30544, type: ss, cipher: chacha20-ietf-poly1305, password: 7dcf3ed3-1e7f-436d-9b93-fa0f0bde04a7, udp: true}
 - {name: 🇺🇸精品②-1倍 - 大湾区机场, server: s8.daxiongda.top, port: 12517, type: ss, cipher: chacha20-ietf-poly1305, password: 7dcf3ed3-1e7f-436d-9b93-fa0f0bde04a7, udp: true}
 - {name: 🇸🇬-专线①-1.75倍 - 大湾区机场, server: s7.daxiongda.top, port: 17844, type: ss, cipher: chacha20-ietf-poly1305, password: 7dcf3ed3-1e7f-436d-9b93-fa0f0bde04a7, udp: true}
