@@ -48,7 +48,7 @@ proxies:
 - {name: 🇭🇰 香港1-杭港隧道 - 快云, server: hz.888898.beauty, port: 46916, type: vmess, uuid: ba7e1f72-08db-3ce7-9ee8-cef0d126c091, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇹🇼 台湾-广港隧道-解锁 - 快云, server: hz.888898.beauty, port: 46913, type: vmess, uuid: ba7e1f72-08db-3ce7-9ee8-cef0d126c091, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇭🇰 香港-杭隧道-解锁 - 快云, server: hz.888898.beauty, port: 41290, type: vmess, uuid: ba7e1f72-08db-3ce7-9ee8-cef0d126c091, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 香港3 - 快云, server: gz.888898.beauty, port: 38263, type: vmess, uuid: ba7e1f72-08db-3ce7-9ee8-cef0d126c091, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, servername: 45.8.186.55, udp: true}
+- {name: 🇭🇰 香港3 - 快云, server: gz.888898.beauty, port: 38263, type: vmess, uuid: ba7e1f72-08db-3ce7-9ee8-cef0d126c091, alterId: 20, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇭🇰 香港6-广港隧道-解锁 - 快云, server: gz.888898.beauty, port: 47916, type: vmess, uuid: ba7e1f72-08db-3ce7-9ee8-cef0d126c091, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇭🇰 香港 - sspanel, server: xg107.npv4.com, port: 443, type: trojan, password: d1fa1330-6b67-3ea5-9528-6795cc596299, sni: xg107.npv4.com, skip-cert-verify: true, udp: true}
 - {name: 🇭🇰 香港-1/HK | 杭联 - 鸡鸡云, server: zzzjlt.jjyhk.com, port: 11191, type: ss, cipher: chacha20-ietf-poly1305, password: c6ef0beb-32d1-486d-9772-10c6b646dbf1, udp: true}
