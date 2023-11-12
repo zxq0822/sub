@@ -22,7 +22,7 @@ proxy-groups:
   type: url-test
   url: https://i.ytimg.com/generate_204
   interval: 30
-  tolerance: 50
+  tolerance: 100
   proxies: &id001
   - '[🇸🇬] 打杂的02 x1 - 星河 583'
   - '[🇺🇸] 打杂的01 x1 - 星河 583'
@@ -69,22 +69,22 @@ proxy-groups:
 - name: 🇸🇬 ‍新加坡
   type: url-test
   url: https://i.ytimg.com/generate_204
-  interval: 30
-  tolerance: 50
+  interval: 15
+  tolerance: 100
   proxies: &id002
   - '[🇸🇬] 打杂的02 x1 - 星河 583'
 - name: 🇺🇸 ‍美国
   type: url-test
   url: https://i.ytimg.com/generate_204
-  interval: 30
-  tolerance: 50
+  interval: 15
+  tolerance: 300
   proxies: &id003
   - '[🇺🇸] 打杂的01 x1 - 星河 583'
 - name: 🎏 ‍其他
   type: url-test
   url: https://i.ytimg.com/generate_204
   interval: 30
-  tolerance: 50
+  tolerance: 100
   proxies: &id004
   - TG群组：https://t.me/xh583180 - 星河 583
   - '[🇮🇳] 打杂的03 x1 - 星河 583'

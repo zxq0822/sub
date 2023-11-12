@@ -16,7 +16,7 @@ proxy-groups:
   type: url-test
   url: https://i.ytimg.com/generate_204
   interval: 30
-  tolerance: 50
+  tolerance: 100
   proxies: &id001
   - 🇹🇼 TW-板桥1-1 - 麻雀加速器 Sparrow
   - 🇹🇼 TW-板桥1-2 - 麻雀加速器 Sparrow
