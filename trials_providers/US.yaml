@@ -1,7 +1,7 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇺🇸 US-线路测试-无限制随便跑 - 大白, server: sd.db-link.in, port: 443, type: trojan, password: 08ff0ffb-31bd-3a45-b3db-e286bf0d0eda, sni: fss.db-link.in, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 US-线路测试-无限制随便跑 - 大白, server: sd.db-link.in, port: 443, type: trojan, password: 08ff0ffb-31bd-3a45-b3db-e286bf0d0eda, sni: fss.db-link.in, skip-cert-verify: true, network: ws, ws-opts: {path: '', headers: {Host: fss.db-link.in}}, udp: true}
 - {name: 🇺🇲 美国A丨芝加哥丨流媒体 - Tannel中继网络服务, server: www.zztannel.com, port: 62028, type: vmess, uuid: 46927c8d-7c47-32bd-abf5-58d0497122c5, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇺🇸 Lx-Cloud|禁止倒卖|美国01 - Lx-Cloud, server: 111.47.212.12, port: 60937, type: vmess, uuid: 1533ba62-63e1-4cbe-a9c2-82ff1b27034c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇺🇸 美国02|日沪专线|NF - 紅魔館網路, server: shshcua.073505.cn, port: 23603, type: ss, cipher: aes-128-gcm, password: 72d0d7d9-f1a7-4a32-80ef-d9fa432b7120, udp: true}
@@ -10,8 +10,8 @@ proxies:
 - {name: 🇺🇸 美国07|沪美专线|NF - 紅魔館網路, server: shdx.073505.cn, port: 32859, type: ss, cipher: aes-128-gcm, password: 72d0d7d9-f1a7-4a32-80ef-d9fa432b7120, udp: true}
 - {name: 🇺🇸 美国08|沪美专线|NF - 紅魔館網路, server: shdx.073505.cn, port: 64206, type: ss, cipher: aes-128-gcm, password: 72d0d7d9-f1a7-4a32-80ef-d9fa432b7120, udp: true}
 - {name: 🇺🇸 美国09|沪美专线|NF - 紅魔館網路, server: bjcu.073505.cn, port: 27944, type: ss, cipher: aes-128-gcm, password: 72d0d7d9-f1a7-4a32-80ef-d9fa432b7120, udp: true}
-- {name: '🇺🇸 [vip①]美国1 - MG Network', server: 14.v2-ray.cyou, port: 23614, type: vmess, uuid: 7d439f86-e17c-3e92-99a7-d779b85d4ae2, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 14.v2-ray.cyou}}, udp: true}
-- {name: '🇺🇸 [vip①]美国2 - MG Network', server: 15.v2-ray.cyou, port: 23615, type: vmess, uuid: 7d439f86-e17c-3e92-99a7-d779b85d4ae2, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 15.v2-ray.cyou}}, udp: true}
+- {name: '🇺🇸 [vip①]美国1 - MG Network', server: 14.v2-ray.cyou, port: 23614, type: vmess, uuid: 98b2ba77-8d9c-3155-9c04-cdc298f698fd, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 14.v2-ray.cyou}}, udp: true}
+- {name: '🇺🇸 [vip①]美国2 - MG Network', server: 15.v2-ray.cyou, port: 23615, type: vmess, uuid: 98b2ba77-8d9c-3155-9c04-cdc298f698fd, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 15.v2-ray.cyou}}, udp: true}
 - {name: 🇺🇸 美国堪萨斯1 - 一颗机场, server: us1.cou.gay, port: 443, type: vmess, uuid: 33150641-f991-4b89-b31b-d2cfd0817f31, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: '/us1?ed=2048', headers: {Host: us1.cou.gay}}, udp: true}
 - {name: 🇺🇸 美国堪萨斯2 - 一颗机场, server: cf.13d7s.site, port: 443, type: vmess, uuid: 33150641-f991-4b89-b31b-d2cfd0817f31, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: '/us1?ed=2048', headers: {Host: us1.cou.gay}}, udp: true}
 - {name: 🇺🇸 美国堪萨斯3 - 一颗机场, server: time.is, port: 443, type: vmess, uuid: 33150641-f991-4b89-b31b-d2cfd0817f31, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: '/us1?ed=2048', headers: {Host: us1.cou.gay}}, udp: true}
