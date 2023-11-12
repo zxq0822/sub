@@ -1,4 +1,4 @@
 %YAML 1.1
 ---
 proxies:
-- {name: WePc-4837-SS-稳定 - 大湾区机场, server: 154.7.179.11, port: 9999, type: ss, cipher: chacha20-ietf-poly1305, password: 59dcde22-e893-4ab6-944e-11531faf6f81, udp: true}
+- {name: WePc-4837-SS-稳定 - 大湾区机场, server: 154.7.179.11, port: 9999, type: ss, cipher: chacha20-ietf-poly1305, password: 8d42d809-32e1-40fa-a9ae-d027a5ee4c8a, udp: true}
