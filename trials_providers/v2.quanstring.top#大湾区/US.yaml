@@ -1,11 +1,11 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇺🇸顶级专线①-0.7倍 - 大湾区机场, server: s7.daxiongda.top, port: 40631, type: ss, cipher: chacha20-ietf-poly1305, password: 8d42d809-32e1-40fa-a9ae-d027a5ee4c8a, udp: true}
-- {name: 🇺🇸顶级专线②-0.7倍 - 大湾区机场, server: s8.daxiongda.top, port: 29447, type: ss, cipher: chacha20-ietf-poly1305, password: 8d42d809-32e1-40fa-a9ae-d027a5ee4c8a, udp: true}
-- {name: 🇺🇸原生IP①-0.85倍 - 大湾区机场, server: s7.daxiongda.top, port: 11644, type: ss, cipher: chacha20-ietf-poly1305, password: 8d42d809-32e1-40fa-a9ae-d027a5ee4c8a, udp: true}
-- {name: 🇺🇸ChatGPT-流媒体②-0.85倍 - 大湾区机场, server: s8.daxiongda.top, port: 48995, type: ss, cipher: chacha20-ietf-poly1305, password: 8d42d809-32e1-40fa-a9ae-d027a5ee4c8a, udp: true}
-- {name: 🇺🇸精品①-1倍 - 大湾区机场, server: s7.daxiongda.top, port: 30544, type: ss, cipher: chacha20-ietf-poly1305, password: 8d42d809-32e1-40fa-a9ae-d027a5ee4c8a, udp: true}
-- {name: 🇺🇸精品②-1倍 - 大湾区机场, server: s8.daxiongda.top, port: 12517, type: ss, cipher: chacha20-ietf-poly1305, password: 8d42d809-32e1-40fa-a9ae-d027a5ee4c8a, udp: true}
-- {name: 🇺🇸-直连-联通推荐 - 大湾区机场, server: 74.48.98.249, port: 8080, type: vmess, uuid: 8d42d809-32e1-40fa-a9ae-d027a5ee4c8a, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: '/quanstring?ed=2048', headers: {Host: us.quanstring.top}}, udp: true}
-- {name: 🇺🇸-ChatGPT-流媒体-TikTok-1 倍 - 大湾区机场, server: 74.48.98.249, port: 8080, type: vmess, uuid: 8d42d809-32e1-40fa-a9ae-d027a5ee4c8a, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: '/quanstring?ed=2048', headers: {Host: us.quanstring.top}}, udp: true}
+- {name: 🇺🇸顶级专线①-0.7倍 - 大湾区机场, server: s7.daxiongda.top, port: 40631, type: ss, cipher: chacha20-ietf-poly1305, password: 4634b044-5cf6-4c08-9e4b-f09a7d3440e8, udp: true}
+- {name: 🇺🇸顶级专线②-0.7倍 - 大湾区机场, server: s8.daxiongda.top, port: 29447, type: ss, cipher: chacha20-ietf-poly1305, password: 4634b044-5cf6-4c08-9e4b-f09a7d3440e8, udp: true}
+- {name: 🇺🇸原生IP①-0.85倍 - 大湾区机场, server: s7.daxiongda.top, port: 11644, type: ss, cipher: chacha20-ietf-poly1305, password: 4634b044-5cf6-4c08-9e4b-f09a7d3440e8, udp: true}
+- {name: 🇺🇸ChatGPT-流媒体②-0.85倍 - 大湾区机场, server: s8.daxiongda.top, port: 48995, type: ss, cipher: chacha20-ietf-poly1305, password: 4634b044-5cf6-4c08-9e4b-f09a7d3440e8, udp: true}
+- {name: 🇺🇸精品①-1倍 - 大湾区机场, server: s7.daxiongda.top, port: 30544, type: ss, cipher: chacha20-ietf-poly1305, password: 4634b044-5cf6-4c08-9e4b-f09a7d3440e8, udp: true}
+- {name: 🇺🇸精品②-1倍 - 大湾区机场, server: s8.daxiongda.top, port: 12517, type: ss, cipher: chacha20-ietf-poly1305, password: 4634b044-5cf6-4c08-9e4b-f09a7d3440e8, udp: true}
+- {name: 🇺🇸-直连-联通推荐 - 大湾区机场, server: 74.48.98.249, port: 8080, type: vmess, uuid: 4634b044-5cf6-4c08-9e4b-f09a7d3440e8, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: '/quanstring?ed=2048', headers: {Host: us.quanstring.top}}, udp: true}
+- {name: 🇺🇸-ChatGPT-流媒体-TikTok-1 倍 - 大湾区机场, server: 74.48.98.249, port: 8080, type: vmess, uuid: 4634b044-5cf6-4c08-9e4b-f09a7d3440e8, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: '/quanstring?ed=2048', headers: {Host: us.quanstring.top}}, udp: true}
