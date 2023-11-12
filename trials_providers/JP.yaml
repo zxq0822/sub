@@ -16,16 +16,16 @@ proxies:
 - {name: 🇯🇵 Japan - 番茄云, server: proxy1.fanqiecloud.top, port: 26202, type: ss, cipher: chacha20-ietf-poly1305, password: ddd51a7b-3289-4fc1-a3eb-828393e0c1c9, udp: true}
 - {name: 🇯🇵 日本 1 Nico Abema - 西瓜皮是真的皮, server: xg.cm.go002.xyz, port: 19831, type: vmess, uuid: 510dcb93-e081-3af7-a8e0-7b16c82a6a85, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇯🇵 日本 2 Nico Abema - 西瓜皮是真的皮, server: xg.ct1.go002.xyz, port: 19832, type: vmess, uuid: 510dcb93-e081-3af7-a8e0-7b16c82a6a85, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 JP / 日本 | 华东 - 小白云, server: jp1.iepl.cooc.icu, port: 47100, type: ss, cipher: aes-256-gcm, password: 7e3500cd-86ff-4489-820b-33dab1ec3b56, udp: true}
-- {name: 🇯🇵 JP / 日本 | 华南 - 小白云, server: jp2.iepl.cooc.icu, port: 47101, type: ss, cipher: aes-256-gcm, password: 7e3500cd-86ff-4489-820b-33dab1ec3b56, udp: true}
-- {name: 🇯🇵 JP / 日本 | 混合 - 小白云, server: jp3.iepl.cooc.icu, port: 19881, type: ss, cipher: aes-256-gcm, password: 7e3500cd-86ff-4489-820b-33dab1ec3b56, udp: true}
+- {name: 🇯🇵 JP / 日本 | 华东 - 小白云, server: jp1.iepl.cooc.icu, port: 47100, type: ss, cipher: aes-256-gcm, password: ffb5c2bc-1a7d-47a6-ac17-33b8ab04cfbd, udp: true}
+- {name: 🇯🇵 JP / 日本 | 华南 - 小白云, server: jp2.iepl.cooc.icu, port: 47101, type: ss, cipher: aes-256-gcm, password: ffb5c2bc-1a7d-47a6-ac17-33b8ab04cfbd, udp: true}
+- {name: 🇯🇵 JP / 日本 | 混合 - 小白云, server: jp3.iepl.cooc.icu, port: 19881, type: ss, cipher: aes-256-gcm, password: ffb5c2bc-1a7d-47a6-ac17-33b8ab04cfbd, udp: true}
 - {name: 🇯🇵日本01 - 都是梦, server: proxy1.doushimeng.com, port: 26203, type: ss, cipher: chacha20-ietf-poly1305, password: f6054c1c-7444-49ca-b5c0-496e41125f9a, udp: true}
-- {name: 🇯🇵 v2日本-广日隧道 - 快云, server: gd.888888.wtf, port: 16422, type: vmess, uuid: d0a110ac-eb76-3cb7-a57c-9e73765471c9, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 日本1-上日隧道-解锁 - 快云, server: sh.888888.wtf, port: 23416, type: vmess, uuid: d0a110ac-eb76-3cb7-a57c-9e73765471c9, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 v2日本-广日隧道 - 快云, server: gd.888888.wtf, port: 16422, type: vmess, uuid: cada9b89-ddc3-3248-af52-f024fcf37aec, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本1-上日隧道-解锁 - 快云, server: sh.888888.wtf, port: 23416, type: vmess, uuid: cada9b89-ddc3-3248-af52-f024fcf37aec, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇯🇵 日本/JP | 苏移 - 鸡鸡云, server: zzjsyd.jjyhk.com, port: 13322, type: ss, cipher: chacha20-ietf-poly1305, password: c6ef0beb-32d1-486d-9772-10c6b646dbf1, udp: true}
 - {name: 🇯🇵 日本/JP | 深联 - 鸡鸡云, server: zzszlt.jjyhk.com, port: 13322, type: ss, cipher: chacha20-ietf-poly1305, password: c6ef0beb-32d1-486d-9772-10c6b646dbf1, udp: true}
-- {name: 🇯🇵-专线②-0.1倍 - 大湾区机场, server: s8.daxiongda.top, port: 18609, type: ss, cipher: chacha20-ietf-poly1305, password: 39d3f8ac-0fe7-4dce-bd35-6d5f3135cea7, udp: true}
-- {name: 🇯🇵-专线①-0.1倍 - 大湾区机场, server: s7.daxiongda.top, port: 43774, type: ss, cipher: chacha20-ietf-poly1305, password: 39d3f8ac-0fe7-4dce-bd35-6d5f3135cea7, udp: true}
+- {name: 🇯🇵-专线②-0.1倍 - 大湾区机场, server: s8.daxiongda.top, port: 18609, type: ss, cipher: chacha20-ietf-poly1305, password: 59dcde22-e893-4ab6-944e-11531faf6f81, udp: true}
+- {name: 🇯🇵-专线①-0.1倍 - 大湾区机场, server: s7.daxiongda.top, port: 43774, type: ss, cipher: chacha20-ietf-poly1305, password: 59dcde22-e893-4ab6-944e-11531faf6f81, udp: true}
 - {name: 🇯🇵 日本 101 - 墙了个墙, server: jpvip102.qlgq1.pw, port: 10443, type: trojan, password: 1843b5d9-d169-3213-b7b8-8631bba4c44c, sni: jpvip102.qlgq1.pw, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: jpvip102}, udp: true}
 - {name: 🇯🇵 日本 102 - 墙了个墙, server: jpvip102.qlgq1.pw, port: 20443, type: trojan, password: 1843b5d9-d169-3213-b7b8-8631bba4c44c, sni: jpvip102.qlgq1.pw, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: jpvip102}, udp: true}
 - {name: 🇯🇵 日本 103 - 墙了个墙, server: jpvip102.qlgq1.pw, port: 30443, type: trojan, password: 1843b5d9-d169-3213-b7b8-8631bba4c44c, sni: jpvip102.qlgq1.pw, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: jpvip102}, udp: true}
