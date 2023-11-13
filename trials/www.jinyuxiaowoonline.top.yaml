@@ -13,7 +13,6 @@ proxy-groups:
   - 🇭🇰 ‍香港
   - 🇹🇼 ‍台湾
   - 🇨🇳 ‍中国
-  - 🇸🇬 ‍新加坡
   - 🇯🇵 ‍日本
   - 🇺🇸 ‍美国
   - 🎏 ‍其他
@@ -21,7 +20,6 @@ proxy-groups:
   - 👆🏻🇭🇰 ‍香港
   - 👆🏻🇹🇼 ‍台湾
   - 👆🏻🇨🇳 ‍中国
-  - 👆🏻🇸🇬 ‍新加坡
   - 👆🏻🇯🇵 ‍日本
   - 👆🏻🇺🇸 ‍美国
   - 👆🏻🎏 ‍其他
@@ -32,50 +30,16 @@ proxy-groups:
   interval: 30
   tolerance: 100
   proxies: &id001
-  - 🇭🇰 香港1 - 锦瑜小窝
-  - 🇭🇰 香港2 - 锦瑜小窝
-  - 🇭🇰 香港3 - 锦瑜小窝
-  - 🇭🇰 香港4 - 锦瑜小窝
-  - 🇭🇰 香港5 - 锦瑜小窝
-  - 🇹🇼 台湾1 - 锦瑜小窝
-  - 🇹🇼 台湾2 - 锦瑜小窝
-  - 🇹🇼 台湾3 - 锦瑜小窝
-  - 🇹🇼 台湾4 - 锦瑜小窝
-  - 🇹🇼 台湾5 - 锦瑜小窝
-  - 🇸🇬 狮城1 - 锦瑜小窝
-  - 🇸🇬 狮城2 - 锦瑜小窝
-  - 🇸🇬 狮城3 - 锦瑜小窝
-  - 🇸🇬 狮城4 - 锦瑜小窝
-  - 🇸🇬 狮城5 - 锦瑜小窝
-  - 🇸🇬 狮城6 - 锦瑜小窝
-  - 🇯🇵 日本1 - 锦瑜小窝
-  - 🇯🇵 日本2 - 锦瑜小窝
-  - 🇯🇵 日本3 - 锦瑜小窝
-  - 🇯🇵 日本4 - 锦瑜小窝
-  - 🇺🇸 美国1 - 锦瑜小窝
-  - 🇺🇸 美国2 - 锦瑜小窝
-  - 🇺🇸 美国3 - 锦瑜小窝
-  - 🇺🇸 美国4 - 锦瑜小窝
-  - 🇺🇸 美国5 - 锦瑜小窝
-  - 🇺🇸 美国6 - 锦瑜小窝
-  - 🇰🇷 韩国1 - 锦瑜小窝
-  - 🇰🇷 韩国2 - 锦瑜小窝
-  - 🇻🇳 越南1 - 锦瑜小窝
-  - 🇦🇺 澳洲1 - 锦瑜小窝
-  - 🇦🇺 澳洲2 - 锦瑜小窝
-  - 🇲🇾 马来1 - 锦瑜小窝
-  - 🇩🇪 德国1 - 锦瑜小窝
-  - 🇩🇪 德国2 - 锦瑜小窝
-  - 🇩🇪 德国3 - 锦瑜小窝
-  - 🇬🇧 英国1 - 锦瑜小窝
-  - 🇬🇧 英国2 - 锦瑜小窝
-  - 🇬🇧 英国3 - 锦瑜小窝
-  - 🇫🇷 法国1 - 锦瑜小窝
-  - 🇫🇷 法国2 - 锦瑜小窝
-  - 🇫🇷 法国3 - 锦瑜小窝
-  - 🇹🇷 土耳其1 - 锦瑜小窝
-  - 🇹🇷 土耳其2 - 锦瑜小窝
-  - 🇹🇷 土耳其3 - 锦瑜小窝
+  - 🇭🇰 公益香港 - 锦瑜小窝
+  - 🇹🇼 公益台湾 - 锦瑜小窝
+  - 🇯🇵 公益日本 - 锦瑜小窝
+  - 🇺🇸 公益美国 - 锦瑜小窝
+  - 🇰🇷 公益韩国 - 锦瑜小窝
+  - 🇦🇺 公益澳洲 - 锦瑜小窝
+  - 🇩🇪 公益德国 - 锦瑜小窝
+  - 🇬🇧 公益英国 - 锦瑜小窝
+  - 🇫🇷 公益法国 - 锦瑜小窝
+  - 公益土耳 - 锦瑜小窝
 - name: 🛩️ ‍墙内
   type: select
   proxies:
@@ -108,11 +72,9 @@ proxy-groups:
   - 👆🏻🇺🇸 ‍美国
   - 👆🏻🎏 ‍其他
   - 🇹🇼 ‍台湾
-  - 🇸🇬 ‍新加坡
   - 🇯🇵 ‍日本
   - 👆🏻 ‍指定
   - 👆🏻🇹🇼 ‍台湾
-  - 👆🏻🇸🇬 ‍新加坡
   - 👆🏻🇯🇵 ‍日本
   - ✈️ ‍起飞
   - 🛩️ ‍墙内
@@ -128,96 +90,48 @@ proxy-groups:
   interval: 15
   tolerance: 100
   proxies: &id002
-  - 🇭🇰 香港1 - 锦瑜小窝
-  - 🇭🇰 香港2 - 锦瑜小窝
-  - 🇭🇰 香港3 - 锦瑜小窝
-  - 🇭🇰 香港4 - 锦瑜小窝
-  - 🇭🇰 香港5 - 锦瑜小窝
+  - 🇭🇰 公益香港 - 锦瑜小窝
 - name: 🇹🇼 ‍台湾
   type: url-test
   url: https://i.ytimg.com/generate_204
   interval: 15
   tolerance: 100
   proxies: &id003
-  - 🇹🇼 台湾1 - 锦瑜小窝
-  - 🇹🇼 台湾2 - 锦瑜小窝
-  - 🇹🇼 台湾3 - 锦瑜小窝
-  - 🇹🇼 台湾4 - 锦瑜小窝
-  - 🇹🇼 台湾5 - 锦瑜小窝
+  - 🇹🇼 公益台湾 - 锦瑜小窝
 - name: 🇨🇳 ‍中国
   type: url-test
   url: https://i.ytimg.com/generate_204
   interval: 15
   tolerance: 100
   proxies: &id004
-  - 🇭🇰 香港1 - 锦瑜小窝
-  - 🇭🇰 香港2 - 锦瑜小窝
-  - 🇭🇰 香港3 - 锦瑜小窝
-  - 🇭🇰 香港4 - 锦瑜小窝
-  - 🇭🇰 香港5 - 锦瑜小窝
-  - 🇹🇼 台湾1 - 锦瑜小窝
-  - 🇹🇼 台湾2 - 锦瑜小窝
-  - 🇹🇼 台湾3 - 锦瑜小窝
-  - 🇹🇼 台湾4 - 锦瑜小窝
-  - 🇹🇼 台湾5 - 锦瑜小窝
-- name: 🇸🇬 ‍新加坡
-  type: url-test
-  url: https://i.ytimg.com/generate_204
-  interval: 15
-  tolerance: 100
-  proxies: &id005
-  - 🇸🇬 狮城1 - 锦瑜小窝
-  - 🇸🇬 狮城2 - 锦瑜小窝
-  - 🇸🇬 狮城3 - 锦瑜小窝
-  - 🇸🇬 狮城4 - 锦瑜小窝
-  - 🇸🇬 狮城5 - 锦瑜小窝
-  - 🇸🇬 狮城6 - 锦瑜小窝
+  - 🇭🇰 公益香港 - 锦瑜小窝
+  - 🇹🇼 公益台湾 - 锦瑜小窝
 - name: 🇯🇵 ‍日本
   type: url-test
   url: https://i.ytimg.com/generate_204
   interval: 15
   tolerance: 100
-  proxies: &id006
-  - 🇯🇵 日本1 - 锦瑜小窝
-  - 🇯🇵 日本2 - 锦瑜小窝
-  - 🇯🇵 日本3 - 锦瑜小窝
-  - 🇯🇵 日本4 - 锦瑜小窝
+  proxies: &id005
+  - 🇯🇵 公益日本 - 锦瑜小窝
 - name: 🇺🇸 ‍美国
   type: url-test
   url: https://i.ytimg.com/generate_204
   interval: 15
   tolerance: 300
-  proxies: &id007
-  - 🇺🇸 美国1 - 锦瑜小窝
-  - 🇺🇸 美国2 - 锦瑜小窝
-  - 🇺🇸 美国3 - 锦瑜小窝
-  - 🇺🇸 美国4 - 锦瑜小窝
-  - 🇺🇸 美国5 - 锦瑜小窝
-  - 🇺🇸 美国6 - 锦瑜小窝
+  proxies: &id006
+  - 🇺🇸 公益美国 - 锦瑜小窝
 - name: 🎏 ‍其他
   type: url-test
   url: https://i.ytimg.com/generate_204
   interval: 30
   tolerance: 100
-  proxies: &id008
-  - 🇰🇷 韩国1 - 锦瑜小窝
-  - 🇰🇷 韩国2 - 锦瑜小窝
-  - 🇻🇳 越南1 - 锦瑜小窝
-  - 🇦🇺 澳洲1 - 锦瑜小窝
-  - 🇦🇺 澳洲2 - 锦瑜小窝
-  - 🇲🇾 马来1 - 锦瑜小窝
-  - 🇩🇪 德国1 - 锦瑜小窝
-  - 🇩🇪 德国2 - 锦瑜小窝
-  - 🇩🇪 德国3 - 锦瑜小窝
-  - 🇬🇧 英国1 - 锦瑜小窝
-  - 🇬🇧 英国2 - 锦瑜小窝
-  - 🇬🇧 英国3 - 锦瑜小窝
-  - 🇫🇷 法国1 - 锦瑜小窝
-  - 🇫🇷 法国2 - 锦瑜小窝
-  - 🇫🇷 法国3 - 锦瑜小窝
-  - 🇹🇷 土耳其1 - 锦瑜小窝
-  - 🇹🇷 土耳其2 - 锦瑜小窝
-  - 🇹🇷 土耳其3 - 锦瑜小窝
+  proxies: &id007
+  - 🇰🇷 公益韩国 - 锦瑜小窝
+  - 🇦🇺 公益澳洲 - 锦瑜小窝
+  - 🇩🇪 公益德国 - 锦瑜小窝
+  - 🇬🇧 公益英国 - 锦瑜小窝
+  - 🇫🇷 公益法国 - 锦瑜小窝
+  - 公益土耳 - 锦瑜小窝
 - name: 👆🏻 ‍指定
   type: select
   proxies: *id001
@@ -230,63 +144,26 @@ proxy-groups:
 - name: 👆🏻🇨🇳 ‍中国
   type: select
   proxies: *id004
-- name: 👆🏻🇸🇬 ‍新加坡
-  type: select
-  proxies: *id005
 - name: 👆🏻🇯🇵 ‍日本
   type: select
-  proxies: *id006
+  proxies: *id005
 - name: 👆🏻🇺🇸 ‍美国
   type: select
-  proxies: *id007
+  proxies: *id006
 - name: 👆🏻🎏 ‍其他
   type: select
-  proxies: *id008
+  proxies: *id007
 proxies:
-- {name: 🇭🇰 香港1 - 锦瑜小窝, server: gyzf.jykeji.xyz, port: 41815, type: ss, cipher: chacha20-ietf-poly1305, password: 5988b8ab-8088-411c-9fde-395146a68c11, udp: true}
-- {name: 🇭🇰 香港2 - 锦瑜小窝, server: gyzf.jykeji.xyz, port: 41815, type: ss, cipher: chacha20-ietf-poly1305, password: 5988b8ab-8088-411c-9fde-395146a68c11, udp: true}
-- {name: 🇭🇰 香港3 - 锦瑜小窝, server: gyzf.jykeji.xyz, port: 41815, type: ss, cipher: chacha20-ietf-poly1305, password: 5988b8ab-8088-411c-9fde-395146a68c11, udp: true}
-- {name: 🇭🇰 香港4 - 锦瑜小窝, server: shcm.motions.top, port: 14130, type: ss, cipher: chacha20-ietf-poly1305, password: 5988b8ab-8088-411c-9fde-395146a68c11, udp: true}
-- {name: 🇭🇰 香港5 - 锦瑜小窝, server: ahzf.jykeji.xyz, port: 16893, type: ss, cipher: chacha20-ietf-poly1305, password: 5988b8ab-8088-411c-9fde-395146a68c11, udp: true}
-- {name: 🇹🇼 台湾1 - 锦瑜小窝, server: gyzf.jykeji.xyz, port: 46401, type: ss, cipher: chacha20-ietf-poly1305, password: 5988b8ab-8088-411c-9fde-395146a68c11, udp: true}
-- {name: 🇹🇼 台湾2 - 锦瑜小窝, server: gyzf.jykeji.xyz, port: 46401, type: ss, cipher: chacha20-ietf-poly1305, password: 5988b8ab-8088-411c-9fde-395146a68c11, udp: true}
-- {name: 🇹🇼 台湾3 - 锦瑜小窝, server: shcm.motions.top, port: 13614, type: ss, cipher: chacha20-ietf-poly1305, password: 5988b8ab-8088-411c-9fde-395146a68c11, udp: true}
-- {name: 🇹🇼 台湾4 - 锦瑜小窝, server: ahzf.jykeji.xyz, port: 31239, type: ss, cipher: chacha20-ietf-poly1305, password: 5988b8ab-8088-411c-9fde-395146a68c11, udp: true}
-- {name: 🇹🇼 台湾5 - 锦瑜小窝, server: gyzf.jykeji.xyz, port: 46401, type: ss, cipher: chacha20-ietf-poly1305, password: 5988b8ab-8088-411c-9fde-395146a68c11, udp: true}
-- {name: 🇯🇵 日本1 - 锦瑜小窝, server: shzf.jykeji.xyz, port: 10129, type: ss, cipher: chacha20-ietf-poly1305, password: 5988b8ab-8088-411c-9fde-395146a68c11, udp: true}
-- {name: 🇯🇵 日本2 - 锦瑜小窝, server: shzf.jykeji.xyz, port: 10129, type: ss, cipher: chacha20-ietf-poly1305, password: 5988b8ab-8088-411c-9fde-395146a68c11, udp: true}
-- {name: 🇯🇵 日本3 - 锦瑜小窝, server: shcm.motions.top, port: 42139, type: ss, cipher: chacha20-ietf-poly1305, password: 5988b8ab-8088-411c-9fde-395146a68c11, udp: true}
-- {name: 🇯🇵 日本4 - 锦瑜小窝, server: shcm.motions.top, port: 59667, type: ss, cipher: chacha20-ietf-poly1305, password: 5988b8ab-8088-411c-9fde-395146a68c11, udp: true}
-- {name: 🇸🇬 狮城1 - 锦瑜小窝, server: gyzf.jykeji.xyz, port: 30353, type: ss, cipher: chacha20-ietf-poly1305, password: 5988b8ab-8088-411c-9fde-395146a68c11, udp: true}
-- {name: 🇸🇬 狮城2 - 锦瑜小窝, server: gyzf.jykeji.xyz, port: 30353, type: ss, cipher: chacha20-ietf-poly1305, password: 5988b8ab-8088-411c-9fde-395146a68c11, udp: true}
-- {name: 🇸🇬 狮城3 - 锦瑜小窝, server: gyzf.jykeji.xyz, port: 30353, type: ss, cipher: chacha20-ietf-poly1305, password: 5988b8ab-8088-411c-9fde-395146a68c11, udp: true}
-- {name: 🇸🇬 狮城4 - 锦瑜小窝, server: gyzf.jykeji.xyz, port: 30353, type: ss, cipher: chacha20-ietf-poly1305, password: 5988b8ab-8088-411c-9fde-395146a68c11, udp: true}
-- {name: 🇸🇬 狮城5 - 锦瑜小窝, server: gyzf.jykeji.xyz, port: 30353, type: ss, cipher: chacha20-ietf-poly1305, password: 5988b8ab-8088-411c-9fde-395146a68c11, udp: true}
-- {name: 🇸🇬 狮城6 - 锦瑜小窝, server: gyzf.jykeji.xyz, port: 30353, type: ss, cipher: chacha20-ietf-poly1305, password: 5988b8ab-8088-411c-9fde-395146a68c11, udp: true}
-- {name: 🇰🇷 韩国1 - 锦瑜小窝, server: shzf.jykeji.xyz, port: 35639, type: ss, cipher: chacha20-ietf-poly1305, password: 5988b8ab-8088-411c-9fde-395146a68c11, udp: true}
-- {name: 🇰🇷 韩国2 - 锦瑜小窝, server: shcm.motions.top, port: 12521, type: ss, cipher: chacha20-ietf-poly1305, password: 5988b8ab-8088-411c-9fde-395146a68c11, udp: true}
-- {name: 🇻🇳 越南1 - 锦瑜小窝, server: gyzf.jykeji.xyz, port: 28775, type: ss, cipher: chacha20-ietf-poly1305, password: 5988b8ab-8088-411c-9fde-395146a68c11, udp: true}
-- {name: 🇦🇺 澳洲1 - 锦瑜小窝, server: gyzf.jykeji.xyz, port: 43327, type: ss, cipher: chacha20-ietf-poly1305, password: 5988b8ab-8088-411c-9fde-395146a68c11, udp: true}
-- {name: 🇦🇺 澳洲2 - 锦瑜小窝, server: shcm.motions.top, port: 25727, type: ss, cipher: chacha20-ietf-poly1305, password: 5988b8ab-8088-411c-9fde-395146a68c11, udp: true}
-- {name: 🇺🇸 美国1 - 锦瑜小窝, server: shzf.jykeji.xyz, port: 49561, type: ss, cipher: chacha20-ietf-poly1305, password: 5988b8ab-8088-411c-9fde-395146a68c11, udp: true}
-- {name: 🇺🇸 美国2 - 锦瑜小窝, server: shzf.jykeji.xyz, port: 49561, type: ss, cipher: chacha20-ietf-poly1305, password: 5988b8ab-8088-411c-9fde-395146a68c11, udp: true}
-- {name: 🇺🇸 美国3 - 锦瑜小窝, server: shzf.jykeji.xyz, port: 49561, type: ss, cipher: chacha20-ietf-poly1305, password: 5988b8ab-8088-411c-9fde-395146a68c11, udp: true}
-- {name: 🇺🇸 美国4 - 锦瑜小窝, server: shzf.jykeji.xyz, port: 49561, type: ss, cipher: chacha20-ietf-poly1305, password: 5988b8ab-8088-411c-9fde-395146a68c11, udp: true}
-- {name: 🇺🇸 美国5 - 锦瑜小窝, server: shzf.jykeji.xyz, port: 49561, type: ss, cipher: chacha20-ietf-poly1305, password: 5988b8ab-8088-411c-9fde-395146a68c11, udp: true}
-- {name: 🇺🇸 美国6 - 锦瑜小窝, server: shcm.motions.top, port: 46145, type: ss, cipher: chacha20-ietf-poly1305, password: 5988b8ab-8088-411c-9fde-395146a68c11, udp: true}
-- {name: 🇲🇾 马来1 - 锦瑜小窝, server: gzyd.jykeji.xyz, port: 27136, type: ss, cipher: chacha20-ietf-poly1305, password: 5988b8ab-8088-411c-9fde-395146a68c11, udp: true}
-- {name: 🇩🇪 德国1 - 锦瑜小窝, server: shcu.xn--fiqr9egvchy8d.com, port: 53930, type: ss, cipher: chacha20-ietf-poly1305, password: 5988b8ab-8088-411c-9fde-395146a68c11, udp: true}
-- {name: 🇩🇪 德国2 - 锦瑜小窝, server: gyzf.jykeji.xyz, port: 21373, type: ss, cipher: chacha20-ietf-poly1305, password: 5988b8ab-8088-411c-9fde-395146a68c11, udp: true}
-- {name: 🇩🇪 德国3 - 锦瑜小窝, server: bjcu.xzyunjiasu.icu, port: 33862, type: ss, cipher: chacha20-ietf-poly1305, password: 5988b8ab-8088-411c-9fde-395146a68c11, udp: true}
-- {name: 🇬🇧 英国1 - 锦瑜小窝, server: gyzf.jykeji.xyz, port: 35163, type: ss, cipher: chacha20-ietf-poly1305, password: 5988b8ab-8088-411c-9fde-395146a68c11, udp: true}
-- {name: 🇬🇧 英国2 - 锦瑜小窝, server: gyzf.jykeji.xyz, port: 35163, type: ss, cipher: chacha20-ietf-poly1305, password: 5988b8ab-8088-411c-9fde-395146a68c11, udp: true}
-- {name: 🇬🇧 英国3 - 锦瑜小窝, server: bjcu.xzyunjiasu.icu, port: 27927, type: ss, cipher: chacha20-ietf-poly1305, password: 5988b8ab-8088-411c-9fde-395146a68c11, udp: true}
-- {name: 🇫🇷 法国1 - 锦瑜小窝, server: gyzf.jykeji.xyz, port: 26771, type: ss, cipher: chacha20-ietf-poly1305, password: 5988b8ab-8088-411c-9fde-395146a68c11, udp: true}
-- {name: 🇫🇷 法国2 - 锦瑜小窝, server: shcu.xn--fiqr9egvchy8d.com, port: 35152, type: ss, cipher: chacha20-ietf-poly1305, password: 5988b8ab-8088-411c-9fde-395146a68c11, udp: true}
-- {name: 🇫🇷 法国3 - 锦瑜小窝, server: bjcu.xzyunjiasu.icu, port: 27546, type: ss, cipher: chacha20-ietf-poly1305, password: 5988b8ab-8088-411c-9fde-395146a68c11, udp: true}
-- {name: 🇹🇷 土耳其1 - 锦瑜小窝, server: gzyd.jykeji.xyz, port: 25552, type: ss, cipher: chacha20-ietf-poly1305, password: 5988b8ab-8088-411c-9fde-395146a68c11, udp: true}
-- {name: 🇹🇷 土耳其2 - 锦瑜小窝, server: shcu.xn--fiqr9egvchy8d.com, port: 30091, type: ss, cipher: chacha20-ietf-poly1305, password: 5988b8ab-8088-411c-9fde-395146a68c11, udp: true}
-- {name: 🇹🇷 土耳其3 - 锦瑜小窝, server: bjcu.xzyunjiasu.icu, port: 34164, type: ss, cipher: chacha20-ietf-poly1305, password: 5988b8ab-8088-411c-9fde-395146a68c11, udp: true}
+- {name: 🇭🇰 公益香港 - 锦瑜小窝, server: ahzf.jykeji.xyz, port: 16893, type: ss, cipher: chacha20-ietf-poly1305, password: bd16b202-019c-4e14-a113-d1a7a931e44a, udp: true}
+- {name: 🇹🇼 公益台湾 - 锦瑜小窝, server: ahzf.jykeji.xyz, port: 31239, type: ss, cipher: chacha20-ietf-poly1305, password: bd16b202-019c-4e14-a113-d1a7a931e44a, udp: true}
+- {name: 🇯🇵 公益日本 - 锦瑜小窝, server: shcm.motions.top, port: 42139, type: ss, cipher: chacha20-ietf-poly1305, password: bd16b202-019c-4e14-a113-d1a7a931e44a, udp: true}
+- {name: 🇰🇷 公益韩国 - 锦瑜小窝, server: shcm.motions.top, port: 12521, type: ss, cipher: chacha20-ietf-poly1305, password: bd16b202-019c-4e14-a113-d1a7a931e44a, udp: true}
+- {name: 🇦🇺 公益澳洲 - 锦瑜小窝, server: shcm.motions.top, port: 25727, type: ss, cipher: chacha20-ietf-poly1305, password: bd16b202-019c-4e14-a113-d1a7a931e44a, udp: true}
+- {name: 🇺🇸 公益美国 - 锦瑜小窝, server: shcm.motions.top, port: 46145, type: ss, cipher: chacha20-ietf-poly1305, password: bd16b202-019c-4e14-a113-d1a7a931e44a, udp: true}
+- {name: 🇩🇪 公益德国 - 锦瑜小窝, server: shcu.xn--fiqr9egvchy8d.com, port: 53930, type: ss, cipher: chacha20-ietf-poly1305, password: bd16b202-019c-4e14-a113-d1a7a931e44a, udp: true}
+- {name: 🇬🇧 公益英国 - 锦瑜小窝, server: gyzf.jykeji.xyz, port: 35163, type: ss, cipher: chacha20-ietf-poly1305, password: bd16b202-019c-4e14-a113-d1a7a931e44a, udp: true}
+- {name: 🇫🇷 公益法国 - 锦瑜小窝, server: shcu.xn--fiqr9egvchy8d.com, port: 35152, type: ss, cipher: chacha20-ietf-poly1305, password: bd16b202-019c-4e14-a113-d1a7a931e44a, udp: true}
+- {name: 公益土耳 - 锦瑜小窝, server: gzyd.jykeji.xyz, port: 25552, type: ss, cipher: chacha20-ietf-poly1305, password: bd16b202-019c-4e14-a113-d1a7a931e44a, udp: true}
 rules:
 - DOMAIN-SUFFIX,acl4.ssr,DIRECT
 - DOMAIN-SUFFIX,ip6-localhost,DIRECT

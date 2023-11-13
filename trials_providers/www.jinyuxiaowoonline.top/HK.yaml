@@ -1,8 +1,4 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇭🇰 香港1 - 锦瑜小窝, server: gyzf.jykeji.xyz, port: 41815, type: ss, cipher: chacha20-ietf-poly1305, password: 5988b8ab-8088-411c-9fde-395146a68c11, udp: true}
-- {name: 🇭🇰 香港2 - 锦瑜小窝, server: gyzf.jykeji.xyz, port: 41815, type: ss, cipher: chacha20-ietf-poly1305, password: 5988b8ab-8088-411c-9fde-395146a68c11, udp: true}
-- {name: 🇭🇰 香港3 - 锦瑜小窝, server: gyzf.jykeji.xyz, port: 41815, type: ss, cipher: chacha20-ietf-poly1305, password: 5988b8ab-8088-411c-9fde-395146a68c11, udp: true}
-- {name: 🇭🇰 香港4 - 锦瑜小窝, server: shcm.motions.top, port: 14130, type: ss, cipher: chacha20-ietf-poly1305, password: 5988b8ab-8088-411c-9fde-395146a68c11, udp: true}
-- {name: 🇭🇰 香港5 - 锦瑜小窝, server: ahzf.jykeji.xyz, port: 16893, type: ss, cipher: chacha20-ietf-poly1305, password: 5988b8ab-8088-411c-9fde-395146a68c11, udp: true}
+- {name: 🇭🇰 公益香港 - 锦瑜小窝, server: ahzf.jykeji.xyz, port: 16893, type: ss, cipher: chacha20-ietf-poly1305, password: bd16b202-019c-4e14-a113-d1a7a931e44a, udp: true}
