@@ -10,17 +10,13 @@ proxy-groups:
   type: select
   proxies:
   - ⚡ ‍低延迟
-  - 🇭🇰 ‍香港
   - 🇹🇼 ‍台湾
-  - 🇨🇳 ‍中国
   - 🇸🇬 ‍新加坡
   - 🇯🇵 ‍日本
   - 🇺🇸 ‍美国
   - 🎏 ‍其他
   - 👆🏻 ‍指定
-  - 👆🏻🇭🇰 ‍香港
   - 👆🏻🇹🇼 ‍台湾
-  - 👆🏻🇨🇳 ‍中国
   - 👆🏻🇸🇬 ‍新加坡
   - 👆🏻🇯🇵 ‍日本
   - 👆🏻🇺🇸 ‍美国
@@ -28,30 +24,13 @@ proxy-groups:
   - DIRECT
 - name: ⚡ ‍低延迟
   type: url-test
-  url: https://i.ytimg.com/generate_204
-  interval: 30
   tolerance: 100
-  proxies: &id001
-  - 🇭🇰 香港 1 - 西瓜皮是真的皮
-  - 🇭🇰 香港 2 - 西瓜皮是真的皮
-  - 🇹🇼 台湾 1 动画疯 - 西瓜皮是真的皮
-  - 🇹🇼 台湾 2 动画疯 - 西瓜皮是真的皮
-  - 🇸🇬 新加坡 1 Netflix  - 西瓜皮是真的皮
-  - 🇸🇬 新加坡 2 Netflix - 西瓜皮是真的皮
-  - 🇯🇵 日本 1 Nico Abema - 西瓜皮是真的皮
-  - 🇯🇵 日本 2 Nico Abema - 西瓜皮是真的皮
-  - 🇺🇸 美国 1 ChatGPT - 西瓜皮是真的皮
-  - 🇺🇸 美国 2 ChatGPT - 西瓜皮是真的皮
-  - 🇷🇺 俄罗斯 1 - 西瓜皮是真的皮
-  - 🇫🇷 法国 1 - 西瓜皮是真的皮
-  - 🇬🇧 英国 1 - 西瓜皮是真的皮
-  - 🇳🇱 荷兰 1 - 西瓜皮是真的皮
-  - 🇩🇪 德国 1 - 西瓜皮是真的皮
-  - 🇮🇩 印度尼西亚 1 - 西瓜皮是真的皮
-  - 🇹🇭 泰国 1 - 西瓜皮是真的皮
-  - 🇻🇳 越南 1 - 西瓜皮是真的皮
-  - 🇮🇳 印度 1 - 西瓜皮是真的皮
-  - 🇹🇷 土耳其 1 - 西瓜皮是真的皮
+  use: &id001
+  - TW
+  - SG
+  - JP
+  - US
+  - Other
 - name: 🛩️ ‍墙内
   type: select
   proxies:
@@ -67,14 +46,10 @@ proxy-groups:
 - name: 📺 ‍B站
   type: select
   proxies:
-  - 🇨🇳 ‍中国
-  - 🇭🇰 ‍香港
   - 🇹🇼 ‍台湾
   - 🛩️ ‍墙内
   - 👆🏻 ‍指定
-  - 👆🏻🇭🇰 ‍香港
   - 👆🏻🇹🇼 ‍台湾
-  - 👆🏻🇨🇳 ‍中国
   - ✈️ ‍起飞
 - name: 🤖 ‍OpenAI+Bing
   type: select
@@ -98,117 +73,95 @@ proxy-groups:
   - ✈️ ‍起飞
   - 🛩️ ‍墙内
   - 💩 ‍广告
-- name: 🇭🇰 ‍香港
-  type: url-test
-  url: https://i.ytimg.com/generate_204
-  interval: 15
-  tolerance: 100
-  proxies: &id002
-  - 🇭🇰 香港 1 - 西瓜皮是真的皮
-  - 🇭🇰 香港 2 - 西瓜皮是真的皮
 - name: 🇹🇼 ‍台湾
   type: url-test
-  url: https://i.ytimg.com/generate_204
-  interval: 15
   tolerance: 100
-  proxies: &id003
-  - 🇹🇼 台湾 1 动画疯 - 西瓜皮是真的皮
-  - 🇹🇼 台湾 2 动画疯 - 西瓜皮是真的皮
-- name: 🇨🇳 ‍中国
-  type: url-test
-  url: https://i.ytimg.com/generate_204
-  interval: 15
-  tolerance: 100
-  proxies: &id004
-  - 🇭🇰 香港 1 - 西瓜皮是真的皮
-  - 🇭🇰 香港 2 - 西瓜皮是真的皮
-  - 🇹🇼 台湾 1 动画疯 - 西瓜皮是真的皮
-  - 🇹🇼 台湾 2 动画疯 - 西瓜皮是真的皮
+  use: &id002
+  - TW
 - name: 🇸🇬 ‍新加坡
   type: url-test
-  url: https://i.ytimg.com/generate_204
-  interval: 15
   tolerance: 100
-  proxies: &id005
-  - 🇸🇬 新加坡 1 Netflix  - 西瓜皮是真的皮
-  - 🇸🇬 新加坡 2 Netflix - 西瓜皮是真的皮
+  use: &id003
+  - SG
 - name: 🇯🇵 ‍日本
   type: url-test
-  url: https://i.ytimg.com/generate_204
-  interval: 15
   tolerance: 100
-  proxies: &id006
-  - 🇯🇵 日本 1 Nico Abema - 西瓜皮是真的皮
-  - 🇯🇵 日本 2 Nico Abema - 西瓜皮是真的皮
+  use: &id004
+  - JP
 - name: 🇺🇸 ‍美国
   type: url-test
-  url: https://i.ytimg.com/generate_204
-  interval: 15
   tolerance: 300
-  proxies: &id007
-  - 🇺🇸 美国 1 ChatGPT - 西瓜皮是真的皮
-  - 🇺🇸 美国 2 ChatGPT - 西瓜皮是真的皮
+  use: &id005
+  - US
 - name: 🎏 ‍其他
   type: url-test
-  url: https://i.ytimg.com/generate_204
-  interval: 30
   tolerance: 100
-  proxies: &id008
-  - 🇷🇺 俄罗斯 1 - 西瓜皮是真的皮
-  - 🇫🇷 法国 1 - 西瓜皮是真的皮
-  - 🇬🇧 英国 1 - 西瓜皮是真的皮
-  - 🇳🇱 荷兰 1 - 西瓜皮是真的皮
-  - 🇩🇪 德国 1 - 西瓜皮是真的皮
-  - 🇮🇩 印度尼西亚 1 - 西瓜皮是真的皮
-  - 🇹🇭 泰国 1 - 西瓜皮是真的皮
-  - 🇻🇳 越南 1 - 西瓜皮是真的皮
-  - 🇮🇳 印度 1 - 西瓜皮是真的皮
-  - 🇹🇷 土耳其 1 - 西瓜皮是真的皮
+  use: &id006
+  - Other
 - name: 👆🏻 ‍指定
   type: select
-  proxies: *id001
-- name: 👆🏻🇭🇰 ‍香港
-  type: select
-  proxies: *id002
+  use: *id001
 - name: 👆🏻🇹🇼 ‍台湾
   type: select
-  proxies: *id003
-- name: 👆🏻🇨🇳 ‍中国
-  type: select
-  proxies: *id004
+  use: *id002
 - name: 👆🏻🇸🇬 ‍新加坡
   type: select
-  proxies: *id005
+  use: *id003
 - name: 👆🏻🇯🇵 ‍日本
   type: select
-  proxies: *id006
+  use: *id004
 - name: 👆🏻🇺🇸 ‍美国
   type: select
-  proxies: *id007
+  use: *id005
 - name: 👆🏻🎏 ‍其他
   type: select
-  proxies: *id008
-proxies:
-- {name: 🇭🇰 香港 1 - 西瓜皮是真的皮, server: gzxd1.dx001.top, port: 19811, type: vmess, uuid: 8ad43364-b7c6-33af-b34a-656ac967b1a4, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 香港 2 - 西瓜皮是真的皮, server: cm-01.dx001.top, port: 19812, type: vmess, uuid: 8ad43364-b7c6-33af-b34a-656ac967b1a4, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇹🇼 台湾 1 动画疯 - 西瓜皮是真的皮, server: cm-01.dx001.top, port: 19821, type: vmess, uuid: 8ad43364-b7c6-33af-b34a-656ac967b1a4, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇹🇼 台湾 2 动画疯 - 西瓜皮是真的皮, server: ct-01.dx001.top, port: 19822, type: vmess, uuid: 8ad43364-b7c6-33af-b34a-656ac967b1a4, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 日本 1 Nico Abema - 西瓜皮是真的皮, server: gzxd1.dx001.top, port: 19831, type: vmess, uuid: 8ad43364-b7c6-33af-b34a-656ac967b1a4, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 日本 2 Nico Abema - 西瓜皮是真的皮, server: cm-01.dx001.top, port: 19832, type: vmess, uuid: 8ad43364-b7c6-33af-b34a-656ac967b1a4, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇸🇬 新加坡 1 Netflix  - 西瓜皮是真的皮, server: xg.cm.go002.xyz, port: 19841, type: vmess, uuid: 8ad43364-b7c6-33af-b34a-656ac967b1a4, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇸🇬 新加坡 2 Netflix - 西瓜皮是真的皮, server: xg.ct1.go002.xyz, port: 19842, type: vmess, uuid: 8ad43364-b7c6-33af-b34a-656ac967b1a4, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 美国 1 ChatGPT - 西瓜皮是真的皮, server: xg.cm.go002.xyz, port: 19861, type: vmess, uuid: 8ad43364-b7c6-33af-b34a-656ac967b1a4, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 美国 2 ChatGPT - 西瓜皮是真的皮, server: xg.ct1.go002.xyz, port: 19862, type: vmess, uuid: 8ad43364-b7c6-33af-b34a-656ac967b1a4, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇷🇺 俄罗斯 1 - 西瓜皮是真的皮, server: xg.cm.go002.xyz, port: 19894, type: vmess, uuid: 8ad43364-b7c6-33af-b34a-656ac967b1a4, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇫🇷 法国 1 - 西瓜皮是真的皮, server: xg.cm.go002.xyz, port: 19892, type: vmess, uuid: 8ad43364-b7c6-33af-b34a-656ac967b1a4, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇬🇧 英国 1 - 西瓜皮是真的皮, server: gzxd1.dx001.top, port: 19893, type: vmess, uuid: 8ad43364-b7c6-33af-b34a-656ac967b1a4, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇳🇱 荷兰 1 - 西瓜皮是真的皮, server: xg.cm.go002.xyz, port: 19895, type: vmess, uuid: 8ad43364-b7c6-33af-b34a-656ac967b1a4, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇩🇪 德国 1 - 西瓜皮是真的皮, server: xg.cm.go002.xyz, port: 19891, type: vmess, uuid: 8ad43364-b7c6-33af-b34a-656ac967b1a4, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇮🇩 印度尼西亚 1 - 西瓜皮是真的皮, server: xg.cm.go002.xyz, port: 19883, type: vmess, uuid: 8ad43364-b7c6-33af-b34a-656ac967b1a4, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇹🇭 泰国 1 - 西瓜皮是真的皮, server: xg.cm.go002.xyz, port: 19884, type: vmess, uuid: 8ad43364-b7c6-33af-b34a-656ac967b1a4, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇻🇳 越南 1 - 西瓜皮是真的皮, server: xg.cm.go002.xyz, port: 19885, type: vmess, uuid: 8ad43364-b7c6-33af-b34a-656ac967b1a4, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇮🇳 印度 1 - 西瓜皮是真的皮, server: xg.cm.go002.xyz, port: 19882, type: vmess, uuid: 8ad43364-b7c6-33af-b34a-656ac967b1a4, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇹🇷 土耳其 1 - 西瓜皮是真的皮, server: xg.cm.go002.xyz, port: 19881, type: vmess, uuid: 8ad43364-b7c6-33af-b34a-656ac967b1a4, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+  use: *id006
+proxy-providers:
+  TW:
+    type: http
+    url: https://raw.kgithub.com/mfbpn/tg_mfbpn_sub/main/trials_providers/www.sscurl.com/TW.yaml
+    interval: 180
+    path: trials_providers/www.sscurl.com/TW.yaml
+    health-check:
+      enable: true
+      url: https://i.ytimg.com/generate_204
+      interval: 30
+  SG:
+    type: http
+    url: https://raw.kgithub.com/mfbpn/tg_mfbpn_sub/main/trials_providers/www.sscurl.com/SG.yaml
+    interval: 180
+    path: trials_providers/www.sscurl.com/SG.yaml
+    health-check:
+      enable: true
+      url: https://i.ytimg.com/generate_204
+      interval: 30
+  JP:
+    type: http
+    url: https://raw.kgithub.com/mfbpn/tg_mfbpn_sub/main/trials_providers/www.sscurl.com/JP.yaml
+    interval: 180
+    path: trials_providers/www.sscurl.com/JP.yaml
+    health-check:
+      enable: true
+      url: https://i.ytimg.com/generate_204
+      interval: 30
+  US:
+    type: http
+    url: https://raw.kgithub.com/mfbpn/tg_mfbpn_sub/main/trials_providers/www.sscurl.com/US.yaml
+    interval: 180
+    path: trials_providers/www.sscurl.com/US.yaml
+    health-check:
+      enable: true
+      url: https://i.ytimg.com/generate_204
+      interval: 30
+  Other:
+    type: http
+    url: https://raw.kgithub.com/mfbpn/tg_mfbpn_sub/main/trials_providers/www.sscurl.com/Other.yaml
+    interval: 180
+    path: trials_providers/www.sscurl.com/Other.yaml
+    health-check:
+      enable: true
+      url: https://i.ytimg.com/generate_204
+      interval: 30
 rules:
 - DOMAIN-SUFFIX,acl4.ssr,DIRECT
 - DOMAIN-SUFFIX,ip6-localhost,DIRECT
