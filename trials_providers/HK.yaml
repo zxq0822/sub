@@ -13,8 +13,8 @@ proxies:
 - {name: 🇭🇰 香港1 - 十元一年, server: cnshdxzz.newbluecloud.top, port: 31022, type: ss, cipher: chacha20-ietf-poly1305, password: fb65a690-34d6-4f2b-8040-955899e705cd, udp: true}
 - {name: 🇭🇰 Hongkong - 番茄云, server: dl1.fanqiecloud.top, port: 2052, type: vmess, uuid: 30a9061c-c185-43f3-a862-1e8edc7d1dd1, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /sssddd, headers: {Host: cf-hk.fanqiecloud.top}}, udp: true}
 - {name: 🇭🇰 Hongkong 2 - 番茄云, server: proxy1.fanqiecloud.top, port: 30050, type: ss, cipher: chacha20-ietf-poly1305, password: 30a9061c-c185-43f3-a862-1e8edc7d1dd1, udp: true}
-- {name: 🇭🇰 香港 1 - 西瓜皮是真的皮, server: gzxd1.dx001.top, port: 19811, type: vmess, uuid: 3963a40f-0349-393b-aa68-f1de111ce6a1, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 香港 2 - 西瓜皮是真的皮, server: cm-01.dx001.top, port: 19812, type: vmess, uuid: 3963a40f-0349-393b-aa68-f1de111ce6a1, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 香港 1 - 西瓜皮是真的皮, server: gzxd1.dx001.top, port: 19811, type: vmess, uuid: c2334ffa-8c39-32f5-8256-f7fbda78cc56, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 香港 2 - 西瓜皮是真的皮, server: cm-01.dx001.top, port: 19812, type: vmess, uuid: c2334ffa-8c39-32f5-8256-f7fbda78cc56, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇭🇰 HK / 香港 | 华南 - 小白云, server: hk1.iepl.cooc.icu, port: 21881, type: ss, cipher: aes-256-gcm, password: 15377ed2-f666-41e1-a184-1d1f92da9aa4, udp: true}
 - {name: 🇭🇰 HK / 香港 | 华东 - 小白云, server: hk2.iepl.cooc.icu, port: 22881, type: ss, cipher: aes-256-gcm, password: 15377ed2-f666-41e1-a184-1d1f92da9aa4, udp: true}
 - {name: 🇭🇰 HK / 香港 | 混合 - 小白云, server: hk3.iepl.cooc.icu, port: 23881, type: ss, cipher: aes-256-gcm, password: 15377ed2-f666-41e1-a184-1d1f92da9aa4, udp: true}
@@ -30,7 +30,7 @@ proxies:
 - {name: 🇭🇰 香港/HK | 杭联 - 鸡鸡云, server: zzzjlt.jjyhk.com, port: 11917, type: ss, cipher: chacha20-ietf-poly1305, password: c6ef0beb-32d1-486d-9772-10c6b646dbf1, udp: true}
 - {name: 🇭🇰 香港/HK | 沪日 - 鸡鸡云, server: zzshdx.jjyhk.com, port: 11917, type: ss, cipher: chacha20-ietf-poly1305, password: c6ef0beb-32d1-486d-9772-10c6b646dbf1, udp: true}
 - {name: 🇭🇰 香港/HK | 苏移 - 鸡鸡云, server: zzjsyd.jjyhk.com, port: 11914, type: ss, cipher: chacha20-ietf-poly1305, password: c6ef0beb-32d1-486d-9772-10c6b646dbf1, udp: true}
-- {name: 🇭🇰-专线②-2.5倍 - 大湾区机场, server: s8.daxiongda.top, port: 20803, type: ss, cipher: chacha20-ietf-poly1305, password: b1ba170f-2791-4b9a-a3ca-04d37189eefb, udp: true}
+- {name: 🇭🇰-专线②-2.5倍 - 大湾区机场, server: s8.daxiongda.top, port: 20803, type: ss, cipher: chacha20-ietf-poly1305, password: e3efe6ae-75ed-4e2b-8a75-5ee150708019, udp: true}
 - {name: 🇭🇰 香港 101 - 墙了个墙, server: hkvip102.qlgq1.pw, port: 10443, type: trojan, password: 65f60132-fb1c-3eec-98f5-1f3ad5973028, sni: hkvip102.qlgq1.pw, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: hkvip102}, udp: true}
 - {name: 🇭🇰 香港 102 - 墙了个墙, server: hkvip102.qlgq1.pw, port: 20443, type: trojan, password: 65f60132-fb1c-3eec-98f5-1f3ad5973028, sni: hkvip102.qlgq1.pw, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: hkvip102}, udp: true}
 - {name: 🇭🇰 香港 103 - 墙了个墙, server: hkvip102.qlgq1.pw, port: 30443, type: trojan, password: 65f60132-fb1c-3eec-98f5-1f3ad5973028, sni: hkvip102.qlgq1.pw, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: hkvip102}, udp: true}
