@@ -1,0 +1,9 @@
+%YAML 1.1
+---
+proxies:
+- {name: 🇸🇬 狮城1 - 锦瑜小窝, server: gyzf.jykeji.xyz, port: 30353, type: ss, cipher: chacha20-ietf-poly1305, password: 5988b8ab-8088-411c-9fde-395146a68c11, udp: true}
+- {name: 🇸🇬 狮城2 - 锦瑜小窝, server: gyzf.jykeji.xyz, port: 30353, type: ss, cipher: chacha20-ietf-poly1305, password: 5988b8ab-8088-411c-9fde-395146a68c11, udp: true}
+- {name: 🇸🇬 狮城3 - 锦瑜小窝, server: gyzf.jykeji.xyz, port: 30353, type: ss, cipher: chacha20-ietf-poly1305, password: 5988b8ab-8088-411c-9fde-395146a68c11, udp: true}
+- {name: 🇸🇬 狮城4 - 锦瑜小窝, server: gyzf.jykeji.xyz, port: 30353, type: ss, cipher: chacha20-ietf-poly1305, password: 5988b8ab-8088-411c-9fde-395146a68c11, udp: true}
+- {name: 🇸🇬 狮城5 - 锦瑜小窝, server: gyzf.jykeji.xyz, port: 30353, type: ss, cipher: chacha20-ietf-poly1305, password: 5988b8ab-8088-411c-9fde-395146a68c11, udp: true}
+- {name: 🇸🇬 狮城6 - 锦瑜小窝, server: gyzf.jykeji.xyz, port: 30353, type: ss, cipher: chacha20-ietf-poly1305, password: 5988b8ab-8088-411c-9fde-395146a68c11, udp: true}

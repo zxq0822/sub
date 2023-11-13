@@ -1,0 +1,9 @@
+%YAML 1.1
+---
+proxies:
+- {name: 🇺🇸 美国1 - 锦瑜小窝, server: shzf.jykeji.xyz, port: 49561, type: ss, cipher: chacha20-ietf-poly1305, password: 5988b8ab-8088-411c-9fde-395146a68c11, udp: true}
+- {name: 🇺🇸 美国2 - 锦瑜小窝, server: shzf.jykeji.xyz, port: 49561, type: ss, cipher: chacha20-ietf-poly1305, password: 5988b8ab-8088-411c-9fde-395146a68c11, udp: true}
+- {name: 🇺🇸 美国3 - 锦瑜小窝, server: shzf.jykeji.xyz, port: 49561, type: ss, cipher: chacha20-ietf-poly1305, password: 5988b8ab-8088-411c-9fde-395146a68c11, udp: true}
+- {name: 🇺🇸 美国4 - 锦瑜小窝, server: shzf.jykeji.xyz, port: 49561, type: ss, cipher: chacha20-ietf-poly1305, password: 5988b8ab-8088-411c-9fde-395146a68c11, udp: true}
+- {name: 🇺🇸 美国5 - 锦瑜小窝, server: shzf.jykeji.xyz, port: 49561, type: ss, cipher: chacha20-ietf-poly1305, password: 5988b8ab-8088-411c-9fde-395146a68c11, udp: true}
+- {name: 🇺🇸 美国6 - 锦瑜小窝, server: shcm.motions.top, port: 46145, type: ss, cipher: chacha20-ietf-poly1305, password: 5988b8ab-8088-411c-9fde-395146a68c11, udp: true}

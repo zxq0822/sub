@@ -28,23 +28,14 @@ proxy-groups:
   - DIRECT
 - name: ⚡ ‍低延迟
   type: url-test
-  url: https://i.ytimg.com/generate_204
-  interval: 30
   tolerance: 100
-  proxies: &id001
-  - 🇭🇰 香港2-广港隧道-解锁 - 快云
-  - 🇭🇰 香港7-上港隧道-解锁 - 快云
-  - 🇭🇰 香港1-广港隧道 - 快云
-  - 🇭🇰 香港-广港隧道-解锁 - 快云
-  - 🇭🇰 香港-杭隧道-解锁 - 快云
-  - 🇭🇰 香港6-广港隧道-解锁 - 快云
-  - 🇹🇼 台湾-广港隧道-解锁 - 快云
-  - 🇸🇬 新加坡2-杭新隧道-解锁 - 快云
-  - 🇯🇵 v2日本-广日隧道 - 快云
-  - 🇯🇵 日本1-上日隧道-解锁 - 快云
-  - 🇺🇸 美国1-杭港隧道-解锁 - 快云
-  - 🇺🇸 美国2-广港隧道-解锁 - 快云
-  - 🇨🇦 加拿大-杭港隧道-解锁 - 快云
+  use: &id001
+  - HK
+  - TW
+  - SG
+  - JP
+  - US
+  - Other
 - name: 🛩️ ‍墙内
   type: select
   proxies:
@@ -93,104 +84,119 @@ proxy-groups:
   - 💩 ‍广告
 - name: 🇭🇰 ‍香港
   type: url-test
-  url: https://i.ytimg.com/generate_204
-  interval: 15
   tolerance: 100
-  proxies: &id002
-  - 🇭🇰 香港2-广港隧道-解锁 - 快云
-  - 🇭🇰 香港7-上港隧道-解锁 - 快云
-  - 🇭🇰 香港1-广港隧道 - 快云
-  - 🇭🇰 香港-广港隧道-解锁 - 快云
-  - 🇭🇰 香港-杭隧道-解锁 - 快云
-  - 🇭🇰 香港6-广港隧道-解锁 - 快云
+  use: &id002
+  - HK
 - name: 🇹🇼 ‍台湾
   type: url-test
-  url: https://i.ytimg.com/generate_204
-  interval: 15
   tolerance: 100
-  proxies: &id003
-  - 🇹🇼 台湾-广港隧道-解锁 - 快云
+  use: &id003
+  - TW
 - name: 🇨🇳 ‍中国
   type: url-test
-  url: https://i.ytimg.com/generate_204
-  interval: 15
   tolerance: 100
-  proxies: &id004
-  - 🇭🇰 香港2-广港隧道-解锁 - 快云
-  - 🇭🇰 香港7-上港隧道-解锁 - 快云
-  - 🇭🇰 香港1-广港隧道 - 快云
-  - 🇭🇰 香港-广港隧道-解锁 - 快云
-  - 🇭🇰 香港-杭隧道-解锁 - 快云
-  - 🇭🇰 香港6-广港隧道-解锁 - 快云
-  - 🇹🇼 台湾-广港隧道-解锁 - 快云
+  use: &id004
+  - HK
+  - TW
 - name: 🇸🇬 ‍新加坡
   type: url-test
-  url: https://i.ytimg.com/generate_204
-  interval: 15
   tolerance: 100
-  proxies: &id005
-  - 🇸🇬 新加坡2-杭新隧道-解锁 - 快云
+  use: &id005
+  - SG
 - name: 🇯🇵 ‍日本
   type: url-test
-  url: https://i.ytimg.com/generate_204
-  interval: 15
   tolerance: 100
-  proxies: &id006
-  - 🇯🇵 v2日本-广日隧道 - 快云
-  - 🇯🇵 日本1-上日隧道-解锁 - 快云
+  use: &id006
+  - JP
 - name: 🇺🇸 ‍美国
   type: url-test
-  url: https://i.ytimg.com/generate_204
-  interval: 15
   tolerance: 300
-  proxies: &id007
-  - 🇺🇸 美国1-杭港隧道-解锁 - 快云
-  - 🇺🇸 美国2-广港隧道-解锁 - 快云
+  use: &id007
+  - US
 - name: 🎏 ‍其他
   type: url-test
-  url: https://i.ytimg.com/generate_204
-  interval: 30
   tolerance: 100
-  proxies: &id008
-  - 🇨🇦 加拿大-杭港隧道-解锁 - 快云
+  use: &id008
+  - Other
 - name: 👆🏻 ‍指定
   type: select
-  proxies: *id001
+  use: *id001
 - name: 👆🏻🇭🇰 ‍香港
   type: select
-  proxies: *id002
+  use: *id002
 - name: 👆🏻🇹🇼 ‍台湾
   type: select
-  proxies: *id003
+  use: *id003
 - name: 👆🏻🇨🇳 ‍中国
   type: select
-  proxies: *id004
+  use: *id004
 - name: 👆🏻🇸🇬 ‍新加坡
   type: select
-  proxies: *id005
+  use: *id005
 - name: 👆🏻🇯🇵 ‍日本
   type: select
-  proxies: *id006
+  use: *id006
 - name: 👆🏻🇺🇸 ‍美国
   type: select
-  proxies: *id007
+  use: *id007
 - name: 👆🏻🎏 ‍其他
   type: select
-  proxies: *id008
-proxies:
-- {name: 🇺🇸 美国1-杭港隧道-解锁 - 快云, server: hz.888898.beauty, port: 46331, type: vmess, uuid: c0003269-95db-3f16-aa96-00b8c55e2385, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 美国2-广港隧道-解锁 - 快云, server: gz.888898.beauty, port: 43833, type: vmess, uuid: c0003269-95db-3f16-aa96-00b8c55e2385, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 香港2-广港隧道-解锁 - 快云, server: gz.888898.beauty, port: 23034, type: vmess, uuid: c0003269-95db-3f16-aa96-00b8c55e2385, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 香港7-上港隧道-解锁 - 快云, server: gd.888888.wtf, port: 39158, type: vmess, uuid: c0003269-95db-3f16-aa96-00b8c55e2385, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 香港1-广港隧道 - 快云, server: gz.888898.beauty, port: 52239, type: vmess, uuid: c0003269-95db-3f16-aa96-00b8c55e2385, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 v2日本-广日隧道 - 快云, server: gd.888888.wtf, port: 16422, type: vmess, uuid: c0003269-95db-3f16-aa96-00b8c55e2385, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇨🇦 加拿大-杭港隧道-解锁 - 快云, server: hz.888898.beauty, port: 43689, type: vmess, uuid: c0003269-95db-3f16-aa96-00b8c55e2385, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇹🇼 台湾-广港隧道-解锁 - 快云, server: hz.888898.beauty, port: 46913, type: vmess, uuid: c0003269-95db-3f16-aa96-00b8c55e2385, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇸🇬 新加坡2-杭新隧道-解锁 - 快云, server: hz.888898.beauty, port: 43667, type: vmess, uuid: c0003269-95db-3f16-aa96-00b8c55e2385, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 日本1-上日隧道-解锁 - 快云, server: sh.888888.wtf, port: 23416, type: vmess, uuid: c0003269-95db-3f16-aa96-00b8c55e2385, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 香港-广港隧道-解锁 - 快云, server: gd.888888.wtf, port: 34116, type: vmess, uuid: c0003269-95db-3f16-aa96-00b8c55e2385, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, servername: 45.8.186.55, udp: true}
-- {name: 🇭🇰 香港-杭隧道-解锁 - 快云, server: gz.888898.beauty, port: 50674, type: vmess, uuid: c0003269-95db-3f16-aa96-00b8c55e2385, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 香港6-广港隧道-解锁 - 快云, server: gz.888898.beauty, port: 47916, type: vmess, uuid: c0003269-95db-3f16-aa96-00b8c55e2385, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+  use: *id008
+proxy-providers:
+  HK:
+    type: http
+    url: https://raw.kgithub.com/mfbpn/tg_mfbpn_sub/main/trials_providers/www.jinyuxiaowoonline.top/HK.yaml
+    interval: 180
+    path: trials_providers/www.jinyuxiaowoonline.top/HK.yaml
+    health-check:
+      enable: true
+      url: https://i.ytimg.com/generate_204
+      interval: 30
+  TW:
+    type: http
+    url: https://raw.kgithub.com/mfbpn/tg_mfbpn_sub/main/trials_providers/www.jinyuxiaowoonline.top/TW.yaml
+    interval: 180
+    path: trials_providers/www.jinyuxiaowoonline.top/TW.yaml
+    health-check:
+      enable: true
+      url: https://i.ytimg.com/generate_204
+      interval: 30
+  SG:
+    type: http
+    url: https://raw.kgithub.com/mfbpn/tg_mfbpn_sub/main/trials_providers/www.jinyuxiaowoonline.top/SG.yaml
+    interval: 180
+    path: trials_providers/www.jinyuxiaowoonline.top/SG.yaml
+    health-check:
+      enable: true
+      url: https://i.ytimg.com/generate_204
+      interval: 30
+  JP:
+    type: http
+    url: https://raw.kgithub.com/mfbpn/tg_mfbpn_sub/main/trials_providers/www.jinyuxiaowoonline.top/JP.yaml
+    interval: 180
+    path: trials_providers/www.jinyuxiaowoonline.top/JP.yaml
+    health-check:
+      enable: true
+      url: https://i.ytimg.com/generate_204
+      interval: 30
+  US:
+    type: http
+    url: https://raw.kgithub.com/mfbpn/tg_mfbpn_sub/main/trials_providers/www.jinyuxiaowoonline.top/US.yaml
+    interval: 180
+    path: trials_providers/www.jinyuxiaowoonline.top/US.yaml
+    health-check:
+      enable: true
+      url: https://i.ytimg.com/generate_204
+      interval: 30
+  Other:
+    type: http
+    url: https://raw.kgithub.com/mfbpn/tg_mfbpn_sub/main/trials_providers/www.jinyuxiaowoonline.top/Other.yaml
+    interval: 180
+    path: trials_providers/www.jinyuxiaowoonline.top/Other.yaml
+    health-check:
+      enable: true
+      url: https://i.ytimg.com/generate_204
+      interval: 30
 rules:
 - DOMAIN-SUFFIX,acl4.ssr,DIRECT
 - DOMAIN-SUFFIX,ip6-localhost,DIRECT
