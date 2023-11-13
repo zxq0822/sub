@@ -10,11 +10,13 @@ proxy-groups:
   type: select
   proxies:
   - ⚡ ‍低延迟
+  - 🇭🇰 ‍香港
   - 🇸🇬 ‍新加坡
   - 🇯🇵 ‍日本
   - 🇺🇸 ‍美国
   - 🎏 ‍其他
   - 👆🏻 ‍指定
+  - 👆🏻🇭🇰 ‍香港
   - 👆🏻🇸🇬 ‍新加坡
   - 👆🏻🇯🇵 ‍日本
   - 👆🏻🇺🇸 ‍美国
@@ -26,11 +28,14 @@ proxy-groups:
   interval: 30
   tolerance: 100
   proxies: &id001
-  - 🇸🇬-专线①-1.75倍 - 大湾区机场
-  - 🇸🇬-专线②-1.75倍 - 大湾区机场
+  - 🇭🇰-专线②-2.5倍 - 大湾区机场
+  - 🇸🇬-专线（油管无广告）①-1.75倍 - 大湾区机场
+  - 🇸🇬-专线（油管无广告）②-1.75倍 - 大湾区机场
   - 🇯🇵-专线②-1.2倍 - 大湾区机场
   - 🇯🇵-专线①-1.2倍 - 大湾区机场
   - 🇯🇵 日本-直连 - 大湾区机场
+  - 🇺🇸顶级专线①-0.7倍 - 大湾区机场
+  - 🇺🇸顶级专线②-0.7倍 - 大湾区机场
   - 🇺🇸原生IP①-0.85倍 - 大湾区机场
   - 🇺🇸ChatGPT-流媒体②-0.85倍 - 大湾区机场
   - 🇺🇸精品①-1倍 - 大湾区机场
@@ -52,8 +57,10 @@ proxy-groups:
 - name: 📺 ‍B站
   type: select
   proxies:
+  - 🇭🇰 ‍香港
   - 🛩️ ‍墙内
   - 👆🏻 ‍指定
+  - 👆🏻🇭🇰 ‍香港
   - ✈️ ‍起飞
 - name: 🤖 ‍OpenAI+Bing
   type: select
@@ -75,20 +82,27 @@ proxy-groups:
   - ✈️ ‍起飞
   - 🛩️ ‍墙内
   - 💩 ‍广告
-- name: 🇸🇬 ‍新加坡
+- name: 🇭🇰 ‍香港
   type: url-test
   url: https://i.ytimg.com/generate_204
   interval: 15
   tolerance: 100
   proxies: &id002
-  - 🇸🇬-专线①-1.75倍 - 大湾区机场
-  - 🇸🇬-专线②-1.75倍 - 大湾区机场
-- name: 🇯🇵 ‍日本
+  - 🇭🇰-专线②-2.5倍 - 大湾区机场
+- name: 🇸🇬 ‍新加坡
   type: url-test
   url: https://i.ytimg.com/generate_204
   interval: 15
   tolerance: 100
   proxies: &id003
+  - 🇸🇬-专线（油管无广告）①-1.75倍 - 大湾区机场
+  - 🇸🇬-专线（油管无广告）②-1.75倍 - 大湾区机场
+- name: 🇯🇵 ‍日本
+  type: url-test
+  url: https://i.ytimg.com/generate_204
+  interval: 15
+  tolerance: 100
+  proxies: &id004
   - 🇯🇵-专线②-1.2倍 - 大湾区机场
   - 🇯🇵-专线①-1.2倍 - 大湾区机场
   - 🇯🇵 日本-直连 - 大湾区机场
@@ -97,7 +111,9 @@ proxy-groups:
   url: https://i.ytimg.com/generate_204
   interval: 15
   tolerance: 300
-  proxies: &id004
+  proxies: &id005
+  - 🇺🇸顶级专线①-0.7倍 - 大湾区机场
+  - 🇺🇸顶级专线②-0.7倍 - 大湾区机场
   - 🇺🇸原生IP①-0.85倍 - 大湾区机场
   - 🇺🇸ChatGPT-流媒体②-0.85倍 - 大湾区机场
   - 🇺🇸精品①-1倍 - 大湾区机场
@@ -109,33 +125,39 @@ proxy-groups:
   url: https://i.ytimg.com/generate_204
   interval: 30
   tolerance: 100
-  proxies: &id005
+  proxies: &id006
   - 节点失效，请手动更新。点击刷新按钮 - 大湾区机场
 - name: 👆🏻 ‍指定
   type: select
   proxies: *id001
-- name: 👆🏻🇸🇬 ‍新加坡
+- name: 👆🏻🇭🇰 ‍香港
   type: select
   proxies: *id002
-- name: 👆🏻🇯🇵 ‍日本
+- name: 👆🏻🇸🇬 ‍新加坡
   type: select
   proxies: *id003
-- name: 👆🏻🇺🇸 ‍美国
+- name: 👆🏻🇯🇵 ‍日本
   type: select
   proxies: *id004
-- name: 👆🏻🎏 ‍其他
+- name: 👆🏻🇺🇸 ‍美国
   type: select
   proxies: *id005
+- name: 👆🏻🎏 ‍其他
+  type: select
+  proxies: *id006
 proxies:
 - {name: 节点失效，请手动更新。点击刷新按钮 - 大湾区机场, server: 103.229.54.136, port: 9999, type: ss, cipher: chacha20-ietf-poly1305, password: b1ba170f-2791-4b9a-a3ca-04d37189eefb, udp: true}
 - {name: 🇯🇵-专线②-1.2倍 - 大湾区机场, server: s8.daxiongda.top, port: 18609, type: ss, cipher: chacha20-ietf-poly1305, password: b1ba170f-2791-4b9a-a3ca-04d37189eefb, udp: true}
 - {name: 🇯🇵-专线①-1.2倍 - 大湾区机场, server: s7.daxiongda.top, port: 43774, type: ss, cipher: chacha20-ietf-poly1305, password: b1ba170f-2791-4b9a-a3ca-04d37189eefb, udp: true}
+- {name: 🇺🇸顶级专线①-0.7倍 - 大湾区机场, server: s7.daxiongda.top, port: 40631, type: ss, cipher: chacha20-ietf-poly1305, password: b1ba170f-2791-4b9a-a3ca-04d37189eefb, udp: true}
+- {name: 🇺🇸顶级专线②-0.7倍 - 大湾区机场, server: s8.daxiongda.top, port: 29447, type: ss, cipher: chacha20-ietf-poly1305, password: b1ba170f-2791-4b9a-a3ca-04d37189eefb, udp: true}
 - {name: 🇺🇸原生IP①-0.85倍 - 大湾区机场, server: s7.daxiongda.top, port: 11644, type: ss, cipher: chacha20-ietf-poly1305, password: b1ba170f-2791-4b9a-a3ca-04d37189eefb, udp: true}
 - {name: 🇺🇸ChatGPT-流媒体②-0.85倍 - 大湾区机场, server: s8.daxiongda.top, port: 48995, type: ss, cipher: chacha20-ietf-poly1305, password: b1ba170f-2791-4b9a-a3ca-04d37189eefb, udp: true}
 - {name: 🇺🇸精品①-1倍 - 大湾区机场, server: s7.daxiongda.top, port: 30544, type: ss, cipher: chacha20-ietf-poly1305, password: b1ba170f-2791-4b9a-a3ca-04d37189eefb, udp: true}
 - {name: 🇺🇸精品②-1倍 - 大湾区机场, server: s8.daxiongda.top, port: 12517, type: ss, cipher: chacha20-ietf-poly1305, password: b1ba170f-2791-4b9a-a3ca-04d37189eefb, udp: true}
-- {name: 🇸🇬-专线①-1.75倍 - 大湾区机场, server: s7.daxiongda.top, port: 17844, type: ss, cipher: chacha20-ietf-poly1305, password: b1ba170f-2791-4b9a-a3ca-04d37189eefb, udp: true}
-- {name: 🇸🇬-专线②-1.75倍 - 大湾区机场, server: s8.daxiongda.top, port: 22065, type: ss, cipher: chacha20-ietf-poly1305, password: b1ba170f-2791-4b9a-a3ca-04d37189eefb, udp: true}
+- {name: 🇸🇬-专线（油管无广告）①-1.75倍 - 大湾区机场, server: s7.daxiongda.top, port: 17844, type: ss, cipher: chacha20-ietf-poly1305, password: b1ba170f-2791-4b9a-a3ca-04d37189eefb, udp: true}
+- {name: 🇸🇬-专线（油管无广告）②-1.75倍 - 大湾区机场, server: s8.daxiongda.top, port: 22065, type: ss, cipher: chacha20-ietf-poly1305, password: b1ba170f-2791-4b9a-a3ca-04d37189eefb, udp: true}
+- {name: 🇭🇰-专线②-2.5倍 - 大湾区机场, server: s8.daxiongda.top, port: 20803, type: ss, cipher: chacha20-ietf-poly1305, password: b1ba170f-2791-4b9a-a3ca-04d37189eefb, udp: true}
 - {name: 🇺🇸-直连-联通推荐 - 大湾区机场, server: 74.48.98.249, port: 8080, type: vmess, uuid: b1ba170f-2791-4b9a-a3ca-04d37189eefb, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: '/quanstring?ed=2048', headers: {Host: us.quanstring.top}}, udp: true}
 - {name: 🇺🇸-ChatGPT-流媒体-TikTok-1 倍 - 大湾区机场, server: 74.48.98.249, port: 8080, type: vmess, uuid: b1ba170f-2791-4b9a-a3ca-04d37189eefb, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: '/quanstring?ed=2048', headers: {Host: us.quanstring.top}}, udp: true}
 - {name: 🇯🇵 日本-直连 - 大湾区机场, server: 141.147.162.254, port: 15424, type: ss, cipher: chacha20-ietf-poly1305, password: b1ba170f-2791-4b9a-a3ca-04d37189eefb, udp: true}

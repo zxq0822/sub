@@ -61,6 +61,7 @@ proxy-groups:
   - 🇭🇰 香港/HK | 杭联 - 鸡鸡云
   - 🇭🇰 香港/HK | 沪日 - 鸡鸡云
   - 🇭🇰 香港/HK | 苏移 - 鸡鸡云
+  - 🇭🇰-专线②-2.5倍 - 大湾区机场
   - 🇭🇰 香港 101 - 墙了个墙
   - 🇭🇰 香港 102 - 墙了个墙
   - 🇭🇰 香港 103 - 墙了个墙
@@ -144,8 +145,8 @@ proxy-groups:
   - 🇸🇬新加坡03 - 都是梦
   - 🇸🇬 新加坡 - 节点一 - SScurl
   - 🇸🇬 新加坡2-杭新隧道-解锁 - 快云
-  - 🇸🇬-专线①-1.75倍 - 大湾区机场
-  - 🇸🇬-专线②-1.75倍 - 大湾区机场
+  - 🇸🇬-专线（油管无广告）①-1.75倍 - 大湾区机场
+  - 🇸🇬-专线（油管无广告）②-1.75倍 - 大湾区机场
   - 🇸🇬 新加坡 101 - 墙了个墙
   - 🇸🇬 新加坡 102 - 墙了个墙
   - 🇸🇬 新加坡 103 - 墙了个墙
@@ -250,6 +251,8 @@ proxy-groups:
   - 🇺🇸 美国-1/US | 沪联 - 鸡鸡云
   - 🇺🇸 美国-1/US | 上移 - 鸡鸡云
   - 🇺🇸美国 🌐「达拉斯」 - 北方航空
+  - 🇺🇸顶级专线①-0.7倍 - 大湾区机场
+  - 🇺🇸顶级专线②-0.7倍 - 大湾区机场
   - 🇺🇸原生IP①-0.85倍 - 大湾区机场
   - 🇺🇸ChatGPT-流媒体②-0.85倍 - 大湾区机场
   - 🇺🇸精品①-1倍 - 大湾区机场
@@ -571,6 +574,7 @@ proxy-groups:
   - 🇭🇰 香港/HK | 杭联 - 鸡鸡云
   - 🇭🇰 香港/HK | 沪日 - 鸡鸡云
   - 🇭🇰 香港/HK | 苏移 - 鸡鸡云
+  - 🇭🇰-专线②-2.5倍 - 大湾区机场
   - 🇭🇰 香港 101 - 墙了个墙
   - 🇭🇰 香港 102 - 墙了个墙
   - 🇭🇰 香港 103 - 墙了个墙
@@ -677,6 +681,7 @@ proxy-groups:
   - 🇭🇰 香港/HK | 杭联 - 鸡鸡云
   - 🇭🇰 香港/HK | 沪日 - 鸡鸡云
   - 🇭🇰 香港/HK | 苏移 - 鸡鸡云
+  - 🇭🇰-专线②-2.5倍 - 大湾区机场
   - 🇭🇰 香港 101 - 墙了个墙
   - 🇭🇰 香港 102 - 墙了个墙
   - 🇭🇰 香港 103 - 墙了个墙
@@ -767,8 +772,8 @@ proxy-groups:
   - 🇸🇬新加坡03 - 都是梦
   - 🇸🇬 新加坡 - 节点一 - SScurl
   - 🇸🇬 新加坡2-杭新隧道-解锁 - 快云
-  - 🇸🇬-专线①-1.75倍 - 大湾区机场
-  - 🇸🇬-专线②-1.75倍 - 大湾区机场
+  - 🇸🇬-专线（油管无广告）①-1.75倍 - 大湾区机场
+  - 🇸🇬-专线（油管无广告）②-1.75倍 - 大湾区机场
   - 🇸🇬 新加坡 101 - 墙了个墙
   - 🇸🇬 新加坡 102 - 墙了个墙
   - 🇸🇬 新加坡 103 - 墙了个墙
@@ -885,6 +890,8 @@ proxy-groups:
   - 🇺🇸 美国-1/US | 沪联 - 鸡鸡云
   - 🇺🇸 美国-1/US | 上移 - 鸡鸡云
   - 🇺🇸美国 🌐「达拉斯」 - 北方航空
+  - 🇺🇸顶级专线①-0.7倍 - 大湾区机场
+  - 🇺🇸顶级专线②-0.7倍 - 大湾区机场
   - 🇺🇸原生IP①-0.85倍 - 大湾区机场
   - 🇺🇸ChatGPT-流媒体②-0.85倍 - 大湾区机场
   - 🇺🇸精品①-1倍 - 大湾区机场
@@ -1155,10 +1162,10 @@ proxy-groups:
   type: select
   proxies: *id008
 proxies:
-- {name: 【双11活动】低至六折活动|公益 - 大白, server: 120.241.46.223, port: 63091, type: vmess, uuid: 08ff0ffb-31bd-3a45-b3db-e286bf0d0eda, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, servername: cache-hk-2.cn-db.top, network: ws, ws-opts: {path: /db00, headers: {Host: cache-hk-2.cn-db.top}}, udp: true}
-- {name: 【付费用户】油管秒开4K/8K|更多地区接入|公益 - 大白, server: 120.241.46.223, port: 64011, type: vmess, uuid: 08ff0ffb-31bd-3a45-b3db-e286bf0d0eda, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, servername: cache-hk-1.cn-db.top, network: ws, ws-opts: {path: /db00, headers: {Host: cache-hk-1.cn-db.top}}, udp: true}
-- {name: 【免费用户】油管稳2K@30/限速稳720P|公益 - 大白, server: 120.241.46.222, port: 63082, type: vmess, uuid: 08ff0ffb-31bd-3a45-b3db-e286bf0d0eda, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, servername: data-hk-3.cn-db.top, network: ws, ws-opts: {path: /db00, headers: {Host: data-hk-3.cn-db.top}}, udp: true}
-- {name: 【提供套餐】免费/按量不限时/不按量限时|公益 - 大白, server: 112.29.156.248, port: 62005, type: vmess, uuid: 08ff0ffb-31bd-3a45-b3db-e286bf0d0eda, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, servername: cache-hk-2.cn-db.top, network: ws, ws-opts: {path: /db00, headers: {Host: cache-hk-2.cn-db.top}}, udp: true}
+- {name: 【双11活动】低至六折活动|公益 - 大白, server: 112.29.200.17, port: 28001, type: vmess, uuid: 08ff0ffb-31bd-3a45-b3db-e286bf0d0eda, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, servername: cache-hk-2.cn-db.top, network: ws, ws-opts: {path: /db00, headers: {Host: cache-hk-2.cn-db.top}}, udp: true}
+- {name: 【付费用户】油管秒开4K/8K|更多地区接入|公益 - 大白, server: 112.29.200.11, port: 12130, type: vmess, uuid: 08ff0ffb-31bd-3a45-b3db-e286bf0d0eda, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, servername: cache-hk-1.cn-db.top, network: ws, ws-opts: {path: /db00, headers: {Host: cache-hk-1.cn-db.top}}, udp: true}
+- {name: 【免费用户】油管稳2K@30/限速稳720P|公益 - 大白, server: 120.241.46.223, port: 62092, type: vmess, uuid: 08ff0ffb-31bd-3a45-b3db-e286bf0d0eda, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, servername: data-hk-3.cn-db.top, network: ws, ws-opts: {path: /db00, headers: {Host: data-hk-3.cn-db.top}}, udp: true}
+- {name: 【提供套餐】免费/按量不限时/不按量限时|公益 - 大白, server: 120.241.46.222, port: 63004, type: vmess, uuid: 08ff0ffb-31bd-3a45-b3db-e286bf0d0eda, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, servername: cache-hk-2.cn-db.top, network: ws, ws-opts: {path: /db00, headers: {Host: cache-hk-2.cn-db.top}}, udp: true}
 - {name: 【邀请用户】|最高返还40%|移动 - 大白, server: sd.db-link.in, port: 80, type: vmess, uuid: 08ff0ffb-31bd-3a45-b3db-e286bf0d0eda, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, servername: cache-hk-1.cn-db.top, network: ws, ws-opts: {path: /db00, headers: {Host: cache-hk-1.cn-db.top}}, udp: true}
 - {name: '【节点优先级】[按量]>[不限量]>[免费]>[公共订阅]|移动 - 大白', server: sd.db-link.in, port: 80, type: vmess, uuid: 08ff0ffb-31bd-3a45-b3db-e286bf0d0eda, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, servername: data-hk-1.cn-db.top, network: ws, ws-opts: {path: /db00, headers: {Host: data-hk-1.cn-db.top}}, udp: true}
 - {name: 🇹🇼 台湾A丨Hinet丨流媒体 - Tannel中继网络服务, server: www.zztannel.com, port: 62012, type: vmess, uuid: e8286f3e-3725-35b6-abdb-2d367e539146, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
@@ -1345,34 +1352,34 @@ proxies:
 - {name: '[🇮🇳] 打杂的03 x1 - 星河 583', server: v15.583182.xyz, port: 2053, type: vmess, uuid: ea941a81-922e-4df1-a707-69a372d52f63, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: v15.583181.xyz, network: ws, ws-opts: {path: /, headers: {Host: v15.583181.xyz}}, udp: true}
 - {name: '[🇩🇪] 打杂的04 x1 - 星河 583', server: v16.583182.xyz, port: 8443, type: vmess, uuid: ea941a81-922e-4df1-a707-69a372d52f63, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: v16.583181.xyz, network: ws, ws-opts: {path: /, headers: {Host: v16.583181.xyz}}, udp: true}
 - {name: '[🇨🇦] 加拿大01 x1 - 星河 583', server: t5.583181.xyz, port: 1272, type: trojan, password: ea941a81-922e-4df1-a707-69a372d52f63, sni: www.baidu.com, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 HK / 香港 | 华南 - 小白云, server: hk1.iepl.cooc.icu, port: 21881, type: ss, cipher: aes-256-gcm, password: a8a68f83-5ce5-4738-8245-952bb8d92abc, udp: true}
-- {name: 🇭🇰 HK / 香港 | 华东 - 小白云, server: hk2.iepl.cooc.icu, port: 22881, type: ss, cipher: aes-256-gcm, password: a8a68f83-5ce5-4738-8245-952bb8d92abc, udp: true}
-- {name: 🇭🇰 HK / 香港 | 混合 - 小白云, server: hk3.iepl.cooc.icu, port: 23881, type: ss, cipher: aes-256-gcm, password: a8a68f83-5ce5-4738-8245-952bb8d92abc, udp: true}
-- {name: 🇯🇵 JP / 日本 | 华东 - 小白云, server: jp1.iepl.cooc.icu, port: 47100, type: ss, cipher: aes-256-gcm, password: a8a68f83-5ce5-4738-8245-952bb8d92abc, udp: true}
-- {name: 🇯🇵 JP / 日本 | 华南 - 小白云, server: jp2.iepl.cooc.icu, port: 47101, type: ss, cipher: aes-256-gcm, password: a8a68f83-5ce5-4738-8245-952bb8d92abc, udp: true}
-- {name: 🇯🇵 JP / 日本 | 混合 - 小白云, server: jp3.iepl.cooc.icu, port: 19881, type: ss, cipher: aes-256-gcm, password: a8a68f83-5ce5-4738-8245-952bb8d92abc, udp: true}
-- {name: 🇺🇸 US / 美国 | 华东 - 小白云, server: usa1.iepl.cooc.icu, port: 31881, type: ss, cipher: aes-256-gcm, password: a8a68f83-5ce5-4738-8245-952bb8d92abc, udp: true}
-- {name: 🇺🇸 US / 美国 | 华南 - 小白云, server: usa2.iepl.cooc.icu, port: 32881, type: ss, cipher: aes-256-gcm, password: a8a68f83-5ce5-4738-8245-952bb8d92abc, udp: true}
-- {name: 🇺🇸 US / 美国 | 混合 - 小白云, server: usa3.iepl.cooc.icu, port: 33881, type: ss, cipher: aes-256-gcm, password: a8a68f83-5ce5-4738-8245-952bb8d92abc, udp: true}
-- {name: 🇰🇷 KR / 韩国 | 华东 - 小白云, server: kr1.iepl.cooc.icu, port: 35101, type: ss, cipher: aes-128-gcm, password: a8a68f83-5ce5-4738-8245-952bb8d92abc, udp: true}
-- {name: 🇰🇷 KR / 韩国 | 华南 - 小白云, server: kr2.iepl.cooc.icu, port: 35102, type: ss, cipher: aes-128-gcm, password: a8a68f83-5ce5-4738-8245-952bb8d92abc, udp: true}
-- {name: 🇰🇷 KR / 韩国 | 混合 - 小白云, server: kr3.iepl.cooc.icu, port: 35103, type: ss, cipher: aes-128-gcm, password: a8a68f83-5ce5-4738-8245-952bb8d92abc, udp: true}
-- {name: 🇸🇬 SG / 新加坡 | 华南 - 小白云, server: sg1.iepl.cooc.icu, port: 35105, type: ss, cipher: aes-256-gcm, password: a8a68f83-5ce5-4738-8245-952bb8d92abc, udp: true}
-- {name: 🇸🇬 SG / 新加坡 | 华东 - 小白云, server: sg2.iepl.cooc.icu, port: 35106, type: ss, cipher: aes-256-gcm, password: a8a68f83-5ce5-4738-8245-952bb8d92abc, udp: true}
-- {name: 🇸🇬 SG / 新加坡 | 混合 - 小白云, server: sg3.iepl.cooc.icu, port: 35107, type: ss, cipher: aes-256-gcm, password: a8a68f83-5ce5-4738-8245-952bb8d92abc, udp: true}
-- {name: 🇹🇼 TW / 台湾 | 华东 - 小白云, server: tw1.iepl.cooc.icu, port: 35109, type: ss, cipher: aes-256-gcm, password: a8a68f83-5ce5-4738-8245-952bb8d92abc, udp: true}
-- {name: 🇹🇼 TW / 台湾 | 华南 - 小白云, server: tw2.iepl.cooc.icu, port: 35110, type: ss, cipher: aes-256-gcm, password: a8a68f83-5ce5-4738-8245-952bb8d92abc, udp: true}
-- {name: 🇹🇼 TW / 台湾 | 混合 - 小白云, server: tw3.iepl.cooc.icu, port: 35111, type: ss, cipher: aes-256-gcm, password: a8a68f83-5ce5-4738-8245-952bb8d92abc, udp: true}
-- {name: 🇺🇸 美国 / 华东 | 原生 - 小白云, server: usa4.iepl.cooc.icu, port: 34881, type: ss, cipher: aes-256-gcm, password: a8a68f83-5ce5-4738-8245-952bb8d92abc, udp: true}
-- {name: 🇺🇸 美国 / 华南 | 原生 - 小白云, server: usa5.iepl.cooc.icu, port: 35881, type: ss, cipher: aes-256-gcm, password: a8a68f83-5ce5-4738-8245-952bb8d92abc, udp: true}
-- {name: 🇻🇳 越南 / 华东 | 原生 - 小白云, server: vn1.iepl.cooc.icu, port: 35601, type: ss, cipher: aes-128-gcm, password: a8a68f83-5ce5-4738-8245-952bb8d92abc, udp: true}
-- {name: 🇻🇳 越南 / 华南 | 原生 - 小白云, server: vn2.iepl.cooc.icu, port: 35602, type: ss, cipher: aes-128-gcm, password: a8a68f83-5ce5-4738-8245-952bb8d92abc, udp: true}
-- {name: 🇲🇾 马来 / 华南 | 原生 - 小白云, server: mas1.iepl.cooc.icu, port: 35603, type: ss, cipher: aes-128-gcm, password: a8a68f83-5ce5-4738-8245-952bb8d92abc, udp: true}
-- {name: 🇲🇾 马来 / 华东 | 原生 - 小白云, server: mas2.iepl.cooc.icu, port: 35604, type: ss, cipher: aes-128-gcm, password: a8a68f83-5ce5-4738-8245-952bb8d92abc, udp: true}
-- {name: 🇬🇧 英国 / 华东 | 原生 - 小白云, server: uk1.iepl.cooc.icu, port: 35605, type: ss, cipher: aes-128-gcm, password: a8a68f83-5ce5-4738-8245-952bb8d92abc, udp: true}
-- {name: 🇬🇧 英国 / 华南 | 原生 - 小白云, server: uk2.iepl.cooc.icu, port: 35606, type: ss, cipher: aes-128-gcm, password: a8a68f83-5ce5-4738-8245-952bb8d92abc, udp: true}
-- {name: 🇩🇪 德国 / 华南 | 原生 - 小白云, server: fra1.iepl.cooc.icu, port: 35607, type: ss, cipher: aes-128-gcm, password: a8a68f83-5ce5-4738-8245-952bb8d92abc, udp: true}
-- {name: 🇩🇪 德国 / 华东 | 原生 - 小白云, server: fra2.iepl.cooc.icu, port: 35608, type: ss, cipher: aes-128-gcm, password: a8a68f83-5ce5-4738-8245-952bb8d92abc, udp: true}
+- {name: 🇭🇰 HK / 香港 | 华南 - 小白云, server: hk1.iepl.cooc.icu, port: 21881, type: ss, cipher: aes-256-gcm, password: 82e26b1d-eec9-4cb2-9805-5c6d87b4ea87, udp: true}
+- {name: 🇭🇰 HK / 香港 | 华东 - 小白云, server: hk2.iepl.cooc.icu, port: 22881, type: ss, cipher: aes-256-gcm, password: 82e26b1d-eec9-4cb2-9805-5c6d87b4ea87, udp: true}
+- {name: 🇭🇰 HK / 香港 | 混合 - 小白云, server: hk3.iepl.cooc.icu, port: 23881, type: ss, cipher: aes-256-gcm, password: 82e26b1d-eec9-4cb2-9805-5c6d87b4ea87, udp: true}
+- {name: 🇯🇵 JP / 日本 | 华东 - 小白云, server: jp1.iepl.cooc.icu, port: 47100, type: ss, cipher: aes-256-gcm, password: 82e26b1d-eec9-4cb2-9805-5c6d87b4ea87, udp: true}
+- {name: 🇯🇵 JP / 日本 | 华南 - 小白云, server: jp2.iepl.cooc.icu, port: 47101, type: ss, cipher: aes-256-gcm, password: 82e26b1d-eec9-4cb2-9805-5c6d87b4ea87, udp: true}
+- {name: 🇯🇵 JP / 日本 | 混合 - 小白云, server: jp3.iepl.cooc.icu, port: 19881, type: ss, cipher: aes-256-gcm, password: 82e26b1d-eec9-4cb2-9805-5c6d87b4ea87, udp: true}
+- {name: 🇺🇸 US / 美国 | 华东 - 小白云, server: usa1.iepl.cooc.icu, port: 31881, type: ss, cipher: aes-256-gcm, password: 82e26b1d-eec9-4cb2-9805-5c6d87b4ea87, udp: true}
+- {name: 🇺🇸 US / 美国 | 华南 - 小白云, server: usa2.iepl.cooc.icu, port: 32881, type: ss, cipher: aes-256-gcm, password: 82e26b1d-eec9-4cb2-9805-5c6d87b4ea87, udp: true}
+- {name: 🇺🇸 US / 美国 | 混合 - 小白云, server: usa3.iepl.cooc.icu, port: 33881, type: ss, cipher: aes-256-gcm, password: 82e26b1d-eec9-4cb2-9805-5c6d87b4ea87, udp: true}
+- {name: 🇰🇷 KR / 韩国 | 华东 - 小白云, server: kr1.iepl.cooc.icu, port: 35101, type: ss, cipher: aes-128-gcm, password: 82e26b1d-eec9-4cb2-9805-5c6d87b4ea87, udp: true}
+- {name: 🇰🇷 KR / 韩国 | 华南 - 小白云, server: kr2.iepl.cooc.icu, port: 35102, type: ss, cipher: aes-128-gcm, password: 82e26b1d-eec9-4cb2-9805-5c6d87b4ea87, udp: true}
+- {name: 🇰🇷 KR / 韩国 | 混合 - 小白云, server: kr3.iepl.cooc.icu, port: 35103, type: ss, cipher: aes-128-gcm, password: 82e26b1d-eec9-4cb2-9805-5c6d87b4ea87, udp: true}
+- {name: 🇸🇬 SG / 新加坡 | 华南 - 小白云, server: sg1.iepl.cooc.icu, port: 35105, type: ss, cipher: aes-256-gcm, password: 82e26b1d-eec9-4cb2-9805-5c6d87b4ea87, udp: true}
+- {name: 🇸🇬 SG / 新加坡 | 华东 - 小白云, server: sg2.iepl.cooc.icu, port: 35106, type: ss, cipher: aes-256-gcm, password: 82e26b1d-eec9-4cb2-9805-5c6d87b4ea87, udp: true}
+- {name: 🇸🇬 SG / 新加坡 | 混合 - 小白云, server: sg3.iepl.cooc.icu, port: 35107, type: ss, cipher: aes-256-gcm, password: 82e26b1d-eec9-4cb2-9805-5c6d87b4ea87, udp: true}
+- {name: 🇹🇼 TW / 台湾 | 华东 - 小白云, server: tw1.iepl.cooc.icu, port: 35109, type: ss, cipher: aes-256-gcm, password: 82e26b1d-eec9-4cb2-9805-5c6d87b4ea87, udp: true}
+- {name: 🇹🇼 TW / 台湾 | 华南 - 小白云, server: tw2.iepl.cooc.icu, port: 35110, type: ss, cipher: aes-256-gcm, password: 82e26b1d-eec9-4cb2-9805-5c6d87b4ea87, udp: true}
+- {name: 🇹🇼 TW / 台湾 | 混合 - 小白云, server: tw3.iepl.cooc.icu, port: 35111, type: ss, cipher: aes-256-gcm, password: 82e26b1d-eec9-4cb2-9805-5c6d87b4ea87, udp: true}
+- {name: 🇺🇸 美国 / 华东 | 原生 - 小白云, server: usa4.iepl.cooc.icu, port: 34881, type: ss, cipher: aes-256-gcm, password: 82e26b1d-eec9-4cb2-9805-5c6d87b4ea87, udp: true}
+- {name: 🇺🇸 美国 / 华南 | 原生 - 小白云, server: usa5.iepl.cooc.icu, port: 35881, type: ss, cipher: aes-256-gcm, password: 82e26b1d-eec9-4cb2-9805-5c6d87b4ea87, udp: true}
+- {name: 🇻🇳 越南 / 华东 | 原生 - 小白云, server: vn1.iepl.cooc.icu, port: 35601, type: ss, cipher: aes-128-gcm, password: 82e26b1d-eec9-4cb2-9805-5c6d87b4ea87, udp: true}
+- {name: 🇻🇳 越南 / 华南 | 原生 - 小白云, server: vn2.iepl.cooc.icu, port: 35602, type: ss, cipher: aes-128-gcm, password: 82e26b1d-eec9-4cb2-9805-5c6d87b4ea87, udp: true}
+- {name: 🇲🇾 马来 / 华南 | 原生 - 小白云, server: mas1.iepl.cooc.icu, port: 35603, type: ss, cipher: aes-128-gcm, password: 82e26b1d-eec9-4cb2-9805-5c6d87b4ea87, udp: true}
+- {name: 🇲🇾 马来 / 华东 | 原生 - 小白云, server: mas2.iepl.cooc.icu, port: 35604, type: ss, cipher: aes-128-gcm, password: 82e26b1d-eec9-4cb2-9805-5c6d87b4ea87, udp: true}
+- {name: 🇬🇧 英国 / 华东 | 原生 - 小白云, server: uk1.iepl.cooc.icu, port: 35605, type: ss, cipher: aes-128-gcm, password: 82e26b1d-eec9-4cb2-9805-5c6d87b4ea87, udp: true}
+- {name: 🇬🇧 英国 / 华南 | 原生 - 小白云, server: uk2.iepl.cooc.icu, port: 35606, type: ss, cipher: aes-128-gcm, password: 82e26b1d-eec9-4cb2-9805-5c6d87b4ea87, udp: true}
+- {name: 🇩🇪 德国 / 华南 | 原生 - 小白云, server: fra1.iepl.cooc.icu, port: 35607, type: ss, cipher: aes-128-gcm, password: 82e26b1d-eec9-4cb2-9805-5c6d87b4ea87, udp: true}
+- {name: 🇩🇪 德国 / 华东 | 原生 - 小白云, server: fra2.iepl.cooc.icu, port: 35608, type: ss, cipher: aes-128-gcm, password: 82e26b1d-eec9-4cb2-9805-5c6d87b4ea87, udp: true}
 - {name: 🇸🇬新加坡01 - 都是梦, server: sg3.doushimeng.com, port: 20052, type: ss, cipher: chacha20-ietf-poly1305, password: 3eaccecb-9921-41d9-aa72-35a342e172bc, udp: true}
 - {name: 🇸🇬新加坡02 - 都是梦, server: proxy1.doushimeng.com, port: 20253, type: ss, cipher: chacha20-ietf-poly1305, password: 3eaccecb-9921-41d9-aa72-35a342e172bc, udp: true}
 - {name: 🇸🇬新加坡03 - 都是梦, server: sg2.doushimeng.com, port: 20553, type: ss, cipher: chacha20-ietf-poly1305, password: 3eaccecb-9921-41d9-aa72-35a342e172bc, udp: true}
@@ -1443,12 +1450,15 @@ proxies:
 - {name: 🇺🇸美国 🌐「达拉斯」 - 北方航空, server: cdn.chigua.tk, port: 80, type: vmess, uuid: 5f738a8f-9534-4830-af7b-ae33fda0c026, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /usc03, headers: {Host: usc03.galenet.online}}, udp: true}
 - {name: 🇯🇵-专线②-1.2倍 - 大湾区机场, server: s8.daxiongda.top, port: 18609, type: ss, cipher: chacha20-ietf-poly1305, password: b1ba170f-2791-4b9a-a3ca-04d37189eefb, udp: true}
 - {name: 🇯🇵-专线①-1.2倍 - 大湾区机场, server: s7.daxiongda.top, port: 43774, type: ss, cipher: chacha20-ietf-poly1305, password: b1ba170f-2791-4b9a-a3ca-04d37189eefb, udp: true}
+- {name: 🇺🇸顶级专线①-0.7倍 - 大湾区机场, server: s7.daxiongda.top, port: 40631, type: ss, cipher: chacha20-ietf-poly1305, password: b1ba170f-2791-4b9a-a3ca-04d37189eefb, udp: true}
+- {name: 🇺🇸顶级专线②-0.7倍 - 大湾区机场, server: s8.daxiongda.top, port: 29447, type: ss, cipher: chacha20-ietf-poly1305, password: b1ba170f-2791-4b9a-a3ca-04d37189eefb, udp: true}
 - {name: 🇺🇸原生IP①-0.85倍 - 大湾区机场, server: s7.daxiongda.top, port: 11644, type: ss, cipher: chacha20-ietf-poly1305, password: b1ba170f-2791-4b9a-a3ca-04d37189eefb, udp: true}
 - {name: 🇺🇸ChatGPT-流媒体②-0.85倍 - 大湾区机场, server: s8.daxiongda.top, port: 48995, type: ss, cipher: chacha20-ietf-poly1305, password: b1ba170f-2791-4b9a-a3ca-04d37189eefb, udp: true}
 - {name: 🇺🇸精品①-1倍 - 大湾区机场, server: s7.daxiongda.top, port: 30544, type: ss, cipher: chacha20-ietf-poly1305, password: b1ba170f-2791-4b9a-a3ca-04d37189eefb, udp: true}
 - {name: 🇺🇸精品②-1倍 - 大湾区机场, server: s8.daxiongda.top, port: 12517, type: ss, cipher: chacha20-ietf-poly1305, password: b1ba170f-2791-4b9a-a3ca-04d37189eefb, udp: true}
-- {name: 🇸🇬-专线①-1.75倍 - 大湾区机场, server: s7.daxiongda.top, port: 17844, type: ss, cipher: chacha20-ietf-poly1305, password: b1ba170f-2791-4b9a-a3ca-04d37189eefb, udp: true}
-- {name: 🇸🇬-专线②-1.75倍 - 大湾区机场, server: s8.daxiongda.top, port: 22065, type: ss, cipher: chacha20-ietf-poly1305, password: b1ba170f-2791-4b9a-a3ca-04d37189eefb, udp: true}
+- {name: 🇸🇬-专线（油管无广告）①-1.75倍 - 大湾区机场, server: s7.daxiongda.top, port: 17844, type: ss, cipher: chacha20-ietf-poly1305, password: b1ba170f-2791-4b9a-a3ca-04d37189eefb, udp: true}
+- {name: 🇸🇬-专线（油管无广告）②-1.75倍 - 大湾区机场, server: s8.daxiongda.top, port: 22065, type: ss, cipher: chacha20-ietf-poly1305, password: b1ba170f-2791-4b9a-a3ca-04d37189eefb, udp: true}
+- {name: 🇭🇰-专线②-2.5倍 - 大湾区机场, server: s8.daxiongda.top, port: 20803, type: ss, cipher: chacha20-ietf-poly1305, password: b1ba170f-2791-4b9a-a3ca-04d37189eefb, udp: true}
 - {name: 🇺🇸-直连-联通推荐 - 大湾区机场, server: 74.48.98.249, port: 8080, type: vmess, uuid: b1ba170f-2791-4b9a-a3ca-04d37189eefb, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: '/quanstring?ed=2048', headers: {Host: us.quanstring.top}}, udp: true}
 - {name: 🇺🇸-ChatGPT-流媒体-TikTok-1 倍 - 大湾区机场, server: 74.48.98.249, port: 8080, type: vmess, uuid: b1ba170f-2791-4b9a-a3ca-04d37189eefb, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: '/quanstring?ed=2048', headers: {Host: us.quanstring.top}}, udp: true}
 - {name: 🇯🇵 日本-直连 - 大湾区机场, server: 141.147.162.254, port: 15424, type: ss, cipher: chacha20-ietf-poly1305, password: b1ba170f-2791-4b9a-a3ca-04d37189eefb, udp: true}
