@@ -1,0 +1,4 @@
+%YAML 1.1
+---
+proxies:
+- {name: 🇸🇬 公益狮城 - 锦瑜小窝, server: ahzf.jykeji.xyz, port: 14123, type: ss, cipher: chacha20-ietf-poly1305, password: bd16b202-019c-4e14-a113-d1a7a931e44a, udp: true}

@@ -1,9 +1,10 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇰🇷 公益韩国 - 锦瑜小窝, server: shcm.motions.top, port: 12521, type: ss, cipher: chacha20-ietf-poly1305, password: bd16b202-019c-4e14-a113-d1a7a931e44a, udp: true}
-- {name: 🇦🇺 公益澳洲 - 锦瑜小窝, server: shcm.motions.top, port: 25727, type: ss, cipher: chacha20-ietf-poly1305, password: bd16b202-019c-4e14-a113-d1a7a931e44a, udp: true}
+- {name: 🇲🇾 公益马来 - 锦瑜小窝, server: shcm.motions.top, port: 14195, type: ss, cipher: chacha20-ietf-poly1305, password: bd16b202-019c-4e14-a113-d1a7a931e44a, udp: true}
+- {name: 🇰🇷 公益韩国 - 锦瑜小窝, server: shcu.xn--fiqr9egvchy8d.com, port: 22186, type: ss, cipher: chacha20-ietf-poly1305, password: bd16b202-019c-4e14-a113-d1a7a931e44a, udp: true}
 - {name: 🇩🇪 公益德国 - 锦瑜小窝, server: shcu.xn--fiqr9egvchy8d.com, port: 53930, type: ss, cipher: chacha20-ietf-poly1305, password: bd16b202-019c-4e14-a113-d1a7a931e44a, udp: true}
-- {name: 🇬🇧 公益英国 - 锦瑜小窝, server: gyzf.jykeji.xyz, port: 35163, type: ss, cipher: chacha20-ietf-poly1305, password: bd16b202-019c-4e14-a113-d1a7a931e44a, udp: true}
 - {name: 🇫🇷 公益法国 - 锦瑜小窝, server: shcu.xn--fiqr9egvchy8d.com, port: 35152, type: ss, cipher: chacha20-ietf-poly1305, password: bd16b202-019c-4e14-a113-d1a7a931e44a, udp: true}
-- {name: 公益土耳 - 锦瑜小窝, server: gzyd.jykeji.xyz, port: 25552, type: ss, cipher: chacha20-ietf-poly1305, password: bd16b202-019c-4e14-a113-d1a7a931e44a, udp: true}
+- {name: 🇦🇺 公益澳洲 - 锦瑜小窝, server: shcu.xn--fiqr9egvchy8d.com, port: 12632, type: ss, cipher: chacha20-ietf-poly1305, password: bd16b202-019c-4e14-a113-d1a7a931e44a, udp: true}
+- {name: 🇬🇧 公益英国 - 锦瑜小窝, server: gyzf.jykeji.xyz, port: 35163, type: ss, cipher: chacha20-ietf-poly1305, password: bd16b202-019c-4e14-a113-d1a7a931e44a, udp: true}
+- {name: 公益土耳 - 锦瑜小窝, server: shcu.xn--fiqr9egvchy8d.com, port: 30091, type: ss, cipher: chacha20-ietf-poly1305, password: bd16b202-019c-4e14-a113-d1a7a931e44a, udp: true}
