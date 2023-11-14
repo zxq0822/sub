@@ -1,5 +1,6 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇸🇬(油管无广告）①-1.75倍 - 大湾区机场, server: s1.956256.xyz, port: 17844, type: ss, cipher: chacha20-ietf-poly1305, password: 9237ecb8-e222-4aa9-a095-a817d0916cec, udp: true}
-- {name: 🇸🇬油管无广告-②-1.75倍 - 大湾区机场, server: s2.956256.xyz, port: 22065, type: ss, cipher: chacha20-ietf-poly1305, password: 9237ecb8-e222-4aa9-a095-a817d0916cec, udp: true}
+- {name: 🇸🇬<新加坡高速>1.5x - 大湾区机场, server: 189GZ.xn--fiqa108dbd596g538d.com, port: 27608, type: ss, cipher: chacha20-ietf-poly1305, password: 9237ecb8-e222-4aa9-a095-a817d0916cec, udp: true}
+- {name: 🇸🇬<油管无广告>①-1.2x - 大湾区机场, server: s1.956256.xyz, port: 17844, type: ss, cipher: chacha20-ietf-poly1305, password: 9237ecb8-e222-4aa9-a095-a817d0916cec, udp: true}
+- {name: 🇸🇬<油管无广告>②-1.2x - 大湾区机场, server: s2.956256.xyz, port: 22065, type: ss, cipher: chacha20-ietf-poly1305, password: 9237ecb8-e222-4aa9-a095-a817d0916cec, udp: true}

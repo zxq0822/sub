@@ -2,4 +2,3 @@
 ---
 proxies:
 - {name: 节点失效，请手动更新。点击刷新按钮 - 大湾区机场, server: 103.229.54.136, port: 9999, type: ss, cipher: chacha20-ietf-poly1305, password: 9237ecb8-e222-4aa9-a095-a817d0916cec, udp: true}
-- {name: DV-9929-10T-高速 - 大湾区机场, server: 189SH.xn--fiqa108dbd596g538d.com, port: 50356, type: ss, cipher: chacha20-ietf-poly1305, password: 9237ecb8-e222-4aa9-a095-a817d0916cec, udp: true}
