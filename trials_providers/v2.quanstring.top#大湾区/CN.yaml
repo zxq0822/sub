@@ -2,3 +2,4 @@
 ---
 proxies:
 - {name: 🇭🇰-专线②-2.5倍 - 大湾区机场, server: s2.956256.xyz, port: 20803, type: ss, cipher: chacha20-ietf-poly1305, password: 9237ecb8-e222-4aa9-a095-a817d0916cec, udp: true}
+- {name: 🇭🇰 Churros-香港 - 大湾区机场, server: 139HZ.xn--fiqa108dbd596g538d.com, port: 12919, type: ss, cipher: chacha20-ietf-poly1305, password: 9237ecb8-e222-4aa9-a095-a817d0916cec, udp: true}
