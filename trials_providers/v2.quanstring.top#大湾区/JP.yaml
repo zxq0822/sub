@@ -1,6 +1,6 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇯🇵<日本高速>-1.2x - 大湾区机场, server: 139HZ.xn--fiqa108dbd596g538d.com, port: 59395, type: ss, cipher: chacha20-ietf-poly1305, password: 9168bd98-5861-4b78-9075-879b675efb37, udp: true}
-- {name: 🇯🇵<日本>①-1x - 大湾区机场, server: s1.956256.xyz, port: 43774, type: ss, cipher: chacha20-ietf-poly1305, password: 9168bd98-5861-4b78-9075-879b675efb37, udp: true}
-- {name: 🇯🇵<日本>②-1x - 大湾区机场, server: s2.956256.xyz, port: 18609, type: ss, cipher: chacha20-ietf-poly1305, password: 9168bd98-5861-4b78-9075-879b675efb37, udp: true}
+- {name: 🇯🇵<日本高速>-1.2x - 大湾区机场, server: 139HZ.xn--fiqa108dbd596g538d.com, port: 59395, type: ss, cipher: chacha20-ietf-poly1305, password: 5ebab64e-3c4b-44eb-992b-6877718a5f15, udp: true}
+- {name: 🇯🇵<日本>①-1x - 大湾区机场, server: s1.956256.xyz, port: 43774, type: ss, cipher: chacha20-ietf-poly1305, password: 5ebab64e-3c4b-44eb-992b-6877718a5f15, udp: true}
+- {name: 🇯🇵<日本>②-1x - 大湾区机场, server: s2.956256.xyz, port: 18609, type: ss, cipher: chacha20-ietf-poly1305, password: 5ebab64e-3c4b-44eb-992b-6877718a5f15, udp: true}
