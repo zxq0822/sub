@@ -1,7 +1,7 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇹🇼 台湾A丨Hinet丨流媒体 - Tannel中继网络服务, server: www.zztannel.com, port: 62012, type: vmess, uuid: f52072a2-e43c-3138-b5d4-d674851a0d3d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼 台湾A丨Hinet丨流媒体 - Tannel中继网络服务, server: www.zztannel.com, port: 62012, type: vmess, uuid: b8f4c0be-6ff3-3e67-a9d1-8f23bd241b59, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇹🇼 台湾01|广港专线|NF - 紅魔館網路, server: gzyda.073505.cn, port: 41122, type: ss, cipher: aes-128-gcm, password: 72d0d7d9-f1a7-4a32-80ef-d9fa432b7120, udp: true}
 - {name: 🇹🇼 台湾03|日苏专线|NF - 紅魔館網路, server: xxyd.073505.cn, port: 12159, type: ss, cipher: aes-128-gcm, password: 72d0d7d9-f1a7-4a32-80ef-d9fa432b7120, udp: true}
 - {name: 🇹🇼 台湾05广港专线|NF - 紅魔館網路, server: gzyda.073505.cn, port: 57781, type: ss, cipher: aes-128-gcm, password: 72d0d7d9-f1a7-4a32-80ef-d9fa432b7120, udp: true}
@@ -20,9 +20,9 @@ proxies:
 - {name: 🇹🇼 Taiwan 3 - 番茄云, server: proxy1.fanqiecloud.top, port: 48889, type: ss, cipher: chacha20-ietf-poly1305, password: ae60914d-641b-44bf-b473-a51a5610894b, udp: true}
 - {name: 🇹🇼 台湾 1 动画疯 - 西瓜皮是真的皮, server: cm-01.dx001.top, port: 19821, type: vmess, uuid: 3fe2b7bc-c963-357a-a48e-0d5fffb4fe1b, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇹🇼 台湾 2 动画疯 - 西瓜皮是真的皮, server: ct-01.dx001.top, port: 19822, type: vmess, uuid: 3fe2b7bc-c963-357a-a48e-0d5fffb4fe1b, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇹🇼 TW / 台湾 | 华东 - 小白云, server: tw1.iepl.cooc.icu, port: 35109, type: ss, cipher: aes-256-gcm, password: e2114148-bf4a-457e-a8e7-248fb367f57f, udp: true}
-- {name: 🇹🇼 TW / 台湾 | 华南 - 小白云, server: tw2.iepl.cooc.icu, port: 35110, type: ss, cipher: aes-256-gcm, password: e2114148-bf4a-457e-a8e7-248fb367f57f, udp: true}
-- {name: 🇹🇼 TW / 台湾 | 混合 - 小白云, server: tw3.iepl.cooc.icu, port: 35111, type: ss, cipher: aes-256-gcm, password: e2114148-bf4a-457e-a8e7-248fb367f57f, udp: true}
+- {name: 🇹🇼 TW / 台湾 | 华东 - 小白云, server: tw1.iepl.cooc.icu, port: 35109, type: ss, cipher: aes-256-gcm, password: 594bd5fe-b6c9-4350-bf2d-e66222d6b3de, udp: true}
+- {name: 🇹🇼 TW / 台湾 | 华南 - 小白云, server: tw2.iepl.cooc.icu, port: 35110, type: ss, cipher: aes-256-gcm, password: 594bd5fe-b6c9-4350-bf2d-e66222d6b3de, udp: true}
+- {name: 🇹🇼 TW / 台湾 | 混合 - 小白云, server: tw3.iepl.cooc.icu, port: 35111, type: ss, cipher: aes-256-gcm, password: 594bd5fe-b6c9-4350-bf2d-e66222d6b3de, udp: true}
 - {name: 🇹🇼台湾01 - 都是梦, server: proxy1.doushimeng.com, port: 48888, type: ss, cipher: chacha20-ietf-poly1305, password: 026d1c6f-a490-4e04-8120-07630e391cbc, udp: true}
 - {name: 🇹🇼台湾02 - 都是梦, server: dl-tw.doushimeng.com, port: 80, type: vmess, uuid: 026d1c6f-a490-4e04-8120-07630e391cbc, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /asdas, headers: {Host: cf-tw.doushimeng.com}}, udp: true}
 - {name: 🇹🇼台湾03 - 都是梦, server: tw.doushimeng.com, port: 48888, type: ss, cipher: chacha20-ietf-poly1305, password: 026d1c6f-a490-4e04-8120-07630e391cbc, udp: true}

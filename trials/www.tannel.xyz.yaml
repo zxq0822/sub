@@ -132,11 +132,11 @@ proxy-groups:
   type: select
   proxies: *id006
 proxies:
-- {name: 🇹🇼 台湾A丨Hinet丨流媒体 - Tannel中继网络服务, server: www.zztannel.com, port: 62012, type: vmess, uuid: f52072a2-e43c-3138-b5d4-d674851a0d3d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 日本A丨Lin丨流媒体 - Tannel中继网络服务, server: www.zztannel.com, port: 62001, type: vmess, uuid: f52072a2-e43c-3138-b5d4-d674851a0d3d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇺🇲 美国A丨芝加哥丨流媒体 - Tannel中继网络服务, server: www.zztannel.com, port: 62028, type: vmess, uuid: f52072a2-e43c-3138-b5d4-d674851a0d3d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 香港A丨HKBN丨流媒体 - Tannel中继网络服务, server: www.zztannel.com, port: 62016, type: vmess, uuid: f52072a2-e43c-3138-b5d4-d674851a0d3d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 香港B丨BGP丨流媒体 - Tannel中继网络服务, server: iepl.zztannel.com, port: 62003, type: vmess, uuid: f52072a2-e43c-3138-b5d4-d674851a0d3d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼 台湾A丨Hinet丨流媒体 - Tannel中继网络服务, server: www.zztannel.com, port: 62012, type: vmess, uuid: b8f4c0be-6ff3-3e67-a9d1-8f23bd241b59, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本A丨Lin丨流媒体 - Tannel中继网络服务, server: www.zztannel.com, port: 62001, type: vmess, uuid: b8f4c0be-6ff3-3e67-a9d1-8f23bd241b59, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇺🇲 美国A丨芝加哥丨流媒体 - Tannel中继网络服务, server: www.zztannel.com, port: 62028, type: vmess, uuid: b8f4c0be-6ff3-3e67-a9d1-8f23bd241b59, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 香港A丨HKBN丨流媒体 - Tannel中继网络服务, server: www.zztannel.com, port: 62016, type: vmess, uuid: b8f4c0be-6ff3-3e67-a9d1-8f23bd241b59, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 香港B丨BGP丨流媒体 - Tannel中继网络服务, server: iepl.zztannel.com, port: 62003, type: vmess, uuid: b8f4c0be-6ff3-3e67-a9d1-8f23bd241b59, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 rules:
 - DOMAIN-SUFFIX,acl4.ssr,DIRECT
 - DOMAIN-SUFFIX,ip6-localhost,DIRECT

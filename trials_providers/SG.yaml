@@ -11,9 +11,9 @@ proxies:
 - {name: 🇸🇬 新加坡 1 Netflix  - 西瓜皮是真的皮, server: xg.cm.go002.xyz, port: 19841, type: vmess, uuid: 3fe2b7bc-c963-357a-a48e-0d5fffb4fe1b, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇸🇬 新加坡 2 Netflix - 西瓜皮是真的皮, server: xg.ct1.go002.xyz, port: 19842, type: vmess, uuid: 3fe2b7bc-c963-357a-a48e-0d5fffb4fe1b, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: '[🇸🇬] 打杂的02 x1 - 星河 583', server: v14.583182.xyz, port: 8443, type: vmess, uuid: ea941a81-922e-4df1-a707-69a372d52f63, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: v14.583181.xyz, network: ws, ws-opts: {path: /, headers: {Host: v14.583181.xyz}}, udp: true}
-- {name: 🇸🇬 SG / 新加坡 | 华南 - 小白云, server: sg1.iepl.cooc.icu, port: 35105, type: ss, cipher: aes-256-gcm, password: e2114148-bf4a-457e-a8e7-248fb367f57f, udp: true}
-- {name: 🇸🇬 SG / 新加坡 | 华东 - 小白云, server: sg2.iepl.cooc.icu, port: 35106, type: ss, cipher: aes-256-gcm, password: e2114148-bf4a-457e-a8e7-248fb367f57f, udp: true}
-- {name: 🇸🇬 SG / 新加坡 | 混合 - 小白云, server: sg3.iepl.cooc.icu, port: 35107, type: ss, cipher: aes-256-gcm, password: e2114148-bf4a-457e-a8e7-248fb367f57f, udp: true}
+- {name: 🇸🇬 SG / 新加坡 | 华南 - 小白云, server: sg1.iepl.cooc.icu, port: 35105, type: ss, cipher: aes-256-gcm, password: 594bd5fe-b6c9-4350-bf2d-e66222d6b3de, udp: true}
+- {name: 🇸🇬 SG / 新加坡 | 华东 - 小白云, server: sg2.iepl.cooc.icu, port: 35106, type: ss, cipher: aes-256-gcm, password: 594bd5fe-b6c9-4350-bf2d-e66222d6b3de, udp: true}
+- {name: 🇸🇬 SG / 新加坡 | 混合 - 小白云, server: sg3.iepl.cooc.icu, port: 35107, type: ss, cipher: aes-256-gcm, password: 594bd5fe-b6c9-4350-bf2d-e66222d6b3de, udp: true}
 - {name: 🇸🇬新加坡01 - 都是梦, server: sg3.doushimeng.com, port: 20052, type: ss, cipher: chacha20-ietf-poly1305, password: 026d1c6f-a490-4e04-8120-07630e391cbc, udp: true}
 - {name: 🇸🇬新加坡02 - 都是梦, server: proxy1.doushimeng.com, port: 20253, type: ss, cipher: chacha20-ietf-poly1305, password: 026d1c6f-a490-4e04-8120-07630e391cbc, udp: true}
 - {name: 🇸🇬新加坡03 - 都是梦, server: sg2.doushimeng.com, port: 20553, type: ss, cipher: chacha20-ietf-poly1305, password: 026d1c6f-a490-4e04-8120-07630e391cbc, udp: true}
