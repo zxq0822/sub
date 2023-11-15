@@ -1,5 +1,5 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 官网：www.kyjs.xyz（非节点） - 快云, server: hzct.hnytkm.com, port: 58286, type: vmess, uuid: 80220947-c5e9-3770-bc73-740728799d77, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 提示：使用前请更新订阅 - 快云, server: lpl.xggj.xn--fiqs8s, port: 29865, type: vmess, uuid: 80220947-c5e9-3770-bc73-740728799d77, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 官网：www.kyjs.xyz（非节点） - 快云, server: hzct.hnytkm.com, port: 58286, type: vmess, uuid: 3923362a-896d-3ce2-92d6-eb85e9f7ef2d, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 提示：使用前请更新订阅 - 快云, server: lpl.xggj.xn--fiqs8s, port: 29865, type: vmess, uuid: 3923362a-896d-3ce2-92d6-eb85e9f7ef2d, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
