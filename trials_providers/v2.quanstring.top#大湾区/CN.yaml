@@ -1,7 +1,7 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇭🇰<香港高速>-2x - 大湾区机场, server: 139HZ.xn--fiqa108dbd596g538d.com, port: 12919, type: ss, cipher: chacha20-ietf-poly1305, password: 9b834bb5-d287-4fd3-914e-a16fe1d107e8, udp: true}
-- {name: 🇭🇰<香港浙江>-2x - 大湾区机场, server: 122.237.98.236, port: 36113, type: ss, cipher: chacha20-ietf-poly1305, password: 9b834bb5-d287-4fd3-914e-a16fe1d107e8, udp: true}
-- {name: 🇭🇰-专线①-2.5倍 - 大湾区机场, server: s1.956256.xyz, port: 33286, type: ss, cipher: chacha20-ietf-poly1305, password: 9b834bb5-d287-4fd3-914e-a16fe1d107e8, udp: true}
-- {name: 🇭🇰-专线②-2.5倍 - 大湾区机场, server: s2.956256.xyz, port: 20803, type: ss, cipher: chacha20-ietf-poly1305, password: 9b834bb5-d287-4fd3-914e-a16fe1d107e8, udp: true}
+- {name: 🇭🇰<香港高速>-2x - 大湾区机场, server: 139HZ.xn--fiqa108dbd596g538d.com, port: 12919, type: ss, cipher: chacha20-ietf-poly1305, password: cb14b1f5-1df1-4906-bd13-e881c37efd0d, udp: true}
+- {name: 🇭🇰<香港浙江>-2x - 大湾区机场, server: 122.237.98.236, port: 36113, type: ss, cipher: chacha20-ietf-poly1305, password: cb14b1f5-1df1-4906-bd13-e881c37efd0d, udp: true}
+- {name: 🇭🇰-专线①-2.5倍 - 大湾区机场, server: s1.956256.xyz, port: 33286, type: ss, cipher: chacha20-ietf-poly1305, password: cb14b1f5-1df1-4906-bd13-e881c37efd0d, udp: true}
+- {name: 🇭🇰-专线②-2.5倍 - 大湾区机场, server: s2.956256.xyz, port: 20803, type: ss, cipher: chacha20-ietf-poly1305, password: cb14b1f5-1df1-4906-bd13-e881c37efd0d, udp: true}
