@@ -1,8 +1,8 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇺🇸<美国高速>0.9x - 大湾区机场, server: 189SH.xn--fiqa108dbd596g538d.com, port: 50356, type: ss, cipher: chacha20-ietf-poly1305, password: 8c804d22-0e75-47ba-b230-df8f2055d64f, udp: true}
-- {name: 🇺🇸<美国原生IP>-1.1x - 大湾区机场, server: 189SH.xn--fiqa108dbd596g538d.com, port: 26046, type: ss, cipher: chacha20-ietf-poly1305, password: 8c804d22-0e75-47ba-b230-df8f2055d64f, udp: true}
+- {name: 🇺🇸<美国高速>0.x - 大湾区机场, server: 189SH.xn--fiqa108dbd596g538d.com, port: 50356, type: ss, cipher: chacha20-ietf-poly1305, password: 8c804d22-0e75-47ba-b230-df8f2055d64f, udp: true}
+- {name: 🇺🇸<美国原生IP>-1x - 大湾区机场, server: 189SH.xn--fiqa108dbd596g538d.com, port: 26046, type: ss, cipher: chacha20-ietf-poly1305, password: 8c804d22-0e75-47ba-b230-df8f2055d64f, udp: true}
 - {name: 🇯🇵<日本高速>-1.2x - 大湾区机场, server: 189SH.xn--fiqa108dbd596g538d.com, port: 37213, type: ss, cipher: chacha20-ietf-poly1305, password: 8c804d22-0e75-47ba-b230-df8f2055d64f, udp: true}
 - {name: 🇸🇬<新加坡高速>1.5x - 大湾区机场, server: 189GZ.xn--fiqa108dbd596g538d.com, port: 27608, type: ss, cipher: chacha20-ietf-poly1305, password: 8c804d22-0e75-47ba-b230-df8f2055d64f, udp: true}
 - {name: 🇸🇬<油管无广告>1.5x - 大湾区机场, server: 189GZ.xn--fiqa108dbd596g538d.com, port: 27608, type: ss, cipher: chacha20-ietf-poly1305, password: 8c804d22-0e75-47ba-b230-df8f2055d64f, udp: true}
