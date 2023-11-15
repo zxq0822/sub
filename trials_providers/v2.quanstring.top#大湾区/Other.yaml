@@ -1,4 +1,4 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 节点失效，请手动更新。点击刷新按钮 - 大湾区机场, server: 103.229.54.136, port: 9999, type: ss, cipher: chacha20-ietf-poly1305, password: 8c804d22-0e75-47ba-b230-df8f2055d64f, udp: true}
+- {name: 节点失效，请手动更新。点击刷新按钮 - 大湾区机场, server: 103.229.54.136, port: 9999, type: ss, cipher: chacha20-ietf-poly1305, password: 4519a23b-9263-44c8-92d0-dbfac49ed234, udp: true}
