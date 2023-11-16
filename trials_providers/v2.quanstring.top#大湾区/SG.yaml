@@ -1,5 +1,5 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇸🇬<新加坡>-1x - 大湾区机场, server: 122.237.98.236, port: 41807, type: ss, cipher: chacha20-ietf-poly1305, password: b8828fb2-8d10-47ad-97e2-be8cd2012cf3, udp: true}
-- {name: 🇸🇬<油管无广告>-1x - 大湾区机场, server: 122.237.98.236, port: 41807, type: ss, cipher: chacha20-ietf-poly1305, password: b8828fb2-8d10-47ad-97e2-be8cd2012cf3, udp: true}
+- {name: 🇸🇬<新加坡>-1x - 大湾区机场, server: 122.237.98.236, port: 41807, type: ss, cipher: chacha20-ietf-poly1305, password: 12f81d0e-c9da-4dce-8258-ae59e638ea9b, udp: true}
+- {name: 🇸🇬<油管无广告>-1x - 大湾区机场, server: 122.237.98.236, port: 41807, type: ss, cipher: chacha20-ietf-poly1305, password: 12f81d0e-c9da-4dce-8258-ae59e638ea9b, udp: true}
