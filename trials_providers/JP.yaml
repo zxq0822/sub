@@ -14,8 +14,8 @@ proxies:
 - {name: '🇯🇵 [vip①]日本2 - MG Network', server: 19.v2-ray.cyou, port: 23619, type: vmess, uuid: 21dc61c3-c35c-32df-b110-a2ba8b6011d1, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 19.v2-ray.cyou}}, udp: true}
 - {name: 🇯🇵 日本东京|甲骨文 - 一颗机场, server: ora-jp6.cou.gay, port: 26152, type: ss, cipher: chacha20-ietf-poly1305, password: 33150641-f991-4b89-b31b-d2cfd0817f31, udp: true}
 - {name: 🇯🇵 Japan - 番茄云, server: proxy1.fanqiecloud.top, port: 26202, type: ss, cipher: chacha20-ietf-poly1305, password: 31436624-ad26-4cf2-9a0c-e3a7d1d8e5ae, udp: true}
-- {name: 🇯🇵 日本 1 Nico Abema - 西瓜皮是真的皮, server: jsxc1.dx001.top, port: 19831, type: vmess, uuid: 9d51fbd1-83d3-37f9-98fb-69bb89a8757f, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 日本 2 Nico Abema - 西瓜皮是真的皮, server: cm-01.dx001.top, port: 19832, type: vmess, uuid: 9d51fbd1-83d3-37f9-98fb-69bb89a8757f, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本 1 Nico Abema - 西瓜皮是真的皮, server: jsxc1.dx001.top, port: 19831, type: vmess, uuid: 6c54fb97-1b0e-3a45-bf27-0c9ad25e22d1, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本 2 Nico Abema - 西瓜皮是真的皮, server: cm-01.dx001.top, port: 19832, type: vmess, uuid: 6c54fb97-1b0e-3a45-bf27-0c9ad25e22d1, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇯🇵 JP / 日本 | 华东 - 小白云, server: jp1.iepl.cooc.icu, port: 47100, type: ss, cipher: aes-256-gcm, password: 54cd9192-9916-4a19-9ec1-9ab69eac46f2, udp: true}
 - {name: 🇯🇵 JP / 日本 | 华南 - 小白云, server: jp2.iepl.cooc.icu, port: 47101, type: ss, cipher: aes-256-gcm, password: 54cd9192-9916-4a19-9ec1-9ab69eac46f2, udp: true}
 - {name: 🇯🇵 JP / 日本 | 混合 - 小白云, server: jp3.iepl.cooc.icu, port: 19881, type: ss, cipher: aes-256-gcm, password: 54cd9192-9916-4a19-9ec1-9ab69eac46f2, udp: true}
@@ -25,10 +25,10 @@ proxies:
 - {name: 🇯🇵 日本1-上日隧道-解锁 - 快云, server: sh.888888.wtf, port: 23416, type: vmess, uuid: d8e862ef-593f-383c-aa1c-affc3c5565a3, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇯🇵 日本/JP | 苏移 - 鸡鸡云, server: zzjsyd.jjyhk.com, port: 13322, type: ss, cipher: chacha20-ietf-poly1305, password: 7521a218-f2c4-41e1-929a-4caaf5fcf072, udp: true}
 - {name: 🇯🇵 日本/JP | 深联 - 鸡鸡云, server: zzszlt.jjyhk.com, port: 13322, type: ss, cipher: chacha20-ietf-poly1305, password: 7521a218-f2c4-41e1-929a-4caaf5fcf072, udp: true}
-- {name: 🇯🇵<日本高速>-1x - 大湾区机场, server: 139HZ.xn--fiqa108dbd596g538d.com, port: 59395, type: ss, cipher: chacha20-ietf-poly1305, password: 01fedb6b-d9ec-455c-a099-aa2b714bd141, udp: true}
-- {name: 🇯🇵<日本浙江>-1x - 大湾区机场, server: 122.237.98.236, port: 24130, type: ss, cipher: chacha20-ietf-poly1305, password: 01fedb6b-d9ec-455c-a099-aa2b714bd141, udp: true}
-- {name: 🇯🇵<日本>①-1x - 大湾区机场, server: s1.956256.xyz, port: 43774, type: ss, cipher: chacha20-ietf-poly1305, password: 01fedb6b-d9ec-455c-a099-aa2b714bd141, udp: true}
-- {name: 🇯🇵<日本>②-1x - 大湾区机场, server: s2.956256.xyz, port: 18609, type: ss, cipher: chacha20-ietf-poly1305, password: 01fedb6b-d9ec-455c-a099-aa2b714bd141, udp: true}
+- {name: 🇯🇵<日本高速>-1x - 大湾区机场, server: 139HZ.xn--fiqa108dbd596g538d.com, port: 59395, type: ss, cipher: chacha20-ietf-poly1305, password: dc37a4d7-3321-4687-8e45-936a036616bf, udp: true}
+- {name: 🇯🇵<日本浙江>-1x - 大湾区机场, server: 122.237.98.236, port: 24130, type: ss, cipher: chacha20-ietf-poly1305, password: dc37a4d7-3321-4687-8e45-936a036616bf, udp: true}
+- {name: 🇯🇵<日本>①-1x - 大湾区机场, server: s1.956256.xyz, port: 43774, type: ss, cipher: chacha20-ietf-poly1305, password: dc37a4d7-3321-4687-8e45-936a036616bf, udp: true}
+- {name: 🇯🇵<日本>②-1x - 大湾区机场, server: s2.956256.xyz, port: 18609, type: ss, cipher: chacha20-ietf-poly1305, password: dc37a4d7-3321-4687-8e45-936a036616bf, udp: true}
 - {name: 🇯🇵 日本 101 - 墙了个墙, server: jpvip102.qlgq1.pw, port: 10443, type: trojan, password: cdd774f7-86d7-3fa3-8f65-39e48898d87d, sni: jpvip102.qlgq1.pw, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: jpvip102}, udp: true}
 - {name: 🇯🇵 日本 102 - 墙了个墙, server: jpvip102.qlgq1.pw, port: 20443, type: trojan, password: cdd774f7-86d7-3fa3-8f65-39e48898d87d, sni: jpvip102.qlgq1.pw, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: jpvip102}, udp: true}
 - {name: 🇯🇵 日本 103 - 墙了个墙, server: jpvip102.qlgq1.pw, port: 30443, type: trojan, password: cdd774f7-86d7-3fa3-8f65-39e48898d87d, sni: jpvip102.qlgq1.pw, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: jpvip102}, udp: true}
