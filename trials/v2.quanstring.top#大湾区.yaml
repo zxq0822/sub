@@ -48,7 +48,6 @@ proxy-groups:
   - 🇺🇸<原生IP>①-0.85倍 - 大湾区机场
   - 🇺🇸-直连-联通推荐 - 大湾区机场
   - 🇺🇸-ChatGPT-1 倍 - 大湾区机场
-  - rn-4837 - 大湾区机场
 - name: 🛩️ ‍墙内
   type: select
   proxies:
@@ -139,7 +138,7 @@ proxy-groups:
   interval: 30
   tolerance: 100
   proxies: &id006
-  - rn-4837 - 大湾区机场
+  - 节点失效，请手动更新。点击刷新按钮 - 大湾区机场
 - name: 👆🏻 ‍指定
   type: select
   proxies: *id001
@@ -159,7 +158,7 @@ proxy-groups:
   type: select
   proxies: *id006
 proxies:
-- {name: rn-4837 - 大湾区机场, server: 125.124.196.171, port: 34524, type: ss, cipher: chacha20-ietf-poly1305, password: a7ec75de-23d8-45e8-9965-3124665d7ba8, udp: true}
+- {name: 节点失效，请手动更新。点击刷新按钮 - 大湾区机场, server: 103.229.54.136, port: 9999, type: ss, cipher: chacha20-ietf-poly1305, password: a7ec75de-23d8-45e8-9965-3124665d7ba8, udp: true}
 - {name: 🇯🇵<日本专线>-0.8x - 大湾区机场, server: 125.124.196.171, port: 24130, type: ss, cipher: chacha20-ietf-poly1305, password: a7ec75de-23d8-45e8-9965-3124665d7ba8, udp: true}
 - {name: 🇺🇸<美国高速专线>-0.5x - 大湾区机场, server: 125.124.196.171, port: 20485, type: ss, cipher: chacha20-ietf-poly1305, password: a7ec75de-23d8-45e8-9965-3124665d7ba8, udp: true}
 - {name: 🇺🇸<美国-奈飞>0.5x - 大湾区机场, server: 125.124.196.171, port: 20485, type: ss, cipher: chacha20-ietf-poly1305, password: a7ec75de-23d8-45e8-9965-3124665d7ba8, udp: true}
