@@ -46,8 +46,6 @@ proxy-groups:
   - ??<原生IP>①-0.85倍 - 大湾区机场
   - ??-专线①-2.5倍 - 大湾区机场
   - ??-专线②-2.5倍 - 大湾区机场
-  - ??-直连-联通推荐 - 大湾区机场
-  - ??-ChatGPT-1 倍 - 大湾区机场
 - name: 🛩️ ‍墙内
   type: select
   proxies:
@@ -136,8 +134,6 @@ proxy-groups:
   - ??<原生IP>①-0.85倍 - 大湾区机场
   - ??-专线①-2.5倍 - 大湾区机场
   - ??-专线②-2.5倍 - 大湾区机场
-  - ??-直连-联通推荐 - 大湾区机场
-  - ??-ChatGPT-1 倍 - 大湾区机场
 - name: 👆🏻 ‍指定
   type: select
   proxies: *id001
@@ -175,8 +171,6 @@ proxies:
 - {name: '??<原生IP>①-0.85倍 - 大湾区机场', server: s1.956256.xyz, port: 11644, type: ss, cipher: chacha20-ietf-poly1305, password: a7ec75de-23d8-45e8-9965-3124665d7ba8, udp: true}
 - {name: '??-专线①-2.5倍 - 大湾区机场', server: s1.956256.xyz, port: 33286, type: ss, cipher: chacha20-ietf-poly1305, password: a7ec75de-23d8-45e8-9965-3124665d7ba8, udp: true}
 - {name: '??-专线②-2.5倍 - 大湾区机场', server: s2.956256.xyz, port: 20803, type: ss, cipher: chacha20-ietf-poly1305, password: a7ec75de-23d8-45e8-9965-3124665d7ba8, udp: true}
-- {name: '??-直连-联通推荐 - 大湾区机场', server: 74.48.98.249, port: 8080, type: vmess, uuid: a7ec75de-23d8-45e8-9965-3124665d7ba8, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: '/quanstring?ed=2048', headers: {Host: us.quanstring.top}}, udp: true}
-- {name: '??-ChatGPT-1 倍 - 大湾区机场', server: 74.48.98.249, port: 8080, type: vmess, uuid: a7ec75de-23d8-45e8-9965-3124665d7ba8, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: '/quanstring?ed=2048', headers: {Host: us.quanstring.top}}, udp: true}
 rules:
 - DOMAIN-SUFFIX,acl4.ssr,DIRECT
 - DOMAIN-SUFFIX,ip6-localhost,DIRECT
