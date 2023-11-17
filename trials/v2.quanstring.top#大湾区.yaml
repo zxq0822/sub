@@ -41,8 +41,6 @@ proxy-groups:
   - 🇯🇵 <日本>②-1x - 大湾区机场
   - 🇺🇸 <美国高速专线>-0.5x - 大湾区机场
   - 🇺🇸 <美国-奈飞>0.5x - 大湾区机场
-  - 🇺🇸 <美国高速>0.5x - 大湾区机场
-  - 🇺🇸 <美国原生IP>-0.5x - 大湾区机场
   - 🇺🇸 美国直连-联通推荐 - 大湾区机场
   - 🇺🇸 美国-ChatGPT-1 倍 - 大湾区机场
   - <油管无广告>-1x - 大湾区机场
@@ -125,8 +123,6 @@ proxy-groups:
   proxies: &id005
   - 🇺🇸 <美国高速专线>-0.5x - 大湾区机场
   - 🇺🇸 <美国-奈飞>0.5x - 大湾区机场
-  - 🇺🇸 <美国高速>0.5x - 大湾区机场
-  - 🇺🇸 <美国原生IP>-0.5x - 大湾区机场
   - 🇺🇸 美国直连-联通推荐 - 大湾区机场
   - 🇺🇸 美国-ChatGPT-1 倍 - 大湾区机场
 - name: 🎏 ‍其他
@@ -166,8 +162,6 @@ proxies:
 - {name: 🇭🇰 <香港>-2x - 大湾区机场, server: 125.124.196.171, port: 36113, type: ss, cipher: chacha20-ietf-poly1305, password: 975aa694-5f28-4a87-9fd3-37610c1cefdf, udp: true}
 - {name: 🇭🇰 <香港-奈飞>-2x - 大湾区机场, server: 125.124.196.171, port: 36113, type: ss, cipher: chacha20-ietf-poly1305, password: 975aa694-5f28-4a87-9fd3-37610c1cefdf, udp: true}
 - {name: <ChatGPT-流媒体>②-0.85倍 - 大湾区机场, server: 125.124.196.171, port: 20485, type: ss, cipher: chacha20-ietf-poly1305, password: 975aa694-5f28-4a87-9fd3-37610c1cefdf, udp: true}
-- {name: 🇺🇸 <美国高速>0.5x - 大湾区机场, server: 139HZ.xn--fiqa108dbd596g538d.com, port: 38239, type: ss, cipher: chacha20-ietf-poly1305, password: 975aa694-5f28-4a87-9fd3-37610c1cefdf, udp: true}
-- {name: 🇺🇸 <美国原生IP>-0.5x - 大湾区机场, server: 139HZ.xn--fiqa108dbd596g538d.com, port: 23314, type: ss, cipher: chacha20-ietf-poly1305, password: 975aa694-5f28-4a87-9fd3-37610c1cefdf, udp: true}
 - {name: 🇯🇵 <日本高速>-1x - 大湾区机场, server: 139HZ.xn--fiqa108dbd596g538d.com, port: 59395, type: ss, cipher: chacha20-ietf-poly1305, password: 975aa694-5f28-4a87-9fd3-37610c1cefdf, udp: true}
 - {name: 🇭🇰 <香港高速>-2x - 大湾区机场, server: 139HZ.xn--fiqa108dbd596g538d.com, port: 12919, type: ss, cipher: chacha20-ietf-poly1305, password: 975aa694-5f28-4a87-9fd3-37610c1cefdf, udp: true}
 - {name: 🇯🇵 <日本>①-1x - 大湾区机场, server: s1.956256.xyz, port: 43774, type: ss, cipher: chacha20-ietf-poly1305, password: 975aa694-5f28-4a87-9fd3-37610c1cefdf, udp: true}
