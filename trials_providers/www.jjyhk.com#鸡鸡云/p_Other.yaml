@@ -1,4 +1,4 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 用不了更新订阅或重新导入 - 鸡鸡云, server: jjyhk.com, port: 24910, type: ss, cipher: chacha20-ietf-poly1305, password: 7521a218-f2c4-41e1-929a-4caaf5fcf072, udp: true}
+- {name: 用不了更新订阅或重新导入 - 鸡鸡云, server: jjyhk.com, port: 24910, type: ss, cipher: chacha20-ietf-poly1305, password: 3bf09166-50d3-459f-9ee0-285af0e6dae3, udp: true}
