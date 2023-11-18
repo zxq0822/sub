@@ -1,4 +1,4 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇯🇵日本01 - 都是梦, server: proxy1.doushimeng.com, port: 26203, type: ss, cipher: chacha20-ietf-poly1305, password: d88ef6e1-11e8-4be0-9ebf-74355e09806e, udp: true}
+- {name: 🇯🇵日本01 - 都是梦, server: proxy1.doushimeng.com, port: 26203, type: ss, cipher: chacha20-ietf-poly1305, password: 10cec988-4102-4ef1-ae05-516b71896210, udp: true}
