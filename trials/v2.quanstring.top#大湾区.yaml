@@ -28,22 +28,22 @@ proxy-groups:
   interval: 30
   tolerance: 100
   proxies: &id001
-  - 🇭🇰 <香港>-2x - 大湾区机场
-  - 🇭🇰 <香港-奈飞>-2x - 大湾区机场
-  - 🇭🇰 <香港备用>-2x - 大湾区机场
-  - 🇭🇰 <香港专线>①-2.5倍 - 大湾区机场
-  - 🇭🇰 <香港专线>②-2.5倍 - 大湾区机场
-  - 🇸🇬 <新加坡>-1x - 大湾区机场
-  - 🇸🇬 <新加坡-奈飞>-1x - 大湾区机场
-  - 🇯🇵 <日本高速>-0.5x - 大湾区机场
-  - 🇯🇵 <日本备用>-1x - 大湾区机场
-  - 🇺🇸 <美国高速②>-0.5x - 大湾区机场
-  - 🇺🇸 <美国高速>-0.5x - 大湾区机场
-  - 🇺🇸 <美国-奈飞>0.5x - 大湾区机场
-  - 🇺🇸 美国直连-联通推荐 - 大湾区机场
-  - 🇺🇸 美国-ChatGPT-1 倍 - 大湾区机场
-  - <油管无广告>-1x - 大湾区机场
-  - <ChatGPT-流媒体>②-0.85倍 - 大湾区机场
+  - 🇭🇰 [ss]<香港>-2x - 大湾区机场
+  - 🇭🇰 [ss]<香港-奈飞>-2x - 大湾区机场
+  - 🇭🇰 [ss]<香港备用>-2x - 大湾区机场
+  - 🇭🇰 [ss]<香港专线>①-2.5倍 - 大湾区机场
+  - 🇭🇰 [ss]<香港专线>②-2.5倍 - 大湾区机场
+  - 🇸🇬 [ss]<新加坡>-1x - 大湾区机场
+  - 🇸🇬 [ss]<新加坡-奈飞>-1x - 大湾区机场
+  - 🇯🇵 [ss]<日本高速>-0.5x - 大湾区机场
+  - 🇯🇵 [ss]<日本备用>-1x - 大湾区机场
+  - 🇺🇸 [ss]<美国高速②>-0.5x - 大湾区机场
+  - 🇺🇸 [ss]<美国高速>-0.5x - 大湾区机场
+  - 🇺🇸 [ss]<美国-奈飞>0.5x - 大湾区机场
+  - 🇺🇸 [vmess]美国直连-联通推荐 - 大湾区机场
+  - 🇺🇸 [vmess]美国-ChatGPT-1 倍 - 大湾区机场
+  - '[ss]<油管无广告>-1x - 大湾区机场'
+  - '[ss]<ChatGPT-流媒体>②-0.85倍 - 大湾区机场'
 - name: 🛩️ ‍墙内
   type: select
   proxies:
@@ -90,46 +90,46 @@ proxy-groups:
   interval: 15
   tolerance: 100
   proxies: &id002
-  - 🇭🇰 <香港>-2x - 大湾区机场
-  - 🇭🇰 <香港-奈飞>-2x - 大湾区机场
-  - 🇭🇰 <香港备用>-2x - 大湾区机场
-  - 🇭🇰 <香港专线>①-2.5倍 - 大湾区机场
-  - 🇭🇰 <香港专线>②-2.5倍 - 大湾区机场
+  - 🇭🇰 [ss]<香港>-2x - 大湾区机场
+  - 🇭🇰 [ss]<香港-奈飞>-2x - 大湾区机场
+  - 🇭🇰 [ss]<香港备用>-2x - 大湾区机场
+  - 🇭🇰 [ss]<香港专线>①-2.5倍 - 大湾区机场
+  - 🇭🇰 [ss]<香港专线>②-2.5倍 - 大湾区机场
 - name: 🇸🇬 ‍新加坡
   type: url-test
   url: https://i.ytimg.com/generate_204
   interval: 15
   tolerance: 100
   proxies: &id003
-  - 🇸🇬 <新加坡>-1x - 大湾区机场
-  - 🇸🇬 <新加坡-奈飞>-1x - 大湾区机场
+  - 🇸🇬 [ss]<新加坡>-1x - 大湾区机场
+  - 🇸🇬 [ss]<新加坡-奈飞>-1x - 大湾区机场
 - name: 🇯🇵 ‍日本
   type: url-test
   url: https://i.ytimg.com/generate_204
   interval: 15
   tolerance: 100
   proxies: &id004
-  - 🇯🇵 <日本高速>-0.5x - 大湾区机场
-  - 🇯🇵 <日本备用>-1x - 大湾区机场
+  - 🇯🇵 [ss]<日本高速>-0.5x - 大湾区机场
+  - 🇯🇵 [ss]<日本备用>-1x - 大湾区机场
 - name: 🇺🇸 ‍美国
   type: url-test
   url: https://i.ytimg.com/generate_204
   interval: 15
   tolerance: 300
   proxies: &id005
-  - 🇺🇸 <美国高速②>-0.5x - 大湾区机场
-  - 🇺🇸 <美国高速>-0.5x - 大湾区机场
-  - 🇺🇸 <美国-奈飞>0.5x - 大湾区机场
-  - 🇺🇸 美国直连-联通推荐 - 大湾区机场
-  - 🇺🇸 美国-ChatGPT-1 倍 - 大湾区机场
+  - 🇺🇸 [ss]<美国高速②>-0.5x - 大湾区机场
+  - 🇺🇸 [ss]<美国高速>-0.5x - 大湾区机场
+  - 🇺🇸 [ss]<美国-奈飞>0.5x - 大湾区机场
+  - 🇺🇸 [vmess]美国直连-联通推荐 - 大湾区机场
+  - 🇺🇸 [vmess]美国-ChatGPT-1 倍 - 大湾区机场
 - name: 🎏 ‍其他
   type: url-test
   url: https://i.ytimg.com/generate_204
   interval: 30
   tolerance: 100
   proxies: &id006
-  - <油管无广告>-1x - 大湾区机场
-  - <ChatGPT-流媒体>②-0.85倍 - 大湾区机场
+  - '[ss]<油管无广告>-1x - 大湾区机场'
+  - '[ss]<ChatGPT-流媒体>②-0.85倍 - 大湾区机场'
 - name: 👆🏻 ‍指定
   type: select
   proxies: *id001
@@ -149,22 +149,22 @@ proxy-groups:
   type: select
   proxies: *id006
 proxies:
-- {name: 🇺🇸 <美国高速②>-0.5x - 大湾区机场, server: 125.124.196.171, port: 34524, type: ss, cipher: chacha20-ietf-poly1305, password: 44801a27-72ad-4760-a4c5-af7c226628ef, udp: true}
-- {name: 🇯🇵 <日本高速>-0.5x - 大湾区机场, server: 125.124.196.171, port: 24130, type: ss, cipher: chacha20-ietf-poly1305, password: 44801a27-72ad-4760-a4c5-af7c226628ef, udp: true}
-- {name: 🇺🇸 <美国高速>-0.5x - 大湾区机场, server: 125.124.196.171, port: 20485, type: ss, cipher: chacha20-ietf-poly1305, password: 44801a27-72ad-4760-a4c5-af7c226628ef, udp: true}
-- {name: 🇺🇸 <美国-奈飞>0.5x - 大湾区机场, server: 125.124.196.171, port: 20485, type: ss, cipher: chacha20-ietf-poly1305, password: 44801a27-72ad-4760-a4c5-af7c226628ef, udp: true}
-- {name: <油管无广告>-1x - 大湾区机场, server: 125.124.196.171, port: 41807, type: ss, cipher: chacha20-ietf-poly1305, password: 44801a27-72ad-4760-a4c5-af7c226628ef, udp: true}
-- {name: 🇸🇬 <新加坡>-1x - 大湾区机场, server: 125.124.196.171, port: 41807, type: ss, cipher: chacha20-ietf-poly1305, password: 44801a27-72ad-4760-a4c5-af7c226628ef, udp: true}
-- {name: 🇸🇬 <新加坡-奈飞>-1x - 大湾区机场, server: 125.124.196.171, port: 41807, type: ss, cipher: chacha20-ietf-poly1305, password: 44801a27-72ad-4760-a4c5-af7c226628ef, udp: true}
-- {name: 🇭🇰 <香港>-2x - 大湾区机场, server: 125.124.196.171, port: 36113, type: ss, cipher: chacha20-ietf-poly1305, password: 44801a27-72ad-4760-a4c5-af7c226628ef, udp: true}
-- {name: 🇭🇰 <香港-奈飞>-2x - 大湾区机场, server: 125.124.196.171, port: 36113, type: ss, cipher: chacha20-ietf-poly1305, password: 44801a27-72ad-4760-a4c5-af7c226628ef, udp: true}
-- {name: <ChatGPT-流媒体>②-0.85倍 - 大湾区机场, server: 125.124.196.171, port: 20485, type: ss, cipher: chacha20-ietf-poly1305, password: 44801a27-72ad-4760-a4c5-af7c226628ef, udp: true}
-- {name: 🇯🇵 <日本备用>-1x - 大湾区机场, server: 139HZ.xn--fiqa108dbd596g538d.com, port: 59395, type: ss, cipher: chacha20-ietf-poly1305, password: 44801a27-72ad-4760-a4c5-af7c226628ef, udp: true}
-- {name: 🇭🇰 <香港备用>-2x - 大湾区机场, server: 139HZ.xn--fiqa108dbd596g538d.com, port: 12919, type: ss, cipher: chacha20-ietf-poly1305, password: 44801a27-72ad-4760-a4c5-af7c226628ef, udp: true}
-- {name: 🇭🇰 <香港专线>①-2.5倍 - 大湾区机场, server: s1.956256.xyz, port: 33286, type: ss, cipher: chacha20-ietf-poly1305, password: 44801a27-72ad-4760-a4c5-af7c226628ef, udp: true}
-- {name: 🇭🇰 <香港专线>②-2.5倍 - 大湾区机场, server: s2.956256.xyz, port: 20803, type: ss, cipher: chacha20-ietf-poly1305, password: 44801a27-72ad-4760-a4c5-af7c226628ef, udp: true}
-- {name: 🇺🇸 美国直连-联通推荐 - 大湾区机场, server: 74.48.98.249, port: 8080, type: vmess, uuid: 44801a27-72ad-4760-a4c5-af7c226628ef, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: '/quanstring?ed=2048', headers: {Host: us.quanstring.top}}, udp: true}
-- {name: 🇺🇸 美国-ChatGPT-1 倍 - 大湾区机场, server: 74.48.98.249, port: 8080, type: vmess, uuid: 44801a27-72ad-4760-a4c5-af7c226628ef, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: '/quanstring?ed=2048', headers: {Host: us.quanstring.top}}, udp: true}
+- {name: '🇺🇸 [ss]<美国高速②>-0.5x - 大湾区机场', server: 125.124.196.171, port: 34524, type: ss, cipher: chacha20-ietf-poly1305, password: c023ed8e-756e-418f-a8a0-60ddfe0f1f06, udp: true}
+- {name: '🇯🇵 [ss]<日本高速>-0.5x - 大湾区机场', server: 125.124.196.171, port: 24130, type: ss, cipher: chacha20-ietf-poly1305, password: c023ed8e-756e-418f-a8a0-60ddfe0f1f06, udp: true}
+- {name: '🇺🇸 [ss]<美国高速>-0.5x - 大湾区机场', server: 125.124.196.171, port: 20485, type: ss, cipher: chacha20-ietf-poly1305, password: c023ed8e-756e-418f-a8a0-60ddfe0f1f06, udp: true}
+- {name: '🇺🇸 [ss]<美国-奈飞>0.5x - 大湾区机场', server: 125.124.196.171, port: 20485, type: ss, cipher: chacha20-ietf-poly1305, password: c023ed8e-756e-418f-a8a0-60ddfe0f1f06, udp: true}
+- {name: '[ss]<油管无广告>-1x - 大湾区机场', server: 125.124.196.171, port: 41807, type: ss, cipher: chacha20-ietf-poly1305, password: c023ed8e-756e-418f-a8a0-60ddfe0f1f06, udp: true}
+- {name: '🇸🇬 [ss]<新加坡>-1x - 大湾区机场', server: 125.124.196.171, port: 41807, type: ss, cipher: chacha20-ietf-poly1305, password: c023ed8e-756e-418f-a8a0-60ddfe0f1f06, udp: true}
+- {name: '🇸🇬 [ss]<新加坡-奈飞>-1x - 大湾区机场', server: 125.124.196.171, port: 41807, type: ss, cipher: chacha20-ietf-poly1305, password: c023ed8e-756e-418f-a8a0-60ddfe0f1f06, udp: true}
+- {name: '🇭🇰 [ss]<香港>-2x - 大湾区机场', server: 125.124.196.171, port: 36113, type: ss, cipher: chacha20-ietf-poly1305, password: c023ed8e-756e-418f-a8a0-60ddfe0f1f06, udp: true}
+- {name: '🇭🇰 [ss]<香港-奈飞>-2x - 大湾区机场', server: 125.124.196.171, port: 36113, type: ss, cipher: chacha20-ietf-poly1305, password: c023ed8e-756e-418f-a8a0-60ddfe0f1f06, udp: true}
+- {name: '[ss]<ChatGPT-流媒体>②-0.85倍 - 大湾区机场', server: 125.124.196.171, port: 20485, type: ss, cipher: chacha20-ietf-poly1305, password: c023ed8e-756e-418f-a8a0-60ddfe0f1f06, udp: true}
+- {name: '🇯🇵 [ss]<日本备用>-1x - 大湾区机场', server: 139HZ.xn--fiqa108dbd596g538d.com, port: 59395, type: ss, cipher: chacha20-ietf-poly1305, password: c023ed8e-756e-418f-a8a0-60ddfe0f1f06, udp: true}
+- {name: '🇭🇰 [ss]<香港备用>-2x - 大湾区机场', server: 139HZ.xn--fiqa108dbd596g538d.com, port: 12919, type: ss, cipher: chacha20-ietf-poly1305, password: c023ed8e-756e-418f-a8a0-60ddfe0f1f06, udp: true}
+- {name: '🇭🇰 [ss]<香港专线>①-2.5倍 - 大湾区机场', server: s1.956256.xyz, port: 33286, type: ss, cipher: chacha20-ietf-poly1305, password: c023ed8e-756e-418f-a8a0-60ddfe0f1f06, udp: true}
+- {name: '🇭🇰 [ss]<香港专线>②-2.5倍 - 大湾区机场', server: s2.956256.xyz, port: 20803, type: ss, cipher: chacha20-ietf-poly1305, password: c023ed8e-756e-418f-a8a0-60ddfe0f1f06, udp: true}
+- {name: '🇺🇸 [vmess]美国直连-联通推荐 - 大湾区机场', server: 74.48.98.249, port: 8080, type: vmess, uuid: c023ed8e-756e-418f-a8a0-60ddfe0f1f06, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: '/quanstring?ed=2048', headers: {Host: us.quanstring.top}}, udp: true}
+- {name: '🇺🇸 [vmess]美国-ChatGPT-1 倍 - 大湾区机场', server: 74.48.98.249, port: 8080, type: vmess, uuid: c023ed8e-756e-418f-a8a0-60ddfe0f1f06, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: '/quanstring?ed=2048', headers: {Host: us.quanstring.top}}, udp: true}
 rules:
 - DOMAIN-SUFFIX,acl4.ssr,DIRECT
 - DOMAIN-SUFFIX,ip6-localhost,DIRECT

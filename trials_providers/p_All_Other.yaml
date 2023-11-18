@@ -133,7 +133,7 @@ proxies:
 - {name: 🇮🇳 印度 - 线路一 - SScurl, server: whcm.pangupy.com, port: 47542, type: ss, cipher: chacha20-ietf-poly1305, password: dfd9ad88-6275-4589-aa3c-bebeb90ca7c1, udp: true}
 - {name: 🇫🇷 法国 - 线路一 - SScurl, server: whcm.pangupy.com, port: 16298, type: ss, cipher: chacha20-ietf-poly1305, password: dfd9ad88-6275-4589-aa3c-bebeb90ca7c1, udp: true}
 - {name: 🇲🇾 马来西亚 - 线路一 - SScurl, server: whcm.pangupy.com, port: 23430, type: ss, cipher: chacha20-ietf-poly1305, password: dfd9ad88-6275-4589-aa3c-bebeb90ca7c1, udp: true}
-- {name: 🇨🇦 加拿大-杭港隧道-解锁 - 快云, server: hz.888898.beauty, port: 43689, type: vmess, uuid: 8c45c60d-2f06-3c0b-916c-930612255b8c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇨🇦 加拿大-杭港隧道-解锁 - 快云, server: hz.888898.beauty, port: 43689, type: vmess, uuid: ecc14ace-69fd-397b-9429-89dc814dcdaa, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇹🇭 泰国/TH | 杭联 - 鸡鸡云, server: sz.xn--iiq222b6igvp5c.com, port: 11965, type: ss, cipher: chacha20-ietf-poly1305, password: 3bf09166-50d3-459f-9ee0-285af0e6dae3, udp: true}
 - {name: 🇹🇭 泰国/TH | 深联 - 鸡鸡云, server: zzszlt.jjyhk.com, port: 11915, type: ss, cipher: chacha20-ietf-poly1305, password: 3bf09166-50d3-459f-9ee0-285af0e6dae3, udp: true}
 - {name: 🇹🇭 泰国/TH | 苏移 - 鸡鸡云, server: zzjsyd.jjyhk.com, port: 11915, type: ss, cipher: chacha20-ietf-poly1305, password: 3bf09166-50d3-459f-9ee0-285af0e6dae3, udp: true}
@@ -145,8 +145,8 @@ proxies:
 - {name: 🇸🇪 瑞典/SE | 泸德 - 鸡鸡云, server: zzhzdx.jjyhk.com, port: 16458, type: ss, cipher: chacha20-ietf-poly1305, password: 3bf09166-50d3-459f-9ee0-285af0e6dae3, udp: true}
 - {name: 🇫🇷 法国/FR | 苏移 - 鸡鸡云, server: zzjsyd.jjyhk.com, port: 21348, type: ss, cipher: chacha20-ietf-poly1305, password: 3bf09166-50d3-459f-9ee0-285af0e6dae3, udp: true}
 - {name: 🇫🇷 法国/FR | 深联 - 鸡鸡云, server: zzszlt.jjyhk.com, port: 21348, type: ss, cipher: chacha20-ietf-poly1305, password: 3bf09166-50d3-459f-9ee0-285af0e6dae3, udp: true}
-- {name: <油管无广告>-1x - 大湾区机场, server: 125.124.196.171, port: 41807, type: ss, cipher: chacha20-ietf-poly1305, password: 44801a27-72ad-4760-a4c5-af7c226628ef, udp: true}
-- {name: <ChatGPT-流媒体>②-0.85倍 - 大湾区机场, server: 125.124.196.171, port: 20485, type: ss, cipher: chacha20-ietf-poly1305, password: 44801a27-72ad-4760-a4c5-af7c226628ef, udp: true}
+- {name: '[ss]<油管无广告>-1x - 大湾区机场', server: 125.124.196.171, port: 41807, type: ss, cipher: chacha20-ietf-poly1305, password: c023ed8e-756e-418f-a8a0-60ddfe0f1f06, udp: true}
+- {name: '[ss]<ChatGPT-流媒体>②-0.85倍 - 大湾区机场', server: 125.124.196.171, port: 20485, type: ss, cipher: chacha20-ietf-poly1305, password: c023ed8e-756e-418f-a8a0-60ddfe0f1f06, udp: true}
 - {name: 🇩🇪 德国 法兰克福101 - 墙了个墙, server: fkvip101.qlgq1.pw, port: 10443, type: trojan, password: 968561c8-beec-3611-bc6f-375649bcb4cf, sni: fkvip101.qlgq1.pw, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: fkvip101}, udp: true}
 - {name: 🇩🇪 德国 法兰克福102 - 墙了个墙, server: fkvip101.qlgq1.pw, port: 20443, type: trojan, password: 968561c8-beec-3611-bc6f-375649bcb4cf, sni: fkvip101.qlgq1.pw, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: fkvip101}, udp: true}
 - {name: 🇩🇪 德国 法兰克福103 - 墙了个墙, server: fkvip101.qlgq1.pw, port: 30443, type: trojan, password: 968561c8-beec-3611-bc6f-375649bcb4cf, sni: fkvip101.qlgq1.pw, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: fkvip101}, udp: true}
