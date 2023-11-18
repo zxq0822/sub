@@ -1,6 +1,6 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 节点失效，请手动更新。点击刷新按钮 - 大湾区机场, server: 103.229.54.136, port: 9999, type: ss, cipher: chacha20-ietf-poly1305, password: 72211c7f-5efb-4c10-8e02-9234a292436f, udp: true}
-- {name: <油管无广告>-1x - 大湾区机场, server: 125.124.196.171, port: 41807, type: ss, cipher: chacha20-ietf-poly1305, password: 72211c7f-5efb-4c10-8e02-9234a292436f, udp: true}
-- {name: <ChatGPT-流媒体>②-0.85倍 - 大湾区机场, server: 125.124.196.171, port: 20485, type: ss, cipher: chacha20-ietf-poly1305, password: 72211c7f-5efb-4c10-8e02-9234a292436f, udp: true}
+- {name: 节点失效，请手动更新。点击刷新按钮 - 大湾区机场, server: 103.229.54.136, port: 9999, type: ss, cipher: chacha20-ietf-poly1305, password: 01eead7f-a2af-4dbe-a968-627c2fb62063, udp: true}
+- {name: <油管无广告>-1x - 大湾区机场, server: 125.124.196.171, port: 41807, type: ss, cipher: chacha20-ietf-poly1305, password: 01eead7f-a2af-4dbe-a968-627c2fb62063, udp: true}
+- {name: <ChatGPT-流媒体>②-0.85倍 - 大湾区机场, server: 125.124.196.171, port: 20485, type: ss, cipher: chacha20-ietf-poly1305, password: 01eead7f-a2af-4dbe-a968-627c2fb62063, udp: true}
