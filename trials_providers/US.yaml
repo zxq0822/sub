@@ -1,14 +1,14 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇺🇸美国01 - 都是梦, server: us4.doushimeng.com, port: 20802, type: ss, cipher: chacha20-ietf-poly1305, password: eedff362-f49c-44d2-9a0d-cdf057304c20, udp: true}
-- {name: 🇺🇸美国02 - 都是梦, server: dl6.doushimeng.com, port: 2095, type: vmess, uuid: eedff362-f49c-44d2-9a0d-cdf057304c20, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /asdas, headers: {Host: cf-uss.doushimeng.com}}, udp: true}
-- {name: 🇺🇸美国03 - 都是梦, server: us.doushimeng.com, port: 22853, type: ss, cipher: chacha20-ietf-poly1305, password: eedff362-f49c-44d2-9a0d-cdf057304c20, udp: true}
+- {name: 🇺🇸美国01 - 都是梦, server: us4.doushimeng.com, port: 20802, type: ss, cipher: chacha20-ietf-poly1305, password: c75d7fa8-debf-4df1-ac0e-edc480a77e44, udp: true}
+- {name: 🇺🇸美国02 - 都是梦, server: dl6.doushimeng.com, port: 2095, type: vmess, uuid: c75d7fa8-debf-4df1-ac0e-edc480a77e44, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /asdas, headers: {Host: cf-uss.doushimeng.com}}, udp: true}
+- {name: 🇺🇸美国03 - 都是梦, server: us.doushimeng.com, port: 22853, type: ss, cipher: chacha20-ietf-poly1305, password: c75d7fa8-debf-4df1-ac0e-edc480a77e44, udp: true}
 - {name: 🇺🇸 美国-1/US | 苏移 - 鸡鸡云, server: zzjsyd.jjyhk.com, port: 13334, type: ss, cipher: chacha20-ietf-poly1305, password: 3bf09166-50d3-459f-9ee0-285af0e6dae3, udp: true}
 - {name: 🇺🇸 美国-1/US | 沪联 - 鸡鸡云, server: zj.xn--iiq222b6igvp5c.com, port: 57243, type: ss, cipher: chacha20-ietf-poly1305, password: 3bf09166-50d3-459f-9ee0-285af0e6dae3, udp: true}
 - {name: 🇺🇸 美国-1/US | 上移 - 鸡鸡云, server: zzshyd1.jjyhk.com, port: 12694, type: ss, cipher: chacha20-ietf-poly1305, password: 3bf09166-50d3-459f-9ee0-285af0e6dae3, udp: true}
-- {name: 🇺🇸 美国1-杭港隧道-解锁 - 快云, server: hz.888898.beauty, port: 46331, type: vmess, uuid: 080010f5-2e4a-3a68-be8e-2879cda605d2, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 美国2-广港隧道-解锁 - 快云, server: gz.888898.beauty, port: 43833, type: vmess, uuid: 080010f5-2e4a-3a68-be8e-2879cda605d2, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 美国1-杭港隧道-解锁 - 快云, server: hz.888898.beauty, port: 46331, type: vmess, uuid: ffe6e6ce-d88c-35fb-af7d-de788f77892d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 美国2-广港隧道-解锁 - 快云, server: gz.888898.beauty, port: 43833, type: vmess, uuid: ffe6e6ce-d88c-35fb-af7d-de788f77892d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: '[🇺🇸] 打杂的01 x1 - 星河 583', server: v13.583182.xyz, port: 2053, type: vmess, uuid: ea941a81-922e-4df1-a707-69a372d52f63, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: v13.583181.xyz, network: ws, ws-opts: {path: /, headers: {Host: v13.583181.xyz}}, udp: true}
 - {name: 🇺🇸 美国堪萨斯1 - 一颗机场, server: us1.cou.gay, port: 443, type: vmess, uuid: 33150641-f991-4b89-b31b-d2cfd0817f31, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: '/us1?ed=2048', headers: {Host: us1.cou.gay}}, udp: true}
 - {name: 🇺🇸 美国堪萨斯2 - 一颗机场, server: cf.13d7s.site, port: 443, type: vmess, uuid: 33150641-f991-4b89-b31b-d2cfd0817f31, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: '/us1?ed=2048', headers: {Host: us1.cou.gay}}, udp: true}
@@ -47,8 +47,8 @@ proxies:
 - {name: 🇺🇸 美国 2 ChatGPT - 西瓜皮是真的皮, server: xg.ct1.go002.xyz, port: 19862, type: vmess, uuid: 4b44468f-72da-38a2-aa24-52082b30c62a, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇺🇸 美国 - 线路一 - SScurl, server: whcm.pangupy.com, port: 42452, type: ss, cipher: chacha20-ietf-poly1305, password: dfd9ad88-6275-4589-aa3c-bebeb90ca7c1, udp: true}
 - {name: 🇺🇸 公益美国 - 锦瑜小窝, server: ahzf.jykeji.xyz, port: 51137, type: ss, cipher: chacha20-ietf-poly1305, password: 63905fa3-5aa4-40b1-9f64-06247bc01a9f, udp: true}
-- {name: 🇺🇸 America - 番茄云, server: us.fanqiecloud.top, port: 22752, type: ss, cipher: chacha20-ietf-poly1305, password: 03d44b18-64bc-4699-a717-1f290c9f6aa8, udp: true}
-- {name: 🇺🇸 America 2 - 番茄云, server: us2.fanqiecloud.top, port: 23552, type: ss, cipher: chacha20-ietf-poly1305, password: 03d44b18-64bc-4699-a717-1f290c9f6aa8, udp: true}
+- {name: 🇺🇸 America - 番茄云, server: us.fanqiecloud.top, port: 22752, type: ss, cipher: chacha20-ietf-poly1305, password: 5854206e-e6a2-4a34-82dd-15a33c3c2a7e, udp: true}
+- {name: 🇺🇸 America 2 - 番茄云, server: us2.fanqiecloud.top, port: 23552, type: ss, cipher: chacha20-ietf-poly1305, password: 5854206e-e6a2-4a34-82dd-15a33c3c2a7e, udp: true}
 - {name: '🇺🇸 [vip①]美国1 - MG Network', server: 14.v2-ray.cyou, port: 23614, type: vmess, uuid: 1a208469-0c77-3605-a0fe-74366dd6e469, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 14.v2-ray.cyou}}, udp: true}
 - {name: '🇺🇸 [vip①]美国2 - MG Network', server: 15.v2-ray.cyou, port: 23615, type: vmess, uuid: 1a208469-0c77-3605-a0fe-74366dd6e469, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 15.v2-ray.cyou}}, udp: true}
 - {name: 🇺🇸 美国02|日沪专线|NF - 紅魔館網路, server: shshcua.073505.cn, port: 23603, type: ss, cipher: aes-128-gcm, password: 72d0d7d9-f1a7-4a32-80ef-d9fa432b7120, udp: true}
