@@ -1,5 +1,5 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇯🇵 v2日本-广日隧道 - 快云, server: gd.888888.wtf, port: 16422, type: vmess, uuid: ecc14ace-69fd-397b-9429-89dc814dcdaa, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 日本1-上日隧道-解锁 - 快云, server: sh.888888.wtf, port: 23416, type: vmess, uuid: ecc14ace-69fd-397b-9429-89dc814dcdaa, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 v2日本-广日隧道 - 快云, server: gd.888888.wtf, port: 16422, type: vmess, uuid: 700c23a8-5e45-3044-b9fe-7b7071e5f414, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本1-上日隧道-解锁 - 快云, server: sh.888888.wtf, port: 23416, type: vmess, uuid: 700c23a8-5e45-3044-b9fe-7b7071e5f414, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
