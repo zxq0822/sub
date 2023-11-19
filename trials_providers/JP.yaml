@@ -10,8 +10,8 @@ proxies:
 - {name: 🇯🇵 日本06|日沪专线|NF - 紅魔館網路, server: shshcua.073505.cn, port: 44261, type: ss, cipher: aes-128-gcm, password: 72d0d7d9-f1a7-4a32-80ef-d9fa432b7120, udp: true}
 - {name: 🇯🇵 日本07|日沪专线|NF - 紅魔館網路, server: shshcua.073505.cn, port: 36369, type: ss, cipher: aes-128-gcm, password: 72d0d7d9-f1a7-4a32-80ef-d9fa432b7120, udp: true}
 - {name: 🇯🇵 日本08|日沪专线|NF - 紅魔館網路, server: shshcua.073505.cn, port: 48030, type: ss, cipher: aes-128-gcm, password: 72d0d7d9-f1a7-4a32-80ef-d9fa432b7120, udp: true}
-- {name: '🇯🇵 [vip①]日本1 - MG Network', server: 8.v2-ray.cyou, port: 23608, type: vmess, uuid: ba796d9a-16cb-33ce-bee3-65b75fa50ca2, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: '🇯🇵 [vip①]日本2 - MG Network', server: 19.v2-ray.cyou, port: 23619, type: vmess, uuid: ba796d9a-16cb-33ce-bee3-65b75fa50ca2, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 19.v2-ray.cyou}}, udp: true}
+- {name: '🇯🇵 [vip①]日本1 - MG Network', server: 8.v2-ray.cyou, port: 23608, type: vmess, uuid: a906ff51-0846-323c-a402-8f1f05e0f242, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: '🇯🇵 [vip①]日本2 - MG Network', server: 19.v2-ray.cyou, port: 23619, type: vmess, uuid: a906ff51-0846-323c-a402-8f1f05e0f242, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 19.v2-ray.cyou}}, udp: true}
 - {name: 🇯🇵 日本东京|甲骨文 - 一颗机场, server: ora-jp6.cou.gay, port: 26152, type: ss, cipher: chacha20-ietf-poly1305, password: 33150641-f991-4b89-b31b-d2cfd0817f31, udp: true}
 - {name: 🇯🇵 Japan - 番茄云, server: proxy1.fanqiecloud.top, port: 26202, type: ss, cipher: chacha20-ietf-poly1305, password: 22ceb25e-bc3e-4eca-94af-61682b77f863, udp: true}
 - {name: 🇯🇵 日本 1 Nico Abema - 西瓜皮是真的皮, server: jsxc1.dx001.top, port: 19831, type: vmess, uuid: a00bee53-b74a-3cb5-89e3-b7b114a72f45, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
@@ -19,7 +19,7 @@ proxies:
 - {name: 🇯🇵 JP / 日本 | 华东 - 小白云, server: jp1.iepl.cooc.icu, port: 47100, type: ss, cipher: aes-256-gcm, password: c06111db-8b29-4596-a9b3-0f72dc96544d, udp: true}
 - {name: 🇯🇵 JP / 日本 | 华南 - 小白云, server: jp2.iepl.cooc.icu, port: 47101, type: ss, cipher: aes-256-gcm, password: c06111db-8b29-4596-a9b3-0f72dc96544d, udp: true}
 - {name: 🇯🇵 JP / 日本 | 混合 - 小白云, server: jp3.iepl.cooc.icu, port: 19881, type: ss, cipher: aes-256-gcm, password: c06111db-8b29-4596-a9b3-0f72dc96544d, udp: true}
-- {name: 🇯🇵日本01 - 都是梦, server: proxy1.doushimeng.com, port: 26203, type: ss, cipher: chacha20-ietf-poly1305, password: 56237cff-863f-4228-9717-ccc0eab9916e, udp: true}
+- {name: 🇯🇵日本01 - 都是梦, server: proxy1.doushimeng.com, port: 26203, type: ss, cipher: chacha20-ietf-poly1305, password: 57e96afe-96ad-4bcd-9673-cdf64d6eb3ee, udp: true}
 - {name: 🇯🇵 日本 - 线路一 - SScurl, server: whcm.pangupy.com, port: 45623, type: ss, cipher: chacha20-ietf-poly1305, password: dfd9ad88-6275-4589-aa3c-bebeb90ca7c1, udp: true}
 - {name: 🇯🇵 v2日本-广日隧道 - 快云, server: gd.888888.wtf, port: 16422, type: vmess, uuid: c88e3603-ad86-3bc0-913b-6b1d6a5dbc94, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇯🇵 日本1-上日隧道-解锁 - 快云, server: sh.888888.wtf, port: 23416, type: vmess, uuid: c88e3603-ad86-3bc0-913b-6b1d6a5dbc94, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}

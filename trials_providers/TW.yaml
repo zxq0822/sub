@@ -23,9 +23,9 @@ proxies:
 - {name: 🇹🇼 TW / 台湾 | 华东 - 小白云, server: tw1.iepl.cooc.icu, port: 35109, type: ss, cipher: aes-256-gcm, password: c06111db-8b29-4596-a9b3-0f72dc96544d, udp: true}
 - {name: 🇹🇼 TW / 台湾 | 华南 - 小白云, server: tw2.iepl.cooc.icu, port: 35110, type: ss, cipher: aes-256-gcm, password: c06111db-8b29-4596-a9b3-0f72dc96544d, udp: true}
 - {name: 🇹🇼 TW / 台湾 | 混合 - 小白云, server: tw3.iepl.cooc.icu, port: 35111, type: ss, cipher: aes-256-gcm, password: c06111db-8b29-4596-a9b3-0f72dc96544d, udp: true}
-- {name: 🇹🇼台湾01 - 都是梦, server: proxy1.doushimeng.com, port: 48888, type: ss, cipher: chacha20-ietf-poly1305, password: 56237cff-863f-4228-9717-ccc0eab9916e, udp: true}
-- {name: 🇹🇼台湾02 - 都是梦, server: dl-tw.doushimeng.com, port: 80, type: vmess, uuid: 56237cff-863f-4228-9717-ccc0eab9916e, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /asdas, headers: {Host: cf-tw.doushimeng.com}}, udp: true}
-- {name: 🇹🇼台湾03 - 都是梦, server: tw.doushimeng.com, port: 48888, type: ss, cipher: chacha20-ietf-poly1305, password: 56237cff-863f-4228-9717-ccc0eab9916e, udp: true}
+- {name: 🇹🇼台湾01 - 都是梦, server: proxy1.doushimeng.com, port: 48888, type: ss, cipher: chacha20-ietf-poly1305, password: 57e96afe-96ad-4bcd-9673-cdf64d6eb3ee, udp: true}
+- {name: 🇹🇼台湾02 - 都是梦, server: dl-tw.doushimeng.com, port: 80, type: vmess, uuid: 57e96afe-96ad-4bcd-9673-cdf64d6eb3ee, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /asdas, headers: {Host: cf-tw.doushimeng.com}}, udp: true}
+- {name: 🇹🇼台湾03 - 都是梦, server: tw.doushimeng.com, port: 48888, type: ss, cipher: chacha20-ietf-poly1305, password: 57e96afe-96ad-4bcd-9673-cdf64d6eb3ee, udp: true}
 - {name: 🇹🇼 台湾 - 节点一 - SScurl, server: whcm.pangupy.com, port: 11207, type: ss, cipher: chacha20-ietf-poly1305, password: dfd9ad88-6275-4589-aa3c-bebeb90ca7c1, udp: true}
 - {name: 🇹🇼 台湾-广港隧道-解锁 - 快云, server: hz.888898.beauty, port: 46913, type: vmess, uuid: c88e3603-ad86-3bc0-913b-6b1d6a5dbc94, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇹🇼 公益台湾 - 锦瑜小窝, server: ahzf.jykeji.xyz, port: 31239, type: ss, cipher: chacha20-ietf-poly1305, password: 63905fa3-5aa4-40b1-9f64-06247bc01a9f, udp: true}
