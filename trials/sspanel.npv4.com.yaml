@@ -53,7 +53,7 @@ proxy-groups:
   type: select
   proxies: *id001
 proxies:
-- {name: 🇭🇰 香港 - sspanel, server: xg107.npv4.com, port: 443, type: trojan, password: 0e8d1da9-c4c5-3e4f-9f43-27aae8355eb1, sni: xg107.npv4.com, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 香港 - sspanel, server: xg107.npv4.com, port: 443, type: trojan, password: f13b3980-50dd-3de7-a909-90cd60696179, sni: xg107.npv4.com, skip-cert-verify: true, udp: true}
 rules:
 - DOMAIN-SUFFIX,acl4.ssr,DIRECT
 - DOMAIN-SUFFIX,ip6-localhost,DIRECT
