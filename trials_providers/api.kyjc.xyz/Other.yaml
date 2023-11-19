@@ -1,6 +1,6 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 官网：www.kyjs.xyz（非节点） - 快云, server: hzct.hnytkm.com, port: 58286, type: vmess, uuid: 673b18bf-f83d-3ed8-b9a5-1c1b74acfd11, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 提示：使用前请更新订阅 - 快云, server: lpl.xggj.xn--fiqs8s, port: 29865, type: vmess, uuid: 673b18bf-f83d-3ed8-b9a5-1c1b74acfd11, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇨🇦 加拿大-杭港隧道-解锁 - 快云, server: hz.888898.beauty, port: 43689, type: vmess, uuid: 673b18bf-f83d-3ed8-b9a5-1c1b74acfd11, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 官网：www.kyjs.xyz（非节点） - 快云, server: hzct.hnytkm.com, port: 58286, type: vmess, uuid: 1f102d01-1964-3edf-9135-03605a56d877, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 提示：使用前请更新订阅 - 快云, server: lpl.xggj.xn--fiqs8s, port: 29865, type: vmess, uuid: 1f102d01-1964-3edf-9135-03605a56d877, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇨🇦 加拿大-杭港隧道-解锁 - 快云, server: hz.888898.beauty, port: 43689, type: vmess, uuid: 1f102d01-1964-3edf-9135-03605a56d877, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
