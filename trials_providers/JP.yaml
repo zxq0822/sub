@@ -1,7 +1,7 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇯🇵日本01 - 都是梦, server: proxy1.doushimeng.com, port: 26203, type: ss, cipher: chacha20-ietf-poly1305, password: 4fd29fa8-4642-4909-8722-322512bc616d, udp: true}
+- {name: 🇯🇵日本01 - 都是梦, server: proxy1.doushimeng.com, port: 26203, type: ss, cipher: chacha20-ietf-poly1305, password: d766a2c5-0045-45e9-bd3b-72f1616e1386, udp: true}
 - {name: 🇯🇵 日本/JP | 苏移 - 鸡鸡云, server: zzjsyd.jjyhk.com, port: 13322, type: ss, cipher: chacha20-ietf-poly1305, password: c9d37007-9daf-4c82-b767-1ad6d723a71c, udp: true}
 - {name: 🇯🇵 日本/JP | 深联 - 鸡鸡云, server: zzszlt.jjyhk.com, port: 13322, type: ss, cipher: chacha20-ietf-poly1305, password: c9d37007-9daf-4c82-b767-1ad6d723a71c, udp: true}
 - {name: 🇯🇵 v2日本-杭日隧道 - 快云, server: hz.888898.beauty, port: 47837, type: vmess, uuid: 4cda76cf-1db7-3336-a9da-b969743737cc, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
