@@ -25,9 +25,8 @@ proxies:
 - {name: 🇹🇼 广港•台湾262•高速 - 飞翔吧, server: gy.58n.net, port: 36821, type: trojan, password: 6f29a436-f79c-34aa-a3ad-6fe43cb5f4fc, sni: z262.hongkongnode.top, skip-cert-verify: true, udp: true}
 - {name: 🇹🇼 TW / 台湾 | 华东 - 小白云, server: tw1.iepl.cooc.icu, port: 35109, type: ss, cipher: aes-256-gcm, password: 9250ffab-3808-41a1-9377-b4eeb8404c58, udp: true}
 - {name: 🇹🇼 TW / 台湾 | 华南 - 小白云, server: tw2.iepl.cooc.icu, port: 35110, type: ss, cipher: aes-256-gcm, password: 9250ffab-3808-41a1-9377-b4eeb8404c58, udp: true}
-- {name: 🇹🇼 TW / 台湾 | 混合 - 小白云, server: tw3.iepl.cooc.icu, port: 35111, type: ss, cipher: aes-256-gcm, password: 9250ffab-3808-41a1-9377-b4eeb8404c58, udp: true}
-- {name: 🇹🇼 台湾 1 动画疯 - 西瓜皮是真的皮, server: cm-01.dx001.top, port: 19821, type: vmess, uuid: 5bd2f5da-32b2-38c3-a83a-d112cf8f3cf8, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇹🇼 台湾 2 动画疯 - 西瓜皮是真的皮, server: ct-01.dx001.top, port: 19822, type: vmess, uuid: 5bd2f5da-32b2-38c3-a83a-d112cf8f3cf8, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼 台湾 1 动画疯 - 西瓜皮是真的皮, server: cm-01.dx001.top, port: 19821, type: vmess, uuid: 7ac05e53-a0f2-3041-a54a-503a980fbe52, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼 台湾 2 动画疯 - 西瓜皮是真的皮, server: ct-01.dx001.top, port: 19822, type: vmess, uuid: 7ac05e53-a0f2-3041-a54a-503a980fbe52, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇹🇼 台湾 - 节点一 - SScurl, server: whcm.pangupy.com, port: 11207, type: ss, cipher: chacha20-ietf-poly1305, password: 6a3c8780-78b7-440c-b630-b441bd7031c7, udp: true}
 - {name: 🇹🇼 Taiwan - 番茄云, server: tw.fanqiecloud.top, port: 48889, type: ss, cipher: chacha20-ietf-poly1305, password: 316074d2-a312-4a55-9473-77a0649f3ed8, udp: true}
 - {name: 🇹🇼 Taiwan 2 - 番茄云, server: dl4.fanqiecloud.top, port: 2086, type: vmess, uuid: 316074d2-a312-4a55-9473-77a0649f3ed8, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /sssddd, headers: {Host: cf-tw.fanqiecloud.top}}, udp: true}

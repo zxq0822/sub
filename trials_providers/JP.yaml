@@ -24,8 +24,8 @@ proxies:
 - {name: 🇯🇵 JP / 日本 | 华东 - 小白云, server: jp1.iepl.cooc.icu, port: 47100, type: ss, cipher: aes-256-gcm, password: 9250ffab-3808-41a1-9377-b4eeb8404c58, udp: true}
 - {name: 🇯🇵 JP / 日本 | 华南 - 小白云, server: jp2.iepl.cooc.icu, port: 47101, type: ss, cipher: aes-256-gcm, password: 9250ffab-3808-41a1-9377-b4eeb8404c58, udp: true}
 - {name: 🇯🇵 JP / 日本 | 混合 - 小白云, server: jp3.iepl.cooc.icu, port: 19881, type: ss, cipher: aes-256-gcm, password: 9250ffab-3808-41a1-9377-b4eeb8404c58, udp: true}
-- {name: 🇯🇵 日本 1 Nico Abema - 西瓜皮是真的皮, server: jsxc1.dx001.top, port: 19831, type: vmess, uuid: 5bd2f5da-32b2-38c3-a83a-d112cf8f3cf8, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 日本 2 Nico Abema - 西瓜皮是真的皮, server: cm-01.dx001.top, port: 19832, type: vmess, uuid: 5bd2f5da-32b2-38c3-a83a-d112cf8f3cf8, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本 1 Nico Abema - 西瓜皮是真的皮, server: jsxc1.dx001.top, port: 19831, type: vmess, uuid: 7ac05e53-a0f2-3041-a54a-503a980fbe52, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本 2 Nico Abema - 西瓜皮是真的皮, server: cm-01.dx001.top, port: 19832, type: vmess, uuid: 7ac05e53-a0f2-3041-a54a-503a980fbe52, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇯🇵 日本 - 线路一 - SScurl, server: whcm.pangupy.com, port: 45623, type: ss, cipher: chacha20-ietf-poly1305, password: 6a3c8780-78b7-440c-b630-b441bd7031c7, udp: true}
 - {name: 🇯🇵 Japan - 番茄云, server: proxy1.fanqiecloud.top, port: 26202, type: ss, cipher: chacha20-ietf-poly1305, password: 316074d2-a312-4a55-9473-77a0649f3ed8, udp: true}
 - {name: '🇯🇵 [vip①]日本1 - MG Network', server: 8.v2-ray.cyou, port: 23608, type: vmess, uuid: 2cc49aa8-ffe9-3b67-beed-15aeb76a20f5, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
