@@ -32,11 +32,6 @@ proxy-groups:
   interval: 30
   tolerance: 100
   proxies: &id001
-  - 🇭🇰 香港-1/HK | 杭联 - 鸡鸡云
-  - 🇭🇰 香港-1/HK | 深联 - 鸡鸡云
-  - 🇭🇰 香港/HK | 杭联 - 鸡鸡云
-  - 🇭🇰 香港/HK | 沪日 - 鸡鸡云
-  - 🇭🇰 香港/HK | 苏移 - 鸡鸡云
   - 🇭🇰 香港2-广港隧道-解锁 - 快云
   - 🇭🇰 香港7-杭港隧道-解锁 - 快云
   - 🇭🇰 香港1-广港隧道 - 快云
@@ -58,8 +53,6 @@ proxy-groups:
   - 🇭🇰 HK / 香港 | 华南 - 小白云
   - 🇭🇰 HK / 香港 | 华东 - 小白云
   - 🇭🇰 HK / 香港 | 混合 - 小白云
-  - 🇭🇰 香港 1 - 西瓜皮是真的皮
-  - 🇭🇰 香港 2 - 西瓜皮是真的皮
   - 🇭🇰 香港|【黑五活动】6.5折活动进行中|公益 - 大白
   - 🇭🇰 香港|专线2G|GPT+流媒体|【dabai.in】<<前往官网|公益 - 大白
   - 🇭🇰 香港|专线2G|GPT+流媒体|【db01.in】<<前往官网|公益 - 大白
@@ -82,23 +75,9 @@ proxy-groups:
   - 🇭🇰 香港 110 - 墙了个墙
   - 🇭🇰 香港A丨HKBN丨流媒体 - Tannel中继网络服务
   - 🇭🇰 香港B丨BGP丨流媒体 - Tannel中继网络服务
-  - 🇹🇼台湾01 - 都是梦
-  - 🇹🇼台湾02 - 都是梦
-  - 🇹🇼台湾03 - 都是梦
   - 🇹🇼 台湾-广港隧道-解锁 - 快云
-  - 🇹🇼 TW-板桥1-1 - 麻雀加速器 Sparrow
-  - 🇹🇼 TW-板桥1-2 - 麻雀加速器 Sparrow
-  - 🇹🇼 TW-板桥1-3 - 麻雀加速器 Sparrow
-  - 🇹🇼 TW-板桥2-1 - 麻雀加速器 Sparrow
-  - 🇹🇼 TW-板桥2-2 - 麻雀加速器 Sparrow
-  - 🇹🇼 TW-板桥2-3 - 麻雀加速器 Sparrow
-  - 🇹🇼 TW-板桥2-4 - 麻雀加速器 Sparrow
-  - 🇹🇼 TW-台中1-1 - 麻雀加速器 Sparrow
-  - 🇹🇼 TW-台中1-2 - 麻雀加速器 Sparrow
   - 🇹🇼 V4-4007|台湾|x2.0 - 海豚云
   - 🇹🇼 V4-4008|台湾|x2.0 - 海豚云
-  - 🇹🇼 TW台湾 A - 可乐云
-  - 🇹🇼 TW台湾 B - 可乐云
   - 🇹🇼 广港•台湾258•高速 - 飞翔吧
   - 🇹🇼 中转•台湾100•高速 - 飞翔吧
   - 🇹🇼 中转•台湾91•原生 - 飞翔吧
@@ -106,21 +85,13 @@ proxy-groups:
   - 🇹🇼 广港•台湾262•高速 - 飞翔吧
   - 🇹🇼 TW / 台湾 | 华东 - 小白云
   - 🇹🇼 TW / 台湾 | 华南 - 小白云
-  - 🇹🇼 台湾 1 动画疯 - 西瓜皮是真的皮
-  - 🇹🇼 台湾 2 动画疯 - 西瓜皮是真的皮
-  - 🇹🇼 台湾 - 节点一 - SScurl
   - 🇹🇼 Taiwan - 番茄云
   - 🇹🇼 Taiwan 2 - 番茄云
   - 🇹🇼 Taiwan 3 - 番茄云
   - 🇹🇼 台湾A丨Hinet丨流媒体 - Tannel中继网络服务
-  - 🇸🇬新加坡01 - 都是梦
-  - 🇸🇬新加坡02 - 都是梦
-  - 🇸🇬新加坡03 - 都是梦
   - 🇸🇬 新加坡2-杭新隧道-解锁 - 快云
   - 🇸🇬 V4-4003|新加坡|x2.0 - 海豚云
   - 🇸🇬 V4-4004|新加坡|x2.0 - 海豚云
-  - 🇸🇬 SG新加坡 A - 可乐云
-  - 🇸🇬 SG新加坡 B - 可乐云
   - 🇸🇬 中转•新加坡299•高速 - 飞翔吧
   - 🇸🇬 中转•新加坡65•青铜 - 飞翔吧
   - 🇸🇬 中转•新加坡83•高速 - 飞翔吧
@@ -128,9 +99,6 @@ proxy-groups:
   - 🇸🇬 新加坡•高速130•铂金 - 飞翔吧
   - 🇸🇬 SG / 新加坡 | 华南 - 小白云
   - 🇸🇬 SG / 新加坡 | 华东 - 小白云
-  - 🇸🇬 新加坡 1 Netflix  - 西瓜皮是真的皮
-  - 🇸🇬 新加坡 2 Netflix - 西瓜皮是真的皮
-  - 🇸🇬 新加坡 - 节点一 - SScurl
   - 🇸🇬 Singapore - 番茄云
   - 🇸🇬 Singapore 2 - 番茄云
   - 🇸🇬 [vip①]新加坡1 - MG Network
@@ -139,15 +107,10 @@ proxy-groups:
   - 🇸🇬 新加坡 103 - 墙了个墙
   - 🇸🇬 新加坡 104 - 墙了个墙
   - 🇸🇬 新加坡 105 - 墙了个墙
-  - 🇯🇵日本01 - 都是梦
-  - 🇯🇵 日本/JP | 苏移 - 鸡鸡云
-  - 🇯🇵 日本/JP | 深联 - 鸡鸡云
   - 🇯🇵 v2日本-杭日隧道 - 快云
   - 🇯🇵 日本1-杭日隧道-解锁 - 快云
   - 🇯🇵 V4-4001|日本|x1.5 - 海豚云
   - 🇯🇵 V4-4002|日本|x2.0 - 海豚云
-  - 🇯🇵 JP日本 A - 可乐云
-  - 🇯🇵 JP日本 B - 可乐云
   - 🇯🇵 中转•日本298•高速 - 飞翔吧
   - 🇯🇵 中转•日本300•原生 - 飞翔吧
   - 🇯🇵 日本•高速114•高速 - 飞翔吧
@@ -162,9 +125,6 @@ proxy-groups:
   - 🇯🇵 JP / 日本 | 华东 - 小白云
   - 🇯🇵 JP / 日本 | 华南 - 小白云
   - 🇯🇵 JP / 日本 | 混合 - 小白云
-  - 🇯🇵 日本 1 Nico Abema - 西瓜皮是真的皮
-  - 🇯🇵 日本 2 Nico Abema - 西瓜皮是真的皮
-  - 🇯🇵 日本 - 线路一 - SScurl
   - 🇯🇵 Japan - 番茄云
   - 🇯🇵 [vip①]日本1 - MG Network
   - 🇯🇵 [vip①]日本2 - MG Network
@@ -174,20 +134,11 @@ proxy-groups:
   - 🇯🇵 日本 104 - 墙了个墙
   - 🇯🇵 日本 105 - 墙了个墙
   - 🇯🇵 日本A丨Lin丨流媒体 - Tannel中继网络服务
-  - 🇺🇸美国01 - 都是梦
-  - 🇺🇸美国02 - 都是梦
-  - 🇺🇸美国03 - 都是梦
-  - 🇺🇸 美国-1/US | 苏移 - 鸡鸡云
-  - 🇺🇸 美国-1/US | 沪联 - 鸡鸡云
-  - 🇺🇸 美国-1/US | 上移 - 鸡鸡云
   - 🇺🇸 美国1-杭港隧道-解锁 - 快云
   - 🇺🇸 美国2-广港隧道-解锁 - 快云
-  - 🇺🇸 Lx-Cloud|禁止倒卖|美国01 - Lx-Cloud
   - 🇺🇸美国 🌐「达拉斯」 - 北方航空
   - 🇺🇸 V4-4005|美国|x2.0 - 海豚云
   - 🇺🇸 V4-4006|美国|x1.5 - 海豚云
-  - 🇺🇸 US美国 A - 可乐云
-  - 🇺🇸 US美国 B - 可乐云
   - 🇺🇸 中转•美国295•高速 - 飞翔吧
   - 🇺🇸 中转•美国296•高速 - 飞翔吧
   - 🇺🇸 中转•美国40•高速 - 飞翔吧
@@ -201,9 +152,6 @@ proxy-groups:
   - 🇺🇸 US / 美国 | 混合 - 小白云
   - 🇺🇸 美国 / 华东 | 原生 - 小白云
   - 🇺🇸 美国 / 华南 | 原生 - 小白云
-  - 🇺🇸 美国 1 ChatGPT - 西瓜皮是真的皮
-  - 🇺🇸 美国 2 ChatGPT - 西瓜皮是真的皮
-  - 🇺🇸 美国 - 线路一 - SScurl
   - 🇺🇸 America - 番茄云
   - 🇺🇸 America 2 - 番茄云
   - 🇺🇸 [vip①]美国1 - MG Network
@@ -220,32 +168,7 @@ proxy-groups:
   - 🇺🇸 美国 硅谷104 - 墙了个墙
   - 🇺🇸 美国 硅谷105 - 墙了个墙
   - 🇺🇲 美国A丨芝加哥丨流媒体 - Tannel中继网络服务
-  - 🇰🇷韩国01 - 都是梦
-  - 🇰🇷韩国02 - 都是梦
-  - 🇰🇷韩国03 - 都是梦
-  - 🇦🇪迪拜01 - 都是梦
-  - 🇩🇪德国01 - 都是梦
-  - 🇩🇪德国02 - 都是梦
-  - 🇦🇺澳大利亚01 - 都是梦
-  - 🇮🇹意大利01 - 都是梦
-  - 🇳🇱荷兰01 - 都是梦
-  - 🇫🇷法国01 - 都是梦
-  - 🇧🇷巴西01 - 都是梦
-  - 🇧🇷巴西02 - 都是梦
-  - 🇧🇷巴西03 - 都是梦
-  - 🇹🇭 泰国/TH | 杭联 - 鸡鸡云
-  - 🇹🇭 泰国/TH | 深联 - 鸡鸡云
-  - 🇹🇭 泰国/TH | 苏移 - 鸡鸡云
-  - 🇸🇰 斯洛伐克中转-电信 - 鸡鸡云
-  - 🇦🇷 阿根廷/AR | 深联 - 鸡鸡云
-  - 🇻🇳 越南/VN | 北联 - 鸡鸡云
-  - 🇩🇪 德国/DE | 北联 - 鸡鸡云
-  - 🇩🇪 德国/DE | 厦联 - 鸡鸡云
-  - 🇸🇪 瑞典/SE | 泸德 - 鸡鸡云
-  - 🇫🇷 法国/FR | 苏移 - 鸡鸡云
-  - 🇫🇷 法国/FR | 深联 - 鸡鸡云
   - 🇨🇦 加拿大-杭港隧道-解锁 - 快云
-  - 🇧🇷 BR巴西 A - 可乐云
   - 🇬🇧 中转•英国267•高速 - 飞翔吧
   - 🇬🇧 中转•英国268•高速 - 飞翔吧
   - 🇰🇷 广港•韩国263•高速 - 飞翔吧
@@ -261,14 +184,6 @@ proxy-groups:
   - 🇩🇪 德国 / 华南 | 原生 - 小白云
   - 🇩🇪 德国 / 华东 | 原生 - 小白云
   - 🇫🇷 法国 / 华东 | 原生 - 小白云
-  - 🇩🇪 德国 1 - 西瓜皮是真的皮
-  - 🇩🇪 德国2 - 西瓜皮是真的皮
-  - 🇬🇧 英国 1 - 西瓜皮是真的皮
-  - 🇬🇧 英国 2 - 西瓜皮是真的皮
-  - 🇰🇷 韩国 - 线路一 - SScurl
-  - 🇮🇳 印度 - 线路一 - SScurl
-  - 🇫🇷 法国 - 线路一 - SScurl
-  - 🇲🇾 马来西亚 - 线路一 - SScurl
   - 🇰🇷 South Korea - 番茄云
   - 🇰🇷 South Korea 2 - 番茄云
   - 🇰🇷 South Korea 3 - 番茄云
@@ -354,11 +269,6 @@ proxy-groups:
   interval: 15
   tolerance: 100
   proxies: &id002
-  - 🇭🇰 香港-1/HK | 杭联 - 鸡鸡云
-  - 🇭🇰 香港-1/HK | 深联 - 鸡鸡云
-  - 🇭🇰 香港/HK | 杭联 - 鸡鸡云
-  - 🇭🇰 香港/HK | 沪日 - 鸡鸡云
-  - 🇭🇰 香港/HK | 苏移 - 鸡鸡云
   - 🇭🇰 香港2-广港隧道-解锁 - 快云
   - 🇭🇰 香港7-杭港隧道-解锁 - 快云
   - 🇭🇰 香港1-广港隧道 - 快云
@@ -380,8 +290,6 @@ proxy-groups:
   - 🇭🇰 HK / 香港 | 华南 - 小白云
   - 🇭🇰 HK / 香港 | 华东 - 小白云
   - 🇭🇰 HK / 香港 | 混合 - 小白云
-  - 🇭🇰 香港 1 - 西瓜皮是真的皮
-  - 🇭🇰 香港 2 - 西瓜皮是真的皮
   - 🇭🇰 香港|【黑五活动】6.5折活动进行中|公益 - 大白
   - 🇭🇰 香港|专线2G|GPT+流媒体|【dabai.in】<<前往官网|公益 - 大白
   - 🇭🇰 香港|专线2G|GPT+流媒体|【db01.in】<<前往官网|公益 - 大白
@@ -410,23 +318,9 @@ proxy-groups:
   interval: 15
   tolerance: 100
   proxies: &id003
-  - 🇹🇼台湾01 - 都是梦
-  - 🇹🇼台湾02 - 都是梦
-  - 🇹🇼台湾03 - 都是梦
   - 🇹🇼 台湾-广港隧道-解锁 - 快云
-  - 🇹🇼 TW-板桥1-1 - 麻雀加速器 Sparrow
-  - 🇹🇼 TW-板桥1-2 - 麻雀加速器 Sparrow
-  - 🇹🇼 TW-板桥1-3 - 麻雀加速器 Sparrow
-  - 🇹🇼 TW-板桥2-1 - 麻雀加速器 Sparrow
-  - 🇹🇼 TW-板桥2-2 - 麻雀加速器 Sparrow
-  - 🇹🇼 TW-板桥2-3 - 麻雀加速器 Sparrow
-  - 🇹🇼 TW-板桥2-4 - 麻雀加速器 Sparrow
-  - 🇹🇼 TW-台中1-1 - 麻雀加速器 Sparrow
-  - 🇹🇼 TW-台中1-2 - 麻雀加速器 Sparrow
   - 🇹🇼 V4-4007|台湾|x2.0 - 海豚云
   - 🇹🇼 V4-4008|台湾|x2.0 - 海豚云
-  - 🇹🇼 TW台湾 A - 可乐云
-  - 🇹🇼 TW台湾 B - 可乐云
   - 🇹🇼 广港•台湾258•高速 - 飞翔吧
   - 🇹🇼 中转•台湾100•高速 - 飞翔吧
   - 🇹🇼 中转•台湾91•原生 - 飞翔吧
@@ -434,9 +328,6 @@ proxy-groups:
   - 🇹🇼 广港•台湾262•高速 - 飞翔吧
   - 🇹🇼 TW / 台湾 | 华东 - 小白云
   - 🇹🇼 TW / 台湾 | 华南 - 小白云
-  - 🇹🇼 台湾 1 动画疯 - 西瓜皮是真的皮
-  - 🇹🇼 台湾 2 动画疯 - 西瓜皮是真的皮
-  - 🇹🇼 台湾 - 节点一 - SScurl
   - 🇹🇼 Taiwan - 番茄云
   - 🇹🇼 Taiwan 2 - 番茄云
   - 🇹🇼 Taiwan 3 - 番茄云
@@ -447,11 +338,6 @@ proxy-groups:
   interval: 15
   tolerance: 100
   proxies: &id004
-  - 🇭🇰 香港-1/HK | 杭联 - 鸡鸡云
-  - 🇭🇰 香港-1/HK | 深联 - 鸡鸡云
-  - 🇭🇰 香港/HK | 杭联 - 鸡鸡云
-  - 🇭🇰 香港/HK | 沪日 - 鸡鸡云
-  - 🇭🇰 香港/HK | 苏移 - 鸡鸡云
   - 🇭🇰 香港2-广港隧道-解锁 - 快云
   - 🇭🇰 香港7-杭港隧道-解锁 - 快云
   - 🇭🇰 香港1-广港隧道 - 快云
@@ -473,8 +359,6 @@ proxy-groups:
   - 🇭🇰 HK / 香港 | 华南 - 小白云
   - 🇭🇰 HK / 香港 | 华东 - 小白云
   - 🇭🇰 HK / 香港 | 混合 - 小白云
-  - 🇭🇰 香港 1 - 西瓜皮是真的皮
-  - 🇭🇰 香港 2 - 西瓜皮是真的皮
   - 🇭🇰 香港|【黑五活动】6.5折活动进行中|公益 - 大白
   - 🇭🇰 香港|专线2G|GPT+流媒体|【dabai.in】<<前往官网|公益 - 大白
   - 🇭🇰 香港|专线2G|GPT+流媒体|【db01.in】<<前往官网|公益 - 大白
@@ -497,23 +381,9 @@ proxy-groups:
   - 🇭🇰 香港 110 - 墙了个墙
   - 🇭🇰 香港A丨HKBN丨流媒体 - Tannel中继网络服务
   - 🇭🇰 香港B丨BGP丨流媒体 - Tannel中继网络服务
-  - 🇹🇼台湾01 - 都是梦
-  - 🇹🇼台湾02 - 都是梦
-  - 🇹🇼台湾03 - 都是梦
   - 🇹🇼 台湾-广港隧道-解锁 - 快云
-  - 🇹🇼 TW-板桥1-1 - 麻雀加速器 Sparrow
-  - 🇹🇼 TW-板桥1-2 - 麻雀加速器 Sparrow
-  - 🇹🇼 TW-板桥1-3 - 麻雀加速器 Sparrow
-  - 🇹🇼 TW-板桥2-1 - 麻雀加速器 Sparrow
-  - 🇹🇼 TW-板桥2-2 - 麻雀加速器 Sparrow
-  - 🇹🇼 TW-板桥2-3 - 麻雀加速器 Sparrow
-  - 🇹🇼 TW-板桥2-4 - 麻雀加速器 Sparrow
-  - 🇹🇼 TW-台中1-1 - 麻雀加速器 Sparrow
-  - 🇹🇼 TW-台中1-2 - 麻雀加速器 Sparrow
   - 🇹🇼 V4-4007|台湾|x2.0 - 海豚云
   - 🇹🇼 V4-4008|台湾|x2.0 - 海豚云
-  - 🇹🇼 TW台湾 A - 可乐云
-  - 🇹🇼 TW台湾 B - 可乐云
   - 🇹🇼 广港•台湾258•高速 - 飞翔吧
   - 🇹🇼 中转•台湾100•高速 - 飞翔吧
   - 🇹🇼 中转•台湾91•原生 - 飞翔吧
@@ -521,9 +391,6 @@ proxy-groups:
   - 🇹🇼 广港•台湾262•高速 - 飞翔吧
   - 🇹🇼 TW / 台湾 | 华东 - 小白云
   - 🇹🇼 TW / 台湾 | 华南 - 小白云
-  - 🇹🇼 台湾 1 动画疯 - 西瓜皮是真的皮
-  - 🇹🇼 台湾 2 动画疯 - 西瓜皮是真的皮
-  - 🇹🇼 台湾 - 节点一 - SScurl
   - 🇹🇼 Taiwan - 番茄云
   - 🇹🇼 Taiwan 2 - 番茄云
   - 🇹🇼 Taiwan 3 - 番茄云
@@ -534,14 +401,9 @@ proxy-groups:
   interval: 15
   tolerance: 100
   proxies: &id005
-  - 🇸🇬新加坡01 - 都是梦
-  - 🇸🇬新加坡02 - 都是梦
-  - 🇸🇬新加坡03 - 都是梦
   - 🇸🇬 新加坡2-杭新隧道-解锁 - 快云
   - 🇸🇬 V4-4003|新加坡|x2.0 - 海豚云
   - 🇸🇬 V4-4004|新加坡|x2.0 - 海豚云
-  - 🇸🇬 SG新加坡 A - 可乐云
-  - 🇸🇬 SG新加坡 B - 可乐云
   - 🇸🇬 中转•新加坡299•高速 - 飞翔吧
   - 🇸🇬 中转•新加坡65•青铜 - 飞翔吧
   - 🇸🇬 中转•新加坡83•高速 - 飞翔吧
@@ -549,9 +411,6 @@ proxy-groups:
   - 🇸🇬 新加坡•高速130•铂金 - 飞翔吧
   - 🇸🇬 SG / 新加坡 | 华南 - 小白云
   - 🇸🇬 SG / 新加坡 | 华东 - 小白云
-  - 🇸🇬 新加坡 1 Netflix  - 西瓜皮是真的皮
-  - 🇸🇬 新加坡 2 Netflix - 西瓜皮是真的皮
-  - 🇸🇬 新加坡 - 节点一 - SScurl
   - 🇸🇬 Singapore - 番茄云
   - 🇸🇬 Singapore 2 - 番茄云
   - 🇸🇬 [vip①]新加坡1 - MG Network
@@ -566,15 +425,10 @@ proxy-groups:
   interval: 15
   tolerance: 100
   proxies: &id006
-  - 🇯🇵日本01 - 都是梦
-  - 🇯🇵 日本/JP | 苏移 - 鸡鸡云
-  - 🇯🇵 日本/JP | 深联 - 鸡鸡云
   - 🇯🇵 v2日本-杭日隧道 - 快云
   - 🇯🇵 日本1-杭日隧道-解锁 - 快云
   - 🇯🇵 V4-4001|日本|x1.5 - 海豚云
   - 🇯🇵 V4-4002|日本|x2.0 - 海豚云
-  - 🇯🇵 JP日本 A - 可乐云
-  - 🇯🇵 JP日本 B - 可乐云
   - 🇯🇵 中转•日本298•高速 - 飞翔吧
   - 🇯🇵 中转•日本300•原生 - 飞翔吧
   - 🇯🇵 日本•高速114•高速 - 飞翔吧
@@ -589,9 +443,6 @@ proxy-groups:
   - 🇯🇵 JP / 日本 | 华东 - 小白云
   - 🇯🇵 JP / 日本 | 华南 - 小白云
   - 🇯🇵 JP / 日本 | 混合 - 小白云
-  - 🇯🇵 日本 1 Nico Abema - 西瓜皮是真的皮
-  - 🇯🇵 日本 2 Nico Abema - 西瓜皮是真的皮
-  - 🇯🇵 日本 - 线路一 - SScurl
   - 🇯🇵 Japan - 番茄云
   - 🇯🇵 [vip①]日本1 - MG Network
   - 🇯🇵 [vip①]日本2 - MG Network
@@ -607,20 +458,11 @@ proxy-groups:
   interval: 15
   tolerance: 300
   proxies: &id007
-  - 🇺🇸美国01 - 都是梦
-  - 🇺🇸美国02 - 都是梦
-  - 🇺🇸美国03 - 都是梦
-  - 🇺🇸 美国-1/US | 苏移 - 鸡鸡云
-  - 🇺🇸 美国-1/US | 沪联 - 鸡鸡云
-  - 🇺🇸 美国-1/US | 上移 - 鸡鸡云
   - 🇺🇸 美国1-杭港隧道-解锁 - 快云
   - 🇺🇸 美国2-广港隧道-解锁 - 快云
-  - 🇺🇸 Lx-Cloud|禁止倒卖|美国01 - Lx-Cloud
   - 🇺🇸美国 🌐「达拉斯」 - 北方航空
   - 🇺🇸 V4-4005|美国|x2.0 - 海豚云
   - 🇺🇸 V4-4006|美国|x1.5 - 海豚云
-  - 🇺🇸 US美国 A - 可乐云
-  - 🇺🇸 US美国 B - 可乐云
   - 🇺🇸 中转•美国295•高速 - 飞翔吧
   - 🇺🇸 中转•美国296•高速 - 飞翔吧
   - 🇺🇸 中转•美国40•高速 - 飞翔吧
@@ -634,9 +476,6 @@ proxy-groups:
   - 🇺🇸 US / 美国 | 混合 - 小白云
   - 🇺🇸 美国 / 华东 | 原生 - 小白云
   - 🇺🇸 美国 / 华南 | 原生 - 小白云
-  - 🇺🇸 美国 1 ChatGPT - 西瓜皮是真的皮
-  - 🇺🇸 美国 2 ChatGPT - 西瓜皮是真的皮
-  - 🇺🇸 美国 - 线路一 - SScurl
   - 🇺🇸 America - 番茄云
   - 🇺🇸 America 2 - 番茄云
   - 🇺🇸 [vip①]美国1 - MG Network
@@ -659,32 +498,7 @@ proxy-groups:
   interval: 30
   tolerance: 100
   proxies: &id008
-  - 🇰🇷韩国01 - 都是梦
-  - 🇰🇷韩国02 - 都是梦
-  - 🇰🇷韩国03 - 都是梦
-  - 🇦🇪迪拜01 - 都是梦
-  - 🇩🇪德国01 - 都是梦
-  - 🇩🇪德国02 - 都是梦
-  - 🇦🇺澳大利亚01 - 都是梦
-  - 🇮🇹意大利01 - 都是梦
-  - 🇳🇱荷兰01 - 都是梦
-  - 🇫🇷法国01 - 都是梦
-  - 🇧🇷巴西01 - 都是梦
-  - 🇧🇷巴西02 - 都是梦
-  - 🇧🇷巴西03 - 都是梦
-  - 🇹🇭 泰国/TH | 杭联 - 鸡鸡云
-  - 🇹🇭 泰国/TH | 深联 - 鸡鸡云
-  - 🇹🇭 泰国/TH | 苏移 - 鸡鸡云
-  - 🇸🇰 斯洛伐克中转-电信 - 鸡鸡云
-  - 🇦🇷 阿根廷/AR | 深联 - 鸡鸡云
-  - 🇻🇳 越南/VN | 北联 - 鸡鸡云
-  - 🇩🇪 德国/DE | 北联 - 鸡鸡云
-  - 🇩🇪 德国/DE | 厦联 - 鸡鸡云
-  - 🇸🇪 瑞典/SE | 泸德 - 鸡鸡云
-  - 🇫🇷 法国/FR | 苏移 - 鸡鸡云
-  - 🇫🇷 法国/FR | 深联 - 鸡鸡云
   - 🇨🇦 加拿大-杭港隧道-解锁 - 快云
-  - 🇧🇷 BR巴西 A - 可乐云
   - 🇬🇧 中转•英国267•高速 - 飞翔吧
   - 🇬🇧 中转•英国268•高速 - 飞翔吧
   - 🇰🇷 广港•韩国263•高速 - 飞翔吧
@@ -700,14 +514,6 @@ proxy-groups:
   - 🇩🇪 德国 / 华南 | 原生 - 小白云
   - 🇩🇪 德国 / 华东 | 原生 - 小白云
   - 🇫🇷 法国 / 华东 | 原生 - 小白云
-  - 🇩🇪 德国 1 - 西瓜皮是真的皮
-  - 🇩🇪 德国2 - 西瓜皮是真的皮
-  - 🇬🇧 英国 1 - 西瓜皮是真的皮
-  - 🇬🇧 英国 2 - 西瓜皮是真的皮
-  - 🇰🇷 韩国 - 线路一 - SScurl
-  - 🇮🇳 印度 - 线路一 - SScurl
-  - 🇫🇷 法国 - 线路一 - SScurl
-  - 🇲🇾 马来西亚 - 线路一 - SScurl
   - 🇰🇷 South Korea - 番茄云
   - 🇰🇷 South Korea 2 - 番茄云
   - 🇰🇷 South Korea 3 - 番茄云
@@ -766,50 +572,6 @@ proxy-groups:
   type: select
   proxies: *id008
 proxies:
-- {name: 🇹🇼台湾01 - 都是梦, server: proxy1.doushimeng.com, port: 48888, type: ss, cipher: chacha20-ietf-poly1305, password: 14d52d81-bea1-4bdf-9789-88b7fc02a0fc, udp: true}
-- {name: 🇹🇼台湾02 - 都是梦, server: dl-tw.doushimeng.com, port: 80, type: vmess, uuid: 14d52d81-bea1-4bdf-9789-88b7fc02a0fc, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /asdas, headers: {Host: cf-tw.doushimeng.com}}, udp: true}
-- {name: 🇹🇼台湾03 - 都是梦, server: tw.doushimeng.com, port: 48888, type: ss, cipher: chacha20-ietf-poly1305, password: 14d52d81-bea1-4bdf-9789-88b7fc02a0fc, udp: true}
-- {name: 🇰🇷韩国01 - 都是梦, server: kr.doushimeng.com, port: 22903, type: ss, cipher: chacha20-ietf-poly1305, password: 14d52d81-bea1-4bdf-9789-88b7fc02a0fc, udp: true}
-- {name: 🇰🇷韩国02 - 都是梦, server: dl6.doushimeng.com, port: 80, type: vmess, uuid: 14d52d81-bea1-4bdf-9789-88b7fc02a0fc, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /asdas, headers: {Host: cf-kr2s.112592.xyz}}, udp: true}
-- {name: 🇰🇷韩国03 - 都是梦, server: dl4.doushimeng.com, port: 2086, type: vmess, uuid: 14d52d81-bea1-4bdf-9789-88b7fc02a0fc, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /asdas, headers: {Host: cf-kr2.doushimeng.com}}, udp: true}
-- {name: 🇦🇪迪拜01 - 都是梦, server: db.doushimeng.com, port: 23202, type: ss, cipher: chacha20-ietf-poly1305, password: 14d52d81-bea1-4bdf-9789-88b7fc02a0fc, udp: true}
-- {name: 🇩🇪德国01 - 都是梦, server: dl3.doushimeng.com, port: 2082, type: vmess, uuid: 14d52d81-bea1-4bdf-9789-88b7fc02a0fc, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /asdas, headers: {Host: cf-de2s.doushimeng.com}}, udp: true}
-- {name: 🇩🇪德国02 - 都是梦, server: dl1.doushimeng.com, port: 2086, type: vmess, uuid: 14d52d81-bea1-4bdf-9789-88b7fc02a0fc, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /asdas, headers: {Host: cf-de66.doushimeng.com}}, udp: true}
-- {name: 🇦🇺澳大利亚01 - 都是梦, server: au.doushimeng.com, port: 24652, type: ss, cipher: chacha20-ietf-poly1305, password: 14d52d81-bea1-4bdf-9789-88b7fc02a0fc, udp: true}
-- {name: 🇮🇹意大利01 - 都是梦, server: it.doushimeng.com, port: 21102, type: ss, cipher: chacha20-ietf-poly1305, password: 14d52d81-bea1-4bdf-9789-88b7fc02a0fc, udp: true}
-- {name: 🇳🇱荷兰01 - 都是梦, server: dl1.doushimeng.com, port: 2082, type: vmess, uuid: 14d52d81-bea1-4bdf-9789-88b7fc02a0fc, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /asdas, headers: {Host: cf-nls.nicehand.top}}, udp: true}
-- {name: 🇫🇷法国01 - 都是梦, server: dl1.doushimeng.com, port: 2082, type: vmess, uuid: 14d52d81-bea1-4bdf-9789-88b7fc02a0fc, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /asdas, headers: {Host: cf-frs.nicehand.top}}, udp: true}
-- {name: 🇧🇷巴西01 - 都是梦, server: dl1.doushimeng.com, port: 2086, type: vmess, uuid: 14d52d81-bea1-4bdf-9789-88b7fc02a0fc, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /uziiii, headers: {Host: cf-bx1s.nicehand.top}}, udp: true}
-- {name: 🇧🇷巴西02 - 都是梦, server: dl1x.doushimeng.com, port: 80, type: vmess, uuid: 14d52d81-bea1-4bdf-9789-88b7fc02a0fc, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /uziiii, headers: {Host: cf-bx2s.nicehand.top}}, udp: true}
-- {name: 🇧🇷巴西03 - 都是梦, server: dl3.doushimeng.com, port: 2086, type: vmess, uuid: 14d52d81-bea1-4bdf-9789-88b7fc02a0fc, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /uziiii, headers: {Host: cf-bx3s.doushimeng.com}}, udp: true}
-- {name: 🇺🇸美国01 - 都是梦, server: us4.doushimeng.com, port: 20802, type: ss, cipher: chacha20-ietf-poly1305, password: 14d52d81-bea1-4bdf-9789-88b7fc02a0fc, udp: true}
-- {name: 🇺🇸美国02 - 都是梦, server: dl6.doushimeng.com, port: 2095, type: vmess, uuid: 14d52d81-bea1-4bdf-9789-88b7fc02a0fc, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /asdas, headers: {Host: cf-uss.doushimeng.com}}, udp: true}
-- {name: 🇺🇸美国03 - 都是梦, server: us.doushimeng.com, port: 22853, type: ss, cipher: chacha20-ietf-poly1305, password: 14d52d81-bea1-4bdf-9789-88b7fc02a0fc, udp: true}
-- {name: 🇸🇬新加坡01 - 都是梦, server: proxy1.doushimeng.com, port: 20052, type: ss, cipher: chacha20-ietf-poly1305, password: 14d52d81-bea1-4bdf-9789-88b7fc02a0fc, udp: true}
-- {name: 🇸🇬新加坡02 - 都是梦, server: proxy1.doushimeng.com, port: 20253, type: ss, cipher: chacha20-ietf-poly1305, password: 14d52d81-bea1-4bdf-9789-88b7fc02a0fc, udp: true}
-- {name: 🇸🇬新加坡03 - 都是梦, server: proxy1.doushimeng.com, port: 20553, type: ss, cipher: chacha20-ietf-poly1305, password: 14d52d81-bea1-4bdf-9789-88b7fc02a0fc, udp: true}
-- {name: 🇯🇵日本01 - 都是梦, server: proxy1.doushimeng.com, port: 26203, type: ss, cipher: chacha20-ietf-poly1305, password: 14d52d81-bea1-4bdf-9789-88b7fc02a0fc, udp: true}
-- {name: 🇹🇭 泰国/TH | 杭联 - 鸡鸡云, server: sz.xn--iiq222b6igvp5c.com, port: 11965, type: ss, cipher: chacha20-ietf-poly1305, password: c9d37007-9daf-4c82-b767-1ad6d723a71c, udp: true}
-- {name: 🇹🇭 泰国/TH | 深联 - 鸡鸡云, server: zzszlt.jjyhk.com, port: 11915, type: ss, cipher: chacha20-ietf-poly1305, password: c9d37007-9daf-4c82-b767-1ad6d723a71c, udp: true}
-- {name: 🇹🇭 泰国/TH | 苏移 - 鸡鸡云, server: zzjsyd.jjyhk.com, port: 11915, type: ss, cipher: chacha20-ietf-poly1305, password: c9d37007-9daf-4c82-b767-1ad6d723a71c, udp: true}
-- {name: 🇸🇰 斯洛伐克中转-电信 - 鸡鸡云, server: zzgzyd1.jjyhk.com, port: 12412, type: ss, cipher: chacha20-ietf-poly1305, password: c9d37007-9daf-4c82-b767-1ad6d723a71c, udp: true}
-- {name: 🇦🇷 阿根廷/AR | 深联 - 鸡鸡云, server: zzszlt.jjyhk.com, port: 13334, type: ss, cipher: chacha20-ietf-poly1305, password: c9d37007-9daf-4c82-b767-1ad6d723a71c, udp: true}
-- {name: 🇻🇳 越南/VN | 北联 - 鸡鸡云, server: zzbjlt.jjyhk.com, port: 23175, type: ss, cipher: chacha20-ietf-poly1305, password: c9d37007-9daf-4c82-b767-1ad6d723a71c, udp: true}
-- {name: 🇩🇪 德国/DE | 北联 - 鸡鸡云, server: zzbjlt.jjyhk.com, port: 34255, type: ss, cipher: chacha20-ietf-poly1305, password: c9d37007-9daf-4c82-b767-1ad6d723a71c, udp: true}
-- {name: 🇩🇪 德国/DE | 厦联 - 鸡鸡云, server: hb.xn--iiq222b6igvp5c.com, port: 47553, type: ss, cipher: chacha20-ietf-poly1305, password: c9d37007-9daf-4c82-b767-1ad6d723a71c, udp: true}
-- {name: 🇸🇪 瑞典/SE | 泸德 - 鸡鸡云, server: zzhzdx.jjyhk.com, port: 16458, type: ss, cipher: chacha20-ietf-poly1305, password: c9d37007-9daf-4c82-b767-1ad6d723a71c, udp: true}
-- {name: 🇫🇷 法国/FR | 苏移 - 鸡鸡云, server: zzjsyd.jjyhk.com, port: 21348, type: ss, cipher: chacha20-ietf-poly1305, password: c9d37007-9daf-4c82-b767-1ad6d723a71c, udp: true}
-- {name: 🇫🇷 法国/FR | 深联 - 鸡鸡云, server: zzszlt.jjyhk.com, port: 21348, type: ss, cipher: chacha20-ietf-poly1305, password: c9d37007-9daf-4c82-b767-1ad6d723a71c, udp: true}
-- {name: 🇺🇸 美国-1/US | 苏移 - 鸡鸡云, server: zzjsyd.jjyhk.com, port: 13334, type: ss, cipher: chacha20-ietf-poly1305, password: c9d37007-9daf-4c82-b767-1ad6d723a71c, udp: true}
-- {name: 🇺🇸 美国-1/US | 沪联 - 鸡鸡云, server: zj.xn--iiq222b6igvp5c.com, port: 57243, type: ss, cipher: chacha20-ietf-poly1305, password: c9d37007-9daf-4c82-b767-1ad6d723a71c, udp: true}
-- {name: 🇺🇸 美国-1/US | 上移 - 鸡鸡云, server: zzshyd1.jjyhk.com, port: 12694, type: ss, cipher: chacha20-ietf-poly1305, password: c9d37007-9daf-4c82-b767-1ad6d723a71c, udp: true}
-- {name: 🇭🇰 香港-1/HK | 杭联 - 鸡鸡云, server: zzzjlt.jjyhk.com, port: 11191, type: ss, cipher: chacha20-ietf-poly1305, password: c9d37007-9daf-4c82-b767-1ad6d723a71c, udp: true}
-- {name: 🇭🇰 香港-1/HK | 深联 - 鸡鸡云, server: zzszlt.jjyhk.com, port: 11191, type: ss, cipher: chacha20-ietf-poly1305, password: c9d37007-9daf-4c82-b767-1ad6d723a71c, udp: true}
-- {name: 🇭🇰 香港/HK | 杭联 - 鸡鸡云, server: zzzjlt.jjyhk.com, port: 11917, type: ss, cipher: chacha20-ietf-poly1305, password: c9d37007-9daf-4c82-b767-1ad6d723a71c, udp: true}
-- {name: 🇭🇰 香港/HK | 沪日 - 鸡鸡云, server: zzshdx.jjyhk.com, port: 11917, type: ss, cipher: chacha20-ietf-poly1305, password: c9d37007-9daf-4c82-b767-1ad6d723a71c, udp: true}
-- {name: 🇭🇰 香港/HK | 苏移 - 鸡鸡云, server: zzjsyd.jjyhk.com, port: 11914, type: ss, cipher: chacha20-ietf-poly1305, password: c9d37007-9daf-4c82-b767-1ad6d723a71c, udp: true}
-- {name: 🇯🇵 日本/JP | 苏移 - 鸡鸡云, server: zzjsyd.jjyhk.com, port: 13322, type: ss, cipher: chacha20-ietf-poly1305, password: c9d37007-9daf-4c82-b767-1ad6d723a71c, udp: true}
-- {name: 🇯🇵 日本/JP | 深联 - 鸡鸡云, server: zzszlt.jjyhk.com, port: 13322, type: ss, cipher: chacha20-ietf-poly1305, password: c9d37007-9daf-4c82-b767-1ad6d723a71c, udp: true}
 - {name: 🇹🇼 台湾-广港隧道-解锁 - 快云, server: hz.888898.beauty, port: 46913, type: vmess, uuid: 945f9214-51be-3798-b64b-821e6a2a36db, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇨🇦 加拿大-杭港隧道-解锁 - 快云, server: hz.888898.beauty, port: 43689, type: vmess, uuid: 945f9214-51be-3798-b64b-821e6a2a36db, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇺🇸 美国1-杭港隧道-解锁 - 快云, server: hz.888898.beauty, port: 46331, type: vmess, uuid: 945f9214-51be-3798-b64b-821e6a2a36db, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
@@ -823,16 +585,6 @@ proxies:
 - {name: 🇸🇬 新加坡2-杭新隧道-解锁 - 快云, server: hz.888898.beauty, port: 43667, type: vmess, uuid: 945f9214-51be-3798-b64b-821e6a2a36db, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇯🇵 v2日本-杭日隧道 - 快云, server: hz.888898.beauty, port: 47837, type: vmess, uuid: 945f9214-51be-3798-b64b-821e6a2a36db, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇯🇵 日本1-杭日隧道-解锁 - 快云, server: hz.888898.beauty, port: 47933, type: vmess, uuid: 945f9214-51be-3798-b64b-821e6a2a36db, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 Lx-Cloud|禁止倒卖|美国01 - Lx-Cloud, server: 111.47.212.12, port: 60937, type: vmess, uuid: 1533ba62-63e1-4cbe-a9c2-82ff1b27034c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇹🇼 TW-板桥1-1 - 麻雀加速器 Sparrow, server: nbq11.ntbq.dynu.net, port: 443, type: vmess, uuid: f2f304d9-cb53-4d7f-a76c-3f396f1f5512, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /b11, headers: {Host: nbq11.ntbq.dynu.net}}, udp: true}
-- {name: 🇹🇼 TW-板桥1-2 - 麻雀加速器 Sparrow, server: nbq12.ntbq.dynu.net, port: 443, type: vmess, uuid: f2f304d9-cb53-4d7f-a76c-3f396f1f5512, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /b12, headers: {Host: nbq12.ntbq.dynu.net}}, udp: true}
-- {name: 🇹🇼 TW-板桥1-3 - 麻雀加速器 Sparrow, server: nbq13.ntbq.dynu.net, port: 443, type: vmess, uuid: f2f304d9-cb53-4d7f-a76c-3f396f1f5512, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /b13, headers: {Host: nbq13.ntbq.dynu.net}}, udp: true}
-- {name: 🇹🇼 TW-板桥2-1 - 麻雀加速器 Sparrow, server: b21.ntbq.dynu.net, port: 443, type: vmess, uuid: f2f304d9-cb53-4d7f-a76c-3f396f1f5512, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /b21, headers: {Host: b21.ntbq.dynu.net}}, udp: true}
-- {name: 🇹🇼 TW-板桥2-2 - 麻雀加速器 Sparrow, server: b22.ntbq.dynu.net, port: 443, type: vmess, uuid: f2f304d9-cb53-4d7f-a76c-3f396f1f5512, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /b22, headers: {Host: b22.ntbq.dynu.net}}, udp: true}
-- {name: 🇹🇼 TW-板桥2-3 - 麻雀加速器 Sparrow, server: b23.ntbq.dynu.net, port: 443, type: vmess, uuid: f2f304d9-cb53-4d7f-a76c-3f396f1f5512, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /b23, headers: {Host: b23.ntbq.dynu.net}}, udp: true}
-- {name: 🇹🇼 TW-板桥2-4 - 麻雀加速器 Sparrow, server: b24.ntbq.dynu.net, port: 443, type: vmess, uuid: f2f304d9-cb53-4d7f-a76c-3f396f1f5512, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /b24, headers: {Host: b24.ntbq.dynu.net}}, udp: true}
-- {name: 🇹🇼 TW-台中1-1 - 麻雀加速器 Sparrow, server: tc11.twtc.dynu.net, port: 443, type: vmess, uuid: f2f304d9-cb53-4d7f-a76c-3f396f1f5512, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /vbub1, headers: {Host: tc11.twtc.dynu.net}}, udp: true}
-- {name: 🇹🇼 TW-台中1-2 - 麻雀加速器 Sparrow, server: tc12.twtc.dynu.net, port: 443, type: vmess, uuid: f2f304d9-cb53-4d7f-a76c-3f396f1f5512, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /vbub2, headers: {Host: tc12.twtc.dynu.net}}, udp: true}
 - {name: 🇺🇸美国 🌐「达拉斯」 - 北方航空, server: cdn.chigua.tk, port: 80, type: vmess, uuid: 2bc4b34b-645c-4e1c-8ceb-0e7467f3dd95, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /usc03, headers: {Host: usc03.galenet.online}}, udp: true}
 - {name: 🇹🇼 V4-4007|台湾|x2.0 - 海豚云, server: dnspsdhaitun.ncsuwei.top, port: 14099, type: vmess, uuid: 9d9706a3-816d-3c7f-be8b-88f3a6e04387, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /ef483582-6269-468c-93af-c511eccb8a69, headers: {Host: dnspsdhaitun.ncsuwei.top}}, udp: true}
 - {name: 🇹🇼 V4-4008|台湾|x2.0 - 海豚云, server: dnspsdhaitun.ncsuwei.top, port: 14000, type: vmess, uuid: 9d9706a3-816d-3c7f-be8b-88f3a6e04387, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /ef483582-6269-468c-93af-c511eccb8a69, headers: {Host: dnspsdhaitun.ncsuwei.top}}, udp: true}
@@ -846,15 +598,6 @@ proxies:
 - {name: 🇯🇵 V4-4001|日本|x1.5 - 海豚云, server: dnspsdhaitun.ncsuwei.top, port: 14109, type: vmess, uuid: 9d9706a3-816d-3c7f-be8b-88f3a6e04387, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /12e884bf-1622-7ceb-3009-7d47fdfs2f9a5, headers: {Host: dnspsdhaitun.ncsuwei.top}}, udp: true}
 - {name: 🇯🇵 V4-4002|日本|x2.0 - 海豚云, server: dnspsdhaitun.ncsuwei.top, port: 14110, type: vmess, uuid: 9d9706a3-816d-3c7f-be8b-88f3a6e04387, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /12e884bf-1622-7ceb-3009-7d47fdfs2f9a5, headers: {Host: dnspsdhaitun.ncsuwei.top}}, udp: true}
 - {name: 🇭🇰 香港 - sspanel, server: xg107.npv4.com, port: 443, type: trojan, password: f13b3980-50dd-3de7-a909-90cd60696179, sni: xg107.npv4.com, skip-cert-verify: true, udp: true}
-- {name: 🇹🇼 TW台湾 A - 可乐云, server: pxxx1.colacloud.site, port: 48887, type: ss, cipher: chacha20-ietf-poly1305, password: 7ba18d11-d98c-4a8d-85fd-61cff82441ce, udp: true}
-- {name: 🇹🇼 TW台湾 B - 可乐云, server: pxxx1.colacloud.site, port: 48886, type: ss, cipher: chacha20-ietf-poly1305, password: 7ba18d11-d98c-4a8d-85fd-61cff82441ce, udp: true}
-- {name: 🇧🇷 BR巴西 A - 可乐云, server: cp1.colacloud.site, port: 2086, type: vmess, uuid: 7ba18d11-d98c-4a8d-85fd-61cff82441ce, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /sssddd, headers: {Host: cf-bx.colacloud.site}}, udp: true}
-- {name: 🇺🇸 US美国 A - 可乐云, server: us.colacloud.site, port: 24652, type: ss, cipher: chacha20-ietf-poly1305, password: 7ba18d11-d98c-4a8d-85fd-61cff82441ce, udp: true}
-- {name: 🇺🇸 US美国 B - 可乐云, server: us.colacloud.site, port: 24662, type: ss, cipher: chacha20-ietf-poly1305, password: 7ba18d11-d98c-4a8d-85fd-61cff82441ce, udp: true}
-- {name: 🇸🇬 SG新加坡 A - 可乐云, server: sg.colacloud.site, port: 20502, type: ss, cipher: chacha20-ietf-poly1305, password: 7ba18d11-d98c-4a8d-85fd-61cff82441ce, udp: true}
-- {name: 🇸🇬 SG新加坡 B - 可乐云, server: sg.colacloud.site, port: 20503, type: ss, cipher: chacha20-ietf-poly1305, password: 7ba18d11-d98c-4a8d-85fd-61cff82441ce, udp: true}
-- {name: 🇯🇵 JP日本 A - 可乐云, server: pxxx1.colacloud.site, port: 28152, type: ss, cipher: chacha20-ietf-poly1305, password: 7ba18d11-d98c-4a8d-85fd-61cff82441ce, udp: true}
-- {name: 🇯🇵 JP日本 B - 可乐云, server: pxxx1.colacloud.site, port: 28153, type: ss, cipher: chacha20-ietf-poly1305, password: 7ba18d11-d98c-4a8d-85fd-61cff82441ce, udp: true}
 - {name: 🇹🇼 广港•台湾258•高速 - 飞翔吧, server: gy.58n.net, port: 17629, type: trojan, password: d42a7d09-f802-3ef1-ab88-6c6cf3d3c019, sni: z258.hongkongnode.top, skip-cert-verify: true, udp: true}
 - {name: 🇹🇼 中转•台湾100•高速 - 飞翔吧, server: gy.58n.net, port: 59021, type: trojan, password: d42a7d09-f802-3ef1-ab88-6c6cf3d3c019, sni: x100.flybar.work, skip-cert-verify: true, udp: true}
 - {name: 🇹🇼 中转•台湾91•原生 - 飞翔吧, server: gy.58n.net, port: 21247, type: trojan, password: d42a7d09-f802-3ef1-ab88-6c6cf3d3c019, sni: x91.flybar.work, skip-cert-verify: true, udp: true}
@@ -922,34 +665,12 @@ proxies:
 - {name: 🇯🇵 JP / 日本 | 华东 - 小白云, server: jp1.iepl.cooc.icu, port: 47100, type: ss, cipher: aes-256-gcm, password: cf196911-c9a2-46d5-a49d-3060e0a19bc3, udp: true}
 - {name: 🇯🇵 JP / 日本 | 华南 - 小白云, server: jp2.iepl.cooc.icu, port: 47101, type: ss, cipher: aes-256-gcm, password: cf196911-c9a2-46d5-a49d-3060e0a19bc3, udp: true}
 - {name: 🇯🇵 JP / 日本 | 混合 - 小白云, server: jp3.iepl.cooc.icu, port: 19881, type: ss, cipher: aes-256-gcm, password: cf196911-c9a2-46d5-a49d-3060e0a19bc3, udp: true}
-- {name: 🇹🇼 台湾 1 动画疯 - 西瓜皮是真的皮, server: cm-01.dx001.top, port: 19821, type: vmess, uuid: b9d2ca30-0a70-3aea-8185-4b5de83c8df9, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇹🇼 台湾 2 动画疯 - 西瓜皮是真的皮, server: ct-01.dx001.top, port: 19822, type: vmess, uuid: b9d2ca30-0a70-3aea-8185-4b5de83c8df9, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇩🇪 德国 1 - 西瓜皮是真的皮, server: xchn1.dx001.top, port: 19891, type: vmess, uuid: b9d2ca30-0a70-3aea-8185-4b5de83c8df9, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇩🇪 德国2 - 西瓜皮是真的皮, server: jsxc1.dx001.top, port: 19892, type: vmess, uuid: b9d2ca30-0a70-3aea-8185-4b5de83c8df9, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇬🇧 英国 1 - 西瓜皮是真的皮, server: gzxd1.dx001.top, port: 19893, type: vmess, uuid: b9d2ca30-0a70-3aea-8185-4b5de83c8df9, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇬🇧 英国 2 - 西瓜皮是真的皮, server: xg.cm.go002.xyz, port: 19894, type: vmess, uuid: b9d2ca30-0a70-3aea-8185-4b5de83c8df9, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 美国 1 ChatGPT - 西瓜皮是真的皮, server: xchn1.dx001.top, port: 19861, type: vmess, uuid: b9d2ca30-0a70-3aea-8185-4b5de83c8df9, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 美国 2 ChatGPT - 西瓜皮是真的皮, server: gzxd1.dx001.top, port: 19862, type: vmess, uuid: b9d2ca30-0a70-3aea-8185-4b5de83c8df9, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 香港 1 - 西瓜皮是真的皮, server: jsxc1.dx001.top, port: 19811, type: vmess, uuid: b9d2ca30-0a70-3aea-8185-4b5de83c8df9, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 香港 2 - 西瓜皮是真的皮, server: cm-01.dx001.top, port: 19812, type: vmess, uuid: b9d2ca30-0a70-3aea-8185-4b5de83c8df9, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇸🇬 新加坡 1 Netflix  - 西瓜皮是真的皮, server: cm-01.dx001.top, port: 19841, type: vmess, uuid: b9d2ca30-0a70-3aea-8185-4b5de83c8df9, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇸🇬 新加坡 2 Netflix - 西瓜皮是真的皮, server: xchn1.dx001.top, port: 19842, type: vmess, uuid: b9d2ca30-0a70-3aea-8185-4b5de83c8df9, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 日本 1 Nico Abema - 西瓜皮是真的皮, server: jsxc1.dx001.top, port: 19831, type: vmess, uuid: b9d2ca30-0a70-3aea-8185-4b5de83c8df9, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 日本 2 Nico Abema - 西瓜皮是真的皮, server: cm-01.dx001.top, port: 19832, type: vmess, uuid: b9d2ca30-0a70-3aea-8185-4b5de83c8df9, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇹🇼 台湾 - 节点一 - SScurl, server: whcm.pangupy.com, port: 11207, type: ss, cipher: chacha20-ietf-poly1305, password: 6a3c8780-78b7-440c-b630-b441bd7031c7, udp: true}
-- {name: 🇰🇷 韩国 - 线路一 - SScurl, server: whcm.pangupy.com, port: 10270, type: ss, cipher: chacha20-ietf-poly1305, password: 6a3c8780-78b7-440c-b630-b441bd7031c7, udp: true}
-- {name: 🇮🇳 印度 - 线路一 - SScurl, server: whcm.pangupy.com, port: 47542, type: ss, cipher: chacha20-ietf-poly1305, password: 6a3c8780-78b7-440c-b630-b441bd7031c7, udp: true}
-- {name: 🇫🇷 法国 - 线路一 - SScurl, server: whcm.pangupy.com, port: 16298, type: ss, cipher: chacha20-ietf-poly1305, password: 6a3c8780-78b7-440c-b630-b441bd7031c7, udp: true}
-- {name: 🇲🇾 马来西亚 - 线路一 - SScurl, server: whcm.pangupy.com, port: 23430, type: ss, cipher: chacha20-ietf-poly1305, password: 6a3c8780-78b7-440c-b630-b441bd7031c7, udp: true}
-- {name: 🇺🇸 美国 - 线路一 - SScurl, server: whcm.pangupy.com, port: 42452, type: ss, cipher: chacha20-ietf-poly1305, password: 6a3c8780-78b7-440c-b630-b441bd7031c7, udp: true}
-- {name: 🇸🇬 新加坡 - 节点一 - SScurl, server: whcm.pangupy.com, port: 24480, type: ss, cipher: chacha20-ietf-poly1305, password: 6a3c8780-78b7-440c-b630-b441bd7031c7, udp: true}
-- {name: 🇯🇵 日本 - 线路一 - SScurl, server: whcm.pangupy.com, port: 45623, type: ss, cipher: chacha20-ietf-poly1305, password: 6a3c8780-78b7-440c-b630-b441bd7031c7, udp: true}
-- {name: 🇭🇰 香港|【黑五活动】6.5折活动进行中|公益 - 大白, server: 120.241.46.15, port: 35108, type: vmess, uuid: 695a9ec5-ea71-391c-ba3b-282b3a12af67, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: cache-hk-2.cn-db.top, network: ws, ws-opts: {path: /db00, headers: {Host: cache-hk-2.cn-db.top}}, udp: true}
+- {name: 🇭🇰 香港|【黑五活动】6.5折活动进行中|公益 - 大白, server: 120.241.46.15, port: 17306, type: vmess, uuid: 695a9ec5-ea71-391c-ba3b-282b3a12af67, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: cache-hk-2.cn-db.top, network: ws, ws-opts: {path: /db00, headers: {Host: cache-hk-2.cn-db.top}}, udp: true}
 - {name: 🇭🇰 香港|专线2G|GPT+流媒体|【dabai.in】<<前往官网|公益 - 大白, server: 120.241.46.15, port: 35108, type: vmess, uuid: 695a9ec5-ea71-391c-ba3b-282b3a12af67, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: data-hk-2.cn-db.top, network: ws, ws-opts: {path: /db00, headers: {Host: data-hk-2.cn-db.top}}, udp: true}
 - {name: 🇭🇰 香港|专线2G|GPT+流媒体|【db01.in】<<前往官网|公益 - 大白, server: 120.241.46.15, port: 47605, type: vmess, uuid: 695a9ec5-ea71-391c-ba3b-282b3a12af67, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: cache-hk-2.cn-db.top, network: ws, ws-opts: {path: /db00, headers: {Host: cache-hk-2.cn-db.top}}, udp: true}
-- {name: 🇭🇰 香港|专线2G|GPT+流媒体|【付费用户】油管秒开4K/8K|更多地区接入|公益 - 大白, server: 120.241.46.15, port: 35108, type: vmess, uuid: 695a9ec5-ea71-391c-ba3b-282b3a12af67, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: cache-hk-1.cn-db.top, network: ws, ws-opts: {path: /db00, headers: {Host: cache-hk-1.cn-db.top}}, udp: true}
-- {name: 🇭🇰 香港|专线2G|GPT+流媒体|【免费用户】油管稳2K@30/限速稳720P|公益 - 大白, server: 120.241.46.15, port: 47605, type: vmess, uuid: 695a9ec5-ea71-391c-ba3b-282b3a12af67, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: data-hk-3.cn-db.top, network: ws, ws-opts: {path: /db00, headers: {Host: data-hk-3.cn-db.top}}, udp: true}
-- {name: 🇭🇰 香港|专线2G|GPT+流媒体|【提供套餐】免费/按量不限时/不按量限时|公益 - 大白, server: 120.241.46.15, port: 47605, type: vmess, uuid: 695a9ec5-ea71-391c-ba3b-282b3a12af67, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: cache-hk-2.cn-db.top, network: ws, ws-opts: {path: /db00, headers: {Host: cache-hk-2.cn-db.top}}, udp: true}
+- {name: 🇭🇰 香港|专线2G|GPT+流媒体|【付费用户】油管秒开4K/8K|更多地区接入|公益 - 大白, server: 120.241.46.15, port: 47605, type: vmess, uuid: 695a9ec5-ea71-391c-ba3b-282b3a12af67, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: cache-hk-1.cn-db.top, network: ws, ws-opts: {path: /db00, headers: {Host: cache-hk-1.cn-db.top}}, udp: true}
+- {name: 🇭🇰 香港|专线2G|GPT+流媒体|【免费用户】油管稳2K@30/限速稳720P|公益 - 大白, server: 120.241.46.15, port: 17306, type: vmess, uuid: 695a9ec5-ea71-391c-ba3b-282b3a12af67, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: data-hk-3.cn-db.top, network: ws, ws-opts: {path: /db00, headers: {Host: data-hk-3.cn-db.top}}, udp: true}
+- {name: 🇭🇰 香港|专线2G|GPT+流媒体|【提供套餐】免费/按量不限时/不按量限时|公益 - 大白, server: 120.241.46.15, port: 35108, type: vmess, uuid: 695a9ec5-ea71-391c-ba3b-282b3a12af67, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: cache-hk-2.cn-db.top, network: ws, ws-opts: {path: /db00, headers: {Host: cache-hk-2.cn-db.top}}, udp: true}
 - {name: 🇭🇰 香港|专线2G|GPT+流媒体|【邀请用户】|最高返还40%|公益 - 大白, server: 120.241.46.15, port: 47605, type: vmess, uuid: 695a9ec5-ea71-391c-ba3b-282b3a12af67, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: cache-hk-1.cn-db.top, network: ws, ws-opts: {path: /db00, headers: {Host: cache-hk-1.cn-db.top}}, udp: true}
 - {name: '🇭🇰 香港|专线2G|GPT+流媒体|【节点优先级】[按量]>[不限量]>[免费]>[公共订阅]|公益 - 大白', server: 120.241.46.15, port: 35108, type: vmess, uuid: 695a9ec5-ea71-391c-ba3b-282b3a12af67, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: data-hk-1.cn-db.top, network: ws, ws-opts: {path: /db00, headers: {Host: data-hk-1.cn-db.top}}, udp: true}
 - {name: 🇹🇼 Taiwan - 番茄云, server: tw.fanqiecloud.top, port: 48889, type: ss, cipher: chacha20-ietf-poly1305, password: 0e16258f-fe39-478c-8638-75d8b549839d, udp: true}

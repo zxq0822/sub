@@ -1,4 +1,0 @@
-%YAML 1.1
----
-proxies:
-- {name: 🇺🇸 美国 - 线路一 - SScurl, server: whcm.pangupy.com, port: 42452, type: ss, cipher: chacha20-ietf-poly1305, password: 6a3c8780-78b7-440c-b630-b441bd7031c7, udp: true}
