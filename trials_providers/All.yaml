@@ -130,32 +130,32 @@ proxies:
 - {name: 🇯🇵 日本•高速59•青铜 - 飞翔吧, server: gy.58n.net, port: 20059, type: trojan, password: c1e69516-1ccd-35c0-ad8a-dc86a640553f, sni: x59.flybar.work, skip-cert-verify: true, udp: true}
 - {name: 🇯🇵 日本•高速71•高速 - 飞翔吧, server: gy.58n.net, port: 20071, type: trojan, password: c1e69516-1ccd-35c0-ad8a-dc86a640553f, sni: x71.flybar.work, skip-cert-verify: true, udp: true}
 - {name: 🇯🇵 日本•高速76•高速 - 飞翔吧, server: gy.58n.net, port: 20076, type: trojan, password: c1e69516-1ccd-35c0-ad8a-dc86a640553f, sni: x76.flybar.work, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 HK / 香港 | 华南 - 小白云, server: hk1.iepl.cooc.icu, port: 21881, type: ss, cipher: aes-256-gcm, password: 21f84411-7816-430d-9750-d946b3cc0a87, udp: true}
-- {name: 🇭🇰 HK / 香港 | 华东 - 小白云, server: hk2.iepl.cooc.icu, port: 22881, type: ss, cipher: aes-256-gcm, password: 21f84411-7816-430d-9750-d946b3cc0a87, udp: true}
-- {name: 🇭🇰 HK / 香港 | 混合 - 小白云, server: hk3.iepl.cooc.icu, port: 23881, type: ss, cipher: aes-256-gcm, password: 21f84411-7816-430d-9750-d946b3cc0a87, udp: true}
-- {name: 🇯🇵 JP / 日本 | 华东 - 小白云, server: jp1.iepl.cooc.icu, port: 47100, type: ss, cipher: aes-256-gcm, password: 21f84411-7816-430d-9750-d946b3cc0a87, udp: true}
-- {name: 🇯🇵 JP / 日本 | 华南 - 小白云, server: jp2.iepl.cooc.icu, port: 47101, type: ss, cipher: aes-256-gcm, password: 21f84411-7816-430d-9750-d946b3cc0a87, udp: true}
-- {name: 🇯🇵 JP / 日本 | 混合 - 小白云, server: jp3.iepl.cooc.icu, port: 19881, type: ss, cipher: aes-256-gcm, password: 21f84411-7816-430d-9750-d946b3cc0a87, udp: true}
-- {name: 🇺🇸 US / 美国 | 华东 - 小白云, server: usa1.iepl.cooc.icu, port: 31881, type: ss, cipher: aes-256-gcm, password: 21f84411-7816-430d-9750-d946b3cc0a87, udp: true}
-- {name: 🇺🇸 US / 美国 | 华南 - 小白云, server: usa2.iepl.cooc.icu, port: 32881, type: ss, cipher: aes-256-gcm, password: 21f84411-7816-430d-9750-d946b3cc0a87, udp: true}
-- {name: 🇺🇸 US / 美国 | 混合 - 小白云, server: usa3.iepl.cooc.icu, port: 33881, type: ss, cipher: aes-256-gcm, password: 21f84411-7816-430d-9750-d946b3cc0a87, udp: true}
-- {name: 🇰🇷 KR / 韩国 | 华东 - 小白云, server: kr1.iepl.cooc.icu, port: 35101, type: ss, cipher: aes-128-gcm, password: 21f84411-7816-430d-9750-d946b3cc0a87, udp: true}
-- {name: 🇰🇷 KR / 韩国 | 华南 - 小白云, server: kr2.iepl.cooc.icu, port: 35102, type: ss, cipher: aes-128-gcm, password: 21f84411-7816-430d-9750-d946b3cc0a87, udp: true}
-- {name: 🇸🇬 SG / 新加坡 | 华南 - 小白云, server: sg1.iepl.cooc.icu, port: 35105, type: ss, cipher: aes-256-gcm, password: 21f84411-7816-430d-9750-d946b3cc0a87, udp: true}
-- {name: 🇸🇬 SG / 新加坡 | 华东 - 小白云, server: sg2.iepl.cooc.icu, port: 35106, type: ss, cipher: aes-256-gcm, password: 21f84411-7816-430d-9750-d946b3cc0a87, udp: true}
-- {name: 🇹🇼 TW / 台湾 | 华东 - 小白云, server: tw1.iepl.cooc.icu, port: 35109, type: ss, cipher: aes-256-gcm, password: 21f84411-7816-430d-9750-d946b3cc0a87, udp: true}
-- {name: 🇹🇼 TW / 台湾 | 华南 - 小白云, server: tw2.iepl.cooc.icu, port: 35110, type: ss, cipher: aes-256-gcm, password: 21f84411-7816-430d-9750-d946b3cc0a87, udp: true}
-- {name: 🇺🇸 美国 / 华东 | 原生 - 小白云, server: usa4.iepl.cooc.icu, port: 34881, type: ss, cipher: aes-256-gcm, password: 21f84411-7816-430d-9750-d946b3cc0a87, udp: true}
-- {name: 🇺🇸 美国 / 华南 | 原生 - 小白云, server: usa5.iepl.cooc.icu, port: 35881, type: ss, cipher: aes-256-gcm, password: 21f84411-7816-430d-9750-d946b3cc0a87, udp: true}
-- {name: 🇻🇳 越南 / 华东 | 原生 - 小白云, server: vn1.iepl.cooc.icu, port: 35601, type: ss, cipher: aes-128-gcm, password: 21f84411-7816-430d-9750-d946b3cc0a87, udp: true}
-- {name: 🇻🇳 越南 / 华南 | 原生 - 小白云, server: vn2.iepl.cooc.icu, port: 35602, type: ss, cipher: aes-128-gcm, password: 21f84411-7816-430d-9750-d946b3cc0a87, udp: true}
-- {name: 🇲🇾 马来 / 华南 | 原生 - 小白云, server: mas1.iepl.cooc.icu, port: 35603, type: ss, cipher: aes-128-gcm, password: 21f84411-7816-430d-9750-d946b3cc0a87, udp: true}
-- {name: 🇲🇾 马来 / 华东 | 原生 - 小白云, server: mas2.iepl.cooc.icu, port: 35604, type: ss, cipher: aes-128-gcm, password: 21f84411-7816-430d-9750-d946b3cc0a87, udp: true}
-- {name: 🇬🇧 英国 / 华东 | 原生 - 小白云, server: uk1.iepl.cooc.icu, port: 35605, type: ss, cipher: aes-128-gcm, password: 21f84411-7816-430d-9750-d946b3cc0a87, udp: true}
-- {name: 🇬🇧 英国 / 华南 | 原生 - 小白云, server: uk2.iepl.cooc.icu, port: 35606, type: ss, cipher: aes-128-gcm, password: 21f84411-7816-430d-9750-d946b3cc0a87, udp: true}
-- {name: 🇩🇪 德国 / 华南 | 原生 - 小白云, server: ger1.iepl.cooc.icu, port: 35607, type: ss, cipher: aes-128-gcm, password: 21f84411-7816-430d-9750-d946b3cc0a87, udp: true}
-- {name: 🇩🇪 德国 / 华东 | 原生 - 小白云, server: ger2.iepl.cooc.icu, port: 35608, type: ss, cipher: aes-128-gcm, password: 21f84411-7816-430d-9750-d946b3cc0a87, udp: true}
-- {name: 🇫🇷 法国 / 华东 | 原生 - 小白云, server: fr2.iepl.cooc.icu, port: 35612, type: ss, cipher: aes-128-gcm, password: 21f84411-7816-430d-9750-d946b3cc0a87, udp: true}
+- {name: 🇭🇰 HK / 香港 | 华南 - 小白云, server: hk1.iepl.cooc.icu, port: 21881, type: ss, cipher: aes-256-gcm, password: da48a0ff-f23d-43cc-93ae-5f93a876c297, udp: true}
+- {name: 🇭🇰 HK / 香港 | 华东 - 小白云, server: hk2.iepl.cooc.icu, port: 22881, type: ss, cipher: aes-256-gcm, password: da48a0ff-f23d-43cc-93ae-5f93a876c297, udp: true}
+- {name: 🇭🇰 HK / 香港 | 混合 - 小白云, server: hk3.iepl.cooc.icu, port: 23881, type: ss, cipher: aes-256-gcm, password: da48a0ff-f23d-43cc-93ae-5f93a876c297, udp: true}
+- {name: 🇯🇵 JP / 日本 | 华东 - 小白云, server: jp1.iepl.cooc.icu, port: 47100, type: ss, cipher: aes-256-gcm, password: da48a0ff-f23d-43cc-93ae-5f93a876c297, udp: true}
+- {name: 🇯🇵 JP / 日本 | 华南 - 小白云, server: jp2.iepl.cooc.icu, port: 47101, type: ss, cipher: aes-256-gcm, password: da48a0ff-f23d-43cc-93ae-5f93a876c297, udp: true}
+- {name: 🇯🇵 JP / 日本 | 混合 - 小白云, server: jp3.iepl.cooc.icu, port: 19881, type: ss, cipher: aes-256-gcm, password: da48a0ff-f23d-43cc-93ae-5f93a876c297, udp: true}
+- {name: 🇺🇸 US / 美国 | 华东 - 小白云, server: usa1.iepl.cooc.icu, port: 31881, type: ss, cipher: aes-256-gcm, password: da48a0ff-f23d-43cc-93ae-5f93a876c297, udp: true}
+- {name: 🇺🇸 US / 美国 | 华南 - 小白云, server: usa2.iepl.cooc.icu, port: 32881, type: ss, cipher: aes-256-gcm, password: da48a0ff-f23d-43cc-93ae-5f93a876c297, udp: true}
+- {name: 🇺🇸 US / 美国 | 混合 - 小白云, server: usa3.iepl.cooc.icu, port: 33881, type: ss, cipher: aes-256-gcm, password: da48a0ff-f23d-43cc-93ae-5f93a876c297, udp: true}
+- {name: 🇰🇷 KR / 韩国 | 华东 - 小白云, server: kr1.iepl.cooc.icu, port: 35101, type: ss, cipher: aes-128-gcm, password: da48a0ff-f23d-43cc-93ae-5f93a876c297, udp: true}
+- {name: 🇰🇷 KR / 韩国 | 华南 - 小白云, server: kr2.iepl.cooc.icu, port: 35102, type: ss, cipher: aes-128-gcm, password: da48a0ff-f23d-43cc-93ae-5f93a876c297, udp: true}
+- {name: 🇸🇬 SG / 新加坡 | 华南 - 小白云, server: sg1.iepl.cooc.icu, port: 35105, type: ss, cipher: aes-256-gcm, password: da48a0ff-f23d-43cc-93ae-5f93a876c297, udp: true}
+- {name: 🇸🇬 SG / 新加坡 | 华东 - 小白云, server: sg2.iepl.cooc.icu, port: 35106, type: ss, cipher: aes-256-gcm, password: da48a0ff-f23d-43cc-93ae-5f93a876c297, udp: true}
+- {name: 🇹🇼 TW / 台湾 | 华东 - 小白云, server: tw1.iepl.cooc.icu, port: 35109, type: ss, cipher: aes-256-gcm, password: da48a0ff-f23d-43cc-93ae-5f93a876c297, udp: true}
+- {name: 🇹🇼 TW / 台湾 | 华南 - 小白云, server: tw2.iepl.cooc.icu, port: 35110, type: ss, cipher: aes-256-gcm, password: da48a0ff-f23d-43cc-93ae-5f93a876c297, udp: true}
+- {name: 🇺🇸 美国 / 华东 | 原生 - 小白云, server: usa4.iepl.cooc.icu, port: 34881, type: ss, cipher: aes-256-gcm, password: da48a0ff-f23d-43cc-93ae-5f93a876c297, udp: true}
+- {name: 🇺🇸 美国 / 华南 | 原生 - 小白云, server: usa5.iepl.cooc.icu, port: 35881, type: ss, cipher: aes-256-gcm, password: da48a0ff-f23d-43cc-93ae-5f93a876c297, udp: true}
+- {name: 🇻🇳 越南 / 华东 | 原生 - 小白云, server: vn1.iepl.cooc.icu, port: 35601, type: ss, cipher: aes-128-gcm, password: da48a0ff-f23d-43cc-93ae-5f93a876c297, udp: true}
+- {name: 🇻🇳 越南 / 华南 | 原生 - 小白云, server: vn2.iepl.cooc.icu, port: 35602, type: ss, cipher: aes-128-gcm, password: da48a0ff-f23d-43cc-93ae-5f93a876c297, udp: true}
+- {name: 🇲🇾 马来 / 华南 | 原生 - 小白云, server: mas1.iepl.cooc.icu, port: 35603, type: ss, cipher: aes-128-gcm, password: da48a0ff-f23d-43cc-93ae-5f93a876c297, udp: true}
+- {name: 🇲🇾 马来 / 华东 | 原生 - 小白云, server: mas2.iepl.cooc.icu, port: 35604, type: ss, cipher: aes-128-gcm, password: da48a0ff-f23d-43cc-93ae-5f93a876c297, udp: true}
+- {name: 🇬🇧 英国 / 华东 | 原生 - 小白云, server: uk1.iepl.cooc.icu, port: 35605, type: ss, cipher: aes-128-gcm, password: da48a0ff-f23d-43cc-93ae-5f93a876c297, udp: true}
+- {name: 🇬🇧 英国 / 华南 | 原生 - 小白云, server: uk2.iepl.cooc.icu, port: 35606, type: ss, cipher: aes-128-gcm, password: da48a0ff-f23d-43cc-93ae-5f93a876c297, udp: true}
+- {name: 🇩🇪 德国 / 华南 | 原生 - 小白云, server: ger1.iepl.cooc.icu, port: 35607, type: ss, cipher: aes-128-gcm, password: da48a0ff-f23d-43cc-93ae-5f93a876c297, udp: true}
+- {name: 🇩🇪 德国 / 华东 | 原生 - 小白云, server: ger2.iepl.cooc.icu, port: 35608, type: ss, cipher: aes-128-gcm, password: da48a0ff-f23d-43cc-93ae-5f93a876c297, udp: true}
+- {name: 🇫🇷 法国 / 华东 | 原生 - 小白云, server: fr2.iepl.cooc.icu, port: 35612, type: ss, cipher: aes-128-gcm, password: da48a0ff-f23d-43cc-93ae-5f93a876c297, udp: true}
 - {name: 🇭🇰 香港 1 - 西瓜皮是真的皮, server: jsxc1.dx001.top, port: 19811, type: vmess, uuid: 0c61376e-1c5d-3d5a-8f37-a2807d3995b3, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇭🇰 香港 2 - 西瓜皮是真的皮, server: cm-01.dx001.top, port: 19812, type: vmess, uuid: 0c61376e-1c5d-3d5a-8f37-a2807d3995b3, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇹🇼 台湾 1 动画疯 - 西瓜皮是真的皮, server: cm-01.dx001.top, port: 19821, type: vmess, uuid: 0c61376e-1c5d-3d5a-8f37-a2807d3995b3, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
