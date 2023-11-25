@@ -7,8 +7,8 @@ proxies:
 - {name: 🇺🇸 美国-1/US | 苏移 - 鸡鸡云, server: zzjsyd.jjyhk.com, port: 13334, type: ss, cipher: chacha20-ietf-poly1305, password: 5a1df210-365f-4022-a1a4-ec19ecb2cc37, udp: true}
 - {name: 🇺🇸 美国-1/US | 沪联 - 鸡鸡云, server: zj.xn--iiq222b6igvp5c.com, port: 57243, type: ss, cipher: chacha20-ietf-poly1305, password: 5a1df210-365f-4022-a1a4-ec19ecb2cc37, udp: true}
 - {name: 🇺🇸 美国-1/US | 上移 - 鸡鸡云, server: zzshyd1.jjyhk.com, port: 12694, type: ss, cipher: chacha20-ietf-poly1305, password: 5a1df210-365f-4022-a1a4-ec19ecb2cc37, udp: true}
-- {name: 🇺🇸 美国1-杭港隧道-解锁 - 快云, server: hz.888898.beauty, port: 46331, type: vmess, uuid: 509c0e18-c6c9-3748-836d-f3a43b024c64, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 美国2-广港隧道-解锁 - 快云, server: gz.888898.beauty, port: 43833, type: vmess, uuid: 509c0e18-c6c9-3748-836d-f3a43b024c64, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 美国1-杭港隧道-解锁 - 快云, server: hz.888898.beauty, port: 46331, type: vmess, uuid: ef5a2aae-d804-3057-958e-4df4b44acb05, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 美国2-广港隧道-解锁 - 快云, server: gz.888898.beauty, port: 43833, type: vmess, uuid: ef5a2aae-d804-3057-958e-4df4b44acb05, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇺🇸美国 🌐「达拉斯」 - 北方航空, server: cdn.chigua.tk, port: 80, type: vmess, uuid: 2bc4b34b-645c-4e1c-8ceb-0e7467f3dd95, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /usc03, headers: {Host: usc03.galenet.online}}, udp: true}
 - {name: 🇺🇸 V4-4005|美国|x2.0 - 海豚云, server: dnspsdhaitun.ncsuwei.top, port: 11301, type: vmess, uuid: a58220e5-9d22-3d62-93bc-1ef1fe34d42a, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /ef483582-6269-468c-93af-c512ec2b8a61, headers: {Host: dnspsdhaitun.ncsuwei.top}}, udp: true}
 - {name: 🇺🇸 V4-4006|美国|x1.5 - 海豚云, server: dnspsdhaitun.ncsuwei.top, port: 11302, type: vmess, uuid: a58220e5-9d22-3d62-93bc-1ef1fe34d42a, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /ef483582-6269-468c-93af-c512ec2b8a61, headers: {Host: dnspsdhaitun.ncsuwei.top}}, udp: true}
@@ -22,11 +22,11 @@ proxies:
 - {name: 🇺🇸 中转•美国61•高速 - 飞翔吧, server: gy.58n.net, port: 30767, type: trojan, password: 2f6c155e-7d8f-391d-a91d-01deb4ca872e, sni: z61.hongkongnode.top, skip-cert-verify: true, udp: true}
 - {name: 🇺🇸 广港•美国266•高速 - 飞翔吧, server: gy.58n.net, port: 56783, type: trojan, password: 2f6c155e-7d8f-391d-a91d-01deb4ca872e, sni: z266.hongkongnode.top, skip-cert-verify: true, udp: true}
 - {name: 🇺🇸 广港•美国288•高速 - 飞翔吧, server: gy.58n.net, port: 20288, type: trojan, password: 2f6c155e-7d8f-391d-a91d-01deb4ca872e, sni: z288.hongkongnode.top, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 US / 美国 | 华东 - 小白云, server: usa1.iepl.cooc.icu, port: 31881, type: ss, cipher: aes-256-gcm, password: 7d8ecdb7-982b-44d2-9125-f8ce34ed1a64, udp: true}
-- {name: 🇺🇸 US / 美国 | 华南 - 小白云, server: usa2.iepl.cooc.icu, port: 32881, type: ss, cipher: aes-256-gcm, password: 7d8ecdb7-982b-44d2-9125-f8ce34ed1a64, udp: true}
-- {name: 🇺🇸 US / 美国 | 混合 - 小白云, server: usa3.iepl.cooc.icu, port: 33881, type: ss, cipher: aes-256-gcm, password: 7d8ecdb7-982b-44d2-9125-f8ce34ed1a64, udp: true}
-- {name: 🇺🇸 美国 / 华东 | 原生 - 小白云, server: usa4.iepl.cooc.icu, port: 34881, type: ss, cipher: aes-256-gcm, password: 7d8ecdb7-982b-44d2-9125-f8ce34ed1a64, udp: true}
-- {name: 🇺🇸 美国 / 华南 | 原生 - 小白云, server: usa5.iepl.cooc.icu, port: 35881, type: ss, cipher: aes-256-gcm, password: 7d8ecdb7-982b-44d2-9125-f8ce34ed1a64, udp: true}
+- {name: 🇺🇸 US / 美国 | 华东 - 小白云, server: usa1.iepl.cooc.icu, port: 31881, type: ss, cipher: aes-256-gcm, password: 5460ad09-13a8-4436-b93d-3a0b323c640a, udp: true}
+- {name: 🇺🇸 US / 美国 | 华南 - 小白云, server: usa2.iepl.cooc.icu, port: 32881, type: ss, cipher: aes-256-gcm, password: 5460ad09-13a8-4436-b93d-3a0b323c640a, udp: true}
+- {name: 🇺🇸 US / 美国 | 混合 - 小白云, server: usa3.iepl.cooc.icu, port: 33881, type: ss, cipher: aes-256-gcm, password: 5460ad09-13a8-4436-b93d-3a0b323c640a, udp: true}
+- {name: 🇺🇸 美国 / 华东 | 原生 - 小白云, server: usa4.iepl.cooc.icu, port: 34881, type: ss, cipher: aes-256-gcm, password: 5460ad09-13a8-4436-b93d-3a0b323c640a, udp: true}
+- {name: 🇺🇸 美国 / 华南 | 原生 - 小白云, server: usa5.iepl.cooc.icu, port: 35881, type: ss, cipher: aes-256-gcm, password: 5460ad09-13a8-4436-b93d-3a0b323c640a, udp: true}
 - {name: 🇺🇸 美国 1 ChatGPT - 西瓜皮是真的皮, server: xchn1.dx001.top, port: 19861, type: vmess, uuid: cfb5d538-462a-3706-9a5d-df983929d6f9, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇺🇸 美国 2 ChatGPT - 西瓜皮是真的皮, server: gzxd1.dx001.top, port: 19862, type: vmess, uuid: cfb5d538-462a-3706-9a5d-df983929d6f9, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇺🇸 America - 番茄云, server: us.fanqiecloud.top, port: 22752, type: ss, cipher: chacha20-ietf-poly1305, password: ee81193c-807a-46de-9525-f3a4ff4f17ac, udp: true}
