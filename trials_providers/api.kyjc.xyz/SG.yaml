@@ -1,4 +1,4 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇸🇬 新加坡2-杭新隧道-解锁 - 快云, server: hz.888898.beauty, port: 43667, type: vmess, uuid: 31f5c2c2-50cb-349c-89f8-ee2f96ad2d55, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬 新加坡2-杭新隧道-解锁 - 快云, server: hz.888898.beauty, port: 43667, type: vmess, uuid: ba6aedae-6ada-3e9c-8779-53966851b495, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
