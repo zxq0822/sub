@@ -55,7 +55,7 @@ proxy-groups:
   - 🇭🇰 广港•香港259•高速 - 飞翔吧
   - 🇭🇰 广港•香港278•高速 - 飞翔吧
   - 🇭🇰 广港•香港279•高速 - 飞翔吧
-  - 🇭🇰 HK / 香港 | 华南 - 小白云
+  - 🇭🇰 香港 / 华南｜HK - 小白云
   - 🇭🇰 香港 / 华东｜HK - 小白云
   - 🇭🇰 香港 / 备用｜HK - 小白云
   - 🇭🇰 香港 1 - 西瓜皮是真的皮
@@ -104,8 +104,8 @@ proxy-groups:
   - 🇹🇼 中转•台湾91•原生 - 飞翔吧
   - 🇹🇼 广港•台湾261•高速 - 飞翔吧
   - 🇹🇼 广港•台湾262•高速 - 飞翔吧
-  - 🇹🇼 TW / 台湾 | 华东 - 小白云
-  - 🇹🇼 TW / 台湾 | 华南 - 小白云
+  - 🇹🇼 台湾 / 华东｜TW - 小白云
+  - 🇹🇼 台湾 / 华南｜TW - 小白云
   - 🇹🇼 台湾 1 动画疯 - 西瓜皮是真的皮
   - 🇹🇼 台湾 2 动画疯 - 西瓜皮是真的皮
   - 🇹🇼 Taiwan - 番茄云
@@ -125,8 +125,8 @@ proxy-groups:
   - 🇸🇬 中转•新加坡83•高速 - 飞翔吧
   - 🇸🇬 新加坡•高速129•高速 - 飞翔吧
   - 🇸🇬 新加坡•高速130•铂金 - 飞翔吧
-  - 🇸🇬 SG / 新加坡 | 华南 - 小白云
-  - 🇸🇬 SG / 新加坡 | 华东 - 小白云
+  - 🇸🇬 新加坡 / 华南｜SG - 小白云
+  - 🇸🇬 新加坡 / 华东｜SG - 小白云
   - 🇸🇬 新加坡 1 Netflix  - 西瓜皮是真的皮
   - 🇸🇬 新加坡 2 Netflix - 西瓜皮是真的皮
   - 🇸🇬 Singapore - 番茄云
@@ -157,9 +157,9 @@ proxy-groups:
   - 🇯🇵 日本•高速59•青铜 - 飞翔吧
   - 🇯🇵 日本•高速71•高速 - 飞翔吧
   - 🇯🇵 日本•高速76•高速 - 飞翔吧
-  - 🇯🇵 JP / 日本 | 华东 - 小白云
-  - 🇯🇵 JP / 日本 | 华南 - 小白云
-  - 🇯🇵 JP / 日本 | 混合 - 小白云
+  - 🇯🇵 日本 / 华东｜JP - 小白云
+  - 🇯🇵 日本 / 华南｜JP - 小白云
+  - 🇯🇵 日本 / 备用｜JP - 小白云
   - 🇯🇵 日本 1 Nico Abema - 西瓜皮是真的皮
   - 🇯🇵 日本 2 Nico Abema - 西瓜皮是真的皮
   - 🇯🇵 Japan - 番茄云
@@ -192,9 +192,9 @@ proxy-groups:
   - 🇺🇸 中转•美国61•高速 - 飞翔吧
   - 🇺🇸 广港•美国266•高速 - 飞翔吧
   - 🇺🇸 广港•美国288•高速 - 飞翔吧
-  - 🇺🇸 US / 美国 | 华东 - 小白云
-  - 🇺🇸 US / 美国 | 华南 - 小白云
-  - 🇺🇸 US / 美国 | 混合 - 小白云
+  - 🇺🇸 美国 / 华东｜US - 小白云
+  - 🇺🇸 美国 / 华南｜US - 小白云
+  - 🇺🇸 美国 / 备用｜US - 小白云
   - 🇺🇸 美国 / 华东 | 原生 - 小白云
   - 🇺🇸 美国 / 华南 | 原生 - 小白云
   - 🇺🇸 美国 1 ChatGPT - 西瓜皮是真的皮
@@ -245,8 +245,8 @@ proxy-groups:
   - 🇬🇧 中转•英国268•高速 - 飞翔吧
   - 🇰🇷 广港•韩国263•高速 - 飞翔吧
   - 🇰🇷 广港•韩国264•高速 - 飞翔吧
-  - 🇰🇷 KR / 韩国 | 华东 - 小白云
-  - 🇰🇷 KR / 韩国 | 华南 - 小白云
+  - 🇰🇷 韩国 / 华东｜KR - 小白云
+  - 🇰🇷 韩国 / 华南｜KR - 小白云
   - 🇻🇳 越南 / 华东 | 原生 - 小白云
   - 🇻🇳 越南 / 华南 | 原生 - 小白云
   - 🇲🇾 马来 / 华南 | 原生 - 小白云
@@ -368,7 +368,7 @@ proxy-groups:
   - 🇭🇰 广港•香港259•高速 - 飞翔吧
   - 🇭🇰 广港•香港278•高速 - 飞翔吧
   - 🇭🇰 广港•香港279•高速 - 飞翔吧
-  - 🇭🇰 HK / 香港 | 华南 - 小白云
+  - 🇭🇰 香港 / 华南｜HK - 小白云
   - 🇭🇰 香港 / 华东｜HK - 小白云
   - 🇭🇰 香港 / 备用｜HK - 小白云
   - 🇭🇰 香港 1 - 西瓜皮是真的皮
@@ -423,8 +423,8 @@ proxy-groups:
   - 🇹🇼 中转•台湾91•原生 - 飞翔吧
   - 🇹🇼 广港•台湾261•高速 - 飞翔吧
   - 🇹🇼 广港•台湾262•高速 - 飞翔吧
-  - 🇹🇼 TW / 台湾 | 华东 - 小白云
-  - 🇹🇼 TW / 台湾 | 华南 - 小白云
+  - 🇹🇼 台湾 / 华东｜TW - 小白云
+  - 🇹🇼 台湾 / 华南｜TW - 小白云
   - 🇹🇼 台湾 1 动画疯 - 西瓜皮是真的皮
   - 🇹🇼 台湾 2 动画疯 - 西瓜皮是真的皮
   - 🇹🇼 Taiwan - 番茄云
@@ -460,7 +460,7 @@ proxy-groups:
   - 🇭🇰 广港•香港259•高速 - 飞翔吧
   - 🇭🇰 广港•香港278•高速 - 飞翔吧
   - 🇭🇰 广港•香港279•高速 - 飞翔吧
-  - 🇭🇰 HK / 香港 | 华南 - 小白云
+  - 🇭🇰 香港 / 华南｜HK - 小白云
   - 🇭🇰 香港 / 华东｜HK - 小白云
   - 🇭🇰 香港 / 备用｜HK - 小白云
   - 🇭🇰 香港 1 - 西瓜皮是真的皮
@@ -509,8 +509,8 @@ proxy-groups:
   - 🇹🇼 中转•台湾91•原生 - 飞翔吧
   - 🇹🇼 广港•台湾261•高速 - 飞翔吧
   - 🇹🇼 广港•台湾262•高速 - 飞翔吧
-  - 🇹🇼 TW / 台湾 | 华东 - 小白云
-  - 🇹🇼 TW / 台湾 | 华南 - 小白云
+  - 🇹🇼 台湾 / 华东｜TW - 小白云
+  - 🇹🇼 台湾 / 华南｜TW - 小白云
   - 🇹🇼 台湾 1 动画疯 - 西瓜皮是真的皮
   - 🇹🇼 台湾 2 动画疯 - 西瓜皮是真的皮
   - 🇹🇼 Taiwan - 番茄云
@@ -536,8 +536,8 @@ proxy-groups:
   - 🇸🇬 中转•新加坡83•高速 - 飞翔吧
   - 🇸🇬 新加坡•高速129•高速 - 飞翔吧
   - 🇸🇬 新加坡•高速130•铂金 - 飞翔吧
-  - 🇸🇬 SG / 新加坡 | 华南 - 小白云
-  - 🇸🇬 SG / 新加坡 | 华东 - 小白云
+  - 🇸🇬 新加坡 / 华南｜SG - 小白云
+  - 🇸🇬 新加坡 / 华东｜SG - 小白云
   - 🇸🇬 新加坡 1 Netflix  - 西瓜皮是真的皮
   - 🇸🇬 新加坡 2 Netflix - 西瓜皮是真的皮
   - 🇸🇬 Singapore - 番茄云
@@ -574,9 +574,9 @@ proxy-groups:
   - 🇯🇵 日本•高速59•青铜 - 飞翔吧
   - 🇯🇵 日本•高速71•高速 - 飞翔吧
   - 🇯🇵 日本•高速76•高速 - 飞翔吧
-  - 🇯🇵 JP / 日本 | 华东 - 小白云
-  - 🇯🇵 JP / 日本 | 华南 - 小白云
-  - 🇯🇵 JP / 日本 | 混合 - 小白云
+  - 🇯🇵 日本 / 华东｜JP - 小白云
+  - 🇯🇵 日本 / 华南｜JP - 小白云
+  - 🇯🇵 日本 / 备用｜JP - 小白云
   - 🇯🇵 日本 1 Nico Abema - 西瓜皮是真的皮
   - 🇯🇵 日本 2 Nico Abema - 西瓜皮是真的皮
   - 🇯🇵 Japan - 番茄云
@@ -615,9 +615,9 @@ proxy-groups:
   - 🇺🇸 中转•美国61•高速 - 飞翔吧
   - 🇺🇸 广港•美国266•高速 - 飞翔吧
   - 🇺🇸 广港•美国288•高速 - 飞翔吧
-  - 🇺🇸 US / 美国 | 华东 - 小白云
-  - 🇺🇸 US / 美国 | 华南 - 小白云
-  - 🇺🇸 US / 美国 | 混合 - 小白云
+  - 🇺🇸 美国 / 华东｜US - 小白云
+  - 🇺🇸 美国 / 华南｜US - 小白云
+  - 🇺🇸 美国 / 备用｜US - 小白云
   - 🇺🇸 美国 / 华东 | 原生 - 小白云
   - 🇺🇸 美国 / 华南 | 原生 - 小白云
   - 🇺🇸 美国 1 ChatGPT - 西瓜皮是真的皮
@@ -674,8 +674,8 @@ proxy-groups:
   - 🇬🇧 中转•英国268•高速 - 飞翔吧
   - 🇰🇷 广港•韩国263•高速 - 飞翔吧
   - 🇰🇷 广港•韩国264•高速 - 飞翔吧
-  - 🇰🇷 KR / 韩国 | 华东 - 小白云
-  - 🇰🇷 KR / 韩国 | 华南 - 小白云
+  - 🇰🇷 韩国 / 华东｜KR - 小白云
+  - 🇰🇷 韩国 / 华南｜KR - 小白云
   - 🇻🇳 越南 / 华东 | 原生 - 小白云
   - 🇻🇳 越南 / 华南 | 原生 - 小白云
   - 🇲🇾 马来 / 华南 | 原生 - 小白云
@@ -876,10 +876,10 @@ proxies:
 - {name: 🇯🇵 日本•高速59•青铜 - 飞翔吧, server: gy.58n.net, port: 20059, type: trojan, password: b0d9ff9a-7c65-30b8-8a54-fadf7d845b51, sni: x59.flybar.work, skip-cert-verify: true, udp: true}
 - {name: 🇯🇵 日本•高速71•高速 - 飞翔吧, server: gy.58n.net, port: 20071, type: trojan, password: b0d9ff9a-7c65-30b8-8a54-fadf7d845b51, sni: x71.flybar.work, skip-cert-verify: true, udp: true}
 - {name: 🇯🇵 日本•高速76•高速 - 飞翔吧, server: gy.58n.net, port: 20076, type: trojan, password: b0d9ff9a-7c65-30b8-8a54-fadf7d845b51, sni: x76.flybar.work, skip-cert-verify: true, udp: true}
-- {name: 🇹🇼 TW / 台湾 | 华东 - 小白云, server: tw1.iepl.cooc.icu, port: 35109, type: ss, cipher: aes-256-gcm, password: fe534d8c-5a98-4fb2-b61a-d9aa1a7232cc, udp: true}
-- {name: 🇹🇼 TW / 台湾 | 华南 - 小白云, server: tw2.iepl.cooc.icu, port: 35110, type: ss, cipher: aes-256-gcm, password: fe534d8c-5a98-4fb2-b61a-d9aa1a7232cc, udp: true}
-- {name: 🇰🇷 KR / 韩国 | 华东 - 小白云, server: kr1.iepl.cooc.icu, port: 35101, type: ss, cipher: aes-128-gcm, password: fe534d8c-5a98-4fb2-b61a-d9aa1a7232cc, udp: true}
-- {name: 🇰🇷 KR / 韩国 | 华南 - 小白云, server: kr2.iepl.cooc.icu, port: 35102, type: ss, cipher: aes-128-gcm, password: fe534d8c-5a98-4fb2-b61a-d9aa1a7232cc, udp: true}
+- {name: 🇹🇼 台湾 / 华东｜TW - 小白云, server: tw1.iepl.cooc.icu, port: 35109, type: ss, cipher: aes-256-gcm, password: fe534d8c-5a98-4fb2-b61a-d9aa1a7232cc, udp: true}
+- {name: 🇹🇼 台湾 / 华南｜TW - 小白云, server: tw2.iepl.cooc.icu, port: 35110, type: ss, cipher: aes-256-gcm, password: fe534d8c-5a98-4fb2-b61a-d9aa1a7232cc, udp: true}
+- {name: 🇰🇷 韩国 / 华东｜KR - 小白云, server: kr1.iepl.cooc.icu, port: 35101, type: ss, cipher: aes-128-gcm, password: fe534d8c-5a98-4fb2-b61a-d9aa1a7232cc, udp: true}
+- {name: 🇰🇷 韩国 / 华南｜KR - 小白云, server: kr2.iepl.cooc.icu, port: 35102, type: ss, cipher: aes-128-gcm, password: fe534d8c-5a98-4fb2-b61a-d9aa1a7232cc, udp: true}
 - {name: 🇻🇳 越南 / 华东 | 原生 - 小白云, server: vn1.iepl.cooc.icu, port: 35601, type: ss, cipher: aes-128-gcm, password: fe534d8c-5a98-4fb2-b61a-d9aa1a7232cc, udp: true}
 - {name: 🇻🇳 越南 / 华南 | 原生 - 小白云, server: vn2.iepl.cooc.icu, port: 35602, type: ss, cipher: aes-128-gcm, password: fe534d8c-5a98-4fb2-b61a-d9aa1a7232cc, udp: true}
 - {name: 🇲🇾 马来 / 华南 | 原生 - 小白云, server: mas1.iepl.cooc.icu, port: 35603, type: ss, cipher: aes-128-gcm, password: fe534d8c-5a98-4fb2-b61a-d9aa1a7232cc, udp: true}
@@ -889,19 +889,19 @@ proxies:
 - {name: 🇩🇪 德国 / 华南 | 原生 - 小白云, server: ger1.iepl.cooc.icu, port: 35607, type: ss, cipher: aes-128-gcm, password: fe534d8c-5a98-4fb2-b61a-d9aa1a7232cc, udp: true}
 - {name: 🇩🇪 德国 / 华东 | 原生 - 小白云, server: ger2.iepl.cooc.icu, port: 35608, type: ss, cipher: aes-128-gcm, password: fe534d8c-5a98-4fb2-b61a-d9aa1a7232cc, udp: true}
 - {name: 🇫🇷 法国 / 华东 | 原生 - 小白云, server: fr2.iepl.cooc.icu, port: 35612, type: ss, cipher: aes-128-gcm, password: fe534d8c-5a98-4fb2-b61a-d9aa1a7232cc, udp: true}
-- {name: 🇺🇸 US / 美国 | 华东 - 小白云, server: usa1.iepl.cooc.icu, port: 31881, type: ss, cipher: aes-256-gcm, password: fe534d8c-5a98-4fb2-b61a-d9aa1a7232cc, udp: true}
-- {name: 🇺🇸 US / 美国 | 华南 - 小白云, server: usa2.iepl.cooc.icu, port: 32881, type: ss, cipher: aes-256-gcm, password: fe534d8c-5a98-4fb2-b61a-d9aa1a7232cc, udp: true}
-- {name: 🇺🇸 US / 美国 | 混合 - 小白云, server: usa3.iepl.cooc.icu, port: 33881, type: ss, cipher: aes-256-gcm, password: fe534d8c-5a98-4fb2-b61a-d9aa1a7232cc, udp: true}
+- {name: 🇺🇸 美国 / 华东｜US - 小白云, server: usa1.iepl.cooc.icu, port: 31881, type: ss, cipher: aes-256-gcm, password: fe534d8c-5a98-4fb2-b61a-d9aa1a7232cc, udp: true}
+- {name: 🇺🇸 美国 / 华南｜US - 小白云, server: usa2.iepl.cooc.icu, port: 32881, type: ss, cipher: aes-256-gcm, password: fe534d8c-5a98-4fb2-b61a-d9aa1a7232cc, udp: true}
+- {name: 🇺🇸 美国 / 备用｜US - 小白云, server: usa3.iepl.cooc.icu, port: 33881, type: ss, cipher: aes-256-gcm, password: fe534d8c-5a98-4fb2-b61a-d9aa1a7232cc, udp: true}
 - {name: 🇺🇸 美国 / 华东 | 原生 - 小白云, server: usa4.iepl.cooc.icu, port: 34881, type: ss, cipher: aes-256-gcm, password: fe534d8c-5a98-4fb2-b61a-d9aa1a7232cc, udp: true}
 - {name: 🇺🇸 美国 / 华南 | 原生 - 小白云, server: usa5.iepl.cooc.icu, port: 35881, type: ss, cipher: aes-256-gcm, password: fe534d8c-5a98-4fb2-b61a-d9aa1a7232cc, udp: true}
-- {name: 🇭🇰 HK / 香港 | 华南 - 小白云, server: hk1.iepl.cooc.icu, port: 21881, type: ss, cipher: aes-256-gcm, password: fe534d8c-5a98-4fb2-b61a-d9aa1a7232cc, udp: true}
+- {name: 🇭🇰 香港 / 华南｜HK - 小白云, server: hk1.iepl.cooc.icu, port: 21881, type: ss, cipher: aes-256-gcm, password: fe534d8c-5a98-4fb2-b61a-d9aa1a7232cc, udp: true}
 - {name: 🇭🇰 香港 / 华东｜HK - 小白云, server: hk2.iepl.cooc.icu, port: 22881, type: ss, cipher: aes-256-gcm, password: fe534d8c-5a98-4fb2-b61a-d9aa1a7232cc, udp: true}
 - {name: 🇭🇰 香港 / 备用｜HK - 小白云, server: hk3.iepl.cooc.icu, port: 23881, type: ss, cipher: aes-256-gcm, password: fe534d8c-5a98-4fb2-b61a-d9aa1a7232cc, udp: true}
-- {name: 🇸🇬 SG / 新加坡 | 华南 - 小白云, server: sg1.iepl.cooc.icu, port: 35105, type: ss, cipher: aes-256-gcm, password: fe534d8c-5a98-4fb2-b61a-d9aa1a7232cc, udp: true}
-- {name: 🇸🇬 SG / 新加坡 | 华东 - 小白云, server: sg2.iepl.cooc.icu, port: 35106, type: ss, cipher: aes-256-gcm, password: fe534d8c-5a98-4fb2-b61a-d9aa1a7232cc, udp: true}
-- {name: 🇯🇵 JP / 日本 | 华东 - 小白云, server: jp1.iepl.cooc.icu, port: 47100, type: ss, cipher: aes-256-gcm, password: fe534d8c-5a98-4fb2-b61a-d9aa1a7232cc, udp: true}
-- {name: 🇯🇵 JP / 日本 | 华南 - 小白云, server: jp2.iepl.cooc.icu, port: 47101, type: ss, cipher: aes-256-gcm, password: fe534d8c-5a98-4fb2-b61a-d9aa1a7232cc, udp: true}
-- {name: 🇯🇵 JP / 日本 | 混合 - 小白云, server: jp3.iepl.cooc.icu, port: 19881, type: ss, cipher: aes-256-gcm, password: fe534d8c-5a98-4fb2-b61a-d9aa1a7232cc, udp: true}
+- {name: 🇸🇬 新加坡 / 华南｜SG - 小白云, server: sg1.iepl.cooc.icu, port: 35105, type: ss, cipher: aes-256-gcm, password: fe534d8c-5a98-4fb2-b61a-d9aa1a7232cc, udp: true}
+- {name: 🇸🇬 新加坡 / 华东｜SG - 小白云, server: sg2.iepl.cooc.icu, port: 35106, type: ss, cipher: aes-256-gcm, password: fe534d8c-5a98-4fb2-b61a-d9aa1a7232cc, udp: true}
+- {name: 🇯🇵 日本 / 华东｜JP - 小白云, server: jp1.iepl.cooc.icu, port: 47100, type: ss, cipher: aes-256-gcm, password: fe534d8c-5a98-4fb2-b61a-d9aa1a7232cc, udp: true}
+- {name: 🇯🇵 日本 / 华南｜JP - 小白云, server: jp2.iepl.cooc.icu, port: 47101, type: ss, cipher: aes-256-gcm, password: fe534d8c-5a98-4fb2-b61a-d9aa1a7232cc, udp: true}
+- {name: 🇯🇵 日本 / 备用｜JP - 小白云, server: jp3.iepl.cooc.icu, port: 19881, type: ss, cipher: aes-256-gcm, password: fe534d8c-5a98-4fb2-b61a-d9aa1a7232cc, udp: true}
 - {name: 🇹🇼 台湾 1 动画疯 - 西瓜皮是真的皮, server: cm-01.dx001.top, port: 19821, type: vmess, uuid: 650e3e7d-1047-38a8-9bbc-10af8f876910, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇹🇼 台湾 2 动画疯 - 西瓜皮是真的皮, server: ct-01.dx001.top, port: 19822, type: vmess, uuid: 650e3e7d-1047-38a8-9bbc-10af8f876910, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇩🇪 德国 1 - 西瓜皮是真的皮, server: xchn1.dx001.top, port: 19891, type: vmess, uuid: 650e3e7d-1047-38a8-9bbc-10af8f876910, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
@@ -917,12 +917,12 @@ proxies:
 - {name: 🇯🇵 日本 1 Nico Abema - 西瓜皮是真的皮, server: jsxc1.dx001.top, port: 19831, type: vmess, uuid: 650e3e7d-1047-38a8-9bbc-10af8f876910, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇯🇵 日本 2 Nico Abema - 西瓜皮是真的皮, server: cm-01.dx001.top, port: 19832, type: vmess, uuid: 650e3e7d-1047-38a8-9bbc-10af8f876910, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇭🇰 香港|【黑五活动】6.5折活动进行中|公益 - 大白, server: 112.28.208.147, port: 64005, type: vmess, uuid: 695a9ec5-ea71-391c-ba3b-282b3a12af67, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, servername: cache-hk-2.cn-db.top, network: ws, ws-opts: {path: /db00, headers: {Host: cache-hk-2.cn-db.top}}, udp: true}
-- {name: 🇭🇰 香港|专线2G|GPT+流媒体|【dabai.in】<<前往官网|公益 - 大白, server: 120.241.46.15, port: 35108, type: vmess, uuid: 695a9ec5-ea71-391c-ba3b-282b3a12af67, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: data-hk-2.cn-db.top, network: ws, ws-opts: {path: /db00, headers: {Host: data-hk-2.cn-db.top}}, udp: true}
+- {name: 🇭🇰 香港|专线2G|GPT+流媒体|【dabai.in】<<前往官网|公益 - 大白, server: 112.28.208.147, port: 62005, type: vmess, uuid: 695a9ec5-ea71-391c-ba3b-282b3a12af67, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, servername: data-hk-2.cn-db.top, network: ws, ws-opts: {path: /db00, headers: {Host: data-hk-2.cn-db.top}}, udp: true}
 - {name: 🇭🇰 香港|专线2G|GPT+流媒体|【db01.in】<<前往官网|公益 - 大白, server: 112.28.208.147, port: 64005, type: vmess, uuid: 695a9ec5-ea71-391c-ba3b-282b3a12af67, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, servername: cache-hk-2.cn-db.top, network: ws, ws-opts: {path: /db00, headers: {Host: cache-hk-2.cn-db.top}}, udp: true}
-- {name: 🇭🇰 香港|专线2G|GPT+流媒体|【付费用户】油管秒开4K/8K|更多地区接入|公益 - 大白, server: 112.28.208.147, port: 62005, type: vmess, uuid: 695a9ec5-ea71-391c-ba3b-282b3a12af67, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, servername: cache-hk-1.cn-db.top, network: ws, ws-opts: {path: /db00, headers: {Host: cache-hk-1.cn-db.top}}, udp: true}
+- {name: 🇭🇰 香港|专线2G|GPT+流媒体|【付费用户】油管秒开4K/8K|更多地区接入|公益 - 大白, server: 112.28.208.153, port: 64082, type: vmess, uuid: 695a9ec5-ea71-391c-ba3b-282b3a12af67, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, servername: cache-hk-1.cn-db.top, network: ws, ws-opts: {path: /db00, headers: {Host: cache-hk-1.cn-db.top}}, udp: true}
 - {name: 🇭🇰 香港|专线2G|GPT+流媒体|【免费用户】油管稳2K@30/限速稳720P|公益 - 大白, server: 120.241.46.15, port: 47605, type: vmess, uuid: 695a9ec5-ea71-391c-ba3b-282b3a12af67, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: data-hk-3.cn-db.top, network: ws, ws-opts: {path: /db00, headers: {Host: data-hk-3.cn-db.top}}, udp: true}
-- {name: 🇭🇰 香港|专线2G|GPT+流媒体|【提供套餐】免费/按量不限时/不按量限时|公益 - 大白, server: 112.28.208.153, port: 64082, type: vmess, uuid: 695a9ec5-ea71-391c-ba3b-282b3a12af67, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, servername: cache-hk-2.cn-db.top, network: ws, ws-opts: {path: /db00, headers: {Host: cache-hk-2.cn-db.top}}, udp: true}
-- {name: 🇭🇰 香港|专线2G|GPT+流媒体|【邀请用户】|最高返还40%|公益 - 大白, server: 120.241.46.15, port: 35108, type: vmess, uuid: 695a9ec5-ea71-391c-ba3b-282b3a12af67, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: cache-hk-1.cn-db.top, network: ws, ws-opts: {path: /db00, headers: {Host: cache-hk-1.cn-db.top}}, udp: true}
+- {name: 🇭🇰 香港|专线2G|GPT+流媒体|【提供套餐】免费/按量不限时/不按量限时|公益 - 大白, server: 120.241.46.15, port: 35108, type: vmess, uuid: 695a9ec5-ea71-391c-ba3b-282b3a12af67, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: cache-hk-2.cn-db.top, network: ws, ws-opts: {path: /db00, headers: {Host: cache-hk-2.cn-db.top}}, udp: true}
+- {name: 🇭🇰 香港|专线2G|GPT+流媒体|【邀请用户】|最高返还40%|公益 - 大白, server: 112.28.208.147, port: 62005, type: vmess, uuid: 695a9ec5-ea71-391c-ba3b-282b3a12af67, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, servername: cache-hk-1.cn-db.top, network: ws, ws-opts: {path: /db00, headers: {Host: cache-hk-1.cn-db.top}}, udp: true}
 - {name: '🇭🇰 香港|专线2G|GPT+流媒体|【节点优先级】[按量]>[不限量]>[免费]>[公共订阅]|公益 - 大白', server: 120.241.46.15, port: 47605, type: vmess, uuid: 695a9ec5-ea71-391c-ba3b-282b3a12af67, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: data-hk-1.cn-db.top, network: ws, ws-opts: {path: /db00, headers: {Host: data-hk-1.cn-db.top}}, udp: true}
 - {name: 🇹🇼 Taiwan - 番茄云, server: tw.fanqiecloud.top, port: 48889, type: ss, cipher: chacha20-ietf-poly1305, password: 1b8943dc-554e-496b-89e8-2b77931f6eee, udp: true}
 - {name: 🇹🇼 Taiwan 2 - 番茄云, server: dl4.fanqiecloud.top, port: 2086, type: vmess, uuid: 1b8943dc-554e-496b-89e8-2b77931f6eee, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /sssddd, headers: {Host: cf-tw.fanqiecloud.top}}, udp: true}
