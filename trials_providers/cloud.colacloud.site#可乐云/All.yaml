@@ -1,12 +1,13 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇹🇼 TW台湾 A - 可乐云, server: pxxx1.colacloud.site, port: 48887, type: ss, cipher: chacha20-ietf-poly1305, password: 29c6ae70-49fc-4904-bfa0-77bd839f933b, udp: true}
-- {name: 🇹🇼 TW台湾 B - 可乐云, server: pxxx1.colacloud.site, port: 48886, type: ss, cipher: chacha20-ietf-poly1305, password: 29c6ae70-49fc-4904-bfa0-77bd839f933b, udp: true}
-- {name: 🇯🇵 JP日本 A - 可乐云, server: pxxx1.colacloud.site, port: 28152, type: ss, cipher: chacha20-ietf-poly1305, password: 29c6ae70-49fc-4904-bfa0-77bd839f933b, udp: true}
-- {name: 🇯🇵 JP日本 B - 可乐云, server: pxxx1.colacloud.site, port: 28153, type: ss, cipher: chacha20-ietf-poly1305, password: 29c6ae70-49fc-4904-bfa0-77bd839f933b, udp: true}
+- {name: 🇹🇼 TW台湾 A - 可乐云, server: tw.colacloud.site, port: 48887, type: ss, cipher: chacha20-ietf-poly1305, password: 29c6ae70-49fc-4904-bfa0-77bd839f933b, udp: true}
+- {name: 🇹🇼 TW台湾 B - 可乐云, server: tw.colacloud.site, port: 48886, type: ss, cipher: chacha20-ietf-poly1305, password: 29c6ae70-49fc-4904-bfa0-77bd839f933b, udp: true}
+- {name: 🇯🇵 JP日本 A - 可乐云, server: jp.colacloud.site, port: 28152, type: ss, cipher: chacha20-ietf-poly1305, password: 29c6ae70-49fc-4904-bfa0-77bd839f933b, udp: true}
+- {name: 🇯🇵 JP日本 B - 可乐云, server: jp.colacloud.site, port: 28153, type: ss, cipher: chacha20-ietf-poly1305, password: 29c6ae70-49fc-4904-bfa0-77bd839f933b, udp: true}
 - {name: 🇺🇸 US美国 A - 可乐云, server: us.colacloud.site, port: 24652, type: ss, cipher: chacha20-ietf-poly1305, password: 29c6ae70-49fc-4904-bfa0-77bd839f933b, udp: true}
 - {name: 🇺🇸 US美国 B - 可乐云, server: us.colacloud.site, port: 24662, type: ss, cipher: chacha20-ietf-poly1305, password: 29c6ae70-49fc-4904-bfa0-77bd839f933b, udp: true}
-- {name: 🇸🇬 SG新加坡 A - 可乐云, server: sg.colacloud.site, port: 20502, type: ss, cipher: chacha20-ietf-poly1305, password: 29c6ae70-49fc-4904-bfa0-77bd839f933b, udp: true}
-- {name: 🇸🇬 SG新加坡 B - 可乐云, server: sg.colacloud.site, port: 20503, type: ss, cipher: chacha20-ietf-poly1305, password: 29c6ae70-49fc-4904-bfa0-77bd839f933b, udp: true}
+- {name: 🇸🇬 SG新加坡 A - 可乐云, server: sg.colacloud.site, port: 20152, type: ss, cipher: chacha20-ietf-poly1305, password: 29c6ae70-49fc-4904-bfa0-77bd839f933b, udp: true}
+- {name: 🇸🇬 SG新加坡 B - 可乐云, server: sg.colacloud.site, port: 20153, type: ss, cipher: chacha20-ietf-poly1305, password: 29c6ae70-49fc-4904-bfa0-77bd839f933b, udp: true}
 - {name: 🇧🇷 BR巴西 A - 可乐云, server: cp1.colacloud.site, port: 2086, type: vmess, uuid: 29c6ae70-49fc-4904-bfa0-77bd839f933b, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /sssddd, headers: {Host: cf-bx.colacloud.site}}, udp: true}
+- {name: 🇹🇷 TR土耳其 A - 可乐云, server: cp1.colacloud.site, port: 2086, type: vmess, uuid: 29c6ae70-49fc-4904-bfa0-77bd839f933b, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /sssddd, headers: {Host: cf-tr.colacloud.site}}, udp: true}
