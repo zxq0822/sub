@@ -1,0 +1,4 @@
+%YAML 1.1
+---
+proxies:
+- {name: 🇺🇸 USA-美国 - 一机场, server: frontend.yijianlian.app, port: 54430, type: trojan, password: 5ebcee20-0f9e-493c-954c-4006153a9272, skip-cert-verify: true, udp: true}
