@@ -1,0 +1,7 @@
+%YAML 1.1
+---
+proxies:
+- {name: 距离下次重置剩余：2 天 - 花猫云, server: a200.huamaoyun.live, port: 40006, type: trojan, password: 338953e8-f5f5-4dc0-93cf-aa3497430221, sni: a200.huamaoyun.live, skip-cert-verify: true, udp: true}
+- {name: 📺 奈飞  tiktok专线1 - 花猫云, server: f7.huamaoyun.live, port: 80, type: vmess, uuid: 338953e8-f5f5-4dc0-93cf-aa3497430221, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: '/?ed=2048', headers: {Host: a609.huamaoyun.live}}, udp: true}
+- {name: 🇮🇳 孟买 - 花猫云, server: z15.huamaoyun.live, port: 8080, type: vmess, uuid: 338953e8-f5f5-4dc0-93cf-aa3497430221, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: '/?ed=2048', headers: {Host: a38.huamaoyun.live}}, udp: true}
+- {name: 🇮🇹 意大利米兰 - 花猫云, server: z13.huamaoyun.live, port: 8080, type: vmess, uuid: 338953e8-f5f5-4dc0-93cf-aa3497430221, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: '/?ed=2048', headers: {Host: a40.huamaoyun.live}}, udp: true}

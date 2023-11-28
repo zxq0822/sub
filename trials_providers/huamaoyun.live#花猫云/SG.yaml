@@ -1,0 +1,4 @@
+%YAML 1.1
+---
+proxies:
+- {name: 🇸🇬 新加坡视频专线 - 花猫云, server: rt8.huamaoyun.live, port: 8080, type: vmess, uuid: 338953e8-f5f5-4dc0-93cf-aa3497430221, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: '/?ed=2048', headers: {Host: r11.huamaoyun.live}}, udp: true}
