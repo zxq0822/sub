@@ -9,16 +9,7 @@ proxy-groups:
 - name: ✈️ ‍起飞
   type: select
   proxies:
-  - ⚡ ‍低延迟
-  - 👆🏻 ‍指定
   - DIRECT
-- name: ⚡ ‍低延迟
-  type: url-test
-  url: https://i.ytimg.com/generate_204
-  interval: 30
-  tolerance: 100
-  proxies: &id001
-  - 🇭🇰 香港 - sspanel
 - name: 🛩️ ‍墙内
   type: select
   proxies:
@@ -35,12 +26,10 @@ proxy-groups:
   type: select
   proxies:
   - 🛩️ ‍墙内
-  - 👆🏻 ‍指定
   - ✈️ ‍起飞
 - name: 🤖 ‍OpenAI+Bing
   type: select
   proxies:
-  - 👆🏻 ‍指定
   - ✈️ ‍起飞
   - 🛩️ ‍墙内
 - name: 🌐 ‍未知站点
@@ -49,9 +38,6 @@ proxy-groups:
   - ✈️ ‍起飞
   - 🛩️ ‍墙内
   - 💩 ‍广告
-- name: 👆🏻 ‍指定
-  type: select
-  proxies: *id001
 proxies:
 - {name: 🇭🇰 香港 - sspanel, server: xg107.npv4.com, port: 443, type: trojan, password: f13b3980-50dd-3de7-a909-90cd60696179, sni: xg107.npv4.com, skip-cert-verify: true, udp: true}
 rules:
