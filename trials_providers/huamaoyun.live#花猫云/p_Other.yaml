@@ -1,4 +1,0 @@
-%YAML 1.1
----
-proxies:
-- {name: 距离下次重置剩余：2 天 - 花猫云, server: a200.huamaoyun.live, port: 40006, type: trojan, password: 338953e8-f5f5-4dc0-93cf-aa3497430221, sni: a200.huamaoyun.live, skip-cert-verify: true, udp: true}

@@ -1,7 +1,6 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 距离下次重置剩余：2 天 - 花猫云, server: a200.huamaoyun.live, port: 40006, type: trojan, password: 338953e8-f5f5-4dc0-93cf-aa3497430221, sni: a200.huamaoyun.live, skip-cert-verify: true, udp: true}
 - {name: 用不了更新订阅或重新导入 - 鸡鸡云, server: jjyhk.com, port: 24910, type: ss, cipher: chacha20-ietf-poly1305, password: 64cb3955-b520-41d7-8cc5-9c29d92d5277, udp: true}
 - {name: 官网www. kuaigou.life - 快狗云, server: ca-01.gujuji.top, port: 8080, type: vmess, uuid: c2ba26a2-812f-4478-a322-a924ca1355ea, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: ca-01.gujuji.top}}, udp: true}
 - {name: 距离下次重置剩余：1 天 - Gegeth极迅游, server: ydfive.yb59.uk, port: 49998, type: ss, cipher: chacha20-ietf-poly1305, password: 84fe23b4-0fa8-4e34-ae6d-95f8b4fac88f, udp: true}

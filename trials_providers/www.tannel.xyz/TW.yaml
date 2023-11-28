@@ -1,4 +1,0 @@
-%YAML 1.1
----
-proxies:
-- {name: 🇹🇼 台湾A丨Hinet丨流媒体 - Tannel中继网络服务, server: www.zztannel.com, port: 62012, type: vmess, uuid: 42b2a8bb-3a7b-370f-8134-6eadc4fec73c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}

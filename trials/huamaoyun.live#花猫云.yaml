@@ -10,12 +10,10 @@ proxy-groups:
   type: select
   proxies:
   - ⚡ ‍低延迟
-  - 🇭🇰 ‍香港
   - 🇸🇬 ‍新加坡
   - 🇺🇸 ‍美国
   - 🎏 ‍其他
   - 👆🏻 ‍指定
-  - 👆🏻🇭🇰 ‍香港
   - 👆🏻🇸🇬 ‍新加坡
   - 👆🏻🇺🇸 ‍美国
   - 👆🏻🎏 ‍其他
@@ -26,9 +24,8 @@ proxy-groups:
   interval: 30
   tolerance: 100
   proxies: &id001
-  - 🇭🇰 移动联通优化线路01 - 花猫云
-  - 🇭🇰 移动联通优化线路03 - 花猫云
   - 🇸🇬 新加坡视频专线 - 花猫云
+  - 🇺🇸 纽约4k01 - 花猫云
   - 🇺🇸 免费节点1 - 花猫云
   - 🇺🇸 美西4K1 - 花猫云
   - 🇺🇸 视频线路1 - 花猫云
@@ -37,6 +34,7 @@ proxy-groups:
   - 🇺🇸 美国试用节点2 - 花猫云
   - 🇺🇸 西雅图 v - 花猫云
   - 🇺🇸 洛杉矶v - 花猫云
+  - 加州4k01 - 花猫云
   - 📺 奈飞  tiktok专线1 - 花猫云
   - 🇮🇳 孟买 - 花猫云
   - 🇮🇹 意大利米兰 - 花猫云
@@ -55,10 +53,8 @@ proxy-groups:
 - name: 📺 ‍B站
   type: select
   proxies:
-  - 🇭🇰 ‍香港
   - 🛩️ ‍墙内
   - 👆🏻 ‍指定
-  - 👆🏻🇭🇰 ‍香港
   - ✈️ ‍起飞
 - name: 🤖 ‍OpenAI+Bing
   type: select
@@ -78,27 +74,20 @@ proxy-groups:
   - ✈️ ‍起飞
   - 🛩️ ‍墙内
   - 💩 ‍广告
-- name: 🇭🇰 ‍香港
-  type: url-test
-  url: https://i.ytimg.com/generate_204
-  interval: 15
-  tolerance: 100
-  proxies: &id002
-  - 🇭🇰 移动联通优化线路01 - 花猫云
-  - 🇭🇰 移动联通优化线路03 - 花猫云
 - name: 🇸🇬 ‍新加坡
   type: url-test
   url: https://i.ytimg.com/generate_204
   interval: 15
   tolerance: 100
-  proxies: &id003
+  proxies: &id002
   - 🇸🇬 新加坡视频专线 - 花猫云
 - name: 🇺🇸 ‍美国
   type: url-test
   url: https://i.ytimg.com/generate_204
   interval: 15
   tolerance: 300
-  proxies: &id004
+  proxies: &id003
+  - 🇺🇸 纽约4k01 - 花猫云
   - 🇺🇸 免费节点1 - 花猫云
   - 🇺🇸 美西4K1 - 花猫云
   - 🇺🇸 视频线路1 - 花猫云
@@ -112,32 +101,30 @@ proxy-groups:
   url: https://i.ytimg.com/generate_204
   interval: 30
   tolerance: 100
-  proxies: &id005
+  proxies: &id004
+  - 加州4k01 - 花猫云
   - 📺 奈飞  tiktok专线1 - 花猫云
   - 🇮🇳 孟买 - 花猫云
   - 🇮🇹 意大利米兰 - 花猫云
 - name: 👆🏻 ‍指定
   type: select
   proxies: *id001
-- name: 👆🏻🇭🇰 ‍香港
-  type: select
-  proxies: *id002
 - name: 👆🏻🇸🇬 ‍新加坡
   type: select
-  proxies: *id003
+  proxies: *id002
 - name: 👆🏻🇺🇸 ‍美国
   type: select
-  proxies: *id004
+  proxies: *id003
 - name: 👆🏻🎏 ‍其他
   type: select
-  proxies: *id005
+  proxies: *id004
 proxies:
-- {name: 🇭🇰 移动联通优化线路01 - 花猫云, server: a200.huamaoyun.live, port: 40006, type: trojan, password: 338953e8-f5f5-4dc0-93cf-aa3497430221, sni: a200.huamaoyun.live, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 纽约4k01 - 花猫云, server: z2.huamaoyun.live, port: 80, type: vmess, uuid: 338953e8-f5f5-4dc0-93cf-aa3497430221, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: '/?ed=2048', headers: {Host: a1016.huamaoyun.live}}, udp: true}
+- {name: 加州4k01 - 花猫云, server: y1.huamaoyun.live, port: 80, type: vmess, uuid: 338953e8-f5f5-4dc0-93cf-aa3497430221, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: '/?ed=2048', headers: {Host: a1020.huamaoyun.live}}, udp: true}
 - {name: 🇺🇸 免费节点1 - 花猫云, server: rt6.huamaoyun.live, port: 80, type: vmess, uuid: 338953e8-f5f5-4dc0-93cf-aa3497430221, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: '/?ed=2048', headers: {Host: a601.huamaoyun.live}}, udp: true}
 - {name: 🇺🇸 美西4K1 - 花猫云, server: f1.huamaoyun.live, port: 80, type: vmess, uuid: 338953e8-f5f5-4dc0-93cf-aa3497430221, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: '/?ed=2048', headers: {Host: a602.huamaoyun.live}}, udp: true}
 - {name: 🇺🇸 视频线路1 - 花猫云, server: f4.huamaoyun.live, port: 80, type: vmess, uuid: 338953e8-f5f5-4dc0-93cf-aa3497430221, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: '/?ed=2048', headers: {Host: a603.huamaoyun.live}}, udp: true}
 - {name: 📺 奈飞  tiktok专线1 - 花猫云, server: f7.huamaoyun.live, port: 80, type: vmess, uuid: 338953e8-f5f5-4dc0-93cf-aa3497430221, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: '/?ed=2048', headers: {Host: a609.huamaoyun.live}}, udp: true}
-- {name: 🇭🇰 移动联通优化线路03 - 花猫云, server: a201.huamaoyun.live, port: 10004, type: trojan, password: 338953e8-f5f5-4dc0-93cf-aa3497430221, sni: a201.huamaoyun.live, skip-cert-verify: true, udp: true}
 - {name: 🇺🇸 洛杉矶免费试用线路 - 花猫云, server: rt9.huamaoyun.live, port: 8080, type: vmess, uuid: 338953e8-f5f5-4dc0-93cf-aa3497430221, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: '/?ed=2048', headers: {Host: r12.huamaoyun.live}}, udp: true}
 - {name: 🇸🇬 新加坡视频专线 - 花猫云, server: rt8.huamaoyun.live, port: 8080, type: vmess, uuid: 338953e8-f5f5-4dc0-93cf-aa3497430221, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: '/?ed=2048', headers: {Host: r11.huamaoyun.live}}, udp: true}
 - {name: 🇺🇸 美国试用节点1 - 花猫云, server: z17.huamaoyun.live, port: 8080, type: vmess, uuid: 338953e8-f5f5-4dc0-93cf-aa3497430221, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: '/?ed=2048', headers: {Host: us1.huamaoyun.live}}, udp: true}
