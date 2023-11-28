@@ -2,6 +2,8 @@
 ---
 proxies:
 - {name: 🇺🇸 纽约4k01 - 花猫云, server: z2.huamaoyun.live, port: 80, type: vmess, uuid: 338953e8-f5f5-4dc0-93cf-aa3497430221, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: '/?ed=2048', headers: {Host: a1016.huamaoyun.live}}, udp: true}
+- {name: 🇺🇸 加州4k01 - 花猫云, server: y1.huamaoyun.live, port: 80, type: vmess, uuid: 338953e8-f5f5-4dc0-93cf-aa3497430221, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: '/?ed=2048', headers: {Host: a1020.huamaoyun.live}}, udp: true}
+- {name: 🇺🇸 亚特兰大4k01 - 花猫云, server: y4.huamaoyun.live, port: 80, type: vmess, uuid: 338953e8-f5f5-4dc0-93cf-aa3497430221, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: '/?ed=2048', headers: {Host: a1021.huamaoyun.live}}, udp: true}
 - {name: 🇺🇸 免费节点1 - 花猫云, server: rt6.huamaoyun.live, port: 80, type: vmess, uuid: 338953e8-f5f5-4dc0-93cf-aa3497430221, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: '/?ed=2048', headers: {Host: a601.huamaoyun.live}}, udp: true}
 - {name: 🇺🇸 美西4K1 - 花猫云, server: f1.huamaoyun.live, port: 80, type: vmess, uuid: 338953e8-f5f5-4dc0-93cf-aa3497430221, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: '/?ed=2048', headers: {Host: a602.huamaoyun.live}}, udp: true}
 - {name: 🇺🇸 视频线路1 - 花猫云, server: f4.huamaoyun.live, port: 80, type: vmess, uuid: 338953e8-f5f5-4dc0-93cf-aa3497430221, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: '/?ed=2048', headers: {Host: a603.huamaoyun.live}}, udp: true}
