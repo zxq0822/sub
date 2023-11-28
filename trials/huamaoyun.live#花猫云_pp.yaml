@@ -10,11 +10,9 @@ proxy-groups:
   type: select
   proxies:
   - ⚡ ‍低延迟
-  - 🇸🇬 ‍新加坡
   - 🇺🇸 ‍美国
   - 🎏 ‍其他
   - 👆🏻 ‍指定
-  - 👆🏻🇸🇬 ‍新加坡
   - 👆🏻🇺🇸 ‍美国
   - 👆🏻🎏 ‍其他
   - DIRECT
@@ -22,9 +20,8 @@ proxy-groups:
   type: url-test
   tolerance: 100
   use: &id001
-  - SG
   - US
-  - Other
+  - p_All_Other
 - name: 🛩️ ‍墙内
   type: select
   proxies:
@@ -50,9 +47,7 @@ proxy-groups:
   - 🎏 ‍其他
   - 👆🏻🇺🇸 ‍美国
   - 👆🏻🎏 ‍其他
-  - 🇸🇬 ‍新加坡
   - 👆🏻 ‍指定
-  - 👆🏻🇸🇬 ‍新加坡
   - ✈️ ‍起飞
   - 🛩️ ‍墙内
 - name: 🌐 ‍未知站点
@@ -61,43 +56,26 @@ proxy-groups:
   - ✈️ ‍起飞
   - 🛩️ ‍墙内
   - 💩 ‍广告
-- name: 🇸🇬 ‍新加坡
-  type: url-test
-  tolerance: 100
-  use: &id002
-  - SG
 - name: 🇺🇸 ‍美国
   type: url-test
   tolerance: 300
-  use: &id003
+  use: &id002
   - US
 - name: 🎏 ‍其他
   type: url-test
   tolerance: 100
-  use: &id004
-  - Other
+  use: &id003
+  - p_All_Other
 - name: 👆🏻 ‍指定
   type: select
   use: *id001
-- name: 👆🏻🇸🇬 ‍新加坡
-  type: select
-  use: *id002
 - name: 👆🏻🇺🇸 ‍美国
   type: select
-  use: *id003
+  use: *id002
 - name: 👆🏻🎏 ‍其他
   type: select
-  use: *id004
+  use: *id003
 proxy-providers:
-  SG:
-    type: http
-    url: https://raw.kgithub.com/mfbpn/tg_mfbpn_sub/main/trials_providers/huamaoyun.live#花猫云/SG.yaml
-    interval: 180
-    path: trials_providers/huamaoyun.live#花猫云/SG.yaml
-    health-check:
-      enable: true
-      url: https://i.ytimg.com/generate_204
-      interval: 30
   US:
     type: http
     url: https://raw.kgithub.com/mfbpn/tg_mfbpn_sub/main/trials_providers/huamaoyun.live#花猫云/US.yaml
@@ -107,11 +85,11 @@ proxy-providers:
       enable: true
       url: https://i.ytimg.com/generate_204
       interval: 30
-  Other:
+  p_All_Other:
     type: http
-    url: https://raw.kgithub.com/mfbpn/tg_mfbpn_sub/main/trials_providers/huamaoyun.live#花猫云/Other.yaml
+    url: https://raw.kgithub.com/mfbpn/tg_mfbpn_sub/main/trials_providers/huamaoyun.live#花猫云/p_All_Other.yaml
     interval: 180
-    path: trials_providers/huamaoyun.live#花猫云/Other.yaml
+    path: trials_providers/huamaoyun.live#花猫云/p_All_Other.yaml
     health-check:
       enable: true
       url: https://i.ytimg.com/generate_204
