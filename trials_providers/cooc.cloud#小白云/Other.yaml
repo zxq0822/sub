@@ -19,5 +19,5 @@ proxies:
 - {name: 🇻🇳 VN｜Overseas users - 小白云, server: vn.cooc.icu, port: 31511, type: ss, cipher: aes-128-gcm, password: 4bf91954-3a6b-418d-aded-1a0ed9a1e024, udp: true}
 - {name: MAS｜Overseas users - 小白云, server: mas.cooc.icu, port: 31511, type: ss, cipher: aes-128-gcm, password: 4bf91954-3a6b-418d-aded-1a0ed9a1e024, udp: true}
 - {name: 🇬🇧 UK｜Overseas users - 小白云, server: uk.cooc.icu, port: 31511, type: ss, cipher: aes-128-gcm, password: 4bf91954-3a6b-418d-aded-1a0ed9a1e024, udp: true}
-- {name: GER｜Overseas users - 小白云, server: ger.cooc.icu, port: 31511, type: ss, cipher: aes-128-gcm, password: 4bf91954-3a6b-418d-aded-1a0ed9a1e024, udp: true}
+- {name: GER｜Overseas users - 小白云, server: 185.39.51.197, port: 31511, type: ss, cipher: aes-128-gcm, password: 4bf91954-3a6b-418d-aded-1a0ed9a1e024, udp: true}
 - {name: 🇫🇷 FR｜Overseas users - 小白云, server: fr.cooc.icu, port: 31511, type: ss, cipher: aes-128-gcm, password: 4bf91954-3a6b-418d-aded-1a0ed9a1e024, udp: true}
