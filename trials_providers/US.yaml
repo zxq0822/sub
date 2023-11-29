@@ -32,22 +32,22 @@ proxies:
 - {name: 🇺🇸 美国 - sspanel, server: mg27.npv4.com, port: 443, type: trojan, password: f13b3980-50dd-3de7-a909-90cd60696179, sni: mg27.npv4.com, skip-cert-verify: true, udp: true}
 - {name: 🇺🇸 US美国 A - 可乐云, server: us.colacloud.site, port: 24652, type: ss, cipher: chacha20-ietf-poly1305, password: 5a811160-c7d5-4310-b636-c6a6870d27ed, udp: true}
 - {name: 🇺🇸 US美国 B - 可乐云, server: us.colacloud.site, port: 24662, type: ss, cipher: chacha20-ietf-poly1305, password: 5a811160-c7d5-4310-b636-c6a6870d27ed, udp: true}
-- {name: 🇺🇸 中转•美国295•高速 - 飞翔吧, server: gy.58n.net, port: 20295, type: trojan, password: 339e0c18-960e-39c9-bb26-572b70fd118d, sni: z295.hongkongnode.top, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 中转•美国296•高速 - 飞翔吧, server: gy.58n.net, port: 20296, type: trojan, password: 339e0c18-960e-39c9-bb26-572b70fd118d, sni: z296.hongkongnode.top, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 中转•美国40•高速 - 飞翔吧, server: gy.58n.net, port: 16895, type: trojan, password: 339e0c18-960e-39c9-bb26-572b70fd118d, sni: x40.flybar.work, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 中转•美国41•原生 - 飞翔吧, server: gy.58n.net, port: 21970, type: trojan, password: 339e0c18-960e-39c9-bb26-572b70fd118d, sni: x41.flybar.work, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 中转•美国46•原生 - 飞翔吧, server: gy.58n.net, port: 14846, type: trojan, password: 339e0c18-960e-39c9-bb26-572b70fd118d, sni: x46.flybar.work, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 中转•美国61•高速 - 飞翔吧, server: gy.58n.net, port: 30767, type: trojan, password: 339e0c18-960e-39c9-bb26-572b70fd118d, sni: z61.hongkongnode.top, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 广港•美国266•高速 - 飞翔吧, server: gy.58n.net, port: 56783, type: trojan, password: 339e0c18-960e-39c9-bb26-572b70fd118d, sni: z266.hongkongnode.top, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 广港•美国288•高速 - 飞翔吧, server: gy.58n.net, port: 20288, type: trojan, password: 339e0c18-960e-39c9-bb26-572b70fd118d, sni: z288.hongkongnode.top, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 美国 / 华东｜US - 小白云, server: usa1.iepl.cooc.icu, port: 31881, type: ss, cipher: aes-256-gcm, password: 44a71527-f9bf-4480-ad1f-2c9e0cee6014, udp: true}
-- {name: 🇺🇸 美国 / 华南｜US - 小白云, server: usa2.iepl.cooc.icu, port: 32881, type: ss, cipher: aes-256-gcm, password: 44a71527-f9bf-4480-ad1f-2c9e0cee6014, udp: true}
-- {name: 🇺🇸 美国 / 备用｜US - 小白云, server: usa3.iepl.cooc.icu, port: 33881, type: ss, cipher: aes-256-gcm, password: 44a71527-f9bf-4480-ad1f-2c9e0cee6014, udp: true}
-- {name: 🇺🇸 美国 / 华东 | 原生 - 小白云, server: usa4.iepl.cooc.icu, port: 34881, type: ss, cipher: aes-256-gcm, password: 44a71527-f9bf-4480-ad1f-2c9e0cee6014, udp: true}
-- {name: 🇺🇸 美国 / 华南 | 原生 - 小白云, server: usa5.iepl.cooc.icu, port: 35881, type: ss, cipher: aes-256-gcm, password: 44a71527-f9bf-4480-ad1f-2c9e0cee6014, udp: true}
-- {name: 🇺🇸 US｜Overseas users - 小白云, server: 154.9.249.29, port: 35881, type: ss, cipher: aes-256-gcm, password: 44a71527-f9bf-4480-ad1f-2c9e0cee6014, udp: true}
-- {name: 🇺🇸 美国 1 ChatGPT - 西瓜皮是真的皮, server: xchn1.dx001.top, port: 19861, type: vmess, uuid: 586f4160-a428-3c3b-b260-db6f4aee1058, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 美国 2 ChatGPT - 西瓜皮是真的皮, server: gzxd1.dx001.top, port: 19862, type: vmess, uuid: 586f4160-a428-3c3b-b260-db6f4aee1058, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 中转•美国295•高速 - 飞翔吧, server: gy.58n.net, port: 20295, type: trojan, password: 5cdacb2c-74cc-3956-b0b0-062d8b84eae1, sni: z295.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 中转•美国296•高速 - 飞翔吧, server: gy.58n.net, port: 20296, type: trojan, password: 5cdacb2c-74cc-3956-b0b0-062d8b84eae1, sni: z296.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 中转•美国40•高速 - 飞翔吧, server: gy.58n.net, port: 16895, type: trojan, password: 5cdacb2c-74cc-3956-b0b0-062d8b84eae1, sni: x40.flybar.work, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 中转•美国41•原生 - 飞翔吧, server: gy.58n.net, port: 21970, type: trojan, password: 5cdacb2c-74cc-3956-b0b0-062d8b84eae1, sni: x41.flybar.work, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 中转•美国46•原生 - 飞翔吧, server: gy.58n.net, port: 14846, type: trojan, password: 5cdacb2c-74cc-3956-b0b0-062d8b84eae1, sni: x46.flybar.work, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 中转•美国61•高速 - 飞翔吧, server: gy.58n.net, port: 30767, type: trojan, password: 5cdacb2c-74cc-3956-b0b0-062d8b84eae1, sni: z61.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 广港•美国266•高速 - 飞翔吧, server: gy.58n.net, port: 56783, type: trojan, password: 5cdacb2c-74cc-3956-b0b0-062d8b84eae1, sni: z266.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 广港•美国288•高速 - 飞翔吧, server: gy.58n.net, port: 20288, type: trojan, password: 5cdacb2c-74cc-3956-b0b0-062d8b84eae1, sni: z288.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 美国 / 华东｜US - 小白云, server: usa1.iepl.cooc.icu, port: 31881, type: ss, cipher: aes-256-gcm, password: 4bea76e6-9c4b-4a90-981a-c75565b2bab6, udp: true}
+- {name: 🇺🇸 美国 / 华南｜US - 小白云, server: usa2.iepl.cooc.icu, port: 32881, type: ss, cipher: aes-256-gcm, password: 4bea76e6-9c4b-4a90-981a-c75565b2bab6, udp: true}
+- {name: 🇺🇸 美国 / 备用｜US - 小白云, server: usa3.iepl.cooc.icu, port: 33881, type: ss, cipher: aes-256-gcm, password: 4bea76e6-9c4b-4a90-981a-c75565b2bab6, udp: true}
+- {name: 🇺🇸 美国 / 华东 | 原生 - 小白云, server: usa4.iepl.cooc.icu, port: 34881, type: ss, cipher: aes-256-gcm, password: 4bea76e6-9c4b-4a90-981a-c75565b2bab6, udp: true}
+- {name: 🇺🇸 美国 / 华南 | 原生 - 小白云, server: usa5.iepl.cooc.icu, port: 35881, type: ss, cipher: aes-256-gcm, password: 4bea76e6-9c4b-4a90-981a-c75565b2bab6, udp: true}
+- {name: 🇺🇸 US｜Overseas users - 小白云, server: 154.9.249.29, port: 35881, type: ss, cipher: aes-256-gcm, password: 4bea76e6-9c4b-4a90-981a-c75565b2bab6, udp: true}
+- {name: 🇺🇸 美国 1 ChatGPT - 西瓜皮是真的皮, server: xchn1.dx001.top, port: 19861, type: vmess, uuid: df852b43-1c15-3d6a-b596-00819e837e2c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 美国 2 ChatGPT - 西瓜皮是真的皮, server: gzxd1.dx001.top, port: 19862, type: vmess, uuid: df852b43-1c15-3d6a-b596-00819e837e2c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇺🇸 America - 番茄云, server: us.fanqiecloud.top, port: 22752, type: ss, cipher: chacha20-ietf-poly1305, password: 58b27c28-1200-41de-b6e7-90c39e9a9a76, udp: true}
 - {name: 🇺🇸 America 2 - 番茄云, server: us2.fanqiecloud.top, port: 23552, type: ss, cipher: chacha20-ietf-poly1305, password: 58b27c28-1200-41de-b6e7-90c39e9a9a76, udp: true}
 - {name: '🇺🇸 [vip①]美国1 - MG Network', server: 14.v2-ray.cyou, port: 23614, type: vmess, uuid: 93d0ba60-d50f-3927-9ec0-8c7b02a3fee9, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 14.v2-ray.cyou}}, udp: true}
