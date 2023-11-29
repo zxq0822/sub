@@ -10,9 +10,11 @@ proxy-groups:
   type: select
   proxies:
   - ⚡ ‍低延迟
+  - 🇯🇵 ‍日本
   - 🇺🇸 ‍美国
   - 🎏 ‍其他
   - 👆🏻 ‍指定
+  - 👆🏻🇯🇵 ‍日本
   - 👆🏻🇺🇸 ‍美国
   - 👆🏻🎏 ‍其他
   - DIRECT
@@ -22,6 +24,8 @@ proxy-groups:
   interval: 30
   tolerance: 100
   proxies: &id001
+  - 🇯🇵 东京01 - 花猫云
+  - 🇯🇵 日本大阪01 - 花猫云
   - 🇺🇸 硅谷4k04 - 花猫云
   - 🇺🇸 芝加哥4k05 - 花猫云
   - 🇺🇸 硅谷4K01 - 花猫云
@@ -36,6 +40,9 @@ proxy-groups:
   - 🇺🇸 视频线路1 - 花猫云
   - 🇺🇸 美国试用节点1 - 花猫云
   - 🇺🇸 美国试用节点2 - 花猫云
+  - 🇦🇺 墨尔本04 - 花猫云
+  - 🇦🇺 墨尔本01 - 花猫云
+  - 🇦🇺 墨尔本05 - 花猫云
   - 📺 奈飞  tiktok专线1 - 花猫云
 - name: 🛩️ ‍墙内
   type: select
@@ -62,7 +69,9 @@ proxy-groups:
   - 🎏 ‍其他
   - 👆🏻🇺🇸 ‍美国
   - 👆🏻🎏 ‍其他
+  - 🇯🇵 ‍日本
   - 👆🏻 ‍指定
+  - 👆🏻🇯🇵 ‍日本
   - ✈️ ‍起飞
   - 🛩️ ‍墙内
 - name: 🌐 ‍未知站点
@@ -71,12 +80,20 @@ proxy-groups:
   - ✈️ ‍起飞
   - 🛩️ ‍墙内
   - 💩 ‍广告
+- name: 🇯🇵 ‍日本
+  type: url-test
+  url: https://i.ytimg.com/generate_204
+  interval: 15
+  tolerance: 100
+  proxies: &id002
+  - 🇯🇵 东京01 - 花猫云
+  - 🇯🇵 日本大阪01 - 花猫云
 - name: 🇺🇸 ‍美国
   type: url-test
   url: https://i.ytimg.com/generate_204
   interval: 15
   tolerance: 300
-  proxies: &id002
+  proxies: &id003
   - 🇺🇸 硅谷4k04 - 花猫云
   - 🇺🇸 芝加哥4k05 - 花猫云
   - 🇺🇸 硅谷4K01 - 花猫云
@@ -96,19 +113,30 @@ proxy-groups:
   url: https://i.ytimg.com/generate_204
   interval: 30
   tolerance: 100
-  proxies: &id003
+  proxies: &id004
+  - 🇦🇺 墨尔本04 - 花猫云
+  - 🇦🇺 墨尔本01 - 花猫云
+  - 🇦🇺 墨尔本05 - 花猫云
   - 📺 奈飞  tiktok专线1 - 花猫云
 - name: 👆🏻 ‍指定
   type: select
   proxies: *id001
-- name: 👆🏻🇺🇸 ‍美国
+- name: 👆🏻🇯🇵 ‍日本
   type: select
   proxies: *id002
-- name: 👆🏻🎏 ‍其他
+- name: 👆🏻🇺🇸 ‍美国
   type: select
   proxies: *id003
+- name: 👆🏻🎏 ‍其他
+  type: select
+  proxies: *id004
 proxies:
 - {name: 🇺🇸 硅谷4k04 - 花猫云, server: y15.huamaoyun.live, port: 2053, type: trojan, password: cff9dadc-edee-4327-be44-5d7db243b291, sni: a1023.huamaoyun.live, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: agwgw}, udp: true}
+- {name: 🇦🇺 墨尔本04 - 花猫云, server: y25.huamaoyun.live, port: 2053, type: trojan, password: cff9dadc-edee-4327-be44-5d7db243b291, sni: a1025.huamaoyun.live, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: dd}, udp: true}
+- {name: 🇯🇵 东京01 - 花猫云, server: y17.huamaoyun.live, port: 80, type: vmess, uuid: cff9dadc-edee-4327-be44-5d7db243b291, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: '/?ed=2048', headers: {Host: a1024.huamaoyun.live}}, udp: true}
+- {name: 🇦🇺 墨尔本01 - 花猫云, server: y22.huamaoyun.live, port: 80, type: vmess, uuid: cff9dadc-edee-4327-be44-5d7db243b291, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: '/?ed=2048', headers: {Host: a1025.huamaoyun.live}}, udp: true}
+- {name: 🇦🇺 墨尔本05 - 花猫云, server: y26.huamaoyun.live, port: 2087, type: vmess, uuid: cff9dadc-edee-4327-be44-5d7db243b291, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: a1025.huamaoyun.live, network: grpc, grpc-opts: {grpc-service-name: dd}, udp: true}
+- {name: 🇯🇵 日本大阪01 - 花猫云, server: y27.huamaoyun.live, port: 80, type: vmess, uuid: cff9dadc-edee-4327-be44-5d7db243b291, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: '/?ed=2048', headers: {Host: a1026.huamaoyun.live}}, udp: true}
 - {name: 🇺🇸 芝加哥4k05 - 花猫云, server: y11.huamaoyun.live, port: 2087, type: vmess, uuid: cff9dadc-edee-4327-be44-5d7db243b291, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: a1022.huamaoyun.live, network: grpc, grpc-opts: {grpc-service-name: agagwe}, udp: true}
 - {name: 🇺🇸 硅谷4K01 - 花猫云, server: y12.huamaoyun.live, port: 80, type: vmess, uuid: cff9dadc-edee-4327-be44-5d7db243b291, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: '/?ed=2048', headers: {Host: a1023.huamaoyun.live}}, udp: true}
 - {name: 🇺🇸 硅谷4k05 - 花猫云, server: y16.huamaoyun.live, port: 2087, type: vmess, uuid: cff9dadc-edee-4327-be44-5d7db243b291, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: a1023.huamaoyun.live, network: grpc, grpc-opts: {grpc-service-name: agfag}, udp: true}
