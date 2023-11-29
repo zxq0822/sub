@@ -2,4 +2,3 @@
 ---
 proxies:
 - {name: 🇺🇸 美国 - sspanel, server: mg27.npv4.com, port: 443, type: trojan, password: f13b3980-50dd-3de7-a909-90cd60696179, sni: mg27.npv4.com, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 香港 - sspanel, server: xg107.npv4.com, port: 443, type: trojan, password: f13b3980-50dd-3de7-a909-90cd60696179, sni: xg107.npv4.com, skip-cert-verify: true, udp: true}
