@@ -1,7 +1,7 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇰🇷 Korea-韩国 - 一机场, server: frontend.yijianlian.app, port: 54540, type: trojan, password: 317c6c40-adfb-4176-b719-c138f78d9a38, skip-cert-verify: true, udp: true}
-- {name: 🇦🇺 Australia-澳大利亚 - 一机场, server: frontend.yijianlian.app, port: 54590, type: trojan, password: 317c6c40-adfb-4176-b719-c138f78d9a38, skip-cert-verify: true, udp: true}
-- {name: 🇬🇧 UK-英国 - 一机场, server: frontend.yijianlian.app, port: 54000, type: trojan, password: 317c6c40-adfb-4176-b719-c138f78d9a38, skip-cert-verify: true, udp: true}
-- {name: 🇨🇦 Canada-加拿大 - 一机场, server: frontend.yijianlian.app, port: 54001, type: trojan, password: 317c6c40-adfb-4176-b719-c138f78d9a38, skip-cert-verify: true, udp: true}
+- {name: 🇰🇷 Korea-韩国 - 一机场, server: frontend.yijianlian.app, port: 54540, type: trojan, password: c6fe8f98-997f-467c-a151-745c6d1d7161, skip-cert-verify: true, udp: true}
+- {name: 🇦🇺 Australia-澳大利亚 - 一机场, server: frontend.yijianlian.app, port: 54590, type: trojan, password: c6fe8f98-997f-467c-a151-745c6d1d7161, skip-cert-verify: true, udp: true}
+- {name: 🇬🇧 UK-英国 - 一机场, server: frontend.yijianlian.app, port: 54000, type: trojan, password: c6fe8f98-997f-467c-a151-745c6d1d7161, skip-cert-verify: true, udp: true}
+- {name: 🇨🇦 Canada-加拿大 - 一机场, server: frontend.yijianlian.app, port: 54001, type: trojan, password: c6fe8f98-997f-467c-a151-745c6d1d7161, skip-cert-verify: true, udp: true}
