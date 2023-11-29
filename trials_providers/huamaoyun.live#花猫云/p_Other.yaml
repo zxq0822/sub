@@ -1,4 +1,4 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 距离下次重置剩余：1 天 - 花猫云, server: y15.huamaoyun.live, port: 2053, type: trojan, password: cff9dadc-edee-4327-be44-5d7db243b291, sni: a1023.huamaoyun.live, skip-cert-verify: true, udp: true}
+- {name: 距离下次重置剩余：1 天 - 花猫云, server: y15.huamaoyun.live, port: 2053, type: trojan, password: cff9dadc-edee-4327-be44-5d7db243b291, sni: a1023.huamaoyun.live, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: agwgw}, udp: true}

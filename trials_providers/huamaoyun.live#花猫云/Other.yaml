@@ -1,7 +1,7 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 距离下次重置剩余：1 天 - 花猫云, server: y15.huamaoyun.live, port: 2053, type: trojan, password: cff9dadc-edee-4327-be44-5d7db243b291, sni: a1023.huamaoyun.live, skip-cert-verify: true, udp: true}
+- {name: 距离下次重置剩余：1 天 - 花猫云, server: y15.huamaoyun.live, port: 2053, type: trojan, password: cff9dadc-edee-4327-be44-5d7db243b291, sni: a1023.huamaoyun.live, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: agwgw}, udp: true}
 - {name: 📺 奈飞  tiktok专线1 - 花猫云, server: f7.huamaoyun.live, port: 80, type: vmess, uuid: cff9dadc-edee-4327-be44-5d7db243b291, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: '/?ed=2048', headers: {Host: a609.huamaoyun.live}}, udp: true}
 - {name: 🇮🇳 孟买 - 花猫云, server: z15.huamaoyun.live, port: 8080, type: vmess, uuid: cff9dadc-edee-4327-be44-5d7db243b291, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: '/?ed=2048', headers: {Host: a38.huamaoyun.live}}, udp: true}
 - {name: 🇮🇹 意大利米兰 - 花猫云, server: z13.huamaoyun.live, port: 8080, type: vmess, uuid: cff9dadc-edee-4327-be44-5d7db243b291, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: '/?ed=2048', headers: {Host: a40.huamaoyun.live}}, udp: true}

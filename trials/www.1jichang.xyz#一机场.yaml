@@ -135,15 +135,15 @@ proxy-groups:
   type: select
   proxies: *id006
 proxies:
-- {name: 🇭🇰 Hongkong-香港 - 一机场, server: frontend.yijianlian.app, port: 54570, type: trojan, password: 35e4ec85-69c5-4658-a0d0-088b74115d92, skip-cert-verify: true, udp: true}
-- {name: 🇰🇷 Korea-韩国 - 一机场, server: frontend.yijianlian.app, port: 54540, type: trojan, password: 35e4ec85-69c5-4658-a0d0-088b74115d92, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 Japan-日本 - 一机场, server: frontend.yijianlian.app, port: 54530, type: trojan, password: 35e4ec85-69c5-4658-a0d0-088b74115d92, skip-cert-verify: true, udp: true}
-- {name: 🇸🇬 Singapore-新加坡 - 一机场, server: frontend.yijianlian.app, port: 54420, type: trojan, password: 35e4ec85-69c5-4658-a0d0-088b74115d92, skip-cert-verify: true, udp: true}
-- {name: 🇸🇬 Singapore2-新加坡2 - 一机场, server: frontend.yijianlian.app, port: 54591, type: trojan, password: 35e4ec85-69c5-4658-a0d0-088b74115d92, skip-cert-verify: true, udp: true}
-- {name: 🇦🇺 Australia-澳大利亚 - 一机场, server: frontend.yijianlian.app, port: 54590, type: trojan, password: 35e4ec85-69c5-4658-a0d0-088b74115d92, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 USA-美国 - 一机场, server: frontend.yijianlian.app, port: 54430, type: trojan, password: 35e4ec85-69c5-4658-a0d0-088b74115d92, skip-cert-verify: true, udp: true}
-- {name: 🇬🇧 UK-英国 - 一机场, server: frontend.yijianlian.app, port: 54000, type: trojan, password: 35e4ec85-69c5-4658-a0d0-088b74115d92, skip-cert-verify: true, udp: true}
-- {name: 🇨🇦 Canada-加拿大 - 一机场, server: frontend.yijianlian.app, port: 54001, type: trojan, password: 35e4ec85-69c5-4658-a0d0-088b74115d92, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 Hongkong-香港 - 一机场, server: frontend.yijianlian.app, port: 54570, type: trojan, password: 6de3bc47-b1f6-470e-bf9c-f4996cb0203f, skip-cert-verify: true, udp: true}
+- {name: 🇰🇷 Korea-韩国 - 一机场, server: frontend.yijianlian.app, port: 54540, type: trojan, password: 6de3bc47-b1f6-470e-bf9c-f4996cb0203f, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 Japan-日本 - 一机场, server: frontend.yijianlian.app, port: 54530, type: trojan, password: 6de3bc47-b1f6-470e-bf9c-f4996cb0203f, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬 Singapore-新加坡 - 一机场, server: frontend.yijianlian.app, port: 54420, type: trojan, password: 6de3bc47-b1f6-470e-bf9c-f4996cb0203f, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬 Singapore2-新加坡2 - 一机场, server: frontend.yijianlian.app, port: 54591, type: trojan, password: 6de3bc47-b1f6-470e-bf9c-f4996cb0203f, skip-cert-verify: true, udp: true}
+- {name: 🇦🇺 Australia-澳大利亚 - 一机场, server: frontend.yijianlian.app, port: 54590, type: trojan, password: 6de3bc47-b1f6-470e-bf9c-f4996cb0203f, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 USA-美国 - 一机场, server: frontend.yijianlian.app, port: 54430, type: trojan, password: 6de3bc47-b1f6-470e-bf9c-f4996cb0203f, skip-cert-verify: true, udp: true}
+- {name: 🇬🇧 UK-英国 - 一机场, server: frontend.yijianlian.app, port: 54000, type: trojan, password: 6de3bc47-b1f6-470e-bf9c-f4996cb0203f, skip-cert-verify: true, udp: true}
+- {name: 🇨🇦 Canada-加拿大 - 一机场, server: frontend.yijianlian.app, port: 54001, type: trojan, password: 6de3bc47-b1f6-470e-bf9c-f4996cb0203f, skip-cert-verify: true, udp: true}
 rules:
 - DOMAIN-SUFFIX,acl4.ssr,DIRECT
 - DOMAIN-SUFFIX,ip6-localhost,DIRECT
