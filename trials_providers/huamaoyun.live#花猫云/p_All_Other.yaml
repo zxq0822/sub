@@ -1,6 +1,7 @@
 %YAML 1.1
 ---
 proxies:
+- {name: 📺 奈飞  tiktok专线04 - 花猫云, server: y31.huamaoyun.live, port: 2087, type: trojan, password: 2a433b96-7474-48e7-9c80-f6f1f413d149, sni: a609.huamaoyun.live, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: false}, udp: true}
 - {name: 📺 奈飞  tiktok专线1 - 花猫云, server: f7.huamaoyun.live, port: 80, type: vmess, uuid: 2a433b96-7474-48e7-9c80-f6f1f413d149, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: '/?ed=2048', headers: {Host: a609.huamaoyun.live}}, udp: true}
 - {name: 🇳🇱 荷兰01 - 花猫云, server: y13.huamaoyun.live, port: 80, type: vmess, uuid: 2a433b96-7474-48e7-9c80-f6f1f413d149, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: '/?ed=2048', headers: {Host: d12.huamaoyun.live}}, udp: true}
 - {name: 🇩🇪 德国01 - 花猫云, server: y15.huamaoyun.live, port: 80, type: vmess, uuid: 2a433b96-7474-48e7-9c80-f6f1f413d149, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: '/?ed=2048', headers: {Host: d13.huamaoyun.live}}, udp: true}
