@@ -32,6 +32,7 @@ proxy-groups:
   - 🇯🇵 日本东京01 - 花猫云
   - 🇯🇵 日本东京04 - 花猫云
   - 🇯🇵 日本东京05 - 花猫云
+  - 🇯🇵 日本大阪02 - 花猫云
   - 🇺🇸 免费节点1 - 花猫云
   - 🇺🇸 美国西部4k01 - 花猫云
   - 🇺🇸 纽约4k01 - 花猫云
@@ -104,6 +105,7 @@ proxy-groups:
   - 🇯🇵 日本东京01 - 花猫云
   - 🇯🇵 日本东京04 - 花猫云
   - 🇯🇵 日本东京05 - 花猫云
+  - 🇯🇵 日本大阪02 - 花猫云
 - name: 🇺🇸 ‍美国
   type: url-test
   url: https://i.ytimg.com/generate_204
@@ -151,13 +153,14 @@ proxies:
 - {name: 🇯🇵 日本东京01 - 花猫云, server: y24.huamaoyun.live, port: 80, type: vmess, uuid: e5b56327-7cd7-4597-afbd-bd8f82100946, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: '/?ed=2048', headers: {Host: a1031.huamaoyun.live}}, udp: true}
 - {name: 🇯🇵 日本东京04 - 花猫云, server: y27.huamaoyun.live, port: 2053, type: trojan, password: e5b56327-7cd7-4597-afbd-bd8f82100946, sni: a1031.huamaoyun.live, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: s}, udp: true}
 - {name: 🇯🇵 日本东京05 - 花猫云, server: y28.huamaoyun.live, port: 2087, type: vmess, uuid: e5b56327-7cd7-4597-afbd-bd8f82100946, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: a1031.huamaoyun.live, network: grpc, grpc-opts: {grpc-service-name: t}, udp: true}
-- {name: 🇺🇸 免费节点1 - 花猫云, server: rt6.huamaoyun.live, port: 80, type: vmess, uuid: e5b56327-7cd7-4597-afbd-bd8f82100946, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: '/?ed=2048', headers: {Host: a601.huamaoyun.live}}, udp: true}
 - {name: 📺 奈飞  tiktok专线1 - 花猫云, server: f7.huamaoyun.live, port: 80, type: vmess, uuid: e5b56327-7cd7-4597-afbd-bd8f82100946, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: '/?ed=2048', headers: {Host: a609.huamaoyun.live}}, udp: true}
+- {name: 🇺🇸 免费节点1 - 花猫云, server: rt6.huamaoyun.live, port: 80, type: vmess, uuid: e5b56327-7cd7-4597-afbd-bd8f82100946, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: '/?ed=2048', headers: {Host: a601.huamaoyun.live}}, udp: true}
 - {name: 🇺🇸 美国西部4k01 - 花猫云, server: y23.huamaoyun.live, port: 2087, type: vmess, uuid: e5b56327-7cd7-4597-afbd-bd8f82100946, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: a36.huamaoyun.live, network: grpc, grpc-opts: {grpc-service-name: u}, udp: true}
 - {name: 🇸🇬 新加坡04 - 花猫云, server: y4.huamaoyun.live, port: 2053, type: trojan, password: e5b56327-7cd7-4597-afbd-bd8f82100946, sni: a1029.huamaoyun.live, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: d}, udp: true}
 - {name: 🇸🇬 新加坡05 - 花猫云, server: y5.huamaoyun.live, port: 2087, type: vmess, uuid: e5b56327-7cd7-4597-afbd-bd8f82100946, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: a1029.huamaoyun.live, network: grpc, grpc-opts: {grpc-service-name: h}, udp: true}
 - {name: 🇸🇬 新加坡01 - 花猫云, server: y1.huamaoyun.live, port: 80, type: vmess, uuid: e5b56327-7cd7-4597-afbd-bd8f82100946, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: '/?ed=2048', headers: {Host: a1029.huamaoyun.live}}, udp: true}
 - {name: 🇳🇱 荷兰01 - 花猫云, server: y13.huamaoyun.live, port: 80, type: vmess, uuid: e5b56327-7cd7-4597-afbd-bd8f82100946, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: '/?ed=2048', headers: {Host: d12.huamaoyun.live}}, udp: true}
+- {name: 🇯🇵 日本大阪02 - 花猫云, server: y30.huamaoyun.live, port: 8080, type: vmess, uuid: e5b56327-7cd7-4597-afbd-bd8f82100946, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: '/?ed=2048', headers: {Host: a1032.huamaoyun.live}}, udp: true}
 - {name: 🇩🇪 德国01 - 花猫云, server: y15.huamaoyun.live, port: 80, type: vmess, uuid: e5b56327-7cd7-4597-afbd-bd8f82100946, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: '/?ed=2048', headers: {Host: d13.huamaoyun.live}}, udp: true}
 - {name: 🇨🇦 加拿大多伦多01 - 花猫云, server: y11.huamaoyun.live, port: 80, type: vmess, uuid: e5b56327-7cd7-4597-afbd-bd8f82100946, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: '/?ed=2048', headers: {Host: d11.huamaoyun.live}}, udp: true}
 - {name: 🇦🇺 澳大利亚悉尼01 - 花猫云, server: y17.huamaoyun.live, port: 80, type: vmess, uuid: e5b56327-7cd7-4597-afbd-bd8f82100946, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: '/?ed=2048', headers: {Host: d14.huamaoyun.live}}, udp: true}
