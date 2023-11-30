@@ -3,6 +3,6 @@
 proxies:
 - {name: 距离下次重置剩余：30 天 - 花猫云, server: y24.huamaoyun.live, port: 80, type: vmess, uuid: 2a433b96-7474-48e7-9c80-f6f1f413d149, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: '/?ed=2048', headers: {Host: a1031.huamaoyun.live}}, udp: true}
 - {name: 用不了更新订阅或重新导入 - 鸡鸡云, server: jjyhk.com, port: 24910, type: ss, cipher: chacha20-ietf-poly1305, password: 64cb3955-b520-41d7-8cc5-9c29d92d5277, udp: true}
-- {name: 距离下次重置剩余：29 天 - 快狗云, server: ca-01.gujuji.top, port: 8080, type: vmess, uuid: d1f5ecc2-1074-4ef1-b6af-9909cf5e36c3, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: ca-01.gujuji.top}}, udp: true}
-- {name: 官网www. kuaigou.life - 快狗云, server: ca-01.gujuji.top, port: 8080, type: vmess, uuid: d1f5ecc2-1074-4ef1-b6af-9909cf5e36c3, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: ca-01.gujuji.top}}, udp: true}
+- {name: 距离下次重置剩余：29 天 - 快狗云, server: ca-01.gujuji.top, port: 8080, type: vmess, uuid: 0158e0e0-593e-4d7f-9391-c59934c86891, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: ca-01.gujuji.top}}, udp: true}
+- {name: 官网www. kuaigou.life - 快狗云, server: ca-01.gujuji.top, port: 8080, type: vmess, uuid: 0158e0e0-593e-4d7f-9391-c59934c86891, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: ca-01.gujuji.top}}, udp: true}
 - {name: 官网:www.gegeth.com - Gegeth极迅游, server: gy.yb59.uk, port: 18785, type: ss, cipher: chacha20-ietf-poly1305, password: b9215532-2f71-433b-837b-25db8ba03098, udp: true}
