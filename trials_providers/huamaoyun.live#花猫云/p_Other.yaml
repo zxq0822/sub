@@ -1,0 +1,4 @@
+%YAML 1.1
+---
+proxies:
+- {name: 距离下次重置剩余：30 天 - 花猫云, server: y24.huamaoyun.live, port: 80, type: vmess, uuid: 2a433b96-7474-48e7-9c80-f6f1f413d149, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: '/?ed=2048', headers: {Host: a1031.huamaoyun.live}}, udp: true}

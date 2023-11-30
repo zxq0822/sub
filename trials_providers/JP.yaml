@@ -1,7 +1,7 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇯🇵日本01 - 都是梦, server: jp.doushimeng.com, port: 21853, type: ss, cipher: chacha20-ietf-poly1305, password: 585d6e83-c109-48ac-8aec-d1a333ed42f5, udp: true}
+- {name: 🇯🇵日本01 - 都是梦, server: jp.doushimeng.com, port: 21853, type: ss, cipher: chacha20-ietf-poly1305, password: a22bbbc5-d115-4ad7-94d9-87144cbcda5d, udp: true}
 - {name: 🇯🇵 日本东京01 - 花猫云, server: y24.huamaoyun.live, port: 80, type: vmess, uuid: 2a433b96-7474-48e7-9c80-f6f1f413d149, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: '/?ed=2048', headers: {Host: a1031.huamaoyun.live}}, udp: true}
 - {name: 🇯🇵 日本东京04 - 花猫云, server: y27.huamaoyun.live, port: 2053, type: trojan, password: 2a433b96-7474-48e7-9c80-f6f1f413d149, sni: a1031.huamaoyun.live, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: s}, udp: true}
 - {name: 🇯🇵 日本东京05 - 花猫云, server: y28.huamaoyun.live, port: 2087, type: vmess, uuid: 2a433b96-7474-48e7-9c80-f6f1f413d149, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: a1031.huamaoyun.live, network: grpc, grpc-opts: {grpc-service-name: t}, udp: true}
@@ -24,10 +24,10 @@ proxies:
 - {name: 🇯🇵 日本•高速59•青铜 - 飞翔吧, server: gy.58n.net, port: 20059, type: trojan, password: a8243942-44c4-3b91-b0ca-dde55c715d95, sni: x59.flybar.work, skip-cert-verify: true, udp: true}
 - {name: 🇯🇵 日本•高速71•高速 - 飞翔吧, server: gy.58n.net, port: 20071, type: trojan, password: a8243942-44c4-3b91-b0ca-dde55c715d95, sni: x71.flybar.work, skip-cert-verify: true, udp: true}
 - {name: 🇯🇵 日本•高速76•高速 - 飞翔吧, server: gy.58n.net, port: 20076, type: trojan, password: a8243942-44c4-3b91-b0ca-dde55c715d95, sni: x76.flybar.work, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 日本 / 华东｜JP - 小白云, server: jp1.iepl.cooc.icu, port: 47100, type: ss, cipher: aes-256-gcm, password: c6af6b26-da64-43e4-b9dc-5fea657c4a11, udp: true}
-- {name: 🇯🇵 日本 / 华南｜JP - 小白云, server: jp2.iepl.cooc.icu, port: 47101, type: ss, cipher: aes-256-gcm, password: c6af6b26-da64-43e4-b9dc-5fea657c4a11, udp: true}
-- {name: 🇯🇵 日本 / 备用｜JP - 小白云, server: jp3.iepl.cooc.icu, port: 19881, type: ss, cipher: aes-256-gcm, password: c6af6b26-da64-43e4-b9dc-5fea657c4a11, udp: true}
-- {name: 🇯🇵 JP｜Overseas users - 小白云, server: jp.cooc.icu, port: 33881, type: ss, cipher: aes-256-gcm, password: c6af6b26-da64-43e4-b9dc-5fea657c4a11, udp: true}
+- {name: 🇯🇵 日本 / 华东｜JP - 小白云, server: jp1.iepl.cooc.icu, port: 47100, type: ss, cipher: aes-256-gcm, password: a8e281b5-16b0-4d3c-8fcf-f3e84dd7dd33, udp: true}
+- {name: 🇯🇵 日本 / 华南｜JP - 小白云, server: jp2.iepl.cooc.icu, port: 47101, type: ss, cipher: aes-256-gcm, password: a8e281b5-16b0-4d3c-8fcf-f3e84dd7dd33, udp: true}
+- {name: 🇯🇵 日本 / 备用｜JP - 小白云, server: jp3.iepl.cooc.icu, port: 19881, type: ss, cipher: aes-256-gcm, password: a8e281b5-16b0-4d3c-8fcf-f3e84dd7dd33, udp: true}
+- {name: 🇯🇵 JP｜Overseas users - 小白云, server: jp.cooc.icu, port: 33881, type: ss, cipher: aes-256-gcm, password: a8e281b5-16b0-4d3c-8fcf-f3e84dd7dd33, udp: true}
 - {name: 🇯🇵 日本 1 Nico Abema - 西瓜皮是真的皮, server: jsxc1.dx001.top, port: 19831, type: vmess, uuid: 3bad801f-81f5-3b83-a6bb-6ea875b6e951, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇯🇵 日本 2 Nico Abema - 西瓜皮是真的皮, server: cm-01.dx001.top, port: 19832, type: vmess, uuid: 3bad801f-81f5-3b83-a6bb-6ea875b6e951, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇯🇵 Japan - 番茄云, server: jp.fanqiecloud.top, port: 21852, type: ss, cipher: chacha20-ietf-poly1305, password: fcb9a602-5959-40f9-a700-9e2e6de1d106, udp: true}
