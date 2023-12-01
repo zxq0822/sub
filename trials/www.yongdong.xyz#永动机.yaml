@@ -28,13 +28,11 @@ proxy-groups:
   interval: 30
   tolerance: 100
   proxies: &id001
-  - 🇭🇰 白银vip｜直链｜香港｜vv09 - 永动机
-  - 🇭🇰 白银vip｜直链｜香港｜vv08 - 永动机
-  - 🇭🇰 白银vip｜直链｜香港｜vv07 - 永动机
-  - 🇭🇰 白银vip｜直链｜香港｜vv06 - 永动机
-  - 🇭🇰 白银vip｜直链｜香港｜vv05 - 永动机
-  - 🇭🇰 白银vip｜直链｜香港｜vv04 - 永动机
-  - 🇭🇰 白银vip｜直链｜香港｜vv03 - 永动机
+  - 🇭🇰 黄金vip｜直链｜香港｜vv10 - 永动机
+  - 🇭🇰 黄金vip｜直链｜香港｜vv12 - 永动机
+  - 🇭🇰 黄金vip｜直链｜香港｜vv13 - 永动机
+  - 🇭🇰 黄金vip｜直链｜香港｜vv14 - 永动机
+  - 🇭🇰 黄金vip｜直链｜香港｜vv15 - 永动机
   - 🇸🇬 白银vip｜中转 -> 新加坡｜vvSoc88 - 永动机
   - 🇸🇬 白银vip｜中转 -> 新加坡｜vvSoc89 - 永动机
   - 🇸🇬 白银vip｜中转 -> 新加坡｜vvSoc90 - 永动机
@@ -106,13 +104,11 @@ proxy-groups:
   interval: 15
   tolerance: 100
   proxies: &id002
-  - 🇭🇰 白银vip｜直链｜香港｜vv09 - 永动机
-  - 🇭🇰 白银vip｜直链｜香港｜vv08 - 永动机
-  - 🇭🇰 白银vip｜直链｜香港｜vv07 - 永动机
-  - 🇭🇰 白银vip｜直链｜香港｜vv06 - 永动机
-  - 🇭🇰 白银vip｜直链｜香港｜vv05 - 永动机
-  - 🇭🇰 白银vip｜直链｜香港｜vv04 - 永动机
-  - 🇭🇰 白银vip｜直链｜香港｜vv03 - 永动机
+  - 🇭🇰 黄金vip｜直链｜香港｜vv10 - 永动机
+  - 🇭🇰 黄金vip｜直链｜香港｜vv12 - 永动机
+  - 🇭🇰 黄金vip｜直链｜香港｜vv13 - 永动机
+  - 🇭🇰 黄金vip｜直链｜香港｜vv14 - 永动机
+  - 🇭🇰 黄金vip｜直链｜香港｜vv15 - 永动机
 - name: 🇸🇬 ‍新加坡
   type: url-test
   url: https://i.ytimg.com/generate_204
@@ -200,13 +196,11 @@ proxies:
 - {name: 🇰🇷 白银vip｜直链｜首尔｜vv26 - 永动机, server: ser.yongdong.xyz, port: 20026, type: vmess, uuid: c63b29a4-fba0-470a-a7d5-df855574b2f4, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /yongdong, headers: {Host: yongdong.xyz}}, udp: true}
 - {name: 🇰🇷 白银vip｜直链｜首尔｜vv27 - 永动机, server: ser.yongdong.xyz, port: 20027, type: vmess, uuid: c63b29a4-fba0-470a-a7d5-df855574b2f4, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /yongdong, headers: {Host: yongdong.xyz}}, udp: true}
 - {name: 🇰🇷 白银vip｜直链｜首尔｜vv28 - 永动机, server: ser.yongdong.xyz, port: 20028, type: vmess, uuid: c63b29a4-fba0-470a-a7d5-df855574b2f4, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /yongdong, headers: {Host: yongdong.xyz}}, udp: true}
-- {name: 🇭🇰 白银vip｜直链｜香港｜vv09 - 永动机, server: hkali.yongdong.xyz, port: 20009, type: vmess, uuid: c63b29a4-fba0-470a-a7d5-df855574b2f4, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /yongdong, headers: {Host: yongdong.xyz}}, udp: true}
-- {name: 🇭🇰 白银vip｜直链｜香港｜vv08 - 永动机, server: hkali.yongdong.xyz, port: 20008, type: vmess, uuid: c63b29a4-fba0-470a-a7d5-df855574b2f4, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /yongdong, headers: {Host: yongdong.xyz}}, udp: true}
-- {name: 🇭🇰 白银vip｜直链｜香港｜vv07 - 永动机, server: hkali.yongdong.xyz, port: 20007, type: vmess, uuid: c63b29a4-fba0-470a-a7d5-df855574b2f4, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /yongdong, headers: {Host: yongdong.xyz}}, udp: true}
-- {name: 🇭🇰 白银vip｜直链｜香港｜vv06 - 永动机, server: hkali.yongdong.xyz, port: 20006, type: vmess, uuid: c63b29a4-fba0-470a-a7d5-df855574b2f4, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /yongdong, headers: {Host: yongdong.xyz}}, udp: true}
-- {name: 🇭🇰 白银vip｜直链｜香港｜vv05 - 永动机, server: hkali.yongdong.xyz, port: 20005, type: vmess, uuid: c63b29a4-fba0-470a-a7d5-df855574b2f4, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /yongdong, headers: {Host: yongdong.xyz}}, udp: true}
-- {name: 🇭🇰 白银vip｜直链｜香港｜vv04 - 永动机, server: hkali.yongdong.xyz, port: 20004, type: vmess, uuid: c63b29a4-fba0-470a-a7d5-df855574b2f4, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /yongdong, headers: {Host: yongdong.xyz}}, udp: true}
-- {name: 🇭🇰 白银vip｜直链｜香港｜vv03 - 永动机, server: hkali.yongdong.xyz, port: 20003, type: vmess, uuid: c63b29a4-fba0-470a-a7d5-df855574b2f4, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /yongdong, headers: {Host: yongdong.xyz}}, udp: true}
+- {name: 🇭🇰 黄金vip｜直链｜香港｜vv10 - 永动机, server: hk.yongdong.xyz, port: 20010, type: vmess, uuid: c63b29a4-fba0-470a-a7d5-df855574b2f4, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /yongdong, headers: {Host: yongdong.xyz}}, udp: true}
+- {name: 🇭🇰 黄金vip｜直链｜香港｜vv12 - 永动机, server: hk.yongdong.xyz, port: 20012, type: vmess, uuid: c63b29a4-fba0-470a-a7d5-df855574b2f4, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /yongdong, headers: {Host: yongdong.xyz}}, udp: true}
+- {name: 🇭🇰 黄金vip｜直链｜香港｜vv13 - 永动机, server: hk.yongdong.xyz, port: 20013, type: vmess, uuid: c63b29a4-fba0-470a-a7d5-df855574b2f4, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /yongdong, headers: {Host: yongdong.xyz}}, udp: true}
+- {name: 🇭🇰 黄金vip｜直链｜香港｜vv14 - 永动机, server: hk.yongdong.xyz, port: 20014, type: vmess, uuid: c63b29a4-fba0-470a-a7d5-df855574b2f4, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /yongdong, headers: {Host: yongdong.xyz}}, udp: true}
+- {name: 🇭🇰 黄金vip｜直链｜香港｜vv15 - 永动机, server: hk.yongdong.xyz, port: 20015, type: vmess, uuid: c63b29a4-fba0-470a-a7d5-df855574b2f4, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /yongdong, headers: {Host: yongdong.xyz}}, udp: true}
 - {name: 🇷🇺 白银vip｜直链｜俄罗斯｜vv01 - 永动机, server: rs.yongdong.xyz, port: 20201, type: vmess, uuid: c63b29a4-fba0-470a-a7d5-df855574b2f4, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /yongdong, headers: {Host: yongdong.xyz}}, udp: true}
 - {name: 🇷🇺 白银vip｜直链｜俄罗斯｜vv02 - 永动机, server: rs.yongdong.xyz, port: 20202, type: vmess, uuid: c63b29a4-fba0-470a-a7d5-df855574b2f4, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /yongdong, headers: {Host: yongdong.xyz}}, udp: true}
 - {name: 🇷🇺 白银vip｜直链｜俄罗斯｜vv03 - 永动机, server: rs.yongdong.xyz, port: 20203, type: vmess, uuid: c63b29a4-fba0-470a-a7d5-df855574b2f4, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /yongdong, headers: {Host: yongdong.xyz}}, udp: true}
