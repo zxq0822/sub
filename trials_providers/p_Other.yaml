@@ -5,3 +5,6 @@ proxies:
 - {name: 距离下次重置剩余：29 天 - 快狗云, server: ca-01.gujuji.top, port: 8080, type: vmess, uuid: 0158e0e0-593e-4d7f-9391-c59934c86891, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: ca-01.gujuji.top}}, udp: true}
 - {name: 官网www. kuaigou.life - 快狗云, server: ca-01.gujuji.top, port: 8080, type: vmess, uuid: 0158e0e0-593e-4d7f-9391-c59934c86891, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: ca-01.gujuji.top}}, udp: true}
 - {name: 官网:www.gegeth.com - Gegeth极迅游, server: gy.yb59.uk, port: 18785, type: ss, cipher: chacha20-ietf-poly1305, password: b9215532-2f71-433b-837b-25db8ba03098, udp: true}
+- {name: 官网：真网.icu  (真实的互联网 - and for fresh air) - 真网 | 零元购, server: 1.1.1.1, port: 80, type: trojan, password: df805575-ae03-4626-9e88-7fafb639e2bb, sni: 1.1.1.1, skip-cert-verify: true, udp: true}
+- {name: 备用网址：零元购.xyz  (全场o元购，不用白不用） - 真网 | 零元购, server: 1.1.1.1, port: 80, type: trojan, password: df805575-ae03-4626-9e88-7fafb639e2bb, sni: 1.1.1.1, skip-cert-verify: true, udp: true}
+- {name: 通知：出售chatgpt，联系官网客服小姐姐 - 真网 | 零元购, server: 1.1.1.1, port: 80, type: trojan, password: df805575-ae03-4626-9e88-7fafb639e2bb, sni: 1.1.1.1, skip-cert-verify: true, udp: true}
