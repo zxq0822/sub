@@ -11,9 +11,11 @@ proxy-groups:
   proxies:
   - ⚡ ‍低延迟
   - 🇸🇬 ‍新加坡
+  - 🇯🇵 ‍日本
   - 🇺🇸 ‍美国
   - 👆🏻 ‍指定
   - 👆🏻🇸🇬 ‍新加坡
+  - 👆🏻🇯🇵 ‍日本
   - 👆🏻🇺🇸 ‍美国
   - DIRECT
 - name: ⚡ ‍低延迟
@@ -23,6 +25,7 @@ proxy-groups:
   tolerance: 100
   proxies: &id001
   - 🇸🇬 新加坡(免费) - bee.sulepay.com
+  - 🇯🇵 日本(免費) - bee.sulepay.com
   - 🇺🇸 美國(免費) - bee.sulepay.com
 - name: 🛩️ ‍墙内
   type: select
@@ -48,8 +51,10 @@ proxy-groups:
   - 🇺🇸 ‍美国
   - 👆🏻🇺🇸 ‍美国
   - 🇸🇬 ‍新加坡
+  - 🇯🇵 ‍日本
   - 👆🏻 ‍指定
   - 👆🏻🇸🇬 ‍新加坡
+  - 👆🏻🇯🇵 ‍日本
   - ✈️ ‍起飞
   - 🛩️ ‍墙内
 - name: 🌐 ‍未知站点
@@ -65,12 +70,19 @@ proxy-groups:
   tolerance: 100
   proxies: &id002
   - 🇸🇬 新加坡(免费) - bee.sulepay.com
+- name: 🇯🇵 ‍日本
+  type: url-test
+  url: https://i.ytimg.com/generate_204
+  interval: 15
+  tolerance: 100
+  proxies: &id003
+  - 🇯🇵 日本(免費) - bee.sulepay.com
 - name: 🇺🇸 ‍美国
   type: url-test
   url: https://i.ytimg.com/generate_204
   interval: 15
   tolerance: 300
-  proxies: &id003
+  proxies: &id004
   - 🇺🇸 美國(免費) - bee.sulepay.com
 - name: 👆🏻 ‍指定
   type: select
@@ -78,10 +90,14 @@ proxy-groups:
 - name: 👆🏻🇸🇬 ‍新加坡
   type: select
   proxies: *id002
-- name: 👆🏻🇺🇸 ‍美国
+- name: 👆🏻🇯🇵 ‍日本
   type: select
   proxies: *id003
+- name: 👆🏻🇺🇸 ‍美国
+  type: select
+  proxies: *id004
 proxies:
+- {name: 🇯🇵 日本(免費) - bee.sulepay.com, server: v3nw.7n1gg.cn, port: 45613, type: ssr, cipher: aes-256-cfb, password: tsu9oi, protocol: auth_aes128_sha1, obfs: plain, protocol-param: 18367:11FjwQ, obfs-param: e695d18367.microsoft.com, udp: true}
 - {name: 🇸🇬 新加坡(免费) - bee.sulepay.com, server: freezhongzhuan.7n1gg.cn, port: 19546, type: ssr, cipher: aes-256-cfb, password: tsu9oi, protocol: auth_aes128_sha1, obfs: plain, protocol-param: 18367:11FjwQ, obfs-param: e695d18367.microsoft.com, udp: true}
 - {name: 🇺🇸 美國(免費) - bee.sulepay.com, server: hnzhuangfa.afi0i.cn, port: 19547, type: ssr, cipher: aes-256-cfb, password: tsu9oi, protocol: auth_aes128_sha1, obfs: plain, protocol-param: 18367:11FjwQ, obfs-param: e695d18367.microsoft.com, udp: true}
 rules:
