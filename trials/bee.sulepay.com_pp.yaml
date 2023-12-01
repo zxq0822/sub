@@ -10,33 +10,18 @@ proxy-groups:
   type: select
   proxies:
   - ⚡ ‍低延迟
-  - 🇭🇰 ‍香港
   - 🇸🇬 ‍新加坡
-  - 🇯🇵 ‍日本
   - 🇺🇸 ‍美国
-  - 🎏 ‍其他
   - 👆🏻 ‍指定
-  - 👆🏻🇭🇰 ‍香港
   - 👆🏻🇸🇬 ‍新加坡
-  - 👆🏻🇯🇵 ‍日本
   - 👆🏻🇺🇸 ‍美国
-  - 👆🏻🎏 ‍其他
   - DIRECT
 - name: ⚡ ‍低延迟
   type: url-test
-  url: https://i.ytimg.com/generate_204
-  interval: 30
   tolerance: 100
-  proxies: &id001
-  - 🇭🇰 Hongkong-香港 - 一机场
-  - 🇸🇬 Singapore-新加坡 - 一机场
-  - 🇸🇬 Singapore2-新加坡2 - 一机场
-  - 🇯🇵 Japan-日本 - 一机场
-  - 🇺🇸 USA-美国 - 一机场
-  - 🇰🇷 Korea-韩国 - 一机场
-  - 🇦🇺 Australia-澳大利亚 - 一机场
-  - 🇬🇧 UK-英国 - 一机场
-  - 🇨🇦 Canada-加拿大 - 一机场
+  use: &id001
+  - SG
+  - US
 - name: 🛩️ ‍墙内
   type: select
   proxies:
@@ -52,23 +37,17 @@ proxy-groups:
 - name: 📺 ‍B站
   type: select
   proxies:
-  - 🇭🇰 ‍香港
   - 🛩️ ‍墙内
   - 👆🏻 ‍指定
-  - 👆🏻🇭🇰 ‍香港
   - ✈️ ‍起飞
 - name: 🤖 ‍OpenAI+Bing
   type: select
   proxies:
   - 🇺🇸 ‍美国
-  - 🎏 ‍其他
   - 👆🏻🇺🇸 ‍美国
-  - 👆🏻🎏 ‍其他
   - 🇸🇬 ‍新加坡
-  - 🇯🇵 ‍日本
   - 👆🏻 ‍指定
   - 👆🏻🇸🇬 ‍新加坡
-  - 👆🏻🇯🇵 ‍日本
   - ✈️ ‍起飞
   - 🛩️ ‍墙内
 - name: 🌐 ‍未知站点
@@ -77,73 +56,44 @@ proxy-groups:
   - ✈️ ‍起飞
   - 🛩️ ‍墙内
   - 💩 ‍广告
-- name: 🇭🇰 ‍香港
-  type: url-test
-  url: https://i.ytimg.com/generate_204
-  interval: 15
-  tolerance: 100
-  proxies: &id002
-  - 🇭🇰 Hongkong-香港 - 一机场
 - name: 🇸🇬 ‍新加坡
   type: url-test
-  url: https://i.ytimg.com/generate_204
-  interval: 15
   tolerance: 100
-  proxies: &id003
-  - 🇸🇬 Singapore-新加坡 - 一机场
-  - 🇸🇬 Singapore2-新加坡2 - 一机场
-- name: 🇯🇵 ‍日本
-  type: url-test
-  url: https://i.ytimg.com/generate_204
-  interval: 15
-  tolerance: 100
-  proxies: &id004
-  - 🇯🇵 Japan-日本 - 一机场
+  use: &id002
+  - SG
 - name: 🇺🇸 ‍美国
   type: url-test
-  url: https://i.ytimg.com/generate_204
-  interval: 15
   tolerance: 300
-  proxies: &id005
-  - 🇺🇸 USA-美国 - 一机场
-- name: 🎏 ‍其他
-  type: url-test
-  url: https://i.ytimg.com/generate_204
-  interval: 30
-  tolerance: 100
-  proxies: &id006
-  - 🇰🇷 Korea-韩国 - 一机场
-  - 🇦🇺 Australia-澳大利亚 - 一机场
-  - 🇬🇧 UK-英国 - 一机场
-  - 🇨🇦 Canada-加拿大 - 一机场
+  use: &id003
+  - US
 - name: 👆🏻 ‍指定
   type: select
-  proxies: *id001
-- name: 👆🏻🇭🇰 ‍香港
-  type: select
-  proxies: *id002
+  use: *id001
 - name: 👆🏻🇸🇬 ‍新加坡
   type: select
-  proxies: *id003
-- name: 👆🏻🇯🇵 ‍日本
-  type: select
-  proxies: *id004
+  use: *id002
 - name: 👆🏻🇺🇸 ‍美国
   type: select
-  proxies: *id005
-- name: 👆🏻🎏 ‍其他
-  type: select
-  proxies: *id006
-proxies:
-- {name: 🇭🇰 Hongkong-香港 - 一机场, server: frontend.yijianlian.app, port: 54570, type: trojan, password: 7c596f6a-dd1c-4338-b108-2d992ccf94ee, skip-cert-verify: true, udp: true}
-- {name: 🇰🇷 Korea-韩国 - 一机场, server: frontend.yijianlian.app, port: 54540, type: trojan, password: 7c596f6a-dd1c-4338-b108-2d992ccf94ee, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 Japan-日本 - 一机场, server: frontend.yijianlian.app, port: 54530, type: trojan, password: 7c596f6a-dd1c-4338-b108-2d992ccf94ee, skip-cert-verify: true, udp: true}
-- {name: 🇸🇬 Singapore-新加坡 - 一机场, server: frontend.yijianlian.app, port: 54420, type: trojan, password: 7c596f6a-dd1c-4338-b108-2d992ccf94ee, skip-cert-verify: true, udp: true}
-- {name: 🇸🇬 Singapore2-新加坡2 - 一机场, server: frontend.yijianlian.app, port: 54591, type: trojan, password: 7c596f6a-dd1c-4338-b108-2d992ccf94ee, skip-cert-verify: true, udp: true}
-- {name: 🇦🇺 Australia-澳大利亚 - 一机场, server: frontend.yijianlian.app, port: 54590, type: trojan, password: 7c596f6a-dd1c-4338-b108-2d992ccf94ee, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 USA-美国 - 一机场, server: frontend.yijianlian.app, port: 54430, type: trojan, password: 7c596f6a-dd1c-4338-b108-2d992ccf94ee, skip-cert-verify: true, udp: true}
-- {name: 🇬🇧 UK-英国 - 一机场, server: frontend.yijianlian.app, port: 54000, type: trojan, password: 7c596f6a-dd1c-4338-b108-2d992ccf94ee, skip-cert-verify: true, udp: true}
-- {name: 🇨🇦 Canada-加拿大 - 一机场, server: frontend.yijianlian.app, port: 54001, type: trojan, password: 7c596f6a-dd1c-4338-b108-2d992ccf94ee, skip-cert-verify: true, udp: true}
+  use: *id003
+proxy-providers:
+  SG:
+    type: http
+    url: https://raw.kgithub.com/mfbpn/tg_mfbpn_sub/main/trials_providers/bee.sulepay.com/SG.yaml
+    interval: 180
+    path: trials_providers/bee.sulepay.com/SG.yaml
+    health-check:
+      enable: true
+      url: https://i.ytimg.com/generate_204
+      interval: 30
+  US:
+    type: http
+    url: https://raw.kgithub.com/mfbpn/tg_mfbpn_sub/main/trials_providers/bee.sulepay.com/US.yaml
+    interval: 180
+    path: trials_providers/bee.sulepay.com/US.yaml
+    health-check:
+      enable: true
+      url: https://i.ytimg.com/generate_204
+      interval: 30
 rules:
 - DOMAIN-SUFFIX,acl4.ssr,DIRECT
 - DOMAIN-SUFFIX,ip6-localhost,DIRECT
