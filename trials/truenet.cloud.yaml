@@ -20,6 +20,7 @@ proxy-groups:
   interval: 30
   tolerance: 100
   proxies: &id001
+  - 🇺🇸 紧急：用户量激增，暂时关闭注册，本站主要为学习使用，请勿滥用，共同维护优美环境 - 真网 | 零元购
   - 🇺🇸 中转->美国1 - 真网 | 零元购
   - 🇺🇸 中转->美国2 - 真网 | 零元购
   - 🇺🇸 中转->美国3 - 真网 | 零元购
@@ -84,6 +85,7 @@ proxy-groups:
   type: select
   proxies: *id002
 proxies:
+- {name: 🇺🇸 紧急：用户量激增，暂时关闭注册，本站主要为学习使用，请勿滥用，共同维护优美环境 - 真网 | 零元购, server: 1.1.1.1, port: 80, type: trojan, password: df805575-ae03-4626-9e88-7fafb639e2bb, sni: 1.1.1.1, skip-cert-verify: true, udp: true}
 - {name: 官网：真网.icu  (真实的互联网 - and for fresh air) - 真网 | 零元购, server: 1.1.1.1, port: 80, type: trojan, password: df805575-ae03-4626-9e88-7fafb639e2bb, sni: 1.1.1.1, skip-cert-verify: true, udp: true}
 - {name: 备用网址：零元购.xyz  (全场o元购，不用白不用） - 真网 | 零元购, server: 1.1.1.1, port: 80, type: trojan, password: df805575-ae03-4626-9e88-7fafb639e2bb, sni: 1.1.1.1, skip-cert-verify: true, udp: true}
 - {name: 通知：出售chatgpt，联系官网客服小姐姐 - 真网 | 零元购, server: 1.1.1.1, port: 80, type: trojan, password: df805575-ae03-4626-9e88-7fafb639e2bb, sni: 1.1.1.1, skip-cert-verify: true, udp: true}
