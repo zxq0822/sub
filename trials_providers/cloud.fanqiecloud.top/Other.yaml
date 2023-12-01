@@ -15,4 +15,3 @@ proxies:
 - {name: 🇳🇱 Netherlands 2 - 番茄云, server: dl3.fanqiecloud.top, port: 2052, type: vmess, uuid: 20ff385b-12f4-4bea-bd43-329d293af65b, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /sssddd, headers: {Host: cf-nl2.fanqiecloud.top}}, udp: true}
 - {name: 🇫🇷 France - 番茄云, server: dl3.fanqiecloud.top, port: 2086, type: vmess, uuid: 20ff385b-12f4-4bea-bd43-329d293af65b, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /sssddd, headers: {Host: cf-fr2.fanqiecloud.top}}, udp: true}
 - {name: 🇮🇳 India - 番茄云, server: in.fanqiecloud.top, port: 22460, type: ss, cipher: chacha20-ietf-poly1305, password: 20ff385b-12f4-4bea-bd43-329d293af65b, udp: true}
-- {name: 🇦🇪 Dubai - 番茄云, server: db.fanqiecloud.top, port: 20090, type: ss, cipher: chacha20-ietf-poly1305, password: 20ff385b-12f4-4bea-bd43-329d293af65b, udp: true}
