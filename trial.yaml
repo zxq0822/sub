@@ -59,6 +59,9 @@ proxy-groups:
   - 🇭🇰 香港|专线2G|GPT+流媒体|【邀请用户】|最高返还40%|公益 - 大白
   - 🇭🇰 香港|专线2G|GPT+流媒体|【节点优先级】[按量]>[不限量]>[免费]>[公共订阅]|公益 - 大白
   - 🇭🇰 Hongkong - 番茄云
+  - 🇭🇰 白银vip｜中转 -> 香港｜vvSoc136 - 永动机
+  - 🇭🇰 白银vip｜中转 -> 香港｜vvSoc137 - 永动机
+  - 🇭🇰 白银vip｜中转 -> 香港｜vvSoc142 - 永动机
   - 🇭🇰 黄金vip｜直链｜香港｜vv10 - 永动机
   - 🇭🇰 黄金vip｜直链｜香港｜vv12 - 永动机
   - 🇭🇰 黄金vip｜直链｜香港｜vv13 - 永动机
@@ -315,9 +318,6 @@ proxy-groups:
   - 🇬🇧 [vip①]英国1 - MG Network
   - 🇬🇧 [vip①]英国2 - MG Network
   - 🇰🇷 [vip①]韩国1 - MG Network
-  - 🇰🇷 白银vip｜直链｜韩国｜vvSoc105 - 永动机
-  - 🇰🇷 白银vip｜直链｜韩国｜vvSoc106 - 永动机
-  - 🇰🇷 白银vip｜直链｜韩国｜vvSoc84 - 永动机
   - 🇰🇷 白银vip｜直链｜首尔｜vv26 - 永动机
   - 🇰🇷 白银vip｜直链｜首尔｜vv27 - 永动机
   - 🇰🇷 白银vip｜直链｜首尔｜vv28 - 永动机
@@ -419,6 +419,9 @@ proxy-groups:
   - 🇭🇰 香港|专线2G|GPT+流媒体|【邀请用户】|最高返还40%|公益 - 大白
   - 🇭🇰 香港|专线2G|GPT+流媒体|【节点优先级】[按量]>[不限量]>[免费]>[公共订阅]|公益 - 大白
   - 🇭🇰 Hongkong - 番茄云
+  - 🇭🇰 白银vip｜中转 -> 香港｜vvSoc136 - 永动机
+  - 🇭🇰 白银vip｜中转 -> 香港｜vvSoc137 - 永动机
+  - 🇭🇰 白银vip｜中转 -> 香港｜vvSoc142 - 永动机
   - 🇭🇰 黄金vip｜直链｜香港｜vv10 - 永动机
   - 🇭🇰 黄金vip｜直链｜香港｜vv12 - 永动机
   - 🇭🇰 黄金vip｜直链｜香港｜vv13 - 永动机
@@ -503,6 +506,9 @@ proxy-groups:
   - 🇭🇰 香港|专线2G|GPT+流媒体|【邀请用户】|最高返还40%|公益 - 大白
   - 🇭🇰 香港|专线2G|GPT+流媒体|【节点优先级】[按量]>[不限量]>[免费]>[公共订阅]|公益 - 大白
   - 🇭🇰 Hongkong - 番茄云
+  - 🇭🇰 白银vip｜中转 -> 香港｜vvSoc136 - 永动机
+  - 🇭🇰 白银vip｜中转 -> 香港｜vvSoc137 - 永动机
+  - 🇭🇰 白银vip｜中转 -> 香港｜vvSoc142 - 永动机
   - 🇭🇰 黄金vip｜直链｜香港｜vv10 - 永动机
   - 🇭🇰 黄金vip｜直链｜香港｜vv12 - 永动机
   - 🇭🇰 黄金vip｜直链｜香港｜vv13 - 永动机
@@ -786,9 +792,6 @@ proxy-groups:
   - 🇬🇧 [vip①]英国1 - MG Network
   - 🇬🇧 [vip①]英国2 - MG Network
   - 🇰🇷 [vip①]韩国1 - MG Network
-  - 🇰🇷 白银vip｜直链｜韩国｜vvSoc105 - 永动机
-  - 🇰🇷 白银vip｜直链｜韩国｜vvSoc106 - 永动机
-  - 🇰🇷 白银vip｜直链｜韩国｜vvSoc84 - 永动机
   - 🇰🇷 白银vip｜直链｜首尔｜vv26 - 永动机
   - 🇰🇷 白银vip｜直链｜首尔｜vv27 - 永动机
   - 🇰🇷 白银vip｜直链｜首尔｜vv28 - 永动机
@@ -833,28 +836,28 @@ proxy-groups:
   type: select
   proxies: *id008
 proxies:
-- {name: 🇹🇼台湾01 - 都是梦, server: dl1.doushimeng.com, port: 80, type: vmess, uuid: 585702b8-8b7d-4020-9346-f59a530a6745, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /asdas, headers: {Host: cf-tww.doushimeng.com}}, udp: true}
-- {name: 🇹🇼台湾02 - 都是梦, server: tw.doushimeng.com, port: 46661, type: ss, cipher: chacha20-ietf-poly1305, password: 585702b8-8b7d-4020-9346-f59a530a6745, udp: true}
-- {name: 🇰🇷韩国01 - 都是梦, server: kr.doushimeng.com, port: 22903, type: ss, cipher: chacha20-ietf-poly1305, password: 585702b8-8b7d-4020-9346-f59a530a6745, udp: true}
-- {name: 🇰🇷韩国02 - 都是梦, server: dl6.doushimeng.com, port: 80, type: vmess, uuid: 585702b8-8b7d-4020-9346-f59a530a6745, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /asdas, headers: {Host: cf-kr.doushimeng.free.hr}}, udp: true}
-- {name: 🇰🇷韩国03 - 都是梦, server: dl4.doushimeng.com, port: 2086, type: vmess, uuid: 585702b8-8b7d-4020-9346-f59a530a6745, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /asdas, headers: {Host: cf-kr2s.doushimeng.com}}, udp: true}
-- {name: 🇦🇪迪拜01 - 都是梦, server: db.doushimeng.com, port: 23202, type: ss, cipher: chacha20-ietf-poly1305, password: 585702b8-8b7d-4020-9346-f59a530a6745, udp: true}
-- {name: 🇩🇪德国01 - 都是梦, server: dl3.doushimeng.com, port: 2082, type: vmess, uuid: 585702b8-8b7d-4020-9346-f59a530a6745, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /asdas, headers: {Host: cf-de2ss.doushimeng.com}}, udp: true}
-- {name: 🇩🇪德国02 - 都是梦, server: dl1.doushimeng.com, port: 2086, type: vmess, uuid: 585702b8-8b7d-4020-9346-f59a530a6745, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /asdas, headers: {Host: cf-de66s.doushimeng.com}}, udp: true}
-- {name: 🇦🇺澳大利亚01 - 都是梦, server: au.doushimeng.com, port: 24652, type: ss, cipher: chacha20-ietf-poly1305, password: 585702b8-8b7d-4020-9346-f59a530a6745, udp: true}
-- {name: 🇮🇹意大利01 - 都是梦, server: it.doushimeng.com, port: 21102, type: ss, cipher: chacha20-ietf-poly1305, password: 585702b8-8b7d-4020-9346-f59a530a6745, udp: true}
-- {name: 🇳🇱荷兰01 - 都是梦, server: dl1.doushimeng.com, port: 2082, type: vmess, uuid: 585702b8-8b7d-4020-9346-f59a530a6745, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /asdas, headers: {Host: cf-nlss.nicehand.top}}, udp: true}
-- {name: 🇫🇷法国01 - 都是梦, server: dl1.doushimeng.com, port: 2082, type: vmess, uuid: 585702b8-8b7d-4020-9346-f59a530a6745, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /asdas, headers: {Host: cf-frss.nicehand.top}}, udp: true}
-- {name: 🇧🇷巴西01 - 都是梦, server: dl1.doushimeng.com, port: 2086, type: vmess, uuid: 585702b8-8b7d-4020-9346-f59a530a6745, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /uziiii, headers: {Host: cf-bx1ss.nicehand.top}}, udp: true}
-- {name: 🇧🇷巴西02 - 都是梦, server: dl1x.doushimeng.com, port: 80, type: vmess, uuid: 585702b8-8b7d-4020-9346-f59a530a6745, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /uziiii, headers: {Host: cf-bx2ss.nicehand.top}}, udp: true}
-- {name: 🇧🇷巴西03 - 都是梦, server: dl3.doushimeng.com, port: 2086, type: vmess, uuid: 585702b8-8b7d-4020-9346-f59a530a6745, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /uziiii, headers: {Host: cf-bx3ss.doushimeng.com}}, udp: true}
-- {name: 🇺🇸美国01 - 都是梦, server: us4.doushimeng.com, port: 20802, type: ss, cipher: chacha20-ietf-poly1305, password: 585702b8-8b7d-4020-9346-f59a530a6745, udp: true}
-- {name: 🇺🇸美国02 - 都是梦, server: dl6.doushimeng.com, port: 2095, type: vmess, uuid: 585702b8-8b7d-4020-9346-f59a530a6745, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /asdas, headers: {Host: cf-usss.doushimeng.com}}, udp: true}
-- {name: 🇺🇸美国03 - 都是梦, server: us.doushimeng.com, port: 20603, type: ss, cipher: chacha20-ietf-poly1305, password: 585702b8-8b7d-4020-9346-f59a530a6745, udp: true}
-- {name: 🇸🇬新加坡01 - 都是梦, server: sg3.doushimeng.com, port: 20052, type: ss, cipher: chacha20-ietf-poly1305, password: 585702b8-8b7d-4020-9346-f59a530a6745, udp: true}
-- {name: 🇸🇬新加坡02 - 都是梦, server: sgggg.doushimeng.com, port: 20252, type: ss, cipher: chacha20-ietf-poly1305, password: 585702b8-8b7d-4020-9346-f59a530a6745, udp: true}
-- {name: 🇸🇬新加坡03 - 都是梦, server: sg2.doushimeng.com, port: 20553, type: ss, cipher: chacha20-ietf-poly1305, password: 585702b8-8b7d-4020-9346-f59a530a6745, udp: true}
-- {name: 🇯🇵日本01 - 都是梦, server: jp.doushimeng.com, port: 21853, type: ss, cipher: chacha20-ietf-poly1305, password: 585702b8-8b7d-4020-9346-f59a530a6745, udp: true}
+- {name: 🇹🇼台湾01 - 都是梦, server: dl1.doushimeng.com, port: 80, type: vmess, uuid: f60b57c0-fb99-4784-84e0-7d442450468f, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /asdas, headers: {Host: cf-tww.doushimeng.com}}, udp: true}
+- {name: 🇹🇼台湾02 - 都是梦, server: tw.doushimeng.com, port: 46661, type: ss, cipher: chacha20-ietf-poly1305, password: f60b57c0-fb99-4784-84e0-7d442450468f, udp: true}
+- {name: 🇰🇷韩国01 - 都是梦, server: kr.doushimeng.com, port: 22903, type: ss, cipher: chacha20-ietf-poly1305, password: f60b57c0-fb99-4784-84e0-7d442450468f, udp: true}
+- {name: 🇰🇷韩国02 - 都是梦, server: dl6.doushimeng.com, port: 80, type: vmess, uuid: f60b57c0-fb99-4784-84e0-7d442450468f, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /asdas, headers: {Host: cf-kr.doushimeng.free.hr}}, udp: true}
+- {name: 🇰🇷韩国03 - 都是梦, server: dl4.doushimeng.com, port: 2086, type: vmess, uuid: f60b57c0-fb99-4784-84e0-7d442450468f, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /asdas, headers: {Host: cf-kr2s.doushimeng.com}}, udp: true}
+- {name: 🇦🇪迪拜01 - 都是梦, server: db.doushimeng.com, port: 23202, type: ss, cipher: chacha20-ietf-poly1305, password: f60b57c0-fb99-4784-84e0-7d442450468f, udp: true}
+- {name: 🇩🇪德国01 - 都是梦, server: dl3.doushimeng.com, port: 2082, type: vmess, uuid: f60b57c0-fb99-4784-84e0-7d442450468f, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /asdas, headers: {Host: cf-de2ss.doushimeng.com}}, udp: true}
+- {name: 🇩🇪德国02 - 都是梦, server: dl1.doushimeng.com, port: 2086, type: vmess, uuid: f60b57c0-fb99-4784-84e0-7d442450468f, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /asdas, headers: {Host: cf-de66s.doushimeng.com}}, udp: true}
+- {name: 🇦🇺澳大利亚01 - 都是梦, server: au.doushimeng.com, port: 24652, type: ss, cipher: chacha20-ietf-poly1305, password: f60b57c0-fb99-4784-84e0-7d442450468f, udp: true}
+- {name: 🇮🇹意大利01 - 都是梦, server: it.doushimeng.com, port: 21102, type: ss, cipher: chacha20-ietf-poly1305, password: f60b57c0-fb99-4784-84e0-7d442450468f, udp: true}
+- {name: 🇳🇱荷兰01 - 都是梦, server: dl1.doushimeng.com, port: 2082, type: vmess, uuid: f60b57c0-fb99-4784-84e0-7d442450468f, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /asdas, headers: {Host: cf-nlss.nicehand.top}}, udp: true}
+- {name: 🇫🇷法国01 - 都是梦, server: dl1.doushimeng.com, port: 2082, type: vmess, uuid: f60b57c0-fb99-4784-84e0-7d442450468f, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /asdas, headers: {Host: cf-frss.nicehand.top}}, udp: true}
+- {name: 🇧🇷巴西01 - 都是梦, server: dl1.doushimeng.com, port: 2086, type: vmess, uuid: f60b57c0-fb99-4784-84e0-7d442450468f, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /uziiii, headers: {Host: cf-bx1ss.nicehand.top}}, udp: true}
+- {name: 🇧🇷巴西02 - 都是梦, server: dl1x.doushimeng.com, port: 80, type: vmess, uuid: f60b57c0-fb99-4784-84e0-7d442450468f, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /uziiii, headers: {Host: cf-bx2ss.nicehand.top}}, udp: true}
+- {name: 🇧🇷巴西03 - 都是梦, server: dl3.doushimeng.com, port: 2086, type: vmess, uuid: f60b57c0-fb99-4784-84e0-7d442450468f, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /uziiii, headers: {Host: cf-bx3ss.doushimeng.com}}, udp: true}
+- {name: 🇺🇸美国01 - 都是梦, server: us4.doushimeng.com, port: 20802, type: ss, cipher: chacha20-ietf-poly1305, password: f60b57c0-fb99-4784-84e0-7d442450468f, udp: true}
+- {name: 🇺🇸美国02 - 都是梦, server: dl6.doushimeng.com, port: 2095, type: vmess, uuid: f60b57c0-fb99-4784-84e0-7d442450468f, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /asdas, headers: {Host: cf-usss.doushimeng.com}}, udp: true}
+- {name: 🇺🇸美国03 - 都是梦, server: us.doushimeng.com, port: 20603, type: ss, cipher: chacha20-ietf-poly1305, password: f60b57c0-fb99-4784-84e0-7d442450468f, udp: true}
+- {name: 🇸🇬新加坡01 - 都是梦, server: sg3.doushimeng.com, port: 20052, type: ss, cipher: chacha20-ietf-poly1305, password: f60b57c0-fb99-4784-84e0-7d442450468f, udp: true}
+- {name: 🇸🇬新加坡02 - 都是梦, server: sgggg.doushimeng.com, port: 20252, type: ss, cipher: chacha20-ietf-poly1305, password: f60b57c0-fb99-4784-84e0-7d442450468f, udp: true}
+- {name: 🇸🇬新加坡03 - 都是梦, server: sg2.doushimeng.com, port: 20553, type: ss, cipher: chacha20-ietf-poly1305, password: f60b57c0-fb99-4784-84e0-7d442450468f, udp: true}
+- {name: 🇯🇵日本01 - 都是梦, server: jp.doushimeng.com, port: 21853, type: ss, cipher: chacha20-ietf-poly1305, password: f60b57c0-fb99-4784-84e0-7d442450468f, udp: true}
 - {name: 🇻🇳 越南/VN | 广移 - 鸡鸡云, server: zzgzyd.jjyhk.com, port: 51795, type: ss, cipher: chacha20-ietf-poly1305, password: 64cb3955-b520-41d7-8cc5-9c29d92d5277, udp: true}
 - {name: 🇺🇸 洛杉矶/US | 广移 - 鸡鸡云, server: zzgzyd.jjyhk.com, port: 39618, type: ss, cipher: chacha20-ietf-poly1305, password: 64cb3955-b520-41d7-8cc5-9c29d92d5277, udp: true}
 - {name: 🇯🇵 日本/JP | 广移 - 鸡鸡云, server: zzgzyd.jjyhk.com, port: 42383, type: ss, cipher: chacha20-ietf-poly1305, password: 64cb3955-b520-41d7-8cc5-9c29d92d5277, udp: true}
@@ -1023,14 +1026,14 @@ proxies:
 - {name: 🇸🇬 新加坡 2 Netflix - 西瓜皮是真的皮, server: xchn1.dx001.top, port: 19842, type: vmess, uuid: 26677741-e289-3753-a10a-bc238d6551db, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇯🇵 日本 1 Nico Abema - 西瓜皮是真的皮, server: jsxc1.dx001.top, port: 19831, type: vmess, uuid: 26677741-e289-3753-a10a-bc238d6551db, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇯🇵 日本 2 Nico Abema - 西瓜皮是真的皮, server: cm-01.dx001.top, port: 19832, type: vmess, uuid: 26677741-e289-3753-a10a-bc238d6551db, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 香港|流量訂多了80TB白天給你們隨便用|公益 - 大白, server: 120.52.18.31, port: 51500, type: vmess, uuid: 695a9ec5-ea71-391c-ba3b-282b3a12af67, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, servername: cache-hk-2.cn-db.top, network: ws, ws-opts: {path: /db00, headers: {Host: cache-hk-2.cn-db.top}}, udp: true}
-- {name: 🇭🇰 香港|专线2G|GPT+流媒体|【dabai.in】<<前往官网|公益 - 大白, server: 120.52.18.31, port: 41082, type: vmess, uuid: 695a9ec5-ea71-391c-ba3b-282b3a12af67, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, servername: data-hk-2.cn-db.top, network: ws, ws-opts: {path: /db00, headers: {Host: data-hk-2.cn-db.top}}, udp: true}
-- {name: 🇭🇰 香港|专线2G|GPT+流媒体|【db01.in】<<前往官网|公益 - 大白, server: 120.52.18.31, port: 29639, type: vmess, uuid: 695a9ec5-ea71-391c-ba3b-282b3a12af67, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, servername: cache-hk-2.cn-db.top, network: ws, ws-opts: {path: /db00, headers: {Host: cache-hk-2.cn-db.top}}, udp: true}
-- {name: 🇭🇰 香港|专线2G|GPT+流媒体|【付费用户】油管秒开4K/8K|更多地区接入|公益 - 大白, server: 120.52.18.31, port: 24887, type: vmess, uuid: 695a9ec5-ea71-391c-ba3b-282b3a12af67, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, servername: cache-hk-1.cn-db.top, network: ws, ws-opts: {path: /db00, headers: {Host: cache-hk-1.cn-db.top}}, udp: true}
-- {name: 🇭🇰 香港|专线2G|GPT+流媒体|【免费用户】油管稳2K@30/限速稳720P|公益 - 大白, server: 120.52.18.31, port: 44183, type: vmess, uuid: 695a9ec5-ea71-391c-ba3b-282b3a12af67, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, servername: data-hk-3.cn-db.top, network: ws, ws-opts: {path: /db00, headers: {Host: data-hk-3.cn-db.top}}, udp: true}
-- {name: 🇭🇰 香港|专线2G|GPT+流媒体|【提供套餐】免费/按量不限时/不按量限时|公益 - 大白, server: 120.52.18.31, port: 63669, type: vmess, uuid: 695a9ec5-ea71-391c-ba3b-282b3a12af67, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, servername: cache-hk-2.cn-db.top, network: ws, ws-opts: {path: /db00, headers: {Host: cache-hk-2.cn-db.top}}, udp: true}
-- {name: 🇭🇰 香港|专线2G|GPT+流媒体|【邀请用户】|最高返还40%|公益 - 大白, server: 120.52.18.31, port: 27326, type: vmess, uuid: 695a9ec5-ea71-391c-ba3b-282b3a12af67, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, servername: cache-hk-1.cn-db.top, network: ws, ws-opts: {path: /db00, headers: {Host: cache-hk-1.cn-db.top}}, udp: true}
-- {name: '🇭🇰 香港|专线2G|GPT+流媒体|【节点优先级】[按量]>[不限量]>[免费]>[公共订阅]|公益 - 大白', server: 120.52.18.31, port: 44003, type: vmess, uuid: 695a9ec5-ea71-391c-ba3b-282b3a12af67, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, servername: data-hk-1.cn-db.top, network: ws, ws-opts: {path: /db00, headers: {Host: data-hk-1.cn-db.top}}, udp: true}
+- {name: 🇭🇰 香港|流量訂多了80TB白天給你們隨便用|公益 - 大白, server: 120.52.18.31, port: 44003, type: vmess, uuid: 695a9ec5-ea71-391c-ba3b-282b3a12af67, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, servername: cache-hk-2.cn-db.top, network: ws, ws-opts: {path: /db00, headers: {Host: cache-hk-2.cn-db.top}}, udp: true}
+- {name: 🇭🇰 香港|专线2G|GPT+流媒体|【dabai.in】<<前往官网|公益 - 大白, server: 120.52.18.31, port: 51500, type: vmess, uuid: 695a9ec5-ea71-391c-ba3b-282b3a12af67, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, servername: data-hk-2.cn-db.top, network: ws, ws-opts: {path: /db00, headers: {Host: data-hk-2.cn-db.top}}, udp: true}
+- {name: 🇭🇰 香港|专线2G|GPT+流媒体|【db01.in】<<前往官网|公益 - 大白, server: 120.52.18.31, port: 44183, type: vmess, uuid: 695a9ec5-ea71-391c-ba3b-282b3a12af67, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, servername: cache-hk-2.cn-db.top, network: ws, ws-opts: {path: /db00, headers: {Host: cache-hk-2.cn-db.top}}, udp: true}
+- {name: 🇭🇰 香港|专线2G|GPT+流媒体|【付费用户】油管秒开4K/8K|更多地区接入|公益 - 大白, server: 120.52.18.31, port: 41082, type: vmess, uuid: 695a9ec5-ea71-391c-ba3b-282b3a12af67, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, servername: cache-hk-1.cn-db.top, network: ws, ws-opts: {path: /db00, headers: {Host: cache-hk-1.cn-db.top}}, udp: true}
+- {name: 🇭🇰 香港|专线2G|GPT+流媒体|【免费用户】油管稳2K@30/限速稳720P|公益 - 大白, server: 120.52.18.31, port: 63669, type: vmess, uuid: 695a9ec5-ea71-391c-ba3b-282b3a12af67, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, servername: data-hk-3.cn-db.top, network: ws, ws-opts: {path: /db00, headers: {Host: data-hk-3.cn-db.top}}, udp: true}
+- {name: 🇭🇰 香港|专线2G|GPT+流媒体|【提供套餐】免费/按量不限时/不按量限时|公益 - 大白, server: 120.52.18.31, port: 27326, type: vmess, uuid: 695a9ec5-ea71-391c-ba3b-282b3a12af67, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, servername: cache-hk-2.cn-db.top, network: ws, ws-opts: {path: /db00, headers: {Host: cache-hk-2.cn-db.top}}, udp: true}
+- {name: 🇭🇰 香港|专线2G|GPT+流媒体|【邀请用户】|最高返还40%|公益 - 大白, server: 120.52.18.31, port: 24887, type: vmess, uuid: 695a9ec5-ea71-391c-ba3b-282b3a12af67, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, servername: cache-hk-1.cn-db.top, network: ws, ws-opts: {path: /db00, headers: {Host: cache-hk-1.cn-db.top}}, udp: true}
+- {name: '🇭🇰 香港|专线2G|GPT+流媒体|【节点优先级】[按量]>[不限量]>[免费]>[公共订阅]|公益 - 大白', server: 120.52.18.31, port: 29639, type: vmess, uuid: 695a9ec5-ea71-391c-ba3b-282b3a12af67, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, servername: data-hk-1.cn-db.top, network: ws, ws-opts: {path: /db00, headers: {Host: data-hk-1.cn-db.top}}, udp: true}
 - {name: 🇹🇼 Taiwan - 番茄云, server: tw.fanqiecloud.top, port: 48875, type: ss, cipher: chacha20-ietf-poly1305, password: b20baed2-2398-46fb-9e62-6adbe391464a, udp: true}
 - {name: 🇹🇼 Taiwan 2 - 番茄云, server: dl4.fanqiecloud.top, port: 2086, type: vmess, uuid: b20baed2-2398-46fb-9e62-6adbe391464a, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /sssddd, headers: {Host: cf-tw.fanqiecloud.top}}, udp: true}
 - {name: 🇰🇷 South Korea - 番茄云, server: kr.fanqiecloud.top, port: 24954, type: ss, cipher: chacha20-ietf-poly1305, password: b20baed2-2398-46fb-9e62-6adbe391464a, udp: true}
@@ -1062,9 +1065,6 @@ proxies:
 - {name: '🇸🇬 [vip①]新加坡1 - MG Network', server: 12.v2-ray.cyou, port: 23612, type: vmess, uuid: ad9535f2-bdba-32fd-8200-07cb6a8cb186, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 12.v2-ray.cyou}}, udp: true}
 - {name: '🇯🇵 [vip①]日本1 - MG Network', server: 8.v2-ray.cyou, port: 23608, type: vmess, uuid: ad9535f2-bdba-32fd-8200-07cb6a8cb186, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: '🇯🇵 [vip①]日本2 - MG Network', server: 19.v2-ray.cyou, port: 23619, type: vmess, uuid: ad9535f2-bdba-32fd-8200-07cb6a8cb186, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 19.v2-ray.cyou}}, udp: true}
-- {name: 🇰🇷 白银vip｜直链｜韩国｜vvSoc105 - 永动机, server: zfkr1.30803080.xyz, port: 20220, type: vmess, uuid: c63b29a4-fba0-470a-a7d5-df855574b2f4, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /yongdong, headers: {Host: yongdong.xyz}}, udp: true}
-- {name: 🇰🇷 白银vip｜直链｜韩国｜vvSoc106 - 永动机, server: zfkr1.30803080.xyz, port: 20221, type: vmess, uuid: c63b29a4-fba0-470a-a7d5-df855574b2f4, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /yongdong, headers: {Host: yongdong.xyz}}, udp: true}
-- {name: 🇰🇷 白银vip｜直链｜韩国｜vvSoc84 - 永动机, server: zfkr1.30803080.xyz, port: 20223, type: vmess, uuid: c63b29a4-fba0-470a-a7d5-df855574b2f4, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /yongdong, headers: {Host: yongdong.xyz}}, udp: true}
 - {name: 🇰🇷 白银vip｜直链｜首尔｜vv26 - 永动机, server: ser.yongdong.xyz, port: 20026, type: vmess, uuid: c63b29a4-fba0-470a-a7d5-df855574b2f4, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /yongdong, headers: {Host: yongdong.xyz}}, udp: true}
 - {name: 🇰🇷 白银vip｜直链｜首尔｜vv27 - 永动机, server: ser.yongdong.xyz, port: 20027, type: vmess, uuid: c63b29a4-fba0-470a-a7d5-df855574b2f4, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /yongdong, headers: {Host: yongdong.xyz}}, udp: true}
 - {name: 🇰🇷 白银vip｜直链｜首尔｜vv28 - 永动机, server: ser.yongdong.xyz, port: 20028, type: vmess, uuid: c63b29a4-fba0-470a-a7d5-df855574b2f4, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /yongdong, headers: {Host: yongdong.xyz}}, udp: true}
@@ -1074,6 +1074,9 @@ proxies:
 - {name: 🇺🇸 白银vip｜中转 -> 美国｜vvSoc145 - 永动机, server: zfkr1.30803080.xyz, port: 20210, type: vmess, uuid: c63b29a4-fba0-470a-a7d5-df855574b2f4, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /yongdong, headers: {Host: yongdong.xyz}}, udp: true}
 - {name: 🇺🇸 白银vip｜中转 -> 美国｜vvSoc146 - 永动机, server: zfkr1.30803080.xyz, port: 20211, type: vmess, uuid: c63b29a4-fba0-470a-a7d5-df855574b2f4, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /yongdong, headers: {Host: yongdong.xyz}}, udp: true}
 - {name: 🇺🇸 白银vip｜中转 -> 美国｜vvSoc155 - 永动机, server: zfkr1.30803080.xyz, port: 20212, type: vmess, uuid: c63b29a4-fba0-470a-a7d5-df855574b2f4, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /yongdong, headers: {Host: yongdong.xyz}}, udp: true}
+- {name: 🇭🇰 白银vip｜中转 -> 香港｜vvSoc136 - 永动机, server: zfkr1.30803080.xyz, port: 20210, type: vmess, uuid: c63b29a4-fba0-470a-a7d5-df855574b2f4, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /yongdong, headers: {Host: yongdong.xyz}}, udp: true}
+- {name: 🇭🇰 白银vip｜中转 -> 香港｜vvSoc137 - 永动机, server: zfkr1.30803080.xyz, port: 20211, type: vmess, uuid: c63b29a4-fba0-470a-a7d5-df855574b2f4, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /yongdong, headers: {Host: yongdong.xyz}}, udp: true}
+- {name: 🇭🇰 白银vip｜中转 -> 香港｜vvSoc142 - 永动机, server: zfkr1.30803080.xyz, port: 20212, type: vmess, uuid: c63b29a4-fba0-470a-a7d5-df855574b2f4, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /yongdong, headers: {Host: yongdong.xyz}}, udp: true}
 - {name: 🇭🇰 黄金vip｜直链｜香港｜vv10 - 永动机, server: hk.yongdong.xyz, port: 20010, type: vmess, uuid: c63b29a4-fba0-470a-a7d5-df855574b2f4, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /yongdong, headers: {Host: yongdong.xyz}}, udp: true}
 - {name: 🇭🇰 黄金vip｜直链｜香港｜vv12 - 永动机, server: hk.yongdong.xyz, port: 20012, type: vmess, uuid: c63b29a4-fba0-470a-a7d5-df855574b2f4, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /yongdong, headers: {Host: yongdong.xyz}}, udp: true}
 - {name: 🇭🇰 黄金vip｜直链｜香港｜vv13 - 永动机, server: hk.yongdong.xyz, port: 20013, type: vmess, uuid: c63b29a4-fba0-470a-a7d5-df855574b2f4, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /yongdong, headers: {Host: yongdong.xyz}}, udp: true}

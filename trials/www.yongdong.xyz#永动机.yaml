@@ -28,6 +28,9 @@ proxy-groups:
   interval: 30
   tolerance: 100
   proxies: &id001
+  - 🇭🇰 白银vip｜中转 -> 香港｜vvSoc136 - 永动机
+  - 🇭🇰 白银vip｜中转 -> 香港｜vvSoc137 - 永动机
+  - 🇭🇰 白银vip｜中转 -> 香港｜vvSoc142 - 永动机
   - 🇭🇰 黄金vip｜直链｜香港｜vv10 - 永动机
   - 🇭🇰 黄金vip｜直链｜香港｜vv12 - 永动机
   - 🇭🇰 黄金vip｜直链｜香港｜vv13 - 永动机
@@ -48,9 +51,6 @@ proxy-groups:
   - 🇺🇸 白银vip｜中转 -> 美国｜vvSoc145 - 永动机
   - 🇺🇸 白银vip｜中转 -> 美国｜vvSoc146 - 永动机
   - 🇺🇸 白银vip｜中转 -> 美国｜vvSoc155 - 永动机
-  - 🇰🇷 白银vip｜直链｜韩国｜vvSoc105 - 永动机
-  - 🇰🇷 白银vip｜直链｜韩国｜vvSoc106 - 永动机
-  - 🇰🇷 白银vip｜直链｜韩国｜vvSoc84 - 永动机
   - 🇰🇷 白银vip｜直链｜首尔｜vv26 - 永动机
   - 🇰🇷 白银vip｜直链｜首尔｜vv27 - 永动机
   - 🇰🇷 白银vip｜直链｜首尔｜vv28 - 永动机
@@ -103,6 +103,9 @@ proxy-groups:
   interval: 15
   tolerance: 100
   proxies: &id002
+  - 🇭🇰 白银vip｜中转 -> 香港｜vvSoc136 - 永动机
+  - 🇭🇰 白银vip｜中转 -> 香港｜vvSoc137 - 永动机
+  - 🇭🇰 白银vip｜中转 -> 香港｜vvSoc142 - 永动机
   - 🇭🇰 黄金vip｜直链｜香港｜vv10 - 永动机
   - 🇭🇰 黄金vip｜直链｜香港｜vv12 - 永动机
   - 🇭🇰 黄金vip｜直链｜香港｜vv13 - 永动机
@@ -147,9 +150,6 @@ proxy-groups:
   interval: 30
   tolerance: 100
   proxies: &id006
-  - 🇰🇷 白银vip｜直链｜韩国｜vvSoc105 - 永动机
-  - 🇰🇷 白银vip｜直链｜韩国｜vvSoc106 - 永动机
-  - 🇰🇷 白银vip｜直链｜韩国｜vvSoc84 - 永动机
   - 🇰🇷 白银vip｜直链｜首尔｜vv26 - 永动机
   - 🇰🇷 白银vip｜直链｜首尔｜vv27 - 永动机
   - 🇰🇷 白银vip｜直链｜首尔｜vv28 - 永动机
@@ -187,12 +187,12 @@ proxies:
 - {name: 🇯🇵 白银vip｜直链｜日本｜vv07 - 永动机, server: rb.yongdong.xyz, port: 20007, type: vmess, uuid: c63b29a4-fba0-470a-a7d5-df855574b2f4, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /yongdong, headers: {Host: yongdong.xyz}}, udp: true}
 - {name: 🇯🇵 白银vip｜直链｜日本｜vv08 - 永动机, server: rb.yongdong.xyz, port: 20008, type: vmess, uuid: c63b29a4-fba0-470a-a7d5-df855574b2f4, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /yongdong, headers: {Host: yongdong.xyz}}, udp: true}
 - {name: 🇯🇵 白银vip｜直链｜日本｜vv09 - 永动机, server: rb.yongdong.xyz, port: 20009, type: vmess, uuid: c63b29a4-fba0-470a-a7d5-df855574b2f4, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /yongdong, headers: {Host: yongdong.xyz}}, udp: true}
-- {name: 🇰🇷 白银vip｜直链｜韩国｜vvSoc105 - 永动机, server: zfkr1.30803080.xyz, port: 20220, type: vmess, uuid: c63b29a4-fba0-470a-a7d5-df855574b2f4, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /yongdong, headers: {Host: yongdong.xyz}}, udp: true}
-- {name: 🇰🇷 白银vip｜直链｜韩国｜vvSoc106 - 永动机, server: zfkr1.30803080.xyz, port: 20221, type: vmess, uuid: c63b29a4-fba0-470a-a7d5-df855574b2f4, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /yongdong, headers: {Host: yongdong.xyz}}, udp: true}
-- {name: 🇰🇷 白银vip｜直链｜韩国｜vvSoc84 - 永动机, server: zfkr1.30803080.xyz, port: 20223, type: vmess, uuid: c63b29a4-fba0-470a-a7d5-df855574b2f4, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /yongdong, headers: {Host: yongdong.xyz}}, udp: true}
 - {name: 🇰🇷 白银vip｜直链｜首尔｜vv26 - 永动机, server: ser.yongdong.xyz, port: 20026, type: vmess, uuid: c63b29a4-fba0-470a-a7d5-df855574b2f4, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /yongdong, headers: {Host: yongdong.xyz}}, udp: true}
 - {name: 🇰🇷 白银vip｜直链｜首尔｜vv27 - 永动机, server: ser.yongdong.xyz, port: 20027, type: vmess, uuid: c63b29a4-fba0-470a-a7d5-df855574b2f4, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /yongdong, headers: {Host: yongdong.xyz}}, udp: true}
 - {name: 🇰🇷 白银vip｜直链｜首尔｜vv28 - 永动机, server: ser.yongdong.xyz, port: 20028, type: vmess, uuid: c63b29a4-fba0-470a-a7d5-df855574b2f4, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /yongdong, headers: {Host: yongdong.xyz}}, udp: true}
+- {name: 🇭🇰 白银vip｜中转 -> 香港｜vvSoc136 - 永动机, server: zfkr1.30803080.xyz, port: 20210, type: vmess, uuid: c63b29a4-fba0-470a-a7d5-df855574b2f4, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /yongdong, headers: {Host: yongdong.xyz}}, udp: true}
+- {name: 🇭🇰 白银vip｜中转 -> 香港｜vvSoc137 - 永动机, server: zfkr1.30803080.xyz, port: 20211, type: vmess, uuid: c63b29a4-fba0-470a-a7d5-df855574b2f4, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /yongdong, headers: {Host: yongdong.xyz}}, udp: true}
+- {name: 🇭🇰 白银vip｜中转 -> 香港｜vvSoc142 - 永动机, server: zfkr1.30803080.xyz, port: 20212, type: vmess, uuid: c63b29a4-fba0-470a-a7d5-df855574b2f4, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /yongdong, headers: {Host: yongdong.xyz}}, udp: true}
 - {name: 🇭🇰 黄金vip｜直链｜香港｜vv10 - 永动机, server: hk.yongdong.xyz, port: 20010, type: vmess, uuid: c63b29a4-fba0-470a-a7d5-df855574b2f4, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /yongdong, headers: {Host: yongdong.xyz}}, udp: true}
 - {name: 🇭🇰 黄金vip｜直链｜香港｜vv12 - 永动机, server: hk.yongdong.xyz, port: 20012, type: vmess, uuid: c63b29a4-fba0-470a-a7d5-df855574b2f4, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /yongdong, headers: {Host: yongdong.xyz}}, udp: true}
 - {name: 🇭🇰 黄金vip｜直链｜香港｜vv13 - 永动机, server: hk.yongdong.xyz, port: 20013, type: vmess, uuid: c63b29a4-fba0-470a-a7d5-df855574b2f4, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /yongdong, headers: {Host: yongdong.xyz}}, udp: true}
