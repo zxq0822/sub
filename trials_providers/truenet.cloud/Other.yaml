@@ -1,6 +1,0 @@
-%YAML 1.1
----
-proxies:
-- {name: 官网：真网.icu  (真实的互联网 - and for fresh air) - 真网 | 零元购, server: 1.1.1.1, port: 80, type: trojan, password: df805575-ae03-4626-9e88-7fafb639e2bb, sni: 1.1.1.1, skip-cert-verify: true, udp: true}
-- {name: 备用网址：零元购.xyz  (全场o元购，不用白不用） - 真网 | 零元购, server: 1.1.1.1, port: 80, type: trojan, password: df805575-ae03-4626-9e88-7fafb639e2bb, sni: 1.1.1.1, skip-cert-verify: true, udp: true}
-- {name: 通知：出售chatgpt，联系官网客服小姐姐 - 真网 | 零元购, server: 1.1.1.1, port: 80, type: trojan, password: df805575-ae03-4626-9e88-7fafb639e2bb, sni: 1.1.1.1, skip-cert-verify: true, udp: true}
