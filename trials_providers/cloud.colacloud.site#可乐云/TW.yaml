@@ -1,5 +1,5 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇹🇼 TW台湾 A - 可乐云, server: tw.colacloud.site, port: 48887, type: ss, cipher: chacha20-ietf-poly1305, password: 1f5e0024-5018-4b50-bead-5054fe0aa3a8, udp: true}
-- {name: 🇹🇼 TW台湾 B - 可乐云, server: tw.colacloud.site, port: 48886, type: ss, cipher: chacha20-ietf-poly1305, password: 1f5e0024-5018-4b50-bead-5054fe0aa3a8, udp: true}
+- {name: 🇹🇼 TW台湾 A - 可乐云, server: tw.colacloud.site, port: 48887, type: ss, cipher: chacha20-ietf-poly1305, password: b4551b0f-2c75-45f6-b7bf-cf0246f403e1, udp: true}
+- {name: 🇹🇼 TW台湾 B - 可乐云, server: tw.colacloud.site, port: 48886, type: ss, cipher: chacha20-ietf-poly1305, password: b4551b0f-2c75-45f6-b7bf-cf0246f403e1, udp: true}
