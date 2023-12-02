@@ -10,13 +10,17 @@ proxy-groups:
   type: select
   proxies:
   - ⚡ ‍低延迟
+  - 🇭🇰 ‍香港
   - 🇹🇼 ‍台湾
+  - 🇨🇳 ‍中国
   - 🇸🇬 ‍新加坡
   - 🇯🇵 ‍日本
   - 🇺🇸 ‍美国
   - 🎏 ‍其他
   - 👆🏻 ‍指定
+  - 👆🏻🇭🇰 ‍香港
   - 👆🏻🇹🇼 ‍台湾
+  - 👆🏻🇨🇳 ‍中国
   - 👆🏻🇸🇬 ‍新加坡
   - 👆🏻🇯🇵 ‍日本
   - 👆🏻🇺🇸 ‍美国
@@ -28,6 +32,7 @@ proxy-groups:
   interval: 30
   tolerance: 100
   proxies: &id001
+  - 🇭🇰 HK香港 A - 可乐云
   - 🇹🇼 TW台湾 A - 可乐云
   - 🇹🇼 TW台湾 B - 可乐云
   - 🇸🇬 SG新加坡 A - 可乐云
@@ -56,10 +61,14 @@ proxy-groups:
 - name: 📺 ‍B站
   type: select
   proxies:
+  - 🇨🇳 ‍中国
+  - 🇭🇰 ‍香港
   - 🇹🇼 ‍台湾
   - 🛩️ ‍墙内
   - 👆🏻 ‍指定
+  - 👆🏻🇭🇰 ‍香港
   - 👆🏻🇹🇼 ‍台湾
+  - 👆🏻🇨🇳 ‍中国
   - ✈️ ‍起飞
 - name: 🤖 ‍OpenAI+Bing
   type: select
@@ -83,12 +92,28 @@ proxy-groups:
   - ✈️ ‍起飞
   - 🛩️ ‍墙内
   - 💩 ‍广告
-- name: 🇹🇼 ‍台湾
+- name: 🇭🇰 ‍香港
   type: url-test
   url: https://i.ytimg.com/generate_204
   interval: 15
   tolerance: 100
   proxies: &id002
+  - 🇭🇰 HK香港 A - 可乐云
+- name: 🇹🇼 ‍台湾
+  type: url-test
+  url: https://i.ytimg.com/generate_204
+  interval: 15
+  tolerance: 100
+  proxies: &id003
+  - 🇹🇼 TW台湾 A - 可乐云
+  - 🇹🇼 TW台湾 B - 可乐云
+- name: 🇨🇳 ‍中国
+  type: url-test
+  url: https://i.ytimg.com/generate_204
+  interval: 15
+  tolerance: 100
+  proxies: &id004
+  - 🇭🇰 HK香港 A - 可乐云
   - 🇹🇼 TW台湾 A - 可乐云
   - 🇹🇼 TW台湾 B - 可乐云
 - name: 🇸🇬 ‍新加坡
@@ -96,7 +121,7 @@ proxy-groups:
   url: https://i.ytimg.com/generate_204
   interval: 15
   tolerance: 100
-  proxies: &id003
+  proxies: &id005
   - 🇸🇬 SG新加坡 A - 可乐云
   - 🇸🇬 SG新加坡 B - 可乐云
 - name: 🇯🇵 ‍日本
@@ -104,7 +129,7 @@ proxy-groups:
   url: https://i.ytimg.com/generate_204
   interval: 15
   tolerance: 100
-  proxies: &id004
+  proxies: &id006
   - 🇯🇵 JP日本 A - 可乐云
   - 🇯🇵 JP日本 B - 可乐云
 - name: 🇺🇸 ‍美国
@@ -112,7 +137,7 @@ proxy-groups:
   url: https://i.ytimg.com/generate_204
   interval: 15
   tolerance: 300
-  proxies: &id005
+  proxies: &id007
   - 🇺🇸 US美国 A - 可乐云
   - 🇺🇸 US美国 B - 可乐云
 - name: 🎏 ‍其他
@@ -120,7 +145,7 @@ proxy-groups:
   url: https://i.ytimg.com/generate_204
   interval: 30
   tolerance: 100
-  proxies: &id006
+  proxies: &id008
   - 🇰🇷 KR韩国 A - 可乐云
   - 🇰🇷 KR韩国 B - 可乐云
   - 🇧🇷 BR巴西 A - 可乐云
@@ -129,24 +154,31 @@ proxy-groups:
 - name: 👆🏻 ‍指定
   type: select
   proxies: *id001
-- name: 👆🏻🇹🇼 ‍台湾
+- name: 👆🏻🇭🇰 ‍香港
   type: select
   proxies: *id002
-- name: 👆🏻🇸🇬 ‍新加坡
+- name: 👆🏻🇹🇼 ‍台湾
   type: select
   proxies: *id003
-- name: 👆🏻🇯🇵 ‍日本
+- name: 👆🏻🇨🇳 ‍中国
   type: select
   proxies: *id004
-- name: 👆🏻🇺🇸 ‍美国
+- name: 👆🏻🇸🇬 ‍新加坡
   type: select
   proxies: *id005
-- name: 👆🏻🎏 ‍其他
+- name: 👆🏻🇯🇵 ‍日本
   type: select
   proxies: *id006
+- name: 👆🏻🇺🇸 ‍美国
+  type: select
+  proxies: *id007
+- name: 👆🏻🎏 ‍其他
+  type: select
+  proxies: *id008
 proxies:
 - {name: 🇹🇼 TW台湾 A - 可乐云, server: tw.colacloud.site, port: 48887, type: ss, cipher: chacha20-ietf-poly1305, password: 1f5e0024-5018-4b50-bead-5054fe0aa3a8, udp: true}
 - {name: 🇹🇼 TW台湾 B - 可乐云, server: tw.colacloud.site, port: 48886, type: ss, cipher: chacha20-ietf-poly1305, password: 1f5e0024-5018-4b50-bead-5054fe0aa3a8, udp: true}
+- {name: 🇭🇰 HK香港 A - 可乐云, server: dl1.colacloud.free.hr, port: 80, type: vmess, uuid: 1f5e0024-5018-4b50-bead-5054fe0aa3a8, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /sssddd, headers: {Host: cf-hk.colacloud.free.hr}}, udp: true}
 - {name: 🇯🇵 JP日本 A - 可乐云, server: jp.colacloud.site, port: 28152, type: ss, cipher: chacha20-ietf-poly1305, password: 1f5e0024-5018-4b50-bead-5054fe0aa3a8, udp: true}
 - {name: 🇯🇵 JP日本 B - 可乐云, server: jp.colacloud.site, port: 28153, type: ss, cipher: chacha20-ietf-poly1305, password: 1f5e0024-5018-4b50-bead-5054fe0aa3a8, udp: true}
 - {name: 🇺🇸 US美国 A - 可乐云, server: us.colacloud.site, port: 24652, type: ss, cipher: chacha20-ietf-poly1305, password: 1f5e0024-5018-4b50-bead-5054fe0aa3a8, udp: true}
