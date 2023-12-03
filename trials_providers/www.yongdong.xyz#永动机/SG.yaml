@@ -1,6 +1,6 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇸🇬 白银vip｜直链｜新加坡｜vv09 - 永动机, server: xjp.yongdong.xyz, port: 20009, type: vmess, uuid: a9a5709e-6712-4ef6-ad86-1fdab3cb8038, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /yongdong, headers: {Host: yongdong.xyz}}, udp: true}
-- {name: 🇸🇬 白银vip｜直链｜新加坡｜vv08 - 永动机, server: xjp.yongdong.xyz, port: 20008, type: vmess, uuid: a9a5709e-6712-4ef6-ad86-1fdab3cb8038, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /yongdong, headers: {Host: yongdong.xyz}}, udp: true}
-- {name: 🇸🇬 白银vip｜直链｜新加坡｜vv07 - 永动机, server: xjp.yongdong.xyz, port: 20007, type: vmess, uuid: a9a5709e-6712-4ef6-ad86-1fdab3cb8038, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /yongdong, headers: {Host: yongdong.xyz}}, udp: true}
+- {name: 🇸🇬 白银vip｜直链｜新加坡｜vv09 - 永动机, server: xjp.yongdong.xyz, port: 20009, type: vmess, uuid: c79461a6-86dd-4465-a1b5-842c020d2af6, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /yongdong, headers: {Host: yongdong.xyz}}, udp: true}
+- {name: 🇸🇬 白银vip｜直链｜新加坡｜vv08 - 永动机, server: xjp.yongdong.xyz, port: 20008, type: vmess, uuid: c79461a6-86dd-4465-a1b5-842c020d2af6, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /yongdong, headers: {Host: yongdong.xyz}}, udp: true}
+- {name: 🇸🇬 白银vip｜直链｜新加坡｜vv07 - 永动机, server: xjp.yongdong.xyz, port: 20007, type: vmess, uuid: c79461a6-86dd-4465-a1b5-842c020d2af6, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /yongdong, headers: {Host: yongdong.xyz}}, udp: true}
