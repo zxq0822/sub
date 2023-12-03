@@ -7,3 +7,4 @@ proxies:
 - {name: 🇺🇲 美国丨洛杉矶 - Tannel中继网络服务, server: www.zztannel.com, port: 62014, type: vmess, uuid: 411971a5-d676-3ed7-a8d7-eef661210501, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇭🇰 香港A丨HKBN丨流媒体 - Tannel中继网络服务, server: www.zztannel.com, port: 62016, type: vmess, uuid: 411971a5-d676-3ed7-a8d7-eef661210501, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇭🇰 香港B丨BGP丨流媒体 - Tannel中继网络服务, server: www.zztannel.com, port: 62003, type: vmess, uuid: 411971a5-d676-3ed7-a8d7-eef661210501, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 香港福利BGP丨流媒体 - Tannel中继网络服务, server: www.zztannel.com, port: 62015, type: vmess, uuid: 411971a5-d676-3ed7-a8d7-eef661210501, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
