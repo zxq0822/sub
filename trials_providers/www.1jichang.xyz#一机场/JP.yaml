@@ -1,4 +1,4 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇯🇵 Japan-日本 - 一机场, server: frontend.yijianlian.app, port: 54530, type: trojan, password: 1044f3ab-d106-4c1a-a627-8b90176eed5f, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 Japan-日本 - 一机场, server: frontend.yijianlian.app, port: 54530, type: trojan, password: 1c550a18-3e91-4a40-9514-14ab0eb5a6ac, skip-cert-verify: true, udp: true}
