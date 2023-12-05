@@ -3,7 +3,7 @@
 proxies:
 - {name: 🇯🇵日本01 - 都是梦, server: jp.doushimeng.com, port: 21853, type: ss, cipher: chacha20-ietf-poly1305, password: 86775b07-e27c-4e24-8cf0-266098a2175b, udp: true}
 - {name: 🇯🇵 日本/JP | 广移 - 鸡鸡云, server: zzgzyd.jjyhk.com, port: 42383, type: ss, cipher: chacha20-ietf-poly1305, password: 64cb3955-b520-41d7-8cc5-9c29d92d5277, udp: true}
-- {name: 🇯🇵 Japan-日本 - 一机场, server: frontend.yijianlian.app, port: 54530, type: trojan, password: 1c01641c-2ad6-4d77-aa62-0d7263a11856, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 Japan-日本 - 一机场, server: frontend.yijianlian.app, port: 54530, type: trojan, password: c65d601c-4e92-4c9b-9400-7b9d8776a6bb, skip-cert-verify: true, udp: true}
 - {name: 🇯🇵 日本(免費) - bee.sulepay.com, server: v3nw.7n1gg.cn, port: 45613, type: ssr, cipher: aes-256-cfb, password: tsu9oi, protocol: auth_aes128_sha1, obfs: plain, protocol-param: 18853:ezTJc8, obfs-param: fd27718853.microsoft.com, udp: true}
 - {name: 🇯🇵 V4-4001|日本|x1.5 - 海豚云, server: dnspsdhaitun.ncsuwei.top, port: 14109, type: vmess, uuid: c5f7bf9b-7853-3811-8336-6fec1b9588db, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /12e884bf-1622-7ceb-3009-7d47fdfs2f9a5, headers: {Host: dnspsdhaitun.ncsuwei.top}}, udp: true}
 - {name: 🇯🇵 V4-4002|日本|x2.0 - 海豚云, server: dnspsdhaitun.ncsuwei.top, port: 14110, type: vmess, uuid: c5f7bf9b-7853-3811-8336-6fec1b9588db, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /12e884bf-1622-7ceb-3009-7d47fdfs2f9a5, headers: {Host: dnspsdhaitun.ncsuwei.top}}, udp: true}
