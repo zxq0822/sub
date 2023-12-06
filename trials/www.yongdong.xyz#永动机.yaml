@@ -26,6 +26,9 @@ proxy-groups:
   interval: 30
   tolerance: 100
   proxies: &id001
+  - 🇭🇰 白银vip｜直链｜香港vvJH178 - 永动机
+  - 🇭🇰 白银vip｜直链｜香港vvJH179 - 永动机
+  - 🇭🇰 白银vip｜直链｜香港vvJH180 - 永动机
   - 🇭🇰 白银vip｜中转 -> 香港｜vvSoc136 - 永动机
   - 🇭🇰 白银vip｜中转 -> 香港｜vvSoc162 - 永动机
   - 🇭🇰 白银vip｜中转 -> 香港｜vvSoc163 - 永动机
@@ -88,6 +91,9 @@ proxy-groups:
   interval: 15
   tolerance: 100
   proxies: &id002
+  - 🇭🇰 白银vip｜直链｜香港vvJH178 - 永动机
+  - 🇭🇰 白银vip｜直链｜香港vvJH179 - 永动机
+  - 🇭🇰 白银vip｜直链｜香港vvJH180 - 永动机
   - 🇭🇰 白银vip｜中转 -> 香港｜vvSoc136 - 永动机
   - 🇭🇰 白银vip｜中转 -> 香港｜vvSoc162 - 永动机
   - 🇭🇰 白银vip｜中转 -> 香港｜vvSoc163 - 永动机
@@ -140,6 +146,9 @@ proxy-groups:
   type: select
   proxies: *id005
 proxies:
+- {name: 🇭🇰 白银vip｜直链｜香港vvJH178 - 永动机, server: jhhk.yongdong.xyz, port: 20178, type: vmess, uuid: 53d5b8a1-7ad8-4849-8162-df6034cfdbe2, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: jhhk.yongdong.xyz}}, udp: true}
+- {name: 🇭🇰 白银vip｜直链｜香港vvJH179 - 永动机, server: jhhk.yongdong.xyz, port: 20179, type: vmess, uuid: 53d5b8a1-7ad8-4849-8162-df6034cfdbe2, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: jhhk.yongdong.xyz}}, udp: true}
+- {name: 🇭🇰 白银vip｜直链｜香港vvJH180 - 永动机, server: jhhk.yongdong.xyz, port: 20180, type: vmess, uuid: 53d5b8a1-7ad8-4849-8162-df6034cfdbe2, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: jhhk.yongdong.xyz}}, udp: true}
 - {name: 🇸🇬 白银vip｜直链｜新加坡｜vv09 - 永动机, server: xjp.yongdong.xyz, port: 20009, type: vmess, uuid: 53d5b8a1-7ad8-4849-8162-df6034cfdbe2, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /yongdong, headers: {Host: yongdong.xyz}}, udp: true}
 - {name: 🇸🇬 白银vip｜直链｜新加坡｜vv08 - 永动机, server: xjp.yongdong.xyz, port: 20008, type: vmess, uuid: 53d5b8a1-7ad8-4849-8162-df6034cfdbe2, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /yongdong, headers: {Host: yongdong.xyz}}, udp: true}
 - {name: 🇸🇬 白银vip｜直链｜新加坡｜vv07 - 永动机, server: xjp.yongdong.xyz, port: 20007, type: vmess, uuid: 53d5b8a1-7ad8-4849-8162-df6034cfdbe2, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /yongdong, headers: {Host: yongdong.xyz}}, udp: true}
