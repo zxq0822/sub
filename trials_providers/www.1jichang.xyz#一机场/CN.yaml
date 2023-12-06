@@ -1,4 +1,4 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇭🇰 Hongkong-香港 - 一机场, server: frontend.yijianlian.app, port: 54570, type: trojan, password: 4428a0fe-cf09-49c7-9eb5-d4bef0551f4c, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 Hongkong-香港 - 一机场, server: frontend.yijianlian.app, port: 54570, type: trojan, password: cf82acfc-7b90-445e-ac4a-56ce0a48305a, skip-cert-verify: true, udp: true}
