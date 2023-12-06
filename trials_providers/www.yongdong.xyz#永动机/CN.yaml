@@ -1,6 +1,4 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇭🇰 白银vip｜直链｜香港vvJH178 - 永动机, server: jhhk.yongdong.xyz, port: 20178, type: vmess, uuid: 53d5b8a1-7ad8-4849-8162-df6034cfdbe2, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: jhhk.yongdong.xyz}}, udp: true}
-- {name: 🇭🇰 白银vip｜直链｜香港vvJH179 - 永动机, server: jhhk.yongdong.xyz, port: 20179, type: vmess, uuid: 53d5b8a1-7ad8-4849-8162-df6034cfdbe2, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: jhhk.yongdong.xyz}}, udp: true}
-- {name: 🇭🇰 白银vip｜直链｜香港vvJH180 - 永动机, server: jhhk.yongdong.xyz, port: 20180, type: vmess, uuid: 53d5b8a1-7ad8-4849-8162-df6034cfdbe2, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: jhhk.yongdong.xyz}}, udp: true}
+- {name: 🇭🇰 白银vip｜中转 -> 香港 | vvJH178 - 永动机, server: zfkr1.30803080.xyz, port: 20246, type: vmess, uuid: 53d5b8a1-7ad8-4849-8162-df6034cfdbe2, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: zfkr1.30803080.xyz}}, udp: true}
