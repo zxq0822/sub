@@ -1,4 +1,4 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 距离下次重置剩余：30 天 - 一元云梯, server: yiyuanvpn.top, port: 8080, type: vmess, uuid: d5604ef5-1b1a-49ad-8477-7e73c352772f, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: yyjc-hk.shaniugpt.top}}, udp: true}
+- {name: 距离下次重置剩余：29 天 - 一元云梯, server: yiyuanvpn.top, port: 8080, type: vmess, uuid: d5604ef5-1b1a-49ad-8477-7e73c352772f, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: yyjc-hk.shaniugpt.top}}, udp: true}
