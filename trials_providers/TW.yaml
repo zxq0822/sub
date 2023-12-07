@@ -1,8 +1,8 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇹🇼台湾01 - 都是梦, server: dl1.doushimeng.com, port: 80, type: vmess, uuid: 0c11757d-4688-4608-8ed2-3d647036f950, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /asdas, headers: {Host: cf-tww.doushimeng.com}}, udp: true}
-- {name: 🇹🇼台湾02 - 都是梦, server: tw.doushimeng.com, port: 46661, type: ss, cipher: chacha20-ietf-poly1305, password: 0c11757d-4688-4608-8ed2-3d647036f950, udp: true}
+- {name: 🇹🇼台湾01 - 都是梦, server: dl1.doushimeng.com, port: 80, type: vmess, uuid: bb8d8c99-0fce-431a-874a-30720a52d676, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /asdas, headers: {Host: cf-tww.doushimeng.com}}, udp: true}
+- {name: 🇹🇼台湾02 - 都是梦, server: tw.doushimeng.com, port: 46661, type: ss, cipher: chacha20-ietf-poly1305, password: bb8d8c99-0fce-431a-874a-30720a52d676, udp: true}
 - {name: 🇹🇼 TW-板桥1-1 - 麻雀加速器 Sparrow, server: nbq11.ntbq.dynu.net, port: 443, type: vmess, uuid: e5640ff5-eef4-443c-9608-d4397ba5320e, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /b11, headers: {Host: nbq11.ntbq.dynu.net}}, udp: true}
 - {name: 🇹🇼 TW-板桥1-2 - 麻雀加速器 Sparrow, server: nbq12.ntbq.dynu.net, port: 443, type: vmess, uuid: e5640ff5-eef4-443c-9608-d4397ba5320e, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /b12, headers: {Host: nbq12.ntbq.dynu.net}}, udp: true}
 - {name: 🇹🇼 TW-板桥1-3 - 麻雀加速器 Sparrow, server: nbq13.ntbq.dynu.net, port: 443, type: vmess, uuid: e5640ff5-eef4-443c-9608-d4397ba5320e, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /b13, headers: {Host: nbq13.ntbq.dynu.net}}, udp: true}
