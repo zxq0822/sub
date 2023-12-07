@@ -4,8 +4,8 @@ proxies:
 - {name: 🇸🇬新加坡01 - 都是梦, server: sg3.doushimeng.com, port: 20052, type: ss, cipher: chacha20-ietf-poly1305, password: edb460f5-2d2d-4a89-adef-b89da4fe16c5, udp: true}
 - {name: 🇸🇬新加坡02 - 都是梦, server: sgggg.doushimeng.com, port: 20252, type: ss, cipher: chacha20-ietf-poly1305, password: edb460f5-2d2d-4a89-adef-b89da4fe16c5, udp: true}
 - {name: 🇸🇬新加坡03 - 都是梦, server: sg2.doushimeng.com, port: 20553, type: ss, cipher: chacha20-ietf-poly1305, password: edb460f5-2d2d-4a89-adef-b89da4fe16c5, udp: true}
-- {name: 🇸🇬 Singapore-新加坡 - 一机场, server: frontend.yijianlian.app, port: 54420, type: trojan, password: 01a2bfd5-5b11-46e1-9938-5a8d12234f55, skip-cert-verify: true, udp: true}
-- {name: 🇸🇬 Singapore2-新加坡2 - 一机场, server: frontend.yijianlian.app, port: 54591, type: trojan, password: 01a2bfd5-5b11-46e1-9938-5a8d12234f55, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬 Singapore-新加坡 - 一机场, server: frontend.yijianlian.app, port: 54420, type: trojan, password: b0f8fb5f-257c-497c-ac7f-660812d92b92, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬 Singapore2-新加坡2 - 一机场, server: frontend.yijianlian.app, port: 54591, type: trojan, password: b0f8fb5f-257c-497c-ac7f-660812d92b92, skip-cert-verify: true, udp: true}
 - {name: 🇸🇬 新加坡(免费) - bee.sulepay.com, server: freezhongzhuan.7n1gg.cn, port: 19546, type: ssr, cipher: aes-256-cfb, password: tsu9oi, protocol: auth_aes128_sha1, obfs: plain, protocol-param: 19029:NSmT2U, obfs-param: bd9bc19029.microsoft.com, udp: true}
 - {name: '🇸🇬 新加坡01 - 常用工具全解锁 & 高速安全,企业服务 | BigME.Pro', server: sg01.bigmeyear.org, port: 30234, type: ss, cipher: aes-128-gcm, password: cc5486b0-7264-4158-839f-25af4099dbf2, udp: true}
 - {name: '🇸🇬 新加坡02 - 常用工具全解锁 & 高速安全,企业服务 | BigME.Pro', server: sg02.bigmeyear.org, port: 30235, type: ss, cipher: aes-128-gcm, password: cc5486b0-7264-4158-839f-25af4099dbf2, udp: true}

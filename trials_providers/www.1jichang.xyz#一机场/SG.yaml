@@ -1,5 +1,5 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇸🇬 Singapore-新加坡 - 一机场, server: frontend.yijianlian.app, port: 54420, type: trojan, password: 01a2bfd5-5b11-46e1-9938-5a8d12234f55, skip-cert-verify: true, udp: true}
-- {name: 🇸🇬 Singapore2-新加坡2 - 一机场, server: frontend.yijianlian.app, port: 54591, type: trojan, password: 01a2bfd5-5b11-46e1-9938-5a8d12234f55, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬 Singapore-新加坡 - 一机场, server: frontend.yijianlian.app, port: 54420, type: trojan, password: b0f8fb5f-257c-497c-ac7f-660812d92b92, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬 Singapore2-新加坡2 - 一机场, server: frontend.yijianlian.app, port: 54591, type: trojan, password: b0f8fb5f-257c-497c-ac7f-660812d92b92, skip-cert-verify: true, udp: true}
