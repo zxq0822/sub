@@ -31,6 +31,8 @@ proxy-groups:
   - 🇭🇰 白银vip｜中转 -> 香港 | vvJH180 - 永动机
   - 🇯🇵 白银vip｜中转 -> 日本｜vvSoc128 - 永动机
   - 🇺🇸 白银vip｜中转 -> 美国｜vvSoc145 - 永动机
+  - 🇺🇸 白银vip｜中转 -> 美国｜vvSoc145 - 永动机 2
+  - 🇺🇸 白银vip｜中转 -> 美国｜vvSoc145 - 永动机 3
   - 🇰🇷 白银vip｜中转 -> 韩国 ｜vvSoc169 - 永动机
   - 🇰🇷 白银vip｜中转 -> 韩国｜vvSoc186 - 永动机
 - name: 🛩️ ‍墙内
@@ -94,6 +96,8 @@ proxy-groups:
   tolerance: 300
   proxies: &id004
   - 🇺🇸 白银vip｜中转 -> 美国｜vvSoc145 - 永动机
+  - 🇺🇸 白银vip｜中转 -> 美国｜vvSoc145 - 永动机 2
+  - 🇺🇸 白银vip｜中转 -> 美国｜vvSoc145 - 永动机 3
 - name: 🎏 ‍其他
   type: url-test
   url: https://i.ytimg.com/generate_204
@@ -125,6 +129,8 @@ proxies:
 - {name: 🇰🇷 白银vip｜中转 -> 韩国 ｜vvSoc169 - 永动机, server: zfkr1.30803080.xyz, port: 20242, type: vmess, uuid: 53d5b8a1-7ad8-4849-8162-df6034cfdbe2, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /yongdong, headers: {Host: yongdong.xyz}}, udp: true}
 - {name: 🇰🇷 白银vip｜中转 -> 韩国｜vvSoc186 - 永动机, server: zfkr1.30803080.xyz, port: 20243, type: vmess, uuid: 53d5b8a1-7ad8-4849-8162-df6034cfdbe2, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /yongdong, headers: {Host: yongdong.xyz}}, udp: true}
 - {name: 🇺🇸 白银vip｜中转 -> 美国｜vvSoc145 - 永动机, server: zfkr1.30803080.xyz, port: 20210, type: vmess, uuid: 53d5b8a1-7ad8-4849-8162-df6034cfdbe2, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /yongdong, headers: {Host: yongdong.xyz}}, udp: true}
+- {name: 🇺🇸 白银vip｜中转 -> 美国｜vvSoc145 - 永动机 2, server: zfkr1.30803080.xyz, port: 20211, type: vmess, uuid: 53d5b8a1-7ad8-4849-8162-df6034cfdbe2, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /yongdong, headers: {Host: yongdong.xyz}}, udp: true}
+- {name: 🇺🇸 白银vip｜中转 -> 美国｜vvSoc145 - 永动机 3, server: zfkr1.30803080.xyz, port: 20212, type: vmess, uuid: 53d5b8a1-7ad8-4849-8162-df6034cfdbe2, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /yongdong, headers: {Host: yongdong.xyz}}, udp: true}
 rules:
 - DOMAIN-SUFFIX,acl4.ssr,DIRECT
 - DOMAIN-SUFFIX,ip6-localhost,DIRECT
