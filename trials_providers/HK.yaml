@@ -1,7 +1,11 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇭🇰 Hongkong-香港 - 一机场, server: frontend.yijianlian.app, port: 54570, type: trojan, password: 4227e83e-707c-45fa-a128-13331a496842, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 Hongkong-香港 - 一机场, server: frontend.yijianlian.app, port: 54570, type: trojan, password: 2a7e984a-6ef6-4b6e-b2e1-a5d895e1155d, skip-cert-verify: true, udp: true}
+- {name: '🇭🇰 香港01 - 常用工具全解锁 & 高速安全,企业服务 | BigME.Pro', server: hk01.bigmeyear.org, port: 20001, type: ss, cipher: aes-128-gcm, password: cc5486b0-7264-4158-839f-25af4099dbf2, udp: true}
+- {name: '🇭🇰 香港02 - 常用工具全解锁 & 高速安全,企业服务 | BigME.Pro', server: hk02.bigmeyear.org, port: 20232, type: ss, cipher: aes-128-gcm, password: cc5486b0-7264-4158-839f-25af4099dbf2, udp: true}
+- {name: '🇭🇰 香港03 - 常用工具全解锁 & 高速安全,企业服务 | BigME.Pro', server: hk03.bigmeyear.org, port: 20233, type: ss, cipher: aes-128-gcm, password: cc5486b0-7264-4158-839f-25af4099dbf2, udp: true}
+- {name: '🇭🇰 香港04 - 常用工具全解锁 & 高速安全,企业服务 | BigME.Pro', server: hk04.bigmeyear.org, port: 20234, type: ss, cipher: aes-128-gcm, password: cc5486b0-7264-4158-839f-25af4099dbf2, udp: true}
 - {name: 🇭🇰 V4-4009|香港|x1.0 - 海豚云, server: dnspsdhaitun.ncsuwei.top, port: 13004, type: vmess, uuid: ad2bd7b9-2ec5-3625-bacb-4c47fcd0004a, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /ef483582-6269-468c-93af-c511eccb8a69, headers: {Host: dnspsdhaitun.ncsuwei.top}}, udp: true}
 - {name: 🇭🇰 V4-4010|香港|x2.0 - 海豚云, server: dnspsdhaitun.ncsuwei.top, port: 13002, type: vmess, uuid: ad2bd7b9-2ec5-3625-bacb-4c47fcd0004a, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /ef483582-6269-468c-93af-c511eccb8a69, headers: {Host: dnspsdhaitun.ncsuwei.top}}, udp: true}
 - {name: 🇭🇰 V4-4011|香港|x2.0 - 海豚云, server: dnspsdhaitun.ncsuwei.top, port: 17002, type: vmess, uuid: ad2bd7b9-2ec5-3625-bacb-4c47fcd0004a, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /af483582-6269-468c-93af-c512ec2b1a61, headers: {Host: dnspsdhaitun.ncsuwei.top}}, udp: true}
