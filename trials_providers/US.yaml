@@ -28,7 +28,7 @@ proxies:
 - {name: 🇺🇸美国01 - 都是梦, server: us4.doushimeng.com, port: 20802, type: ss, cipher: chacha20-ietf-poly1305, password: 7d4b7866-6edb-44de-8d12-c145dabf46cb, udp: true}
 - {name: 🇺🇸美国02 - 都是梦, server: dl6.doushimeng.com, port: 2095, type: vmess, uuid: 7d4b7866-6edb-44de-8d12-c145dabf46cb, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /asdas, headers: {Host: cf-usss.doushimeng.com}}, udp: true}
 - {name: 🇺🇸美国03 - 都是梦, server: us.doushimeng.com, port: 20603, type: ss, cipher: chacha20-ietf-poly1305, password: 7d4b7866-6edb-44de-8d12-c145dabf46cb, udp: true}
-- {name: 🇺🇸 USA-美国 - 一机场, server: frontend.yijianlian.app, port: 54430, type: trojan, password: 9b16fdb8-96b1-4c8f-86a7-c19f99299a09, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 USA-美国 - 一机场, server: frontend.yijianlian.app, port: 54430, type: trojan, password: 8ff56492-62f9-4497-a615-2c56600b085a, skip-cert-verify: true, udp: true}
 - {name: 🇺🇸 洛杉矶/US | 广移 - 鸡鸡云, server: zzgzyd.jjyhk.com, port: 39618, type: ss, cipher: chacha20-ietf-poly1305, password: 64cb3955-b520-41d7-8cc5-9c29d92d5277, udp: true}
 - {name: 🇺🇸 US美国 A - 可乐云, server: us.colacloud.site, port: 24652, type: ss, cipher: chacha20-ietf-poly1305, password: ffd7d244-bde2-4103-9d9f-5d939d3c0b16, udp: true}
 - {name: 🇺🇸 US美国 B - 可乐云, server: us.colacloud.site, port: 24662, type: ss, cipher: chacha20-ietf-poly1305, password: ffd7d244-bde2-4103-9d9f-5d939d3c0b16, udp: true}

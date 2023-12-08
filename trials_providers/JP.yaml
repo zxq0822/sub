@@ -21,7 +21,7 @@ proxies:
 - {name: 🇯🇵 日本SH12-1.3x - 小巫云 ☁️, server: shcm3.r1u.cn, port: 16755, type: ss, cipher: aes-128-gcm, password: b1aa1c24-5e14-4581-9fd4-cd9350e1bc35, udp: true}
 - {name: 🇯🇵 日本11-1.3x - 小巫云 ☁️, server: xx.white51.top, port: 44437, type: ss, cipher: aes-128-gcm, password: b1aa1c24-5e14-4581-9fd4-cd9350e1bc35, udp: true}
 - {name: 🇯🇵日本01 - 都是梦, server: jp.doushimeng.com, port: 21853, type: ss, cipher: chacha20-ietf-poly1305, password: 7d4b7866-6edb-44de-8d12-c145dabf46cb, udp: true}
-- {name: 🇯🇵 Japan-日本 - 一机场, server: frontend.yijianlian.app, port: 54530, type: trojan, password: 9b16fdb8-96b1-4c8f-86a7-c19f99299a09, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 Japan-日本 - 一机场, server: frontend.yijianlian.app, port: 54530, type: trojan, password: 8ff56492-62f9-4497-a615-2c56600b085a, skip-cert-verify: true, udp: true}
 - {name: 🇯🇵 日本/JP | 广移 - 鸡鸡云, server: zzgzyd.jjyhk.com, port: 42383, type: ss, cipher: chacha20-ietf-poly1305, password: 64cb3955-b520-41d7-8cc5-9c29d92d5277, udp: true}
 - {name: 🇯🇵 JP日本 A - 可乐云, server: jp.colacloud.site, port: 28152, type: ss, cipher: chacha20-ietf-poly1305, password: ffd7d244-bde2-4103-9d9f-5d939d3c0b16, udp: true}
 - {name: 🇯🇵 JP日本 B - 可乐云, server: jp.colacloud.site, port: 28153, type: ss, cipher: chacha20-ietf-poly1305, password: ffd7d244-bde2-4103-9d9f-5d939d3c0b16, udp: true}
