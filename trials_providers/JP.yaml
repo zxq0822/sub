@@ -3,7 +3,7 @@
 proxies:
 - {name: 🇯🇵日本01 - 都是梦, server: jp.doushimeng.com, port: 21853, type: ss, cipher: chacha20-ietf-poly1305, password: edb460f5-2d2d-4a89-adef-b89da4fe16c5, udp: true}
 - {name: 🇯🇵 日本/JP | 广移 - 鸡鸡云, server: zzgzyd.jjyhk.com, port: 42383, type: ss, cipher: chacha20-ietf-poly1305, password: 64cb3955-b520-41d7-8cc5-9c29d92d5277, udp: true}
-- {name: 🇯🇵 Japan-日本 - 一机场, server: frontend.yijianlian.app, port: 54530, type: trojan, password: 1d29537a-3ec0-4775-97ec-c5773b6e4103, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 Japan-日本 - 一机场, server: frontend.yijianlian.app, port: 54530, type: trojan, password: 6450dbaa-56a2-49e1-b2f0-2116f30ad4a5, skip-cert-verify: true, udp: true}
 - {name: 🇯🇵 日本|01|京东 - 猪网-PIGVIP, server: rb01.pigvip.xyz, port: 2380, type: vmess, uuid: b55584a5-1def-4321-9450-acefe0091051, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: pigvip.xyz}}, udp: true}
 - {name: 🇯🇵 日本 | Trojan | 东京 - 猪网-PIGVIP, server: rb01.pigvip.xyz, port: 2381, type: trojan, password: b55584a5-1def-4321-9450-acefe0091051, sni: rb01.pigvip.xyz, skip-cert-verify: true, udp: true}
 - {name: 🇯🇵 日本(免費) - bee.sulepay.com, server: v3nw.7n1gg.cn, port: 45613, type: ssr, cipher: aes-256-cfb, password: tsu9oi, protocol: auth_aes128_sha1, obfs: plain, protocol-param: 19029:NSmT2U, obfs-param: bd9bc19029.microsoft.com, udp: true}

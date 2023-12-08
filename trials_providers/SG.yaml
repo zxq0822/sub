@@ -4,8 +4,8 @@ proxies:
 - {name: 🇸🇬新加坡01 - 都是梦, server: sg3.doushimeng.com, port: 20052, type: ss, cipher: chacha20-ietf-poly1305, password: edb460f5-2d2d-4a89-adef-b89da4fe16c5, udp: true}
 - {name: 🇸🇬新加坡02 - 都是梦, server: sgggg.doushimeng.com, port: 20252, type: ss, cipher: chacha20-ietf-poly1305, password: edb460f5-2d2d-4a89-adef-b89da4fe16c5, udp: true}
 - {name: 🇸🇬新加坡03 - 都是梦, server: sg2.doushimeng.com, port: 20553, type: ss, cipher: chacha20-ietf-poly1305, password: edb460f5-2d2d-4a89-adef-b89da4fe16c5, udp: true}
-- {name: 🇸🇬 Singapore-新加坡 - 一机场, server: frontend.yijianlian.app, port: 54420, type: trojan, password: 1d29537a-3ec0-4775-97ec-c5773b6e4103, skip-cert-verify: true, udp: true}
-- {name: 🇸🇬 Singapore2-新加坡2 - 一机场, server: frontend.yijianlian.app, port: 54591, type: trojan, password: 1d29537a-3ec0-4775-97ec-c5773b6e4103, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬 Singapore-新加坡 - 一机场, server: frontend.yijianlian.app, port: 54420, type: trojan, password: 6450dbaa-56a2-49e1-b2f0-2116f30ad4a5, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬 Singapore2-新加坡2 - 一机场, server: frontend.yijianlian.app, port: 54591, type: trojan, password: 6450dbaa-56a2-49e1-b2f0-2116f30ad4a5, skip-cert-verify: true, udp: true}
 - {name: 🇸🇬 新加坡|01|新加坡 - 猪网-PIGVIP, server: xjp01.pigvip.xyz, port: 2380, type: vmess, uuid: b55584a5-1def-4321-9450-acefe0091051, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: pigvip.xyz}}, udp: true}
 - {name: 🇸🇬 新加坡 | Trojan - 猪网-PIGVIP, server: xjp01.pigvip.xyz, port: 2381, type: trojan, password: b55584a5-1def-4321-9450-acefe0091051, sni: xjp01.pigvip.xyz, skip-cert-verify: true, udp: true}
 - {name: 🇸🇬 新加坡(免费) - bee.sulepay.com, server: freezhongzhuan.7n1gg.cn, port: 19546, type: ssr, cipher: aes-256-cfb, password: tsu9oi, protocol: auth_aes128_sha1, obfs: plain, protocol-param: 19029:NSmT2U, obfs-param: bd9bc19029.microsoft.com, udp: true}
