@@ -1,4 +1,4 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 官网🌎：https://www.51jichang.xyz - 一机场, server: frontend.yijianlian.app, port: 54570, type: trojan, password: 333b1a8b-03b1-4f1d-9aa6-7c48104c0036, skip-cert-verify: true, udp: true}
+- {name: 官网🌎：https://www.51jichang.xyz - 一机场, server: frontend.yijianlian.app, port: 54570, type: trojan, password: 22b37aec-cc1f-484e-af61-776c9308de90, skip-cert-verify: true, udp: true}
