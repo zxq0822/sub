@@ -10,15 +10,19 @@ proxy-groups:
   type: select
   proxies:
   - ⚡ ‍低延迟
+  - 🇭🇰 ‍香港
+  - 🇹🇼 ‍台湾
+  - 🇨🇳 ‍中国
   - 🇸🇬 ‍新加坡
   - 🇯🇵 ‍日本
   - 🇺🇸 ‍美国
-  - 🎏 ‍其他
   - 👆🏻 ‍指定
+  - 👆🏻🇭🇰 ‍香港
+  - 👆🏻🇹🇼 ‍台湾
+  - 👆🏻🇨🇳 ‍中国
   - 👆🏻🇸🇬 ‍新加坡
   - 👆🏻🇯🇵 ‍日本
   - 👆🏻🇺🇸 ‍美国
-  - 👆🏻🎏 ‍其他
   - DIRECT
 - name: ⚡ ‍低延迟
   type: url-test
@@ -26,34 +30,38 @@ proxy-groups:
   interval: 30
   tolerance: 100
   proxies: &id001
-  - 🇸🇬 新加坡|01|新加坡 - 猪网-PIGVIP
-  - 🇸🇬 新加坡 | Trojan - 猪网-PIGVIP
-  - 🇯🇵 日本|01|京东 - 猪网-PIGVIP
-  - 🇯🇵 日本 | Trojan | 东京 - 猪网-PIGVIP
-  - 🇺🇸 美国|01|西雅图 - 猪网-PIGVIP
-  - 🇺🇸 美国|02|纽约 - 猪网-PIGVIP
-  - 🇺🇸 美国 | Trojan | 纽约 - 猪网-PIGVIP
-  - 🇺🇸 美国 | Trojan | 西雅图 - 猪网-PIGVIP
-  - 🇮🇱 以色列|01|特拉维夫 - 猪网-PIGVIP
-  - 🇦🇺 澳大利亚|01|悉尼 - 猪网-PIGVIP
-  - 🇰🇷 韩国|01|首尔 - 猪网-PIGVIP
-  - 🇬🇧 英国|01|伦敦 - 猪网-PIGVIP
-  - 🇩🇪 德国|01|法兰克福 - 猪网-PIGVIP
-  - 🇨🇦 加拿大 |01| 多伦多 - 猪网-PIGVIP
-  - 🇿🇦 南非|01 - 猪网-PIGVIP
-  - 🇮🇳 印度 |01| 孟买 - 猪网-PIGVIP
-  - 🇳🇱 荷兰|01 - 猪网-PIGVIP
-  - 🇫🇷 法国 |01| 巴黎 - 猪网-PIGVIP
-  - 🇩🇪 德国 | Trojan | 法兰克福 - 猪网-PIGVIP
-  - 🇬🇧 英国 | Trojan | 伦敦 - 猪网-PIGVIP
-  - 🇰🇷 韩国 | Trojan | 首尔 - 猪网-PIGVIP
-  - 🇦🇺 澳大利亚 | Trojan | 悉尼 - 猪网-PIGVIP
-  - 🇮🇱 以色列 | Trojan | 特拉维夫 - 猪网-PIGVIP
-  - 🇨🇦 加拿大 | Trojan | 多伦多 - 猪网-PIGVIP
-  - 🇿🇦 南非 | Trojan - 猪网-PIGVIP
-  - 🇮🇳 印度 | Trojan | 孟买 - 猪网-PIGVIP
-  - 🇳🇱 荷兰 | Trojan - 猪网-PIGVIP
-  - 🇫🇷 法国 | Trojan | 巴黎 - 猪网-PIGVIP
+  - 🇭🇰 香港SHA1-1x - 小巫云 ☁️
+  - 🇭🇰 香港5-1x - 小巫云 ☁️
+  - 🇭🇰 香港6-1x - 小巫云 ☁️
+  - 🇭🇰 香港17-1x - 小巫云 ☁️
+  - 🇭🇰 香港8-1x - 小巫云 ☁️
+  - 🇭🇰 香港9-1x - 小巫云 ☁️
+  - 🇭🇰 香港21-1x - 小巫云 ☁️
+  - 🇹🇼 台湾02--1.3x - 小巫云 ☁️
+  - 🇹🇼 台湾10--1.3x - 小巫云 ☁️
+  - 🇹🇼 台湾03--1.3x - 小巫云 ☁️
+  - 🇹🇼 台湾04--1.3x - 小巫云 ☁️
+  - 🇹🇼 台湾05--1.3x - 小巫云 ☁️
+  - 🇹🇼 台湾11--1.3x - 小巫云 ☁️
+  - 🇹🇼 台湾SH1--1.3x - 小巫云 ☁️
+  - 🇸🇬 新加坡04--0.9x - 小巫云 ☁️
+  - 🇸🇬 新加坡05--0.9x - 小巫云 ☁️
+  - 🇸🇬 新加坡06--0.9x - 小巫云 ☁️
+  - 🇸🇬 新加坡07--0.9x - 小巫云 ☁️
+  - 🇸🇬 新加坡08--0.9x - 小巫云 ☁️
+  - 🇸🇬 新加坡09--0.9x - 小巫云 ☁️
+  - 🇸🇬 新加坡11--0.9x - 小巫云 ☁️
+  - 🇸🇬 新加坡14--0.9x - 小巫云 ☁️
+  - 🇯🇵 日本12-1.3x - 小巫云 ☁️
+  - 🇯🇵 日本13-1.3x - 小巫云 ☁️
+  - 🇯🇵 日本06-1.3x - 小巫云 ☁️
+  - 🇯🇵 日本07-1.3x - 小巫云 ☁️
+  - 🇯🇵 日本08-1.3x - 小巫云 ☁️
+  - 🇯🇵 日本SH12-1.3x - 小巫云 ☁️
+  - 🇯🇵 日本11-1.3x - 小巫云 ☁️
+  - 🇺🇸 美国SH02---1x - 小巫云 ☁️
+  - 🇺🇸 美国06---1x - 小巫云 ☁️
+  - 🇺🇸 美国08---1x - 小巫云 ☁️
 - name: 🛩️ ‍墙内
   type: select
   proxies:
@@ -69,19 +77,25 @@ proxy-groups:
 - name: 📺 ‍B站
   type: select
   proxies:
+  - 🇨🇳 ‍中国
+  - 🇭🇰 ‍香港
+  - 🇹🇼 ‍台湾
   - 🛩️ ‍墙内
   - 👆🏻 ‍指定
+  - 👆🏻🇭🇰 ‍香港
+  - 👆🏻🇹🇼 ‍台湾
+  - 👆🏻🇨🇳 ‍中国
   - ✈️ ‍起飞
 - name: 🤖 ‍OpenAI+Bing
   type: select
   proxies:
   - 🇺🇸 ‍美国
-  - 🎏 ‍其他
   - 👆🏻🇺🇸 ‍美国
-  - 👆🏻🎏 ‍其他
+  - 🇹🇼 ‍台湾
   - 🇸🇬 ‍新加坡
   - 🇯🇵 ‍日本
   - 👆🏻 ‍指定
+  - 👆🏻🇹🇼 ‍台湾
   - 👆🏻🇸🇬 ‍新加坡
   - 👆🏻🇯🇵 ‍日本
   - ✈️ ‍起飞
@@ -92,102 +106,142 @@ proxy-groups:
   - ✈️ ‍起飞
   - 🛩️ ‍墙内
   - 💩 ‍广告
-- name: 🇸🇬 ‍新加坡
+- name: 🇭🇰 ‍香港
   type: url-test
   url: https://i.ytimg.com/generate_204
   interval: 15
   tolerance: 100
   proxies: &id002
-  - 🇸🇬 新加坡|01|新加坡 - 猪网-PIGVIP
-  - 🇸🇬 新加坡 | Trojan - 猪网-PIGVIP
-- name: 🇯🇵 ‍日本
+  - 🇭🇰 香港SHA1-1x - 小巫云 ☁️
+  - 🇭🇰 香港5-1x - 小巫云 ☁️
+  - 🇭🇰 香港6-1x - 小巫云 ☁️
+  - 🇭🇰 香港17-1x - 小巫云 ☁️
+  - 🇭🇰 香港8-1x - 小巫云 ☁️
+  - 🇭🇰 香港9-1x - 小巫云 ☁️
+  - 🇭🇰 香港21-1x - 小巫云 ☁️
+- name: 🇹🇼 ‍台湾
   type: url-test
   url: https://i.ytimg.com/generate_204
   interval: 15
   tolerance: 100
   proxies: &id003
-  - 🇯🇵 日本|01|京东 - 猪网-PIGVIP
-  - 🇯🇵 日本 | Trojan | 东京 - 猪网-PIGVIP
+  - 🇹🇼 台湾02--1.3x - 小巫云 ☁️
+  - 🇹🇼 台湾10--1.3x - 小巫云 ☁️
+  - 🇹🇼 台湾03--1.3x - 小巫云 ☁️
+  - 🇹🇼 台湾04--1.3x - 小巫云 ☁️
+  - 🇹🇼 台湾05--1.3x - 小巫云 ☁️
+  - 🇹🇼 台湾11--1.3x - 小巫云 ☁️
+  - 🇹🇼 台湾SH1--1.3x - 小巫云 ☁️
+- name: 🇨🇳 ‍中国
+  type: url-test
+  url: https://i.ytimg.com/generate_204
+  interval: 15
+  tolerance: 100
+  proxies: &id004
+  - 🇭🇰 香港SHA1-1x - 小巫云 ☁️
+  - 🇭🇰 香港5-1x - 小巫云 ☁️
+  - 🇭🇰 香港6-1x - 小巫云 ☁️
+  - 🇭🇰 香港17-1x - 小巫云 ☁️
+  - 🇭🇰 香港8-1x - 小巫云 ☁️
+  - 🇭🇰 香港9-1x - 小巫云 ☁️
+  - 🇭🇰 香港21-1x - 小巫云 ☁️
+  - 🇹🇼 台湾02--1.3x - 小巫云 ☁️
+  - 🇹🇼 台湾10--1.3x - 小巫云 ☁️
+  - 🇹🇼 台湾03--1.3x - 小巫云 ☁️
+  - 🇹🇼 台湾04--1.3x - 小巫云 ☁️
+  - 🇹🇼 台湾05--1.3x - 小巫云 ☁️
+  - 🇹🇼 台湾11--1.3x - 小巫云 ☁️
+  - 🇹🇼 台湾SH1--1.3x - 小巫云 ☁️
+- name: 🇸🇬 ‍新加坡
+  type: url-test
+  url: https://i.ytimg.com/generate_204
+  interval: 15
+  tolerance: 100
+  proxies: &id005
+  - 🇸🇬 新加坡04--0.9x - 小巫云 ☁️
+  - 🇸🇬 新加坡05--0.9x - 小巫云 ☁️
+  - 🇸🇬 新加坡06--0.9x - 小巫云 ☁️
+  - 🇸🇬 新加坡07--0.9x - 小巫云 ☁️
+  - 🇸🇬 新加坡08--0.9x - 小巫云 ☁️
+  - 🇸🇬 新加坡09--0.9x - 小巫云 ☁️
+  - 🇸🇬 新加坡11--0.9x - 小巫云 ☁️
+  - 🇸🇬 新加坡14--0.9x - 小巫云 ☁️
+- name: 🇯🇵 ‍日本
+  type: url-test
+  url: https://i.ytimg.com/generate_204
+  interval: 15
+  tolerance: 100
+  proxies: &id006
+  - 🇯🇵 日本12-1.3x - 小巫云 ☁️
+  - 🇯🇵 日本13-1.3x - 小巫云 ☁️
+  - 🇯🇵 日本06-1.3x - 小巫云 ☁️
+  - 🇯🇵 日本07-1.3x - 小巫云 ☁️
+  - 🇯🇵 日本08-1.3x - 小巫云 ☁️
+  - 🇯🇵 日本SH12-1.3x - 小巫云 ☁️
+  - 🇯🇵 日本11-1.3x - 小巫云 ☁️
 - name: 🇺🇸 ‍美国
   type: url-test
   url: https://i.ytimg.com/generate_204
   interval: 15
   tolerance: 300
-  proxies: &id004
-  - 🇺🇸 美国|01|西雅图 - 猪网-PIGVIP
-  - 🇺🇸 美国|02|纽约 - 猪网-PIGVIP
-  - 🇺🇸 美国 | Trojan | 纽约 - 猪网-PIGVIP
-  - 🇺🇸 美国 | Trojan | 西雅图 - 猪网-PIGVIP
-- name: 🎏 ‍其他
-  type: url-test
-  url: https://i.ytimg.com/generate_204
-  interval: 30
-  tolerance: 100
-  proxies: &id005
-  - 🇮🇱 以色列|01|特拉维夫 - 猪网-PIGVIP
-  - 🇦🇺 澳大利亚|01|悉尼 - 猪网-PIGVIP
-  - 🇰🇷 韩国|01|首尔 - 猪网-PIGVIP
-  - 🇬🇧 英国|01|伦敦 - 猪网-PIGVIP
-  - 🇩🇪 德国|01|法兰克福 - 猪网-PIGVIP
-  - 🇨🇦 加拿大 |01| 多伦多 - 猪网-PIGVIP
-  - 🇿🇦 南非|01 - 猪网-PIGVIP
-  - 🇮🇳 印度 |01| 孟买 - 猪网-PIGVIP
-  - 🇳🇱 荷兰|01 - 猪网-PIGVIP
-  - 🇫🇷 法国 |01| 巴黎 - 猪网-PIGVIP
-  - 🇩🇪 德国 | Trojan | 法兰克福 - 猪网-PIGVIP
-  - 🇬🇧 英国 | Trojan | 伦敦 - 猪网-PIGVIP
-  - 🇰🇷 韩国 | Trojan | 首尔 - 猪网-PIGVIP
-  - 🇦🇺 澳大利亚 | Trojan | 悉尼 - 猪网-PIGVIP
-  - 🇮🇱 以色列 | Trojan | 特拉维夫 - 猪网-PIGVIP
-  - 🇨🇦 加拿大 | Trojan | 多伦多 - 猪网-PIGVIP
-  - 🇿🇦 南非 | Trojan - 猪网-PIGVIP
-  - 🇮🇳 印度 | Trojan | 孟买 - 猪网-PIGVIP
-  - 🇳🇱 荷兰 | Trojan - 猪网-PIGVIP
-  - 🇫🇷 法国 | Trojan | 巴黎 - 猪网-PIGVIP
+  proxies: &id007
+  - 🇺🇸 美国SH02---1x - 小巫云 ☁️
+  - 🇺🇸 美国06---1x - 小巫云 ☁️
+  - 🇺🇸 美国08---1x - 小巫云 ☁️
 - name: 👆🏻 ‍指定
   type: select
   proxies: *id001
-- name: 👆🏻🇸🇬 ‍新加坡
+- name: 👆🏻🇭🇰 ‍香港
   type: select
   proxies: *id002
-- name: 👆🏻🇯🇵 ‍日本
+- name: 👆🏻🇹🇼 ‍台湾
   type: select
   proxies: *id003
-- name: 👆🏻🇺🇸 ‍美国
+- name: 👆🏻🇨🇳 ‍中国
   type: select
   proxies: *id004
-- name: 👆🏻🎏 ‍其他
+- name: 👆🏻🇸🇬 ‍新加坡
   type: select
   proxies: *id005
+- name: 👆🏻🇯🇵 ‍日本
+  type: select
+  proxies: *id006
+- name: 👆🏻🇺🇸 ‍美国
+  type: select
+  proxies: *id007
 proxies:
-- {name: 🇺🇸 美国|01|西雅图 - 猪网-PIGVIP, server: mg01.pigvip.xyz, port: 2380, type: vmess, uuid: cc10f44c-9a53-41de-815d-49be011ac82a, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: ssmtt.com}}, udp: true}
-- {name: 🇺🇸 美国|02|纽约 - 猪网-PIGVIP, server: mg02.pigvip.xyz, port: 2380, type: vmess, uuid: cc10f44c-9a53-41de-815d-49be011ac82a, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: mg02.pigvip.xyz}}, udp: true}
-- {name: 🇮🇱 以色列|01|特拉维夫 - 猪网-PIGVIP, server: ysl01.pigvip.xyz, port: 2380, type: vmess, uuid: cc10f44c-9a53-41de-815d-49be011ac82a, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: pigvip.xyz}}, udp: true}
-- {name: 🇦🇺 澳大利亚|01|悉尼 - 猪网-PIGVIP, server: adly01.pigvip.xyz, port: 2380, type: vmess, uuid: cc10f44c-9a53-41de-815d-49be011ac82a, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: pigvip.xyz}}, udp: true}
-- {name: 🇸🇬 新加坡|01|新加坡 - 猪网-PIGVIP, server: xjp01.pigvip.xyz, port: 2380, type: vmess, uuid: cc10f44c-9a53-41de-815d-49be011ac82a, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: pigvip.xyz}}, udp: true}
-- {name: 🇰🇷 韩国|01|首尔 - 猪网-PIGVIP, server: hg01.pigvip.xyz, port: 2380, type: vmess, uuid: cc10f44c-9a53-41de-815d-49be011ac82a, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: pigvip.xyz}}, udp: true}
-- {name: 🇯🇵 日本|01|京东 - 猪网-PIGVIP, server: rb01.pigvip.xyz, port: 2380, type: vmess, uuid: cc10f44c-9a53-41de-815d-49be011ac82a, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: pigvip.xyz}}, udp: true}
-- {name: 🇬🇧 英国|01|伦敦 - 猪网-PIGVIP, server: yg01.pigvip.xyz, port: 2380, type: vmess, uuid: cc10f44c-9a53-41de-815d-49be011ac82a, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: pigvip.xyz}}, udp: true}
-- {name: 🇩🇪 德国|01|法兰克福 - 猪网-PIGVIP, server: dg01.pigvip.xyz, port: 2380, type: vmess, uuid: cc10f44c-9a53-41de-815d-49be011ac82a, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: pigvip.xyz}}, udp: true}
-- {name: 🇨🇦 加拿大 |01| 多伦多 - 猪网-PIGVIP, server: jnd01.pigvip.xyz, port: 2380, type: vmess, uuid: cc10f44c-9a53-41de-815d-49be011ac82a, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: pigvip.xyz}}, udp: true}
-- {name: 🇿🇦 南非|01 - 猪网-PIGVIP, server: nf01.pigvip.xyz, port: 2380, type: vmess, uuid: cc10f44c-9a53-41de-815d-49be011ac82a, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: pigvip.xyz}}, udp: true}
-- {name: 🇮🇳 印度 |01| 孟买 - 猪网-PIGVIP, server: yd01.pigvip.xyz, port: 2380, type: vmess, uuid: cc10f44c-9a53-41de-815d-49be011ac82a, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: pigvip.xyz}}, udp: true}
-- {name: 🇳🇱 荷兰|01 - 猪网-PIGVIP, server: hl01.pigvip.xyz, port: 2380, type: vmess, uuid: cc10f44c-9a53-41de-815d-49be011ac82a, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: mg02.pigvip.xyz}}, udp: true}
-- {name: 🇫🇷 法国 |01| 巴黎 - 猪网-PIGVIP, server: fg01.pigvip.xyz, port: 2380, type: vmess, uuid: cc10f44c-9a53-41de-815d-49be011ac82a, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: pigvip.xyz}}, udp: true}
-- {name: 🇺🇸 美国 | Trojan | 纽约 - 猪网-PIGVIP, server: mg02.pigvip.xyz, port: 2382, type: trojan, password: cc10f44c-9a53-41de-815d-49be011ac82a, sni: mg02.pigvip.xyz, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 美国 | Trojan | 西雅图 - 猪网-PIGVIP, server: mg01.pigvip.xyz, port: 2382, type: trojan, password: cc10f44c-9a53-41de-815d-49be011ac82a, sni: mg01.pigvip.xyz, skip-cert-verify: true, udp: true}
-- {name: 🇩🇪 德国 | Trojan | 法兰克福 - 猪网-PIGVIP, server: dg01.pigvip.xyz, port: 2381, type: trojan, password: cc10f44c-9a53-41de-815d-49be011ac82a, sni: dg01.pigvip.xyz, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 日本 | Trojan | 东京 - 猪网-PIGVIP, server: rb01.pigvip.xyz, port: 2381, type: trojan, password: cc10f44c-9a53-41de-815d-49be011ac82a, sni: rb01.pigvip.xyz, skip-cert-verify: true, udp: true}
-- {name: 🇸🇬 新加坡 | Trojan - 猪网-PIGVIP, server: xjp01.pigvip.xyz, port: 2382, type: trojan, password: cc10f44c-9a53-41de-815d-49be011ac82a, sni: xjp01.pigvip.xyz, skip-cert-verify: true, udp: true}
-- {name: 🇬🇧 英国 | Trojan | 伦敦 - 猪网-PIGVIP, server: yg01.pigvip.xyz, port: 2381, type: trojan, password: cc10f44c-9a53-41de-815d-49be011ac82a, sni: yg01.pigvip.xyz, skip-cert-verify: true, udp: true}
-- {name: 🇰🇷 韩国 | Trojan | 首尔 - 猪网-PIGVIP, server: hg01.pigvip.xyz, port: 2381, type: trojan, password: cc10f44c-9a53-41de-815d-49be011ac82a, sni: hg01.pigvip.xyz, skip-cert-verify: true, udp: true}
-- {name: 🇦🇺 澳大利亚 | Trojan | 悉尼 - 猪网-PIGVIP, server: adly01.pigvip.xyz, port: 2381, type: trojan, password: cc10f44c-9a53-41de-815d-49be011ac82a, sni: adly01.pigvip.xyz, skip-cert-verify: true, udp: true}
-- {name: 🇮🇱 以色列 | Trojan | 特拉维夫 - 猪网-PIGVIP, server: ysl01.pigvip.xyz, port: 2381, type: trojan, password: cc10f44c-9a53-41de-815d-49be011ac82a, sni: ysl01.pigvip.xyz, skip-cert-verify: true, udp: true}
-- {name: 🇨🇦 加拿大 | Trojan | 多伦多 - 猪网-PIGVIP, server: jnd01.pigvip.xyz, port: 2381, type: trojan, password: cc10f44c-9a53-41de-815d-49be011ac82a, sni: jnd01.pigvip.xyz, skip-cert-verify: true, udp: true}
-- {name: 🇿🇦 南非 | Trojan - 猪网-PIGVIP, server: nf01.pigvip.xyz, port: 2381, type: trojan, password: cc10f44c-9a53-41de-815d-49be011ac82a, sni: nf01.pigvip.xyz, skip-cert-verify: true, udp: true}
-- {name: 🇮🇳 印度 | Trojan | 孟买 - 猪网-PIGVIP, server: yd01.pigvip.xyz, port: 2381, type: trojan, password: cc10f44c-9a53-41de-815d-49be011ac82a, sni: yd01.pigvip.xyz, skip-cert-verify: true, udp: true}
-- {name: 🇳🇱 荷兰 | Trojan - 猪网-PIGVIP, server: hl01.pigvip.xyz, port: 2381, type: trojan, password: cc10f44c-9a53-41de-815d-49be011ac82a, sni: hl01.pigvip.xyz, skip-cert-verify: true, udp: true}
-- {name: 🇫🇷 法国 | Trojan | 巴黎 - 猪网-PIGVIP, server: fg01.pigvip.xyz, port: 2381, type: trojan, password: cc10f44c-9a53-41de-815d-49be011ac82a, sni: fg01.pigvip.xyz, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 香港SHA1-1x - 小巫云 ☁️, server: shcm3.r1u.cn, port: 28825, type: ss, cipher: aes-128-gcm, password: 9f409c01-a3c1-45f2-ba18-54665b56f611, udp: true}
+- {name: 🇭🇰 香港5-1x - 小巫云 ☁️, server: gda.white51.top, port: 23409, type: ss, cipher: aes-128-gcm, password: 9f409c01-a3c1-45f2-ba18-54665b56f611, udp: true}
+- {name: 🇭🇰 香港6-1x - 小巫云 ☁️, server: gdb.white51.top, port: 14414, type: ss, cipher: aes-128-gcm, password: 9f409c01-a3c1-45f2-ba18-54665b56f611, udp: true}
+- {name: 🇭🇰 香港17-1x - 小巫云 ☁️, server: shdx.white51.top, port: 29473, type: ss, cipher: aes-128-gcm, password: 9f409c01-a3c1-45f2-ba18-54665b56f611, udp: true}
+- {name: 🇭🇰 香港8-1x - 小巫云 ☁️, server: ahdx.white51.top, port: 32664, type: ss, cipher: aes-128-gcm, password: 9f409c01-a3c1-45f2-ba18-54665b56f611, udp: true}
+- {name: 🇭🇰 香港9-1x - 小巫云 ☁️, server: hndx.white51.top, port: 51146, type: ss, cipher: aes-128-gcm, password: 9f409c01-a3c1-45f2-ba18-54665b56f611, udp: true}
+- {name: 🇯🇵 日本12-1.3x - 小巫云 ☁️, server: shshyd.073505.cn, port: 49094, type: ss, cipher: aes-128-gcm, password: 9f409c01-a3c1-45f2-ba18-54665b56f611, udp: true}
+- {name: 🇯🇵 日本13-1.3x - 小巫云 ☁️, server: hndx.white51.top, port: 19170, type: ss, cipher: aes-128-gcm, password: 9f409c01-a3c1-45f2-ba18-54665b56f611, udp: true}
+- {name: 🇯🇵 日本06-1.3x - 小巫云 ☁️, server: gda.white51.top, port: 43900, type: ss, cipher: aes-128-gcm, password: 9f409c01-a3c1-45f2-ba18-54665b56f611, udp: true}
+- {name: 🇯🇵 日本07-1.3x - 小巫云 ☁️, server: gdb.white51.top, port: 27251, type: ss, cipher: aes-128-gcm, password: 9f409c01-a3c1-45f2-ba18-54665b56f611, udp: true}
+- {name: 🇯🇵 日本08-1.3x - 小巫云 ☁️, server: gdc.white51.top, port: 17353, type: ss, cipher: aes-128-gcm, password: 9f409c01-a3c1-45f2-ba18-54665b56f611, udp: true}
+- {name: 🇯🇵 日本SH12-1.3x - 小巫云 ☁️, server: shcm3.r1u.cn, port: 16755, type: ss, cipher: aes-128-gcm, password: 9f409c01-a3c1-45f2-ba18-54665b56f611, udp: true}
+- {name: 🇯🇵 日本11-1.3x - 小巫云 ☁️, server: xx.white51.top, port: 44437, type: ss, cipher: aes-128-gcm, password: 9f409c01-a3c1-45f2-ba18-54665b56f611, udp: true}
+- {name: 🇸🇬 新加坡04--0.9x - 小巫云 ☁️, server: gda.white51.top, port: 39073, type: ss, cipher: aes-128-gcm, password: 9f409c01-a3c1-45f2-ba18-54665b56f611, udp: true}
+- {name: 🇸🇬 新加坡05--0.9x - 小巫云 ☁️, server: gdb.white51.top, port: 53039, type: ss, cipher: aes-128-gcm, password: 9f409c01-a3c1-45f2-ba18-54665b56f611, udp: true}
+- {name: 🇸🇬 新加坡06--0.9x - 小巫云 ☁️, server: gdc.white51.top, port: 34115, type: ss, cipher: aes-128-gcm, password: 9f409c01-a3c1-45f2-ba18-54665b56f611, udp: true}
+- {name: 🇸🇬 新加坡07--0.9x - 小巫云 ☁️, server: shdx.white51.top, port: 20357, type: ss, cipher: aes-128-gcm, password: 9f409c01-a3c1-45f2-ba18-54665b56f611, udp: true}
+- {name: 🇸🇬 新加坡08--0.9x - 小巫云 ☁️, server: ahdx.white51.top, port: 21105, type: ss, cipher: aes-128-gcm, password: 9f409c01-a3c1-45f2-ba18-54665b56f611, udp: true}
+- {name: 🇸🇬 新加坡09--0.9x - 小巫云 ☁️, server: hndx.white51.top, port: 40779, type: ss, cipher: aes-128-gcm, password: 9f409c01-a3c1-45f2-ba18-54665b56f611, udp: true}
+- {name: 🇸🇬 新加坡11--0.9x - 小巫云 ☁️, server: xx.white51.top, port: 37463, type: ss, cipher: aes-128-gcm, password: 9f409c01-a3c1-45f2-ba18-54665b56f611, udp: true}
+- {name: 🇹🇼 台湾02--1.3x - 小巫云 ☁️, server: xx.white51.top, port: 52968, type: ss, cipher: aes-128-gcm, password: 9f409c01-a3c1-45f2-ba18-54665b56f611, udp: true}
+- {name: 🇹🇼 台湾10--1.3x - 小巫云 ☁️, server: shdx.white51.top, port: 52095, type: ss, cipher: aes-128-gcm, password: 9f409c01-a3c1-45f2-ba18-54665b56f611, udp: true}
+- {name: 🇹🇼 台湾03--1.3x - 小巫云 ☁️, server: ahdx.white51.top, port: 44943, type: ss, cipher: aes-128-gcm, password: 9f409c01-a3c1-45f2-ba18-54665b56f611, udp: true}
+- {name: 🇹🇼 台湾04--1.3x - 小巫云 ☁️, server: hndx.white51.top, port: 41471, type: ss, cipher: aes-128-gcm, password: 9f409c01-a3c1-45f2-ba18-54665b56f611, udp: true}
+- {name: 🇹🇼 台湾05--1.3x - 小巫云 ☁️, server: gda.white51.top, port: 34276, type: ss, cipher: aes-128-gcm, password: 9f409c01-a3c1-45f2-ba18-54665b56f611, udp: true}
+- {name: 🇹🇼 台湾11--1.3x - 小巫云 ☁️, server: gdb.white51.top, port: 28458, type: ss, cipher: aes-128-gcm, password: 9f409c01-a3c1-45f2-ba18-54665b56f611, udp: true}
+- {name: 🇺🇸 美国SH02---1x - 小巫云 ☁️, server: shcm3.r1u.cn, port: 49535, type: ss, cipher: aes-128-gcm, password: 9f409c01-a3c1-45f2-ba18-54665b56f611, udp: true}
+- {name: 🇺🇸 美国06---1x - 小巫云 ☁️, server: hzlt.white51.top, port: 23298, type: ss, cipher: aes-128-gcm, password: 9f409c01-a3c1-45f2-ba18-54665b56f611, udp: true}
+- {name: 🇺🇸 美国08---1x - 小巫云 ☁️, server: xx.white51.top, port: 23447, type: ss, cipher: aes-128-gcm, password: 9f409c01-a3c1-45f2-ba18-54665b56f611, udp: true}
+- {name: 🇭🇰 香港21-1x - 小巫云 ☁️, server: shdx.073505.cn, port: 11439, type: ss, cipher: aes-128-gcm, password: 9f409c01-a3c1-45f2-ba18-54665b56f611, udp: true}
+- {name: 🇸🇬 新加坡14--0.9x - 小巫云 ☁️, server: xxyd.073505.cn, port: 30230, type: ss, cipher: aes-128-gcm, password: 9f409c01-a3c1-45f2-ba18-54665b56f611, udp: true}
+- {name: 🇹🇼 台湾SH1--1.3x - 小巫云 ☁️, server: shcm3.r1u.cn, port: 38197, type: ss, cipher: aes-128-gcm, password: 9f409c01-a3c1-45f2-ba18-54665b56f611, udp: true}
 rules:
 - DOMAIN-SUFFIX,acl4.ssr,DIRECT
 - DOMAIN-SUFFIX,ip6-localhost,DIRECT

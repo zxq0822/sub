@@ -1,0 +1,10 @@
+%YAML 1.1
+---
+proxies:
+- {name: 🇹🇼 台湾02--1.3x - 小巫云 ☁️, server: xx.white51.top, port: 52968, type: ss, cipher: aes-128-gcm, password: 9f409c01-a3c1-45f2-ba18-54665b56f611, udp: true}
+- {name: 🇹🇼 台湾10--1.3x - 小巫云 ☁️, server: shdx.white51.top, port: 52095, type: ss, cipher: aes-128-gcm, password: 9f409c01-a3c1-45f2-ba18-54665b56f611, udp: true}
+- {name: 🇹🇼 台湾03--1.3x - 小巫云 ☁️, server: ahdx.white51.top, port: 44943, type: ss, cipher: aes-128-gcm, password: 9f409c01-a3c1-45f2-ba18-54665b56f611, udp: true}
+- {name: 🇹🇼 台湾04--1.3x - 小巫云 ☁️, server: hndx.white51.top, port: 41471, type: ss, cipher: aes-128-gcm, password: 9f409c01-a3c1-45f2-ba18-54665b56f611, udp: true}
+- {name: 🇹🇼 台湾05--1.3x - 小巫云 ☁️, server: gda.white51.top, port: 34276, type: ss, cipher: aes-128-gcm, password: 9f409c01-a3c1-45f2-ba18-54665b56f611, udp: true}
+- {name: 🇹🇼 台湾11--1.3x - 小巫云 ☁️, server: gdb.white51.top, port: 28458, type: ss, cipher: aes-128-gcm, password: 9f409c01-a3c1-45f2-ba18-54665b56f611, udp: true}
+- {name: 🇹🇼 台湾SH1--1.3x - 小巫云 ☁️, server: shcm3.r1u.cn, port: 38197, type: ss, cipher: aes-128-gcm, password: 9f409c01-a3c1-45f2-ba18-54665b56f611, udp: true}

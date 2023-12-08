@@ -10,50 +10,29 @@ proxy-groups:
   type: select
   proxies:
   - ⚡ ‍低延迟
+  - 🇭🇰 ‍香港
+  - 🇹🇼 ‍台湾
+  - 🇨🇳 ‍中国
   - 🇸🇬 ‍新加坡
   - 🇯🇵 ‍日本
   - 🇺🇸 ‍美国
-  - 🎏 ‍其他
   - 👆🏻 ‍指定
+  - 👆🏻🇭🇰 ‍香港
+  - 👆🏻🇹🇼 ‍台湾
+  - 👆🏻🇨🇳 ‍中国
   - 👆🏻🇸🇬 ‍新加坡
   - 👆🏻🇯🇵 ‍日本
   - 👆🏻🇺🇸 ‍美国
-  - 👆🏻🎏 ‍其他
   - DIRECT
 - name: ⚡ ‍低延迟
   type: url-test
-  url: https://i.ytimg.com/generate_204
-  interval: 30
   tolerance: 100
-  proxies: &id001
-  - 🇸🇬 新加坡|01|新加坡 - 猪网-PIGVIP
-  - 🇸🇬 新加坡 | Trojan - 猪网-PIGVIP
-  - 🇯🇵 日本|01|京东 - 猪网-PIGVIP
-  - 🇯🇵 日本 | Trojan | 东京 - 猪网-PIGVIP
-  - 🇺🇸 美国|01|西雅图 - 猪网-PIGVIP
-  - 🇺🇸 美国|02|纽约 - 猪网-PIGVIP
-  - 🇺🇸 美国 | Trojan | 纽约 - 猪网-PIGVIP
-  - 🇺🇸 美国 | Trojan | 西雅图 - 猪网-PIGVIP
-  - 🇮🇱 以色列|01|特拉维夫 - 猪网-PIGVIP
-  - 🇦🇺 澳大利亚|01|悉尼 - 猪网-PIGVIP
-  - 🇰🇷 韩国|01|首尔 - 猪网-PIGVIP
-  - 🇬🇧 英国|01|伦敦 - 猪网-PIGVIP
-  - 🇩🇪 德国|01|法兰克福 - 猪网-PIGVIP
-  - 🇨🇦 加拿大 |01| 多伦多 - 猪网-PIGVIP
-  - 🇿🇦 南非|01 - 猪网-PIGVIP
-  - 🇮🇳 印度 |01| 孟买 - 猪网-PIGVIP
-  - 🇳🇱 荷兰|01 - 猪网-PIGVIP
-  - 🇫🇷 法国 |01| 巴黎 - 猪网-PIGVIP
-  - 🇩🇪 德国 | Trojan | 法兰克福 - 猪网-PIGVIP
-  - 🇬🇧 英国 | Trojan | 伦敦 - 猪网-PIGVIP
-  - 🇰🇷 韩国 | Trojan | 首尔 - 猪网-PIGVIP
-  - 🇦🇺 澳大利亚 | Trojan | 悉尼 - 猪网-PIGVIP
-  - 🇮🇱 以色列 | Trojan | 特拉维夫 - 猪网-PIGVIP
-  - 🇨🇦 加拿大 | Trojan | 多伦多 - 猪网-PIGVIP
-  - 🇿🇦 南非 | Trojan - 猪网-PIGVIP
-  - 🇮🇳 印度 | Trojan | 孟买 - 猪网-PIGVIP
-  - 🇳🇱 荷兰 | Trojan - 猪网-PIGVIP
-  - 🇫🇷 法国 | Trojan | 巴黎 - 猪网-PIGVIP
+  use: &id001
+  - HK
+  - TW
+  - SG
+  - JP
+  - US
 - name: 🛩️ ‍墙内
   type: select
   proxies:
@@ -69,19 +48,25 @@ proxy-groups:
 - name: 📺 ‍B站
   type: select
   proxies:
+  - 🇨🇳 ‍中国
+  - 🇭🇰 ‍香港
+  - 🇹🇼 ‍台湾
   - 🛩️ ‍墙内
   - 👆🏻 ‍指定
+  - 👆🏻🇭🇰 ‍香港
+  - 👆🏻🇹🇼 ‍台湾
+  - 👆🏻🇨🇳 ‍中国
   - ✈️ ‍起飞
 - name: 🤖 ‍OpenAI+Bing
   type: select
   proxies:
   - 🇺🇸 ‍美国
-  - 🎏 ‍其他
   - 👆🏻🇺🇸 ‍美国
-  - 👆🏻🎏 ‍其他
+  - 🇹🇼 ‍台湾
   - 🇸🇬 ‍新加坡
   - 🇯🇵 ‍日本
   - 👆🏻 ‍指定
+  - 👆🏻🇹🇼 ‍台湾
   - 👆🏻🇸🇬 ‍新加坡
   - 👆🏻🇯🇵 ‍日本
   - ✈️ ‍起飞
@@ -92,102 +77,104 @@ proxy-groups:
   - ✈️ ‍起飞
   - 🛩️ ‍墙内
   - 💩 ‍广告
+- name: 🇭🇰 ‍香港
+  type: url-test
+  tolerance: 100
+  use: &id002
+  - HK
+- name: 🇹🇼 ‍台湾
+  type: url-test
+  tolerance: 100
+  use: &id003
+  - TW
+- name: 🇨🇳 ‍中国
+  type: url-test
+  tolerance: 100
+  use: &id004
+  - HK
+  - TW
 - name: 🇸🇬 ‍新加坡
   type: url-test
-  url: https://i.ytimg.com/generate_204
-  interval: 15
   tolerance: 100
-  proxies: &id002
-  - 🇸🇬 新加坡|01|新加坡 - 猪网-PIGVIP
-  - 🇸🇬 新加坡 | Trojan - 猪网-PIGVIP
+  use: &id005
+  - SG
 - name: 🇯🇵 ‍日本
   type: url-test
-  url: https://i.ytimg.com/generate_204
-  interval: 15
   tolerance: 100
-  proxies: &id003
-  - 🇯🇵 日本|01|京东 - 猪网-PIGVIP
-  - 🇯🇵 日本 | Trojan | 东京 - 猪网-PIGVIP
+  use: &id006
+  - JP
 - name: 🇺🇸 ‍美国
   type: url-test
-  url: https://i.ytimg.com/generate_204
-  interval: 15
   tolerance: 300
-  proxies: &id004
-  - 🇺🇸 美国|01|西雅图 - 猪网-PIGVIP
-  - 🇺🇸 美国|02|纽约 - 猪网-PIGVIP
-  - 🇺🇸 美国 | Trojan | 纽约 - 猪网-PIGVIP
-  - 🇺🇸 美国 | Trojan | 西雅图 - 猪网-PIGVIP
-- name: 🎏 ‍其他
-  type: url-test
-  url: https://i.ytimg.com/generate_204
-  interval: 30
-  tolerance: 100
-  proxies: &id005
-  - 🇮🇱 以色列|01|特拉维夫 - 猪网-PIGVIP
-  - 🇦🇺 澳大利亚|01|悉尼 - 猪网-PIGVIP
-  - 🇰🇷 韩国|01|首尔 - 猪网-PIGVIP
-  - 🇬🇧 英国|01|伦敦 - 猪网-PIGVIP
-  - 🇩🇪 德国|01|法兰克福 - 猪网-PIGVIP
-  - 🇨🇦 加拿大 |01| 多伦多 - 猪网-PIGVIP
-  - 🇿🇦 南非|01 - 猪网-PIGVIP
-  - 🇮🇳 印度 |01| 孟买 - 猪网-PIGVIP
-  - 🇳🇱 荷兰|01 - 猪网-PIGVIP
-  - 🇫🇷 法国 |01| 巴黎 - 猪网-PIGVIP
-  - 🇩🇪 德国 | Trojan | 法兰克福 - 猪网-PIGVIP
-  - 🇬🇧 英国 | Trojan | 伦敦 - 猪网-PIGVIP
-  - 🇰🇷 韩国 | Trojan | 首尔 - 猪网-PIGVIP
-  - 🇦🇺 澳大利亚 | Trojan | 悉尼 - 猪网-PIGVIP
-  - 🇮🇱 以色列 | Trojan | 特拉维夫 - 猪网-PIGVIP
-  - 🇨🇦 加拿大 | Trojan | 多伦多 - 猪网-PIGVIP
-  - 🇿🇦 南非 | Trojan - 猪网-PIGVIP
-  - 🇮🇳 印度 | Trojan | 孟买 - 猪网-PIGVIP
-  - 🇳🇱 荷兰 | Trojan - 猪网-PIGVIP
-  - 🇫🇷 法国 | Trojan | 巴黎 - 猪网-PIGVIP
+  use: &id007
+  - US
 - name: 👆🏻 ‍指定
   type: select
-  proxies: *id001
+  use: *id001
+- name: 👆🏻🇭🇰 ‍香港
+  type: select
+  use: *id002
+- name: 👆🏻🇹🇼 ‍台湾
+  type: select
+  use: *id003
+- name: 👆🏻🇨🇳 ‍中国
+  type: select
+  use: *id004
 - name: 👆🏻🇸🇬 ‍新加坡
   type: select
-  proxies: *id002
+  use: *id005
 - name: 👆🏻🇯🇵 ‍日本
   type: select
-  proxies: *id003
+  use: *id006
 - name: 👆🏻🇺🇸 ‍美国
   type: select
-  proxies: *id004
-- name: 👆🏻🎏 ‍其他
-  type: select
-  proxies: *id005
-proxies:
-- {name: 🇺🇸 美国|01|西雅图 - 猪网-PIGVIP, server: mg01.pigvip.xyz, port: 2380, type: vmess, uuid: cc10f44c-9a53-41de-815d-49be011ac82a, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: ssmtt.com}}, udp: true}
-- {name: 🇺🇸 美国|02|纽约 - 猪网-PIGVIP, server: mg02.pigvip.xyz, port: 2380, type: vmess, uuid: cc10f44c-9a53-41de-815d-49be011ac82a, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: mg02.pigvip.xyz}}, udp: true}
-- {name: 🇮🇱 以色列|01|特拉维夫 - 猪网-PIGVIP, server: ysl01.pigvip.xyz, port: 2380, type: vmess, uuid: cc10f44c-9a53-41de-815d-49be011ac82a, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: pigvip.xyz}}, udp: true}
-- {name: 🇦🇺 澳大利亚|01|悉尼 - 猪网-PIGVIP, server: adly01.pigvip.xyz, port: 2380, type: vmess, uuid: cc10f44c-9a53-41de-815d-49be011ac82a, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: pigvip.xyz}}, udp: true}
-- {name: 🇸🇬 新加坡|01|新加坡 - 猪网-PIGVIP, server: xjp01.pigvip.xyz, port: 2380, type: vmess, uuid: cc10f44c-9a53-41de-815d-49be011ac82a, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: pigvip.xyz}}, udp: true}
-- {name: 🇰🇷 韩国|01|首尔 - 猪网-PIGVIP, server: hg01.pigvip.xyz, port: 2380, type: vmess, uuid: cc10f44c-9a53-41de-815d-49be011ac82a, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: pigvip.xyz}}, udp: true}
-- {name: 🇯🇵 日本|01|京东 - 猪网-PIGVIP, server: rb01.pigvip.xyz, port: 2380, type: vmess, uuid: cc10f44c-9a53-41de-815d-49be011ac82a, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: pigvip.xyz}}, udp: true}
-- {name: 🇬🇧 英国|01|伦敦 - 猪网-PIGVIP, server: yg01.pigvip.xyz, port: 2380, type: vmess, uuid: cc10f44c-9a53-41de-815d-49be011ac82a, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: pigvip.xyz}}, udp: true}
-- {name: 🇩🇪 德国|01|法兰克福 - 猪网-PIGVIP, server: dg01.pigvip.xyz, port: 2380, type: vmess, uuid: cc10f44c-9a53-41de-815d-49be011ac82a, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: pigvip.xyz}}, udp: true}
-- {name: 🇨🇦 加拿大 |01| 多伦多 - 猪网-PIGVIP, server: jnd01.pigvip.xyz, port: 2380, type: vmess, uuid: cc10f44c-9a53-41de-815d-49be011ac82a, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: pigvip.xyz}}, udp: true}
-- {name: 🇿🇦 南非|01 - 猪网-PIGVIP, server: nf01.pigvip.xyz, port: 2380, type: vmess, uuid: cc10f44c-9a53-41de-815d-49be011ac82a, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: pigvip.xyz}}, udp: true}
-- {name: 🇮🇳 印度 |01| 孟买 - 猪网-PIGVIP, server: yd01.pigvip.xyz, port: 2380, type: vmess, uuid: cc10f44c-9a53-41de-815d-49be011ac82a, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: pigvip.xyz}}, udp: true}
-- {name: 🇳🇱 荷兰|01 - 猪网-PIGVIP, server: hl01.pigvip.xyz, port: 2380, type: vmess, uuid: cc10f44c-9a53-41de-815d-49be011ac82a, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: mg02.pigvip.xyz}}, udp: true}
-- {name: 🇫🇷 法国 |01| 巴黎 - 猪网-PIGVIP, server: fg01.pigvip.xyz, port: 2380, type: vmess, uuid: cc10f44c-9a53-41de-815d-49be011ac82a, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: pigvip.xyz}}, udp: true}
-- {name: 🇺🇸 美国 | Trojan | 纽约 - 猪网-PIGVIP, server: mg02.pigvip.xyz, port: 2382, type: trojan, password: cc10f44c-9a53-41de-815d-49be011ac82a, sni: mg02.pigvip.xyz, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 美国 | Trojan | 西雅图 - 猪网-PIGVIP, server: mg01.pigvip.xyz, port: 2382, type: trojan, password: cc10f44c-9a53-41de-815d-49be011ac82a, sni: mg01.pigvip.xyz, skip-cert-verify: true, udp: true}
-- {name: 🇩🇪 德国 | Trojan | 法兰克福 - 猪网-PIGVIP, server: dg01.pigvip.xyz, port: 2381, type: trojan, password: cc10f44c-9a53-41de-815d-49be011ac82a, sni: dg01.pigvip.xyz, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 日本 | Trojan | 东京 - 猪网-PIGVIP, server: rb01.pigvip.xyz, port: 2381, type: trojan, password: cc10f44c-9a53-41de-815d-49be011ac82a, sni: rb01.pigvip.xyz, skip-cert-verify: true, udp: true}
-- {name: 🇸🇬 新加坡 | Trojan - 猪网-PIGVIP, server: xjp01.pigvip.xyz, port: 2382, type: trojan, password: cc10f44c-9a53-41de-815d-49be011ac82a, sni: xjp01.pigvip.xyz, skip-cert-verify: true, udp: true}
-- {name: 🇬🇧 英国 | Trojan | 伦敦 - 猪网-PIGVIP, server: yg01.pigvip.xyz, port: 2381, type: trojan, password: cc10f44c-9a53-41de-815d-49be011ac82a, sni: yg01.pigvip.xyz, skip-cert-verify: true, udp: true}
-- {name: 🇰🇷 韩国 | Trojan | 首尔 - 猪网-PIGVIP, server: hg01.pigvip.xyz, port: 2381, type: trojan, password: cc10f44c-9a53-41de-815d-49be011ac82a, sni: hg01.pigvip.xyz, skip-cert-verify: true, udp: true}
-- {name: 🇦🇺 澳大利亚 | Trojan | 悉尼 - 猪网-PIGVIP, server: adly01.pigvip.xyz, port: 2381, type: trojan, password: cc10f44c-9a53-41de-815d-49be011ac82a, sni: adly01.pigvip.xyz, skip-cert-verify: true, udp: true}
-- {name: 🇮🇱 以色列 | Trojan | 特拉维夫 - 猪网-PIGVIP, server: ysl01.pigvip.xyz, port: 2381, type: trojan, password: cc10f44c-9a53-41de-815d-49be011ac82a, sni: ysl01.pigvip.xyz, skip-cert-verify: true, udp: true}
-- {name: 🇨🇦 加拿大 | Trojan | 多伦多 - 猪网-PIGVIP, server: jnd01.pigvip.xyz, port: 2381, type: trojan, password: cc10f44c-9a53-41de-815d-49be011ac82a, sni: jnd01.pigvip.xyz, skip-cert-verify: true, udp: true}
-- {name: 🇿🇦 南非 | Trojan - 猪网-PIGVIP, server: nf01.pigvip.xyz, port: 2381, type: trojan, password: cc10f44c-9a53-41de-815d-49be011ac82a, sni: nf01.pigvip.xyz, skip-cert-verify: true, udp: true}
-- {name: 🇮🇳 印度 | Trojan | 孟买 - 猪网-PIGVIP, server: yd01.pigvip.xyz, port: 2381, type: trojan, password: cc10f44c-9a53-41de-815d-49be011ac82a, sni: yd01.pigvip.xyz, skip-cert-verify: true, udp: true}
-- {name: 🇳🇱 荷兰 | Trojan - 猪网-PIGVIP, server: hl01.pigvip.xyz, port: 2381, type: trojan, password: cc10f44c-9a53-41de-815d-49be011ac82a, sni: hl01.pigvip.xyz, skip-cert-verify: true, udp: true}
-- {name: 🇫🇷 法国 | Trojan | 巴黎 - 猪网-PIGVIP, server: fg01.pigvip.xyz, port: 2381, type: trojan, password: cc10f44c-9a53-41de-815d-49be011ac82a, sni: fg01.pigvip.xyz, skip-cert-verify: true, udp: true}
+  use: *id007
+proxy-providers:
+  HK:
+    type: http
+    url: https://raw.kgithub.com/mfbpn/tg_mfbpn_sub/main/trials_providers/www.grey51.life#小巫云/HK.yaml
+    interval: 180
+    path: trials_providers/www.grey51.life#小巫云/HK.yaml
+    health-check:
+      enable: true
+      url: https://i.ytimg.com/generate_204
+      interval: 30
+  TW:
+    type: http
+    url: https://raw.kgithub.com/mfbpn/tg_mfbpn_sub/main/trials_providers/www.grey51.life#小巫云/TW.yaml
+    interval: 180
+    path: trials_providers/www.grey51.life#小巫云/TW.yaml
+    health-check:
+      enable: true
+      url: https://i.ytimg.com/generate_204
+      interval: 30
+  SG:
+    type: http
+    url: https://raw.kgithub.com/mfbpn/tg_mfbpn_sub/main/trials_providers/www.grey51.life#小巫云/SG.yaml
+    interval: 180
+    path: trials_providers/www.grey51.life#小巫云/SG.yaml
+    health-check:
+      enable: true
+      url: https://i.ytimg.com/generate_204
+      interval: 30
+  JP:
+    type: http
+    url: https://raw.kgithub.com/mfbpn/tg_mfbpn_sub/main/trials_providers/www.grey51.life#小巫云/JP.yaml
+    interval: 180
+    path: trials_providers/www.grey51.life#小巫云/JP.yaml
+    health-check:
+      enable: true
+      url: https://i.ytimg.com/generate_204
+      interval: 30
+  US:
+    type: http
+    url: https://raw.kgithub.com/mfbpn/tg_mfbpn_sub/main/trials_providers/www.grey51.life#小巫云/US.yaml
+    interval: 180
+    path: trials_providers/www.grey51.life#小巫云/US.yaml
+    health-check:
+      enable: true
+      url: https://i.ytimg.com/generate_204
+      interval: 30
 rules:
 - DOMAIN-SUFFIX,acl4.ssr,DIRECT
 - DOMAIN-SUFFIX,ip6-localhost,DIRECT
