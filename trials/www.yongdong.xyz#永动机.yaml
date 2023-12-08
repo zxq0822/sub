@@ -37,6 +37,7 @@ proxy-groups:
   - 🇺🇸 白银vip｜中转 -> 美国｜vvSoc199 - 永动机
   - 🇰🇷 白银vip｜中转 -> 韩国 ｜vvSoc169 - 永动机
   - 🇰🇷 白银vip｜中转 -> 韩国｜vvSoc186 - 永动机
+  - 🇷🇺 白银vip｜中转 -> 俄罗斯｜vvSoc76 - 永动机
 - name: 🛩️ ‍墙内
   type: select
   proxies:
@@ -110,6 +111,7 @@ proxy-groups:
   proxies: &id005
   - 🇰🇷 白银vip｜中转 -> 韩国 ｜vvSoc169 - 永动机
   - 🇰🇷 白银vip｜中转 -> 韩国｜vvSoc186 - 永动机
+  - 🇷🇺 白银vip｜中转 -> 俄罗斯｜vvSoc76 - 永动机
 - name: 👆🏻 ‍指定
   type: select
   proxies: *id001
@@ -134,6 +136,7 @@ proxies:
 - {name: 🇯🇵 白银vip｜中转 -> 日本｜vvSoc204 - 永动机, server: zfkr1.30803080.xyz, port: 20232, type: vmess, uuid: cc77f680-e4ed-47ad-9eaf-f9d7305fc71d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /yongdong, headers: {Host: yongdong.xyz}}, udp: true}
 - {name: 🇰🇷 白银vip｜中转 -> 韩国 ｜vvSoc169 - 永动机, server: zfkr1.30803080.xyz, port: 20242, type: vmess, uuid: cc77f680-e4ed-47ad-9eaf-f9d7305fc71d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /yongdong, headers: {Host: yongdong.xyz}}, udp: true}
 - {name: 🇰🇷 白银vip｜中转 -> 韩国｜vvSoc186 - 永动机, server: zfkr1.30803080.xyz, port: 20243, type: vmess, uuid: cc77f680-e4ed-47ad-9eaf-f9d7305fc71d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /yongdong, headers: {Host: yongdong.xyz}}, udp: true}
+- {name: 🇷🇺 白银vip｜中转 -> 俄罗斯｜vvSoc76 - 永动机, server: zfkr1.30803080.xyz, port: 20249, type: vmess, uuid: cc77f680-e4ed-47ad-9eaf-f9d7305fc71d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /yongdong, headers: {Host: yongdong.xyz}}, udp: true}
 - {name: 🇺🇸 白银vip｜中转 -> 美国｜vvSoc153 - 永动机, server: zfkr1.30803080.xyz, port: 20210, type: vmess, uuid: cc77f680-e4ed-47ad-9eaf-f9d7305fc71d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /yongdong, headers: {Host: yongdong.xyz}}, udp: true}
 - {name: 🇺🇸 白银vip｜中转 -> 美国｜vvSoc198 - 永动机, server: zfkr1.30803080.xyz, port: 20211, type: vmess, uuid: cc77f680-e4ed-47ad-9eaf-f9d7305fc71d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /yongdong, headers: {Host: yongdong.xyz}}, udp: true}
 - {name: 🇺🇸 白银vip｜中转 -> 美国｜vvSoc199 - 永动机, server: zfkr1.30803080.xyz, port: 20212, type: vmess, uuid: cc77f680-e4ed-47ad-9eaf-f9d7305fc71d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /yongdong, headers: {Host: yongdong.xyz}}, udp: true}
