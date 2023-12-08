@@ -1,4 +1,4 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 官网:www.gegeth.com - Gegeth极迅游, server: gy.yb59.uk, port: 18785, type: ss, cipher: chacha20-ietf-poly1305, password: a62b135e-adce-4c07-871c-7eefeb572597, udp: true}
+- {name: 官网:www.gegeth.com - Gegeth极迅游, server: gy.yb59.uk, port: 18785, type: ss, cipher: chacha20-ietf-poly1305, password: e08e1529-ec7e-4aeb-9fdb-4d93a9152e5c, udp: true}
