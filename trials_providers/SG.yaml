@@ -20,8 +20,8 @@ proxies:
 - {name: 🇸🇬新加坡01 - 都是梦, server: sg3.doushimeng.com, port: 20052, type: ss, cipher: chacha20-ietf-poly1305, password: bde480fd-ac11-4d7f-9580-9f3d0c06cee8, udp: true}
 - {name: 🇸🇬新加坡02 - 都是梦, server: sgggg.doushimeng.com, port: 20252, type: ss, cipher: chacha20-ietf-poly1305, password: bde480fd-ac11-4d7f-9580-9f3d0c06cee8, udp: true}
 - {name: 🇸🇬新加坡03 - 都是梦, server: sg2.doushimeng.com, port: 20553, type: ss, cipher: chacha20-ietf-poly1305, password: bde480fd-ac11-4d7f-9580-9f3d0c06cee8, udp: true}
-- {name: 🇸🇬 Singapore-新加坡 - 一机场, server: frontend.yijianlian.app, port: 54420, type: trojan, password: 4a98b794-b5af-454c-b739-f05d0fcfa976, skip-cert-verify: true, udp: true}
-- {name: 🇸🇬 Singapore2-新加坡2 - 一机场, server: frontend.yijianlian.app, port: 54591, type: trojan, password: 4a98b794-b5af-454c-b739-f05d0fcfa976, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬 Singapore-新加坡 - 一机场, server: frontend.yijianlian.app, port: 54420, type: trojan, password: e7a073d2-85d1-4b17-82e8-b4056f5b4c2d, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬 Singapore2-新加坡2 - 一机场, server: frontend.yijianlian.app, port: 54591, type: trojan, password: e7a073d2-85d1-4b17-82e8-b4056f5b4c2d, skip-cert-verify: true, udp: true}
 - {name: 🇸🇬 SG新加坡 A - 可乐云, server: sg.colacloud.site, port: 20152, type: ss, cipher: chacha20-ietf-poly1305, password: d55733c0-48c3-4fb2-9d3f-6abfb83c8567, udp: true}
 - {name: 🇸🇬 SG新加坡 B - 可乐云, server: sg.colacloud.site, port: 20153, type: ss, cipher: chacha20-ietf-poly1305, password: d55733c0-48c3-4fb2-9d3f-6abfb83c8567, udp: true}
 - {name: 🇸🇬 新加坡 / 华南｜SG - 小白云, server: sg1.iepl.cooc.icu, port: 35105, type: ss, cipher: aes-256-gcm, password: a8e281b5-16b0-4d3c-8fcf-f3e84dd7dd33, udp: true}
