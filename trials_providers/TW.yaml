@@ -1,8 +1,8 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇹🇼 台湾 1 动画疯 - 西瓜皮是真的皮, server: xgxdsh.dx001.top, port: 19821, type: vmess, uuid: bb00404b-e262-3561-bacd-ca4c3b5c3bf7, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇹🇼 台湾 2 动画疯 - 西瓜皮是真的皮, server: ct-01.dx001.top, port: 19822, type: vmess, uuid: bb00404b-e262-3561-bacd-ca4c3b5c3bf7, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼 台湾 1 动画疯 - 西瓜皮是真的皮, server: xgxdsh.dx001.top, port: 19821, type: vmess, uuid: 5e94db2d-d353-3c1b-af76-3e983c08dac6, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼 台湾 2 动画疯 - 西瓜皮是真的皮, server: ct-01.dx001.top, port: 19822, type: vmess, uuid: 5e94db2d-d353-3c1b-af76-3e983c08dac6, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇹🇼 台湾02--1.3x - 小巫云 ☁️, server: xx.white51.top, port: 52968, type: ss, cipher: aes-128-gcm, password: b1aa1c24-5e14-4581-9fd4-cd9350e1bc35, udp: true}
 - {name: 🇹🇼 台湾10--1.3x - 小巫云 ☁️, server: shdx.white51.top, port: 52095, type: ss, cipher: aes-128-gcm, password: b1aa1c24-5e14-4581-9fd4-cd9350e1bc35, udp: true}
 - {name: 🇹🇼 台湾03--1.3x - 小巫云 ☁️, server: ahdx.white51.top, port: 44943, type: ss, cipher: aes-128-gcm, password: b1aa1c24-5e14-4581-9fd4-cd9350e1bc35, udp: true}
@@ -16,9 +16,9 @@ proxies:
 - {name: 🇹🇼 台湾 / 华东｜TW - 小白云, server: tw1.iepl.cooc.icu, port: 35109, type: ss, cipher: aes-256-gcm, password: a8e281b5-16b0-4d3c-8fcf-f3e84dd7dd33, udp: true}
 - {name: 🇹🇼 台湾 / 华南｜TW - 小白云, server: tw2.iepl.cooc.icu, port: 35110, type: ss, cipher: aes-256-gcm, password: a8e281b5-16b0-4d3c-8fcf-f3e84dd7dd33, udp: true}
 - {name: 🇹🇼 TW｜Overseas users - 小白云, server: tw.cooc.icu, port: 36881, type: ss, cipher: aes-256-gcm, password: a8e281b5-16b0-4d3c-8fcf-f3e84dd7dd33, udp: true}
-- {name: '🇹🇼 🇨🇳 台湾01 - 常用工具全解锁 & 高速安全,企业服务 | BigME.Pro', server: tw01.bigmeyear.org, port: 20334, type: ss, cipher: aes-128-gcm, password: 980b8fc8-06cf-400c-abcd-e7a7cf52a1d6, udp: true}
-- {name: '🇹🇼 🇨🇳 台湾02 - 常用工具全解锁 & 高速安全,企业服务 | BigME.Pro', server: tw02.bigmeyear.org, port: 20335, type: ss, cipher: aes-128-gcm, password: 980b8fc8-06cf-400c-abcd-e7a7cf52a1d6, udp: true}
-- {name: '🇹🇼 🇨🇳 台湾03 - 常用工具全解锁 & 高速安全,企业服务 | BigME.Pro', server: tw03.bigmeyear.org, port: 20336, type: ss, cipher: aes-128-gcm, password: 980b8fc8-06cf-400c-abcd-e7a7cf52a1d6, udp: true}
+- {name: '🇹🇼 🇨🇳 台湾01 - 常用工具全解锁 & 高速安全,企业服务 | BigME.Pro', server: tw01.bigmeyear.org, port: 20334, type: ss, cipher: aes-128-gcm, password: 27a5d045-754e-451f-9fa2-d4aff7f291aa, udp: true}
+- {name: '🇹🇼 🇨🇳 台湾02 - 常用工具全解锁 & 高速安全,企业服务 | BigME.Pro', server: tw02.bigmeyear.org, port: 20335, type: ss, cipher: aes-128-gcm, password: 27a5d045-754e-451f-9fa2-d4aff7f291aa, udp: true}
+- {name: '🇹🇼 🇨🇳 台湾03 - 常用工具全解锁 & 高速安全,企业服务 | BigME.Pro', server: tw03.bigmeyear.org, port: 20336, type: ss, cipher: aes-128-gcm, password: 27a5d045-754e-451f-9fa2-d4aff7f291aa, udp: true}
 - {name: 🇹🇼 V4-4007|台湾|x2.0 - 海豚云, server: dnspsdhaitun.ncsuwei.top, port: 14099, type: vmess, uuid: 25caa874-a2a3-35a7-9376-1224d5a2493a, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /ef483582-6269-468c-93af-c511eccb8a69, headers: {Host: dnspsdhaitun.ncsuwei.top}}, udp: true}
 - {name: 🇹🇼 V4-4008|台湾|x2.0 - 海豚云, server: dnspsdhaitun.ncsuwei.top, port: 14000, type: vmess, uuid: 25caa874-a2a3-35a7-9376-1224d5a2493a, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /ef483582-6269-468c-93af-c511eccb8a69, headers: {Host: dnspsdhaitun.ncsuwei.top}}, udp: true}
 - {name: 🇹🇼 台湾A丨Hinet丨流媒体 - Tannel中继网络服务, server: www.zztannel.com, port: 62012, type: vmess, uuid: 438065a8-a4fc-3f72-b549-384bffe7d4bc, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
