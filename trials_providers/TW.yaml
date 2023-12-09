@@ -1,14 +1,17 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇹🇼 台湾 1 动画疯 - 西瓜皮是真的皮, server: xgxdsh.dx001.top, port: 19821, type: vmess, uuid: 5c77ecb5-925b-312d-8777-72c6293ef4bc, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇹🇼 台湾 2 动画疯 - 西瓜皮是真的皮, server: ct-01.dx001.top, port: 19822, type: vmess, uuid: 5c77ecb5-925b-312d-8777-72c6293ef4bc, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼 台湾 1 动画疯 - 西瓜皮是真的皮, server: xgxdsh.dx001.top, port: 19821, type: vmess, uuid: b23d6681-5cc1-3d99-8f5b-d755b79cf49a, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼 台湾 2 动画疯 - 西瓜皮是真的皮, server: ct-01.dx001.top, port: 19822, type: vmess, uuid: b23d6681-5cc1-3d99-8f5b-d755b79cf49a, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇹🇼 台湾02--1.3x - 小巫云 ☁️, server: xx.white51.top, port: 52968, type: ss, cipher: aes-128-gcm, password: b1aa1c24-5e14-4581-9fd4-cd9350e1bc35, udp: true}
 - {name: 🇹🇼 台湾10--1.3x - 小巫云 ☁️, server: shdx.white51.top, port: 52095, type: ss, cipher: aes-128-gcm, password: b1aa1c24-5e14-4581-9fd4-cd9350e1bc35, udp: true}
 - {name: 🇹🇼 台湾03--1.3x - 小巫云 ☁️, server: ahdx.white51.top, port: 44943, type: ss, cipher: aes-128-gcm, password: b1aa1c24-5e14-4581-9fd4-cd9350e1bc35, udp: true}
 - {name: 🇹🇼 台湾04--1.3x - 小巫云 ☁️, server: hndx.white51.top, port: 41471, type: ss, cipher: aes-128-gcm, password: b1aa1c24-5e14-4581-9fd4-cd9350e1bc35, udp: true}
 - {name: 🇹🇼 台湾05--1.3x - 小巫云 ☁️, server: gda.white51.top, port: 34276, type: ss, cipher: aes-128-gcm, password: b1aa1c24-5e14-4581-9fd4-cd9350e1bc35, udp: true}
 - {name: 🇹🇼 台湾11--1.3x - 小巫云 ☁️, server: gdb.white51.top, port: 28458, type: ss, cipher: aes-128-gcm, password: b1aa1c24-5e14-4581-9fd4-cd9350e1bc35, udp: true}
+- {name: 🇹🇼 台湾A | 抖音ip 01 | 1x - 小巫云 ☁️, server: gda.white51.top, port: 45779, type: ss, cipher: aes-128-gcm, password: b1aa1c24-5e14-4581-9fd4-cd9350e1bc35, udp: true}
+- {name: 🇹🇼 台湾B | 抖音ip 02 | 1x - 小巫云 ☁️, server: gdb.white51.top, port: 17455, type: ss, cipher: aes-128-gcm, password: b1aa1c24-5e14-4581-9fd4-cd9350e1bc35, udp: true}
+- {name: 🇹🇼 台湾C | 抖音ip 03 | 1x - 小巫云 ☁️, server: gdc.white51.top, port: 49239, type: ss, cipher: aes-128-gcm, password: b1aa1c24-5e14-4581-9fd4-cd9350e1bc35, udp: true}
 - {name: 🇹🇼台湾01 - 都是梦, server: dl1.doushimeng.com, port: 80, type: vmess, uuid: 75332902-98f4-43c1-a159-4c73b3a81aca, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /asdas, headers: {Host: cf-tww.doushimeng.com}}, udp: true}
 - {name: 🇹🇼台湾02 - 都是梦, server: tw.doushimeng.com, port: 46661, type: ss, cipher: chacha20-ietf-poly1305, password: 75332902-98f4-43c1-a159-4c73b3a81aca, udp: true}
 - {name: 🇹🇼 TW台湾 A - 可乐云, server: tw.colacloud.site, port: 48887, type: ss, cipher: chacha20-ietf-poly1305, password: d55733c0-48c3-4fb2-9d3f-6abfb83c8567, udp: true}
