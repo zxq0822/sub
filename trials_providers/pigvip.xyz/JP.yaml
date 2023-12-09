@@ -1,5 +1,5 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇯🇵 日本|01|京东 - 猪网-PIGVIP, server: rb01.pigvip.xyz, port: 2380, type: vmess, uuid: 781c321a-1e71-4e2e-a78d-e4a1ed453352, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: pigvip.xyz}}, udp: true}
-- {name: 🇯🇵 日本 | Trojan | 东京 - 猪网-PIGVIP, server: rb01.pigvip.xyz, port: 2381, type: trojan, password: 781c321a-1e71-4e2e-a78d-e4a1ed453352, sni: rb01.pigvip.xyz, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本|01|京东 - 猪网-PIGVIP, server: rb01.pigvip.xyz, port: 2380, type: vmess, uuid: ce130470-a9e4-43f0-81a7-3e46bdf84740, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: pigvip.xyz}}, udp: true}
+- {name: 🇯🇵 日本 | Trojan | 东京 - 猪网-PIGVIP, server: rb01.pigvip.xyz, port: 2381, type: trojan, password: ce130470-a9e4-43f0-81a7-3e46bdf84740, sni: rb01.pigvip.xyz, skip-cert-verify: true, udp: true}
