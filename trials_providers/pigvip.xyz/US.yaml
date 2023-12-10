@@ -1,7 +1,7 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇺🇸 美国|01|西雅图 - 猪网-PIGVIP, server: mg01.pigvip.xyz, port: 2380, type: vmess, uuid: 588c869a-3fad-45b2-8ecd-b34f40ac03c0, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: ssmtt.com}}, udp: true}
-- {name: 🇺🇸 美国|02|纽约 - 猪网-PIGVIP, server: mg02.pigvip.xyz, port: 2380, type: vmess, uuid: 588c869a-3fad-45b2-8ecd-b34f40ac03c0, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: mg02.pigvip.xyz}}, udp: true}
-- {name: 🇺🇸 美国 | Trojan | 纽约 - 猪网-PIGVIP, server: mg02.pigvip.xyz, port: 2382, type: trojan, password: 588c869a-3fad-45b2-8ecd-b34f40ac03c0, sni: mg02.pigvip.xyz, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 美国 | Trojan | 西雅图 - 猪网-PIGVIP, server: mg01.pigvip.xyz, port: 2382, type: trojan, password: 588c869a-3fad-45b2-8ecd-b34f40ac03c0, sni: mg01.pigvip.xyz, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 美国|01|西雅图 - 猪网-PIGVIP, server: mg01.pigvip.xyz, port: 2380, type: vmess, uuid: 1fe25f29-8225-4d7a-9933-488d281572ea, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: ssmtt.com}}, udp: true}
+- {name: 🇺🇸 美国|02|纽约 - 猪网-PIGVIP, server: mg02.pigvip.xyz, port: 2380, type: vmess, uuid: 1fe25f29-8225-4d7a-9933-488d281572ea, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: mg02.pigvip.xyz}}, udp: true}
+- {name: 🇺🇸 美国 | Trojan | 纽约 - 猪网-PIGVIP, server: mg02.pigvip.xyz, port: 2382, type: trojan, password: 1fe25f29-8225-4d7a-9933-488d281572ea, sni: mg02.pigvip.xyz, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 美国 | Trojan | 西雅图 - 猪网-PIGVIP, server: mg01.pigvip.xyz, port: 2382, type: trojan, password: 1fe25f29-8225-4d7a-9933-488d281572ea, sni: mg01.pigvip.xyz, skip-cert-verify: true, udp: true}
