@@ -33,6 +33,7 @@ proxy-groups:
   - 【介绍】每月一元遨游海外网络 - 一元云梯
   - 🇰🇷 韩国1 - 一元云梯
   - 🇰🇷 韩国2 - 一元云梯
+  - 🇰🇷 韩国3-优化中国移动网络 - 一元云梯
   - 🇬🇧 英国1 - 一元云梯
   - 🇬🇧 英国2 - 一元云梯
 - name: 🛩️ ‍墙内
@@ -98,6 +99,7 @@ proxy-groups:
   - 【介绍】每月一元遨游海外网络 - 一元云梯
   - 🇰🇷 韩国1 - 一元云梯
   - 🇰🇷 韩国2 - 一元云梯
+  - 🇰🇷 韩国3-优化中国移动网络 - 一元云梯
   - 🇬🇧 英国1 - 一元云梯
   - 🇬🇧 英国2 - 一元云梯
 - name: 👆🏻 ‍指定
@@ -122,6 +124,7 @@ proxies:
 - {name: 🇺🇸 美国2 - 一元云梯, server: cloudflare-cmi1.shaniugpt.top, port: 8080, type: vmess, uuid: 12108a85-b442-4197-bec0-9bed9b7345e2, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: yyjc-us1.shaniugpt.top}}, udp: true}
 - {name: 🇰🇷 韩国1 - 一元云梯, server: yyjc-kr1.shaniugpt.top, port: 8080, type: vmess, uuid: 12108a85-b442-4197-bec0-9bed9b7345e2, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: yyjc-kr1.shaniugpt.top}}, udp: true}
 - {name: 🇰🇷 韩国2 - 一元云梯, server: cloudflare-cmi1.shaniugpt.top, port: 8080, type: vmess, uuid: 12108a85-b442-4197-bec0-9bed9b7345e2, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: yyjc-kr1.shaniugpt.top}}, udp: true}
+- {name: 🇰🇷 韩国3-优化中国移动网络 - 一元云梯, server: zz-cmi.shaniugpt.top, port: 20047, type: vmess, uuid: 12108a85-b442-4197-bec0-9bed9b7345e2, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: yyjc-kr1.shaniugpt.top}}, udp: true}
 - {name: 🇬🇧 英国1 - 一元云梯, server: yyjc-uk1.shaniugpt.top, port: 8080, type: vmess, uuid: 12108a85-b442-4197-bec0-9bed9b7345e2, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: yyjc-uk1.shaniugpt.top}}, udp: true}
 - {name: 🇬🇧 英国2 - 一元云梯, server: cloudflare-cmi1.shaniugpt.top, port: 8080, type: vmess, uuid: 12108a85-b442-4197-bec0-9bed9b7345e2, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: yyjc-uk1.shaniugpt.top}}, udp: true}
 rules:
