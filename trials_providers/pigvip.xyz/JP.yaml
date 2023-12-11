@@ -1,4 +1,4 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇯🇵 日本|01|京东 - 猪网-PIGVIP, server: rb01.pigvip.xyz, port: 2380, type: vmess, uuid: d91712f2-3604-4001-88e8-b788b28dbaf6, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: rb01.pigvip.xyz, network: ws, ws-opts: {path: /, headers: {Host: pigvip.xyz}}, udp: true}
+- {name: 🇯🇵 日本|01|京东 - 猪网-PIGVIP, server: rb01.pigvip.xyz, port: 2380, type: vmess, uuid: e67c3033-2594-4f1c-96db-41b12a2cf35a, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: rb01.pigvip.xyz, network: ws, ws-opts: {path: /, headers: {Host: pigvip.xyz}}, udp: true}
