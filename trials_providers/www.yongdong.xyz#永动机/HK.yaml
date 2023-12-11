@@ -1,6 +1,6 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇭🇰 白银vip｜中转2 -> 香港 | vvJH209 - 永动机, server: zfkr2.30803080.xyz, port: 21050, type: vmess, uuid: 2314cd21-4280-4422-a261-83bcf949994d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: zfkr2.30803080.xyz}}, udp: true}
-- {name: 🇭🇰 白银vip｜中转2-> 香港 | vvJH210 - 永动机, server: zfkr2.30803080.xyz, port: 21049, type: vmess, uuid: 2314cd21-4280-4422-a261-83bcf949994d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: zfkr2.30803080.xyz}}, udp: true}
-- {name: 🇭🇰 白银vip｜中转2 -> 香港 | vvJH211 - 永动机, server: zfkr2.30803080.xyz, port: 21048, type: vmess, uuid: 2314cd21-4280-4422-a261-83bcf949994d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: zfkr2.30803080.xyz}}, udp: true}
+- {name: 🇭🇰 白银vip｜中转2 -> 香港 | vvJH209 - 永动机, server: zfkr2.30803080.xyz, port: 21050, type: vmess, uuid: 15d414d3-1ff9-4c83-a35f-3450b8d4edc6, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: zfkr2.30803080.xyz}}, udp: true}
+- {name: 🇭🇰 白银vip｜中转2-> 香港 | vvJH210 - 永动机, server: zfkr2.30803080.xyz, port: 21049, type: vmess, uuid: 15d414d3-1ff9-4c83-a35f-3450b8d4edc6, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: zfkr2.30803080.xyz}}, udp: true}
+- {name: 🇭🇰 白银vip｜中转2 -> 香港 | vvJH211 - 永动机, server: zfkr2.30803080.xyz, port: 21048, type: vmess, uuid: 15d414d3-1ff9-4c83-a35f-3450b8d4edc6, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: zfkr2.30803080.xyz}}, udp: true}
