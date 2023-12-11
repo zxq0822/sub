@@ -1,14 +1,13 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇭🇰 香港06-解锁 - PL, server: xg06.bbx9527.xyz, port: 26038, type: ss, cipher: chacha20-ietf-poly1305, password: 4fc3b8c0-9492-463d-8d80-3b7936e28ee3, udp: true}
-- {name: 🇭🇰 香港08-解锁 - PL, server: xg08.bbx9527.xyz, port: 45550, type: ss, cipher: chacha20-ietf-poly1305, password: 4fc3b8c0-9492-463d-8d80-3b7936e28ee3, udp: true}
-- {name: 🇭🇰 香港09-解锁 - PL, server: xg09.bbx9527.xyz, port: 45551, type: ss, cipher: chacha20-ietf-poly1305, password: 4fc3b8c0-9492-463d-8d80-3b7936e28ee3, udp: true}
-- {name: 🇭🇰 香港10-解锁 - PL, server: xg10.bbx9527.xyz, port: 35975, type: ss, cipher: chacha20-ietf-poly1305, password: 4fc3b8c0-9492-463d-8d80-3b7936e28ee3, udp: true}
-- {name: 🇭🇰 香港11-解锁 - PL, server: xg11.bbx9527.xyz, port: 35978, type: ss, cipher: chacha20-ietf-poly1305, password: 4fc3b8c0-9492-463d-8d80-3b7936e28ee3, udp: true}
-- {name: 🇭🇰 香港01-解锁 - PL, server: nnr01xg.bbx9527.xyz, port: 25277, type: vmess, uuid: 4fc3b8c0-9492-463d-8d80-3b7936e28ee3, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: www.weibo.com}}, udp: true}
-- {name: 🇭🇰 香港02-解锁 - PL, server: xg02.bbx9527.xyz, port: 25793, type: ss, cipher: chacha20-ietf-poly1305, password: 4fc3b8c0-9492-463d-8d80-3b7936e28ee3, udp: true}
-- {name: 🇭🇰 香港03-解锁 - PL, server: xg03.bbx9527.xyz, port: 25797, type: ss, cipher: chacha20-ietf-poly1305, password: 4fc3b8c0-9492-463d-8d80-3b7936e28ee3, udp: true}
-- {name: 🇭🇰 香港04-解锁 - PL, server: xg04.bbx9527.xyz, port: 26036, type: ss, cipher: chacha20-ietf-poly1305, password: 4fc3b8c0-9492-463d-8d80-3b7936e28ee3, udp: true}
-- {name: 🇭🇰 香港05-解锁 - PL, server: xg05.bbx9527.xyz, port: 26037, type: ss, cipher: chacha20-ietf-poly1305, password: 4fc3b8c0-9492-463d-8d80-3b7936e28ee3, udp: true}
-- {name: 🇭🇰 香港07-解锁 - PL, server: xg07.bbx9527.xyz, port: 45549, type: ss, cipher: chacha20-ietf-poly1305, password: 4fc3b8c0-9492-463d-8d80-3b7936e28ee3, udp: true}
+- {name: 🇭🇰 香港001 - PL, server: xgbpjd001.lxfvip.shop, port: 25277, type: ss, cipher: chacha20-ietf-poly1305, password: 4fc3b8c0-9492-463d-8d80-3b7936e28ee3, udp: true}
+- {name: 🇭🇰 香港002 - PL, server: xgbpjd002.lxfvip.shop, port: 46283, type: ss, cipher: chacha20-ietf-poly1305, password: 4fc3b8c0-9492-463d-8d80-3b7936e28ee3, udp: true}
+- {name: 🇭🇰 香港003 - PL, server: xgbpjd003.lxfvip.shop, port: 37416, type: ss, cipher: chacha20-ietf-poly1305, password: 4fc3b8c0-9492-463d-8d80-3b7936e28ee3, udp: true}
+- {name: 🇭🇰 香港004 - PL, server: xgbpjd004.lxfvip.shop, port: 46732, type: ss, cipher: chacha20-ietf-poly1305, password: 4fc3b8c0-9492-463d-8d80-3b7936e28ee3, udp: true}
+- {name: 🇭🇰 香港005 - PL, server: xgbpjd005.lxfvip.shop, port: 46285, type: ss, cipher: chacha20-ietf-poly1305, password: 4fc3b8c0-9492-463d-8d80-3b7936e28ee3, udp: true}
+- {name: 🇭🇰 香港006 - PL, server: xgbpjd006.lxfvip.shop, port: 26914, type: ss, cipher: chacha20-ietf-poly1305, password: 4fc3b8c0-9492-463d-8d80-3b7936e28ee3, udp: true}
+- {name: 🇭🇰 香港007 - PL, server: xgbpjd007.lxfvip.shop, port: 26915, type: ss, cipher: chacha20-ietf-poly1305, password: 4fc3b8c0-9492-463d-8d80-3b7936e28ee3, udp: true}
+- {name: 🇭🇰 香港008 - PL, server: xgbpjd008.lxfvip.shop, port: 26917, type: ss, cipher: chacha20-ietf-poly1305, password: 4fc3b8c0-9492-463d-8d80-3b7936e28ee3, udp: true}
+- {name: 🇭🇰 香港009 - PL, server: xgbpjd009.lxfvip.shop, port: 26918, type: ss, cipher: chacha20-ietf-poly1305, password: 4fc3b8c0-9492-463d-8d80-3b7936e28ee3, udp: true}
+- {name: 🇭🇰 香港010 - PL, server: xgbpjd010.lxfvip.shop, port: 26919, type: ss, cipher: chacha20-ietf-poly1305, password: 4fc3b8c0-9492-463d-8d80-3b7936e28ee3, udp: true}
