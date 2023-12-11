@@ -1,11 +1,10 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 距离下次重置剩余：1 天 - Gegeth极迅游, server: ydfive.yb59.uk, port: 49998, type: ss, cipher: chacha20-ietf-poly1305, password: ba4a1ee1-8290-47cb-8a23-d1f486183092, udp: true}
 - {name: 官网:www.gegeth.com - Gegeth极迅游, server: gy.yb59.uk, port: 18785, type: ss, cipher: chacha20-ietf-poly1305, password: ba4a1ee1-8290-47cb-8a23-d1f486183092, udp: true}
-- {name: 距离下次重置剩余：27 天 - 一元云梯, server: yiyuanvpn.top, port: 443, type: vmess, uuid: 12108a85-b442-4197-bec0-9bed9b7345e2, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /yyjc-hk-ipv6-1, headers: {Host: yyjc-hk-ipv6-1.shaniugpt.top}}, udp: true}
+- {name: 距离下次重置剩余：26 天 - 一元云梯, server: yiyuanvpn.top, port: 443, type: vmess, uuid: 12108a85-b442-4197-bec0-9bed9b7345e2, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /yyjc-hk-ipv6-1, headers: {Host: yyjc-hk-ipv6-1.shaniugpt.top}}, udp: true}
 - {name: 【公告】调整协议加密功能，可能出现波动，请更新订阅 - 一元云梯, server: yiyuanvpn.top, port: 443, type: vmess, uuid: 12108a85-b442-4197-bec0-9bed9b7345e2, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /yyjc-hk-ipv6-1, headers: {Host: yyjc-hk-ipv6-1.shaniugpt.top}}, udp: true}
-- {name: 官网🌎：https://www.51jichang.xyz - 一机场, server: frontend.yijianlian.app, port: 54570, type: trojan, password: a671ac77-dbea-4596-a33a-cb36042a03ac, skip-cert-verify: true, udp: true}
+- {name: 官网🌎：https://www.51jichang.xyz - 一机场, server: frontend.yijianlian.app, port: 54570, type: trojan, password: 2e4794f0-de9b-4535-a3d7-29b79050066c, skip-cert-verify: true, udp: true}
 - {name: 用不了更新订阅或重新导入 - 鸡鸡云, server: jjyhk.com, port: 24910, type: ss, cipher: chacha20-ietf-poly1305, password: 64cb3955-b520-41d7-8cc5-9c29d92d5277, udp: true}
 - {name: 距离下次重置剩余：30 天 - 快狗云, server: ca-01.gujuji.top, port: 8080, type: vmess, uuid: 6bed5b06-432c-425f-bc6e-028ff4298872, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: ca-01.gujuji.top}}, udp: true}
 - {name: 官网www. kuaigou.life - 快狗云, server: ca-01.gujuji.top, port: 8080, type: vmess, uuid: 6bed5b06-432c-425f-bc6e-028ff4298872, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: ca-01.gujuji.top}}, udp: true}
