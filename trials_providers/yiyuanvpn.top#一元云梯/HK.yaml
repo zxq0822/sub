@@ -1,0 +1,5 @@
+%YAML 1.1
+---
+proxies:
+- {name: 🇭🇰 香港1 - 一元云梯, server: yyjc-hk-ipv6-1.shaniugpt.top, port: 443, type: vmess, uuid: b0fcddf3-74ca-4b66-b236-ea6373315972, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /yyjc-hk-ipv6-1, headers: {Host: yyjc-hk-ipv6-1.shaniugpt.top}}, udp: true}
+- {name: 🇭🇰 香港2 - 一元云梯, server: cdn.shaniugpt.top, port: 80, type: vmess, uuid: b0fcddf3-74ca-4b66-b236-ea6373315972, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /yyjc-hk-ipv6-1, headers: {Host: yyjc-hk-ipv6-1.shaniugpt.top}}, udp: true}
