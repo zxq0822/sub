@@ -1,203 +1,17 @@
-[yiyuanvpn.top#一元云梯]
-buy  pass
-email  upbpcgjsa640@gmail.com
-name  一元云梯
-node_n  12
-sub_info  0B  100G  2024-01-12 01:14:49+08:00  (剩余 100G 29 days, 23:52:25.976821)
-sub_url  https://site.bzqjc.top/api/v1/client/subscribe?token=ccdf14b22ca05613cbb5165d050396ad
-time  2023-12-13 01:14:50.781810+08:00
-type  v2board
-更新旧订阅失败  could not convert string to float: '1;'
-
-[v.spwvpn.com#麻雀加速器]
-banned_domains  qabq.com  oxuzn.icu  spam4.me
-name  麻雀加速器 Sparrow
-type  v2board
-更新订阅链接/续费续签失败  获取邮箱验证码超时(cqofqzab808@spam4.me)
-
-[vipxgyun.com#西瓜皮]
-auto_invite  F
-buy  pass
-email  wdowmgc774@gmail.com
-last_checkin  2023-12-13 01:14:51.627949+08:00
-name  西瓜皮是真的皮
-node_n  14
-sub_info  0B  10.1G  2023-12-13 03:14:49+08:00  (剩余 10.1G 1:52:03.142789)
-sub_url  https://go.xiguasuyun.com/link/Q6zHv50M55gLp7Bj?sub=3
-time  2023-12-13 01:14:54.117027+08:00
-type  sspanel
-
-[www.1jichang.xyz#一机场]
-buy  pass
-email  oelrxlqg785@linshiyou.com
-name  一机场
-node_n  9
-sub_info  0B  20G  2023-12-20 01:15:06+08:00  (剩余 20G 6 days, 23:52:20.682747)
-sub_url  https://api.1jichang.xyz/api/v1/client/subscribe?token=bbebac22168671e134c82d862ded85e4
-time  2023-12-13 01:15:07.606018+08:00
-type  v2board
-
-[www.jjyhk.com#鸡鸡云]
-
-[www.grey51.life#小巫云]
-api_host  bl.grey51.life
-buy  pass
-email  ooizivusm996@gmail.com
-name  小巫云 ☁️
-sub_info  0B  0B  永不过期  (剩余 0B)
-sub_url  https://ghjak.top/api/v1/client/subscribe?token=7b1897d22f35aa0c5330f24e872e5e01
-time  2023-12-13 01:22:50.265357+08:00
-type  v2board
-保存base64/clash订阅失败  'NoneType' object is not iterable
-
-[jc.bbx9527.xyz]
-
-[yq1.jixunyou02.com]
-email  mhwlrasyu701@gmail.com
-name  Gegeth极迅游
-node_n  2
-sub_info  0B  10G  2023-12-13 13:14:49+08:00  (剩余 10G 11:51:54.790444)
-sub_url  https://client.sqljixunyou.xyz/Gegeth/v2board/api/v1/client/subscribe?token=40c81594ae643fd051a007010861da8f
-time  2023-12-13 01:14:52.211948+08:00
-type  v2board
-
-[cloud.doushimeng.com#都是梦]
-buy  pass
-email  ogpvshh203@gmail.com
-name  都是梦
-node_n  22
-sub_info  0B  10G  2023-12-16 01:13:49+08:00  (剩余 10G 2 days, 23:49:03.102636)
-sub_url  https://dingyue.doushimeng.com/api/v1/client/subscribe?token=2cfbc3ccb599c0b557286b9145230365
-time  2023-12-13 01:14:49.263947+08:00
-type  v2board
-
 [www.yongdong.xyz#永动机]
 name  永动机
 type  v2board
-更新订阅链接/续费续签失败  发送邮箱验证码失败(qjmxqkovw760@teml.net): {'message': '验证码有误'}
-
-[cloud.colacloud.site#可乐云]
-buy  pass
-email  jnmwdji834@gmail.com
-name  可乐云
-node_n  16
-sub_info  0B  50G  2023-12-28 01:14:47+08:00  (剩余 50G 14 days, 23:51:54.752442)
-sub_url  https://cloud5.colacloud.site/api/v1/client/subscribe?token=3596c8ed2d0c4453c213f12aee33511b
-time  2023-12-13 01:14:48.300419+08:00
-type  v2board
-
-[portal.passgfw.top#WindyCloud]
-
-[cloud.bigme.pro#bigme]
-buy  pass
-email  zqnwjpm628@gmail.com
-name  常用工具全解锁 & 高速安全,企业服务 | BigME.Pro
-node_n  18
-sub_info  0B  45G  2023-12-14 01:14:50+08:00  (剩余 45G 23:52:04.681759)
-sub_url  https://api.bigme.online:25565/api/v1/client/subscribe?token=3e37b153b3d40e26a6291b60d2a2ee80
-time  2023-12-13 01:14:51.609309+08:00
-type  v2board
+更新订阅链接/续费续签失败  发送邮箱验证码失败(kvldliesv472@localjobsnearme.com): {'message': '验证码有误'}
 
 [pigvip.xyz]
 buy  pass
 email  oavoxpu64@gmail.com
 name  猪网-PIGVIP
 node_n  34
-sub_info  0B  10G  2023-12-20 01:20:18+08:00  (剩余 10G 6 days, 23:57:33.218761)
+sub_info  0B  10G  2023-12-20 01:20:18+08:00  (剩余 10G 6 days, 23:44:55.254195)
 sub_url  https://pigvip.xyz/api/v1/client/subscribe?token=379e31f8b7b3db31af5052864cfd053f
 time  2023-12-13 01:20:19.625383+08:00
 type  v2board
-
-[vpn.583180.xyz]
-email  lhjzrslki638@gmail.com
-name  星河 583
-sub_info  0B  0B  永不过期  (剩余 0B)
-sub_url  https://003.583182.xyz/api/v1/client/subscribe?token=3c671046cfb8656b09997bb377da3f68
-time  2023-12-13 01:22:49.162245+08:00
-type  v2board
-保存base64/clash订阅失败  'NoneType' object is not iterable
-
-[www.kuaidog001.top]
-email  kvfinqv872@gmail.com
-name  快狗云
-node_n  20
-sub_info  0B  100G  2024-01-13 01:17:02+08:00  (剩余 100G 30 days, 23:54:12.251965)
-sub_url  https://www.kuaidog001.top/api/v1/client/subscribe?token=2b9a94810deedee0c1c9a6349e644ca6
-time  2023-12-13 01:14:48.669885+08:00
-type  v2board
-
-[cn.luonan.me]
-
-[cloud.fanqiecloud.top]
-email  ownmtouh739@gmail.com
-name  番茄云
-node_n  24
-sub_info  0B  20G  2023-12-14 01:14:48+08:00  (剩余 20G 23:52:02.771261)
-sub_url  https://cloud3.fanqiecloud.top/api/v1/client/subscribe?token=7c698591cac0abda09de4f02e4f55e20
-time  2023-12-13 01:14:54.137672+08:00
-type  v2board
-
-[www.tannel.xyz]
-auto_invite  F
-buy  pass
-email  agolhrun506@gmail.com
-last_checkin  2023-12-13 01:14:50.822574+08:00
-name  Tannel中继网络服务
-node_n  6
-sub_info  0B  20G  2023-12-14 01:14:48+08:00  (剩余 20G 23:52:04.159295)
-sub_url  https://dy.tannel.xyz/link/3Q1dSoSOs6xNfmW3?sub=3
-time  2023-12-13 01:14:51.587431+08:00
-type  sspanel
-
-[www.qlgq.top]
-auto_invite  F
-buy  pass
-email  ahyvvlp317@lyx13.xyz
-last_checkin  2023-12-13 01:15:06.259742+08:00
-name  墙了个墙
-node_n  28
-sub_info  0B  888G  2023-12-14 01:15:02+08:00  (剩余 888G 23:50:11.683475)
-sub_url  https://www.qlgq.top/link/a2cac2b5f38e733b?clash=1#墙了个墙
-time  2023-12-13 01:15:07.199612+08:00
-type  sspanel
-
-[bee.sulepay.com]
-auto_invite  F
-buy  pass
-email  vruwmbtq631@maladi.top
-last_checkin  2023-12-13 01:20:38.874214+08:00
-name  bee.sulepay.com
-node_n  3
-sub_info  0B  20.31G  2024-01-12 01:20:34+08:00  (剩余 20.31G 29 days, 23:57:42.559020)
-sub_url  https://bee.sulepay.com/link/02PneoloZcWP2vY5?clash=1
-time  2023-12-13 01:20:40.047575+08:00
-type  sspanel
-
-[aa.dabai.in]
-email  ncvhhue504@gmail.com
-last_checkin  2023-12-13 01:14:45.442193+08:00
-name  大白
-node_n  8
-sub_info  0B  999G  2024-01-12 01:14:45+08:00  (剩余 999G 29 days, 23:51:56.227302)
-sub_url  https://aa.dabai.in/link/LZPqYynyByPwXuJO?sub=3
-time  2023-12-13 01:14:50.044259+08:00
-type  sspanel
-
-[www.flybar4.cc]
-banned_domains  psnator.com  mydefipet.live
-name  飞翔吧
-type  sspanel
-更新订阅链接/续费续签失败  获取邮箱验证码超时(bjbfalef199@mydefipet.live)
-
-[haituncloud.xyz]
-email  yfgypcygp395@gmail.com
-last_checkin  2023-12-13 01:14:47.504669+08:00
-name  海豚云
-node_n  11
-sub_info  0B  100.3G  2024-01-12 01:14:47+08:00  (剩余 100.3G 29 days, 23:52:02.185722)
-sub_url  https://s.haituncloud.vip/link/obucf4Pj13LDB8UH?sub=3
-time  2023-12-13 01:14:55.879144+08:00
-type  sspanel
 
 [mgnet.vip]
 auto_invite  F
@@ -206,13 +20,7 @@ email  xplbrgbu768@gmail.com
 last_checkin  2023-12-13 01:14:51.412201+08:00
 name  MG Network
 node_n  10
-sub_info  0B  5.848G  2023-12-15 01:14:49+08:00  (剩余 5.848G 1 day, 23:52:05.651308)
+sub_info  0B  5.848G  2023-12-15 01:14:49+08:00  (剩余 5.848G 1 day, 23:39:29.495938)
 sub_url  https://www.mgnet.sbs/link/i6JYAZ0JwHNJu50a?sub=3
 time  2023-12-13 01:14:52.018883+08:00
 type  sspanel
-
-[cooc.cloud#小白云]
-banned_domains  xdanae.com  liteprompter.com  deomail.top
-name  小白云
-type  v2board
-更新订阅链接/续费续签失败  获取邮箱验证码超时(qifjuwm668@deomail.top)
