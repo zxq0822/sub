@@ -33,22 +33,17 @@ proxy-groups:
   - 🇭🇰 白银vip｜中转2 -> 香港 | vvJH211 - 永动机
   - 🇭🇰 香港 | 01 - 猪网-PIGVIP
   - 🇭🇰 香港 | 02 - 猪网-PIGVIP
-  - 🇸🇬 [vip①]新加坡1 - MG Network
   - 🇸🇬 新加坡|01|新加坡 - 猪网-PIGVIP
   - 🇸🇬 新加坡|02|新加坡 - 猪网-PIGVIP
   - 🇯🇵 白银vip｜中转2 -> 日本｜vvSoc216 - 永动机
   - 🇯🇵 白银vip｜中转2 -> 日本｜vvSoc217 - 永动机
   - 🇯🇵 白银vip｜中转2 -> 日本｜vvSoc218 - 永动机
-  - 🇯🇵 [vip①]日本1 - MG Network
-  - 🇯🇵 [vip①]日本2 - MG Network
   - 🇯🇵 日本|01|京东 - 猪网-PIGVIP
   - 🇯🇵 日本 | 02 | 京东 - 猪网-PIGVIP
   - 🇯🇵 日本 | 03 | 大阪市 - 猪网-PIGVIP
   - 🇺🇸 白银vip｜中转2 -> 美国｜vvSoc227 - 永动机
   - 🇺🇸 白银vip｜中转2 -> 美国｜vvSoc228 - 永动机
   - 🇺🇸 白银vip｜中转2 -> 美国｜vvSoc229 - 永动机
-  - 🇺🇸 [vip①]美国1 - MG Network
-  - 🇺🇸 [vip①]美国2 - MG Network
   - 🇺🇸 美国|01|西雅图 - 猪网-PIGVIP
   - 🇺🇸 美国|02|纽约 - 猪网-PIGVIP
   - 🇺🇸 美国|03|弗吉尼亚州 - 猪网-PIGVIP
@@ -62,11 +57,6 @@ proxy-groups:
   - 🇰🇷 白银vip｜中转2 -> 韩国｜vvSoc237 - 永动机
   - 🇰🇷 白银vip｜中转2 -> 韩国｜vvSoc238 - 永动机
   - 🇷🇺 白银vip｜中转 -> 俄罗斯｜vvSoc76 - 永动机
-  - 🇩🇪 [vip①]德国1 - MG Network
-  - 🇩🇪 [vip①]德国2 - MG Network
-  - 🇬🇧 [vip①]英国1 - MG Network
-  - 🇬🇧 [vip①]英国2 - MG Network
-  - 🇰🇷 [vip①]韩国1 - MG Network
   - 🇮🇱 以色列|01|特拉维夫 - 猪网-PIGVIP
   - 🇦🇺 澳大利亚|01|悉尼 - 猪网-PIGVIP
   - 🇰🇷 韩国|01|首尔 - 猪网-PIGVIP
@@ -141,7 +131,6 @@ proxy-groups:
   interval: 15
   tolerance: 100
   proxies: &id003
-  - 🇸🇬 [vip①]新加坡1 - MG Network
   - 🇸🇬 新加坡|01|新加坡 - 猪网-PIGVIP
   - 🇸🇬 新加坡|02|新加坡 - 猪网-PIGVIP
 - name: 🇯🇵 ‍日本
@@ -153,8 +142,6 @@ proxy-groups:
   - 🇯🇵 白银vip｜中转2 -> 日本｜vvSoc216 - 永动机
   - 🇯🇵 白银vip｜中转2 -> 日本｜vvSoc217 - 永动机
   - 🇯🇵 白银vip｜中转2 -> 日本｜vvSoc218 - 永动机
-  - 🇯🇵 [vip①]日本1 - MG Network
-  - 🇯🇵 [vip①]日本2 - MG Network
   - 🇯🇵 日本|01|京东 - 猪网-PIGVIP
   - 🇯🇵 日本 | 02 | 京东 - 猪网-PIGVIP
   - 🇯🇵 日本 | 03 | 大阪市 - 猪网-PIGVIP
@@ -167,8 +154,6 @@ proxy-groups:
   - 🇺🇸 白银vip｜中转2 -> 美国｜vvSoc227 - 永动机
   - 🇺🇸 白银vip｜中转2 -> 美国｜vvSoc228 - 永动机
   - 🇺🇸 白银vip｜中转2 -> 美国｜vvSoc229 - 永动机
-  - 🇺🇸 [vip①]美国1 - MG Network
-  - 🇺🇸 [vip①]美国2 - MG Network
   - 🇺🇸 美国|01|西雅图 - 猪网-PIGVIP
   - 🇺🇸 美国|02|纽约 - 猪网-PIGVIP
   - 🇺🇸 美国|03|弗吉尼亚州 - 猪网-PIGVIP
@@ -188,11 +173,6 @@ proxy-groups:
   - 🇰🇷 白银vip｜中转2 -> 韩国｜vvSoc237 - 永动机
   - 🇰🇷 白银vip｜中转2 -> 韩国｜vvSoc238 - 永动机
   - 🇷🇺 白银vip｜中转 -> 俄罗斯｜vvSoc76 - 永动机
-  - 🇩🇪 [vip①]德国1 - MG Network
-  - 🇩🇪 [vip①]德国2 - MG Network
-  - 🇬🇧 [vip①]英国1 - MG Network
-  - 🇬🇧 [vip①]英国2 - MG Network
-  - 🇰🇷 [vip①]韩国1 - MG Network
   - 🇮🇱 以色列|01|特拉维夫 - 猪网-PIGVIP
   - 🇦🇺 澳大利亚|01|悉尼 - 猪网-PIGVIP
   - 🇰🇷 韩国|01|首尔 - 猪网-PIGVIP
@@ -241,16 +221,6 @@ proxies:
 - {name: 🇺🇸 白银vip｜中转2 -> 美国｜vvSoc227 - 永动机, server: zfkr2.30803080.xyz, port: 21034, type: vmess, uuid: 52021503-4a07-4a0c-acff-7bb3cdd4e868, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /yongdong, headers: {Host: yongdong.xyz}}, udp: true}
 - {name: 🇺🇸 白银vip｜中转2 -> 美国｜vvSoc228 - 永动机, server: zfkr2.30803080.xyz, port: 21033, type: vmess, uuid: 52021503-4a07-4a0c-acff-7bb3cdd4e868, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /yongdong, headers: {Host: yongdong.xyz}}, udp: true}
 - {name: 🇺🇸 白银vip｜中转2 -> 美国｜vvSoc229 - 永动机, server: zfkr2.30803080.xyz, port: 21032, type: vmess, uuid: 52021503-4a07-4a0c-acff-7bb3cdd4e868, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /yongdong, headers: {Host: yongdong.xyz}}, udp: true}
-- {name: '🇯🇵 [vip①]日本1 - MG Network', server: 8.v2-ray.cyou, port: 23608, type: vmess, uuid: 6847bc1c-1ab2-3d63-bf83-fb9b1561ff8e, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: '🇯🇵 [vip①]日本2 - MG Network', server: 19.v2-ray.cyou, port: 23619, type: vmess, uuid: 6847bc1c-1ab2-3d63-bf83-fb9b1561ff8e, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 19.v2-ray.cyou}}, udp: true}
-- {name: '🇸🇬 [vip①]新加坡1 - MG Network', server: 12.v2-ray.cyou, port: 23612, type: vmess, uuid: 6847bc1c-1ab2-3d63-bf83-fb9b1561ff8e, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 12.v2-ray.cyou}}, udp: true}
-- {name: '🇩🇪 [vip①]德国1 - MG Network', server: 16.v2-ray.cyou, port: 23616, type: vmess, uuid: 6847bc1c-1ab2-3d63-bf83-fb9b1561ff8e, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 16.v2-ray.cyou}}, udp: true}
-- {name: '🇩🇪 [vip①]德国2 - MG Network', server: 18.v2-ray.cyou, port: 23618, type: vmess, uuid: 6847bc1c-1ab2-3d63-bf83-fb9b1561ff8e, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 18.v2-ray.cyou}}, udp: true}
-- {name: '🇺🇸 [vip①]美国1 - MG Network', server: 14.v2-ray.cyou, port: 23614, type: vmess, uuid: 6847bc1c-1ab2-3d63-bf83-fb9b1561ff8e, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 14.v2-ray.cyou}}, udp: true}
-- {name: '🇺🇸 [vip①]美国2 - MG Network', server: 15.v2-ray.cyou, port: 23615, type: vmess, uuid: 6847bc1c-1ab2-3d63-bf83-fb9b1561ff8e, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 15.v2-ray.cyou}}, udp: true}
-- {name: '🇬🇧 [vip①]英国1 - MG Network', server: 5.v2-ray.cyou, port: 23605, type: vmess, uuid: 6847bc1c-1ab2-3d63-bf83-fb9b1561ff8e, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 5.v2-ray.cyou}}, udp: true}
-- {name: '🇬🇧 [vip①]英国2 - MG Network', server: 13.v2-ray.cyou, port: 23613, type: vmess, uuid: 6847bc1c-1ab2-3d63-bf83-fb9b1561ff8e, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 13.v2-ray.cyou}}, udp: true}
-- {name: '🇰🇷 [vip①]韩国1 - MG Network', server: 11.v2-ray.cyou, port: 23611, type: vmess, uuid: 6847bc1c-1ab2-3d63-bf83-fb9b1561ff8e, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 11.v2-ray.cyou}}, udp: true}
 - {name: 🇯🇵 日本|01|京东 - 猪网-PIGVIP, server: rb01.pigvip.xyz, port: 2380, type: vmess, uuid: 04c4803e-1289-41b7-8fbf-5c0581b4f23d, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: rb01.pigvip.xyz, network: ws, ws-opts: {path: /, headers: {Host: pigvip.xyz}}, udp: true}
 - {name: 🇯🇵 日本 | 02 | 京东 - 猪网-PIGVIP, server: rb02.pigvip.xyz, port: 2380, type: vmess, uuid: 04c4803e-1289-41b7-8fbf-5c0581b4f23d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: ssmtt.com}}, udp: true}
 - {name: 🇯🇵 日本 | 03 | 大阪市 - 猪网-PIGVIP, server: rb03.pigvip.xyz, port: 2380, type: vmess, uuid: 04c4803e-1289-41b7-8fbf-5c0581b4f23d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: ssmtt.com}}, udp: true}
