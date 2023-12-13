@@ -1,5 +1,0 @@
-%YAML 1.1
----
-proxies:
-- {name: 🇯🇵 v2日本-江日隧道 - 快云, server: w26.xn--icty41bzxj.cn, port: 18555, type: vmess, uuid: 35525e39-7138-3ccb-9e63-521b44e796df, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 日本1-川日隧道-解锁 - 快云, server: sz.xn--icty41bzxj.cn, port: 22660, type: vmess, uuid: 35525e39-7138-3ccb-9e63-521b44e796df, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}

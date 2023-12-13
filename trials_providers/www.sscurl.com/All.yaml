@@ -1,5 +1,0 @@
-%YAML 1.1
----
-proxies:
-- {name: 🇰🇷 韩国 - 线路一 - SScurl, server: whcm.pangupy.com, port: 10270, type: ss, cipher: chacha20-ietf-poly1305, password: c4fa5308-3196-4556-ab66-4effacaa77ba, udp: true}
-- {name: 🇰🇷 韩国 - 线路二 - SScurl, server: shcu.xn--fiqr9egvchy8d.com, port: 56919, type: ss, cipher: chacha20-ietf-poly1305, password: c4fa5308-3196-4556-ab66-4effacaa77ba, udp: true}

@@ -10,7 +10,17 @@ proxy-groups:
   type: select
   proxies:
   - ⚡ ‍低延迟
+  - 🇭🇰 ‍香港
+  - 🇸🇬 ‍新加坡
+  - 🇯🇵 ‍日本
+  - 🇺🇸 ‍美国
+  - 🎏 ‍其他
   - 👆🏻 ‍指定
+  - 👆🏻🇭🇰 ‍香港
+  - 👆🏻🇸🇬 ‍新加坡
+  - 👆🏻🇯🇵 ‍日本
+  - 👆🏻🇺🇸 ‍美国
+  - 👆🏻🎏 ‍其他
   - DIRECT
 - name: ⚡ ‍低延迟
   type: url-test
@@ -18,14 +28,40 @@ proxy-groups:
   interval: 30
   tolerance: 100
   proxies: &id001
-  - 🇭🇰 香港|流量訂多了80TB白天給你們隨便用|公益 - 大白
-  - 🇭🇰 香港|专线2G|GPT+流媒体|【dabai.in】<<前往官网|公益 - 大白
-  - 🇭🇰 香港|专线2G|GPT+流媒体|【db01.in】<<前往官网|公益 - 大白
-  - 🇭🇰 香港|专线2G|GPT+流媒体|【付费用户】油管秒开4K/8K|更多地区接入|公益 - 大白
-  - 🇭🇰 香港|专线2G|GPT+流媒体|【免费用户】油管稳2K@30/限速稳720P|公益 - 大白
-  - 🇭🇰 香港|专线2G|GPT+流媒体|【提供套餐】免费/按量不限时/不按量限时|公益 - 大白
-  - 🇭🇰 香港|专线2G|GPT+流媒体|【邀请用户】|最高返还40%|公益 - 大白
-  - 🇭🇰 香港|专线2G|GPT+流媒体|【节点优先级】[按量]>[不限量]>[免费]>[公共订阅]|公益 - 大白
+  - 🇭🇰 香港 | 01 - 猪网-PIGVIP
+  - 🇭🇰 香港 | 02 - 猪网-PIGVIP
+  - 🇸🇬 新加坡|01|新加坡 - 猪网-PIGVIP
+  - 🇸🇬 新加坡|02|新加坡 - 猪网-PIGVIP
+  - 🇯🇵 日本|01|京东 - 猪网-PIGVIP
+  - 🇯🇵 日本 | 02 | 京东 - 猪网-PIGVIP
+  - 🇯🇵 日本 | 03 | 大阪市 - 猪网-PIGVIP
+  - 🇺🇸 美国|01|西雅图 - 猪网-PIGVIP
+  - 🇺🇸 美国|02|纽约 - 猪网-PIGVIP
+  - 🇺🇸 美国|03|弗吉尼亚州 - 猪网-PIGVIP
+  - 🇺🇸 美国|04|芝加哥 - 猪网-PIGVIP
+  - 🇺🇸 美国|05|迈阿密 - 猪网-PIGVIP
+  - 🇺🇸 美国|06|亚特兰大 - 猪网-PIGVIP
+  - 🇺🇸 美国|07|洛杉矶 - 猪网-PIGVIP
+  - 🇺🇸 美国|01|抖音 - 猪网-PIGVIP
+  - 🇺🇸 美国|02|抖音 - 猪网-PIGVIP
+  - 🇺🇸 美国|03|抖音 - 猪网-PIGVIP
+  - 🇮🇱 以色列|01|特拉维夫 - 猪网-PIGVIP
+  - 🇦🇺 澳大利亚|01|悉尼 - 猪网-PIGVIP
+  - 🇰🇷 韩国|01|首尔 - 猪网-PIGVIP
+  - 🇩🇪 德国|01|法兰克福 - 猪网-PIGVIP
+  - 🇨🇦 加拿大 |01| 多伦多 - 猪网-PIGVIP
+  - 🇮🇳 印度 |01| 孟买 - 猪网-PIGVIP
+  - 🇳🇱 荷兰|01 - 猪网-PIGVIP
+  - 🇫🇷 法国 |01| 巴黎 - 猪网-PIGVIP
+  - 🇳🇴 挪威 | 01 - 猪网-PIGVIP
+  - 🇬🇧 英国|01|抖音 - 猪网-PIGVIP
+  - 🇿🇦 南非|01|抖音 - 猪网-PIGVIP
+  - 🇧🇷 巴西 | 01 | 抖音 - 猪网-PIGVIP
+  - 🇪🇸 西班牙 | 01 | 抖音 - 猪网-PIGVIP
+  - 🇨🇭 瑞士 | 01 | 抖音 - 猪网-PIGVIP
+  - 🇲🇽 墨西哥|01|抖音 - 猪网-PIGVIP
+  - 🇨🇱 智利01|抖音节点 - 猪网-PIGVIP
+  - 🇦🇺 澳大利亚|01|抖音 - 猪网-PIGVIP
 - name: 🛩️ ‍墙内
   type: select
   proxies:
@@ -41,13 +77,23 @@ proxy-groups:
 - name: 📺 ‍B站
   type: select
   proxies:
+  - 🇭🇰 ‍香港
   - 🛩️ ‍墙内
   - 👆🏻 ‍指定
+  - 👆🏻🇭🇰 ‍香港
   - ✈️ ‍起飞
 - name: 🤖 ‍OpenAI+Bing
   type: select
   proxies:
+  - 🇺🇸 ‍美国
+  - 🎏 ‍其他
+  - 👆🏻🇺🇸 ‍美国
+  - 👆🏻🎏 ‍其他
+  - 🇸🇬 ‍新加坡
+  - 🇯🇵 ‍日本
   - 👆🏻 ‍指定
+  - 👆🏻🇸🇬 ‍新加坡
+  - 👆🏻🇯🇵 ‍日本
   - ✈️ ‍起飞
   - 🛩️ ‍墙内
 - name: 🌐 ‍未知站点
@@ -56,18 +102,123 @@ proxy-groups:
   - ✈️ ‍起飞
   - 🛩️ ‍墙内
   - 💩 ‍广告
+- name: 🇭🇰 ‍香港
+  type: url-test
+  url: https://i.ytimg.com/generate_204
+  interval: 15
+  tolerance: 100
+  proxies: &id002
+  - 🇭🇰 香港 | 01 - 猪网-PIGVIP
+  - 🇭🇰 香港 | 02 - 猪网-PIGVIP
+- name: 🇸🇬 ‍新加坡
+  type: url-test
+  url: https://i.ytimg.com/generate_204
+  interval: 15
+  tolerance: 100
+  proxies: &id003
+  - 🇸🇬 新加坡|01|新加坡 - 猪网-PIGVIP
+  - 🇸🇬 新加坡|02|新加坡 - 猪网-PIGVIP
+- name: 🇯🇵 ‍日本
+  type: url-test
+  url: https://i.ytimg.com/generate_204
+  interval: 15
+  tolerance: 100
+  proxies: &id004
+  - 🇯🇵 日本|01|京东 - 猪网-PIGVIP
+  - 🇯🇵 日本 | 02 | 京东 - 猪网-PIGVIP
+  - 🇯🇵 日本 | 03 | 大阪市 - 猪网-PIGVIP
+- name: 🇺🇸 ‍美国
+  type: url-test
+  url: https://i.ytimg.com/generate_204
+  interval: 15
+  tolerance: 300
+  proxies: &id005
+  - 🇺🇸 美国|01|西雅图 - 猪网-PIGVIP
+  - 🇺🇸 美国|02|纽约 - 猪网-PIGVIP
+  - 🇺🇸 美国|03|弗吉尼亚州 - 猪网-PIGVIP
+  - 🇺🇸 美国|04|芝加哥 - 猪网-PIGVIP
+  - 🇺🇸 美国|05|迈阿密 - 猪网-PIGVIP
+  - 🇺🇸 美国|06|亚特兰大 - 猪网-PIGVIP
+  - 🇺🇸 美国|07|洛杉矶 - 猪网-PIGVIP
+  - 🇺🇸 美国|01|抖音 - 猪网-PIGVIP
+  - 🇺🇸 美国|02|抖音 - 猪网-PIGVIP
+  - 🇺🇸 美国|03|抖音 - 猪网-PIGVIP
+- name: 🎏 ‍其他
+  type: url-test
+  url: https://i.ytimg.com/generate_204
+  interval: 30
+  tolerance: 100
+  proxies: &id006
+  - 🇮🇱 以色列|01|特拉维夫 - 猪网-PIGVIP
+  - 🇦🇺 澳大利亚|01|悉尼 - 猪网-PIGVIP
+  - 🇰🇷 韩国|01|首尔 - 猪网-PIGVIP
+  - 🇩🇪 德国|01|法兰克福 - 猪网-PIGVIP
+  - 🇨🇦 加拿大 |01| 多伦多 - 猪网-PIGVIP
+  - 🇮🇳 印度 |01| 孟买 - 猪网-PIGVIP
+  - 🇳🇱 荷兰|01 - 猪网-PIGVIP
+  - 🇫🇷 法国 |01| 巴黎 - 猪网-PIGVIP
+  - 🇳🇴 挪威 | 01 - 猪网-PIGVIP
+  - 🇬🇧 英国|01|抖音 - 猪网-PIGVIP
+  - 🇿🇦 南非|01|抖音 - 猪网-PIGVIP
+  - 🇧🇷 巴西 | 01 | 抖音 - 猪网-PIGVIP
+  - 🇪🇸 西班牙 | 01 | 抖音 - 猪网-PIGVIP
+  - 🇨🇭 瑞士 | 01 | 抖音 - 猪网-PIGVIP
+  - 🇲🇽 墨西哥|01|抖音 - 猪网-PIGVIP
+  - 🇨🇱 智利01|抖音节点 - 猪网-PIGVIP
+  - 🇦🇺 澳大利亚|01|抖音 - 猪网-PIGVIP
 - name: 👆🏻 ‍指定
   type: select
   proxies: *id001
+- name: 👆🏻🇭🇰 ‍香港
+  type: select
+  proxies: *id002
+- name: 👆🏻🇸🇬 ‍新加坡
+  type: select
+  proxies: *id003
+- name: 👆🏻🇯🇵 ‍日本
+  type: select
+  proxies: *id004
+- name: 👆🏻🇺🇸 ‍美国
+  type: select
+  proxies: *id005
+- name: 👆🏻🎏 ‍其他
+  type: select
+  proxies: *id006
 proxies:
-- {name: 🇭🇰 香港|流量訂多了80TB白天給你們隨便用|公益 - 大白, server: 112.26.46.139, port: 64092, type: vmess, uuid: 73749224-c17c-3a32-8af1-6fbdacd0607b, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, servername: cache-hk-2.cn-db.top, network: ws, ws-opts: {path: /db00, headers: {Host: cache-hk-2.cn-db.top}}, udp: true}
-- {name: 🇭🇰 香港|专线2G|GPT+流媒体|【dabai.in】<<前往官网|公益 - 大白, server: 112.26.46.129, port: 61001, type: vmess, uuid: 73749224-c17c-3a32-8af1-6fbdacd0607b, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, servername: data-hk-2.cn-db.top, network: ws, ws-opts: {path: /db00, headers: {Host: data-hk-2.cn-db.top}}, udp: true}
-- {name: 🇭🇰 香港|专线2G|GPT+流媒体|【db01.in】<<前往官网|公益 - 大白, server: 112.26.46.139, port: 64011, type: vmess, uuid: 73749224-c17c-3a32-8af1-6fbdacd0607b, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, servername: cache-hk-2.cn-db.top, network: ws, ws-opts: {path: /db00, headers: {Host: cache-hk-2.cn-db.top}}, udp: true}
-- {name: 🇭🇰 香港|专线2G|GPT+流媒体|【付费用户】油管秒开4K/8K|更多地区接入|公益 - 大白, server: 112.26.46.129, port: 62082, type: vmess, uuid: 73749224-c17c-3a32-8af1-6fbdacd0607b, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, servername: cache-hk-1.cn-db.top, network: ws, ws-opts: {path: /db00, headers: {Host: cache-hk-1.cn-db.top}}, udp: true}
-- {name: 🇭🇰 香港|专线2G|GPT+流媒体|【免费用户】油管稳2K@30/限速稳720P|公益 - 大白, server: 112.26.46.139, port: 62001, type: vmess, uuid: 73749224-c17c-3a32-8af1-6fbdacd0607b, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, servername: data-hk-3.cn-db.top, network: ws, ws-opts: {path: /db00, headers: {Host: data-hk-3.cn-db.top}}, udp: true}
-- {name: 🇭🇰 香港|专线2G|GPT+流媒体|【提供套餐】免费/按量不限时/不按量限时|公益 - 大白, server: 112.26.46.129, port: 63082, type: vmess, uuid: 73749224-c17c-3a32-8af1-6fbdacd0607b, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, servername: cache-hk-2.cn-db.top, network: ws, ws-opts: {path: /db00, headers: {Host: cache-hk-2.cn-db.top}}, udp: true}
-- {name: 🇭🇰 香港|专线2G|GPT+流媒体|【邀请用户】|最高返还40%|公益 - 大白, server: 112.26.46.139, port: 64051, type: vmess, uuid: 73749224-c17c-3a32-8af1-6fbdacd0607b, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, servername: cache-hk-1.cn-db.top, network: ws, ws-opts: {path: /db00, headers: {Host: cache-hk-1.cn-db.top}}, udp: true}
-- {name: '🇭🇰 香港|专线2G|GPT+流媒体|【节点优先级】[按量]>[不限量]>[免费]>[公共订阅]|公益 - 大白', server: 112.26.46.139, port: 62082, type: vmess, uuid: 73749224-c17c-3a32-8af1-6fbdacd0607b, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, servername: data-hk-1.cn-db.top, network: ws, ws-opts: {path: /db00, headers: {Host: data-hk-1.cn-db.top}}, udp: true}
+- {name: 🇺🇸 美国|01|西雅图 - 猪网-PIGVIP, server: mg01.pigvip.xyz, port: 2380, type: vmess, uuid: 6b0f47db-a7ba-4b1a-9f73-d5bded667353, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: ssmtt.com}}, udp: true}
+- {name: 🇺🇸 美国|02|纽约 - 猪网-PIGVIP, server: mg02.pigvip.xyz, port: 2380, type: vmess, uuid: 6b0f47db-a7ba-4b1a-9f73-d5bded667353, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: mg02.pigvip.xyz}}, udp: true}
+- {name: 🇺🇸 美国|03|弗吉尼亚州 - 猪网-PIGVIP, server: mg03.pigvip.xyz, port: 2380, type: vmess, uuid: 6b0f47db-a7ba-4b1a-9f73-d5bded667353, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: ssmtt.com}}, udp: true}
+- {name: 🇺🇸 美国|04|芝加哥 - 猪网-PIGVIP, server: mg04.pigvip.xyz, port: 2380, type: vmess, uuid: 6b0f47db-a7ba-4b1a-9f73-d5bded667353, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: ssmtt.com}}, udp: true}
+- {name: 🇺🇸 美国|05|迈阿密 - 猪网-PIGVIP, server: mg05.pigvip.xyz, port: 2380, type: vmess, uuid: 6b0f47db-a7ba-4b1a-9f73-d5bded667353, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: mg05.pigvip.xyz}}, udp: true}
+- {name: 🇺🇸 美国|06|亚特兰大 - 猪网-PIGVIP, server: mg06.pigvip.xyz, port: 2380, type: vmess, uuid: 6b0f47db-a7ba-4b1a-9f73-d5bded667353, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: mg06.pigvip.xyz}}, udp: true}
+- {name: 🇺🇸 美国|07|洛杉矶 - 猪网-PIGVIP, server: mg09.pigvip.xyz, port: 2380, type: vmess, uuid: 6b0f47db-a7ba-4b1a-9f73-d5bded667353, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: mg09.pigvip.xyz}}, udp: true}
+- {name: 🇮🇱 以色列|01|特拉维夫 - 猪网-PIGVIP, server: ysl01.pigvip.xyz, port: 2380, type: vmess, uuid: 6b0f47db-a7ba-4b1a-9f73-d5bded667353, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: pigvip.xyz}}, udp: true}
+- {name: 🇦🇺 澳大利亚|01|悉尼 - 猪网-PIGVIP, server: adly01.pigvip.xyz, port: 2380, type: vmess, uuid: 6b0f47db-a7ba-4b1a-9f73-d5bded667353, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: pigvip.xyz}}, udp: true}
+- {name: 🇸🇬 新加坡|01|新加坡 - 猪网-PIGVIP, server: xjp01.pigvip.xyz, port: 2380, type: vmess, uuid: 6b0f47db-a7ba-4b1a-9f73-d5bded667353, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: pigvip.xyz}}, udp: true}
+- {name: 🇸🇬 新加坡|02|新加坡 - 猪网-PIGVIP, server: xjp02.pigvip.xyz, port: 2380, type: vmess, uuid: 6b0f47db-a7ba-4b1a-9f73-d5bded667353, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: pigvip.xyz}}, udp: true}
+- {name: 🇰🇷 韩国|01|首尔 - 猪网-PIGVIP, server: hg01.pigvip.xyz, port: 2380, type: vmess, uuid: 6b0f47db-a7ba-4b1a-9f73-d5bded667353, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: pigvip.xyz}}, udp: true}
+- {name: 🇯🇵 日本|01|京东 - 猪网-PIGVIP, server: rb01.pigvip.xyz, port: 2380, type: vmess, uuid: 6b0f47db-a7ba-4b1a-9f73-d5bded667353, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: rb01.pigvip.xyz, network: ws, ws-opts: {path: /, headers: {Host: pigvip.xyz}}, udp: true}
+- {name: 🇩🇪 德国|01|法兰克福 - 猪网-PIGVIP, server: dg01.pigvip.xyz, port: 2380, type: vmess, uuid: 6b0f47db-a7ba-4b1a-9f73-d5bded667353, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: pigvip.xyz}}, udp: true}
+- {name: 🇨🇦 加拿大 |01| 多伦多 - 猪网-PIGVIP, server: jnd01.pigvip.xyz, port: 2380, type: vmess, uuid: 6b0f47db-a7ba-4b1a-9f73-d5bded667353, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: pigvip.xyz}}, udp: true}
+- {name: 🇮🇳 印度 |01| 孟买 - 猪网-PIGVIP, server: yd01.pigvip.xyz, port: 2380, type: vmess, uuid: 6b0f47db-a7ba-4b1a-9f73-d5bded667353, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: pigvip.xyz}}, udp: true}
+- {name: 🇳🇱 荷兰|01 - 猪网-PIGVIP, server: hl01.pigvip.xyz, port: 2380, type: vmess, uuid: 6b0f47db-a7ba-4b1a-9f73-d5bded667353, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: mg02.pigvip.xyz}}, udp: true}
+- {name: 🇫🇷 法国 |01| 巴黎 - 猪网-PIGVIP, server: fg01.pigvip.xyz, port: 2380, type: vmess, uuid: 6b0f47db-a7ba-4b1a-9f73-d5bded667353, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: pigvip.xyz}}, udp: true}
+- {name: 🇭🇰 香港 | 01 - 猪网-PIGVIP, server: xg01.pigvip.xyz, port: 2380, type: vmess, uuid: 6b0f47db-a7ba-4b1a-9f73-d5bded667353, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: ssmtt.com}}, udp: true}
+- {name: 🇭🇰 香港 | 02 - 猪网-PIGVIP, server: xg02.pigvip.xyz, port: 2380, type: vmess, uuid: 6b0f47db-a7ba-4b1a-9f73-d5bded667353, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: ssmtt.com}}, udp: true}
+- {name: 🇯🇵 日本 | 02 | 京东 - 猪网-PIGVIP, server: rb02.pigvip.xyz, port: 2380, type: vmess, uuid: 6b0f47db-a7ba-4b1a-9f73-d5bded667353, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: ssmtt.com}}, udp: true}
+- {name: 🇯🇵 日本 | 03 | 大阪市 - 猪网-PIGVIP, server: rb03.pigvip.xyz, port: 2380, type: vmess, uuid: 6b0f47db-a7ba-4b1a-9f73-d5bded667353, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: ssmtt.com}}, udp: true}
+- {name: 🇳🇴 挪威 | 01 - 猪网-PIGVIP, server: nw01.pigvip.xyz, port: 2380, type: vmess, uuid: 6b0f47db-a7ba-4b1a-9f73-d5bded667353, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: ssmtt.com}}, udp: true}
+- {name: 🇬🇧 英国|01|抖音 - 猪网-PIGVIP, server: yg01.pigvip.xyz, port: 2380, type: vmess, uuid: 6b0f47db-a7ba-4b1a-9f73-d5bded667353, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: pigvip.xyz}}, udp: true}
+- {name: 🇿🇦 南非|01|抖音 - 猪网-PIGVIP, server: nf01.pigvip.xyz, port: 2380, type: vmess, uuid: 6b0f47db-a7ba-4b1a-9f73-d5bded667353, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: pigvip.xyz}}, udp: true}
+- {name: 🇧🇷 巴西 | 01 | 抖音 - 猪网-PIGVIP, server: bx01.pigvip.xyz, port: 2380, type: vmess, uuid: 6b0f47db-a7ba-4b1a-9f73-d5bded667353, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: ssmtt.com}}, udp: true}
+- {name: 🇪🇸 西班牙 | 01 | 抖音 - 猪网-PIGVIP, server: xby01.pigvip.xyz, port: 2380, type: vmess, uuid: 6b0f47db-a7ba-4b1a-9f73-d5bded667353, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: ssmtt.com}}, udp: true}
+- {name: 🇨🇭 瑞士 | 01 | 抖音 - 猪网-PIGVIP, server: rs01.pigvip.xyz, port: 2380, type: vmess, uuid: 6b0f47db-a7ba-4b1a-9f73-d5bded667353, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: ssmtt.com}}, udp: true}
+- {name: 🇺🇸 美国|01|抖音 - 猪网-PIGVIP, server: mg07.pigvip.xyz, port: 2380, type: vmess, uuid: 6b0f47db-a7ba-4b1a-9f73-d5bded667353, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: mg07.pigvip.xyz}}, udp: true}
+- {name: 🇺🇸 美国|02|抖音 - 猪网-PIGVIP, server: mg08.pigvip.xyz, port: 2380, type: vmess, uuid: 6b0f47db-a7ba-4b1a-9f73-d5bded667353, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: mg08.pigvip.xyz}}, udp: true}
+- {name: 🇺🇸 美国|03|抖音 - 猪网-PIGVIP, server: mg11.pigvip.xyz, port: 2380, type: vmess, uuid: 6b0f47db-a7ba-4b1a-9f73-d5bded667353, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: mg11.pigvip.xyz}}, udp: true}
+- {name: 🇲🇽 墨西哥|01|抖音 - 猪网-PIGVIP, server: mg10.pigvip.xyz, port: 2380, type: vmess, uuid: 6b0f47db-a7ba-4b1a-9f73-d5bded667353, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: mg10.pigvip.xyz}}, udp: true}
+- {name: 🇨🇱 智利01|抖音节点 - 猪网-PIGVIP, server: mg12.pigvip.xyz, port: 2380, type: vmess, uuid: 6b0f47db-a7ba-4b1a-9f73-d5bded667353, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: mg12.pigvip.xyz}}, udp: true}
+- {name: 🇦🇺 澳大利亚|01|抖音 - 猪网-PIGVIP, server: adly02.pigvip.xyz, port: 2380, type: vmess, uuid: 6b0f47db-a7ba-4b1a-9f73-d5bded667353, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: adly02.pigvip.xyz}}, udp: true}
 rules:
 - DOMAIN-SUFFIX,acl4.ssr,DIRECT
 - DOMAIN-SUFFIX,ip6-localhost,DIRECT
