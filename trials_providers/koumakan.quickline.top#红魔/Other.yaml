@@ -1,4 +1,4 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 请登录 quickline.top 续费 - 紅魔館網路, server: www.google.com, port: 443, type: ss, cipher: aes-128-gcm, password: 63b9ada1-9822-4824-8659-c9e067c1fbc5, udp: true}
+- {name: 请登录 quickline.top 续费 - 紅魔館網路, server: www.google.com, port: 443, type: ss, cipher: aes-128-gcm, password: a4ac75fb-71b9-4ca2-ac26-a1aa79b09f14, udp: true}

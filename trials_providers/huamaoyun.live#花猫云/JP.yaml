@@ -2,5 +2,5 @@
 ---
 proxies:
 - {name: 🇯🇵 日本东京01 - 花猫云, server: y24.huamaoyun.live, port: 80, type: vmess, uuid: b9b6edee-d839-48a3-8ca1-f91f1244f334, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: '/?ed=2048', headers: {Host: a1031.huamaoyun.live}}, udp: true}
-- {name: 🇯🇵 日本东京04 - 花猫云, server: y27.huamaoyun.live, port: 2053, type: trojan, password: b9b6edee-d839-48a3-8ca1-f91f1244f334, sni: a1031.huamaoyun.live, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 日本东京05 - 花猫云, server: y28.huamaoyun.live, port: 2087, type: vmess, uuid: b9b6edee-d839-48a3-8ca1-f91f1244f334, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: y28.huamaoyun.live, network: grpc, grpc-opts: {grpc-service-name: t}, udp: true}
+- {name: 🇯🇵 日本东京04 - 花猫云, server: y27.huamaoyun.live, port: 2053, type: trojan, password: b9b6edee-d839-48a3-8ca1-f91f1244f334, sni: a1031.huamaoyun.live, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: s}, udp: true}
+- {name: 🇯🇵 日本东京05 - 花猫云, server: y28.huamaoyun.live, port: 2087, type: vmess, uuid: b9b6edee-d839-48a3-8ca1-f91f1244f334, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: a1031.huamaoyun.live, network: grpc, grpc-opts: {grpc-service-name: t}, udp: true}
