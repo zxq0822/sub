@@ -1,0 +1,7 @@
+%YAML 1.1
+---
+proxies:
+- {name: 🇯🇵 Japan Native 01 - 便宜机场 - 官网入口, server: jp1.lvwf8n-hh8e-2300-nmoo-d2e9naobeacn.9d8f269f96b25232-759cbb36d6548597.kaufen, port: 443, type: trojan, password: 612af667-9abb-47d7-8b37-68fa9d6f16c2, sni: 13-231-155-134.nhost.00cdn.com, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 Japan Native 02 - 便宜机场 - 官网入口, server: jp1.lvwf8n-hh8e-2300-nmoo-d2e9naobeacn.9d8f269f96b25232-759cbb36d6548597.kaufen, port: 443, type: trojan, password: 612af667-9abb-47d7-8b37-68fa9d6f16c2, sni: 13-231-155-134.nhost.00cdn.com, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 Japan Native 03 - 便宜机场 - 官网入口, server: jp2.lvwf8n-hh8e-2300-nmoo-d2e9naobeacn.9d8f269f96b25232-759cbb36d6548597.kaufen, port: 443, type: trojan, password: 612af667-9abb-47d7-8b37-68fa9d6f16c2, sni: 13-231-155-134.nhost.00cdn.com, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 Japan Native 04 - 便宜机场 - 官网入口, server: jp2.lvwf8n-hh8e-2300-nmoo-d2e9naobeacn.9d8f269f96b25232-759cbb36d6548597.kaufen, port: 443, type: trojan, password: 612af667-9abb-47d7-8b37-68fa9d6f16c2, sni: 13-231-155-134.nhost.00cdn.com, skip-cert-verify: true, udp: true}
