@@ -2,29 +2,31 @@
 email  fuifimuf744@gmail.com
 name  番茄云
 node_n  24
-sub_info  1.353G  20G  2023-12-14 20:43:05+08:00  (剩余 18.65G 20:58:28.442445)
+sub_info  1.353G  20G  2023-12-14 20:43:05+08:00  (剩余 18.65G 19:58:06.529842)
 sub_url  https://cloud1.fanqiecloud.top/api/v1/client/subscribe?token=d6b53eb6b9bdb86eba7d88e4a9f7c41d
 time  2023-12-13 20:43:09.293019+08:00
 type  v2board
+保存base64/clash订阅失败  'NoneType' object is not iterable
 
 [aa.dabai.in]
 email  qkzvsrcde432@gmail.com
-last_checkin  2023-12-13 20:43:05.703038+08:00
+last_checkin  2023-12-14 00:44:30.419570+08:00
 name  大白
 node_n  8
-sub_info  1.807G  999G  2024-01-12 20:43:05+08:00  (剩余 997.2G 29 days, 20:58:35.093359)
+sub_info  1.807G  999.1G  2024-01-12 20:43:05+08:00  (剩余 997.3G 29 days, 19:58:06.847439)
 sub_url  https://aa.dabai.in/link/dzXgFNRXcaUC74c5?sub=3
 time  2023-12-13 20:43:09.068729+08:00
 type  sspanel
+保存base64/clash订阅失败  'NoneType' object is not iterable
 
 [api.kyjc.xyz]
 auto_invite  F
 buy  shop=15
 email  tyqcvih852@gmail.com
-last_checkin  2023-12-13 22:44:24.838874+08:00
+last_checkin  2023-12-14 00:44:30.418843+08:00
 name  快云
 node_n  12
-sub_info  0B  1.236G  2023-12-14 22:44:24+08:00  (剩余 1.236G 22:59:53.064584)
+sub_info  0B  1.526G  2023-12-14 22:44:24+08:00  (剩余 1.526G 21:59:44.800246)
 sub_url  https://link.kyjc.xyz/link/Y50Zi4rI1i4KFnSl?clash=1#快云
 time  2023-12-13 22:44:25.120746+08:00
 type  sspanel
@@ -34,7 +36,7 @@ buy  pass
 email  jdsddrtqm701@gmail.com
 name  猪网-PIGVIP
 node_n  34
-sub_info  1.939G  10G  2023-12-20 21:53:41+08:00  (剩余 8.061G 6 days, 22:09:07.921900)
+sub_info  1.939G  10G  2023-12-20 21:53:41+08:00  (剩余 8.061G 6 days, 21:09:04.302606)
 sub_url  https://pigvip.xyz/api/v1/client/subscribe?token=e19211656389e481aaa45aab0c7bb722
 time  2023-12-13 21:53:42.519908+08:00
 type  v2board
