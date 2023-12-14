@@ -2,17 +2,17 @@
 email  vzrxqyk975@gmail.com
 name  番茄云
 node_n  24
-sub_info  0B  20G  2023-12-15 20:56:22+08:00  (剩余 20G 21:11:57.072271)
+sub_info  0B  20G  2023-12-15 20:56:22+08:00  (剩余 20G 20:11:33.153544)
 sub_url  https://cloud3.fanqiecloud.top/api/v1/client/subscribe?token=af56cf5fc21d3a539b4e8b59ba405a2f
 time  2023-12-14 20:56:23.487780+08:00
 type  v2board
 
 [aa.dabai.in]
 email  qkzvsrcde432@gmail.com
-last_checkin  2023-12-14 00:44:30.419570+08:00
+last_checkin  2023-12-15 00:44:45.345441+08:00
 name  大白
 node_n  8
-sub_info  1.807G  999.1G  2024-01-12 20:43:05+08:00  (剩余 997.3G 28 days, 20:58:41.468351)
+sub_info  1.807G  999.1G  2024-01-12 20:43:05+08:00  (剩余 997.3G 28 days, 19:58:11.550939)
 sub_url  https://aa.dabai.in/link/dzXgFNRXcaUC74c5?sub=3
 time  2023-12-13 20:43:09.068729+08:00
 type  sspanel
@@ -21,10 +21,10 @@ type  sspanel
 auto_invite  F
 buy  shop=15
 email  mmqqqty101@gmail.com
-last_checkin  2023-12-14 22:44:27.142387+08:00
+last_checkin  2023-12-15 00:44:45.344628+08:00
 name  快云
 node_n  12
-sub_info  0B  1.913G  2023-12-15 22:44:27+08:00  (剩余 1.913G 23:00:01.746166)
+sub_info  0B  2.902G  2023-12-15 22:44:27+08:00  (剩余 2.902G 21:59:39.340009)
 sub_url  https://link.kyjc.xyz/link/nCahvy7A8x1B3UyN?clash=1#快云
 time  2023-12-14 22:44:27.482676+08:00
 type  sspanel
@@ -34,8 +34,7 @@ buy  pass
 email  jdsddrtqm701@gmail.com
 name  猪网-PIGVIP
 node_n  34
-sub_info  1.987G  10G  2023-12-20 21:53:41+08:00  (剩余 8.013G 6 days, 7:09:00.371388)
+sub_info  1.987G  10G  2023-12-20 21:53:41+08:00  (剩余 8.013G 5 days, 21:08:16.212331)
 sub_url  https://pigvip.xyz/api/v1/client/subscribe?token=e19211656389e481aaa45aab0c7bb722
 time  2023-12-13 21:53:42.519908+08:00
 type  v2board
-更新旧订阅失败  (https://pigvip.xyz/api/v1/client/subscribe?token=e19211656389e481aaa45aab0c7bb722): 404 Not Found '<html>\r\n<head><title>404 Not Found</title></head>\r\n<body>\r\n<center><h1>404 Not Found</h1></center>\r\n<hr><center>nginx</center>\r\n</body>\r\n</html>\r\n'
