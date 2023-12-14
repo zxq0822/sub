@@ -175,18 +175,18 @@ proxy-groups:
   type: select
   proxies: *id008
 proxies:
-- {name: 🇺🇸 美国1-江日隧道-解锁 - 快云, server: w26.xn--icty41bzxj.cn, port: 40425, type: vmess, uuid: 305d6990-1c1e-3aba-9cd9-ce6f490871cb, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 美国2-江日隧道-解锁 - 快云, server: w26.xn--icty41bzxj.cn, port: 41894, type: vmess, uuid: 305d6990-1c1e-3aba-9cd9-ce6f490871cb, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 香港2-上港隧道-解锁 - 快云, server: taobao.888888.wtf, port: 48362, type: vmess, uuid: 305d6990-1c1e-3aba-9cd9-ce6f490871cb, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 香港7-广港隧道-解锁 - 快云, server: 120.232.186.54, port: 47128, type: vmess, uuid: 305d6990-1c1e-3aba-9cd9-ce6f490871cb, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 香港1-上港隧道 - 快云, server: taobao.888888.wtf, port: 36811, type: vmess, uuid: 305d6990-1c1e-3aba-9cd9-ce6f490871cb, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 v2日本-江日隧道 - 快云, server: w26.xn--icty41bzxj.cn, port: 18555, type: vmess, uuid: 305d6990-1c1e-3aba-9cd9-ce6f490871cb, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇨🇦 加拿大-上美隧道-解锁 - 快云, server: taobao.888888.wtf, port: 38235, type: vmess, uuid: 305d6990-1c1e-3aba-9cd9-ce6f490871cb, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇹🇼 台湾-广港隧道-解锁 - 快云, server: 120.232.186.54, port: 31257, type: vmess, uuid: 305d6990-1c1e-3aba-9cd9-ce6f490871cb, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇸🇬 新加坡2-上新隧道-解锁 - 快云, server: taobao.888888.wtf, port: 42008, type: vmess, uuid: 305d6990-1c1e-3aba-9cd9-ce6f490871cb, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 日本1-广日隧道-解锁 - 快云, server: 120.232.186.54, port: 44804, type: vmess, uuid: 305d6990-1c1e-3aba-9cd9-ce6f490871cb, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 香港-上港隧道-解锁 - 快云, server: taobao.888888.wtf, port: 41778, type: vmess, uuid: 305d6990-1c1e-3aba-9cd9-ce6f490871cb, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 香港6-上港隧道-解锁 - 快云, server: taobao.888888.wtf, port: 33250, type: vmess, uuid: 305d6990-1c1e-3aba-9cd9-ce6f490871cb, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 美国1-江日隧道-解锁 - 快云, server: w26.xn--icty41bzxj.cn, port: 40425, type: vmess, uuid: 4aec9d15-3be1-31ac-b2f7-c829cb56d327, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 美国2-江日隧道-解锁 - 快云, server: w26.xn--icty41bzxj.cn, port: 41894, type: vmess, uuid: 4aec9d15-3be1-31ac-b2f7-c829cb56d327, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 香港2-上港隧道-解锁 - 快云, server: taobao.888888.wtf, port: 48362, type: vmess, uuid: 4aec9d15-3be1-31ac-b2f7-c829cb56d327, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 香港7-广港隧道-解锁 - 快云, server: 120.232.186.54, port: 47128, type: vmess, uuid: 4aec9d15-3be1-31ac-b2f7-c829cb56d327, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 香港1-上港隧道 - 快云, server: taobao.888888.wtf, port: 36811, type: vmess, uuid: 4aec9d15-3be1-31ac-b2f7-c829cb56d327, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 v2日本-江日隧道 - 快云, server: w26.xn--icty41bzxj.cn, port: 18555, type: vmess, uuid: 4aec9d15-3be1-31ac-b2f7-c829cb56d327, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇨🇦 加拿大-上美隧道-解锁 - 快云, server: taobao.888888.wtf, port: 38235, type: vmess, uuid: 4aec9d15-3be1-31ac-b2f7-c829cb56d327, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼 台湾-广港隧道-解锁 - 快云, server: 120.232.186.54, port: 31257, type: vmess, uuid: 4aec9d15-3be1-31ac-b2f7-c829cb56d327, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬 新加坡2-上新隧道-解锁 - 快云, server: taobao.888888.wtf, port: 42008, type: vmess, uuid: 4aec9d15-3be1-31ac-b2f7-c829cb56d327, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本1-广日隧道-解锁 - 快云, server: 120.232.186.54, port: 44804, type: vmess, uuid: 4aec9d15-3be1-31ac-b2f7-c829cb56d327, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 香港-上港隧道-解锁 - 快云, server: taobao.888888.wtf, port: 41778, type: vmess, uuid: 4aec9d15-3be1-31ac-b2f7-c829cb56d327, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 香港6-上港隧道-解锁 - 快云, server: taobao.888888.wtf, port: 33250, type: vmess, uuid: 4aec9d15-3be1-31ac-b2f7-c829cb56d327, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 rules:
 - DOMAIN-SUFFIX,acl4.ssr,DIRECT
 - DOMAIN-SUFFIX,ip6-localhost,DIRECT
@@ -1928,6 +1928,7 @@ rules:
 - DOMAIN-SUFFIX,tumbex.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,twdvd.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,unsplash.com,✈️ ‍起飞
+- DOMAIN-SUFFIX,buzzsprout.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,eu,✈️ ‍起飞
 - DOMAIN-SUFFIX,hk,✈️ ‍起飞
 - DOMAIN-SUFFIX,jp,✈️ ‍起飞
@@ -2334,6 +2335,7 @@ rules:
 - DOMAIN-SUFFIX,babylonbee.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,backchina.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,backtotiananmen.com,✈️ ‍起飞
+- DOMAIN-SUFFIX,bad.news,✈️ ‍起飞
 - DOMAIN-SUFFIX,badiucao.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,badjojo.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,badoo.com,✈️ ‍起飞
@@ -4075,6 +4077,7 @@ rules:
 - DOMAIN-SUFFIX,info-graf.fr,✈️ ‍起飞
 - DOMAIN-SUFFIX,informer.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,initiativesforchina.org,✈️ ‍起飞
+- DOMAIN-SUFFIX,inkbunny.net,✈️ ‍起飞
 - DOMAIN-SUFFIX,inkui.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,inmediahk.net,✈️ ‍起飞
 - DOMAIN-SUFFIX,innermongolia.org,✈️ ‍起飞
@@ -4543,6 +4546,7 @@ rules:
 - DOMAIN-SUFFIX,matrix.org,✈️ ‍起飞
 - DOMAIN-SUFFIX,matsushimakaede.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,matters.news,✈️ ‍起飞
+- DOMAIN-SUFFIX,matters.town,✈️ ‍起飞
 - DOMAIN-SUFFIX,mattwilcox.net,✈️ ‍起飞
 - DOMAIN-SUFFIX,maturejp.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,mayimayi.com,✈️ ‍起飞
@@ -7129,6 +7133,7 @@ rules:
 - DOMAIN-SUFFIX,zhenguanyu.biz,🛩️ ‍墙内
 - DOMAIN-SUFFIX,zhenguanyu.com,🛩️ ‍墙内
 - DOMAIN-SUFFIX,snapdrop.net,🛩️ ‍墙内
+- DOMAIN-SUFFIX,tebex.io,🛩️ ‍墙内
 - DOMAIN-SUFFIX,cn,🛩️ ‍墙内
 - DOMAIN-SUFFIX,xn--fiqs8s,🛩️ ‍墙内
 - DOMAIN-SUFFIX,xn--55qx5d,🛩️ ‍墙内
@@ -7176,6 +7181,7 @@ rules:
 - DOMAIN-SUFFIX,aliyuncdn.com,🛩️ ‍墙内
 - DOMAIN-SUFFIX,aliyuncs.com,🛩️ ‍墙内
 - DOMAIN-SUFFIX,aliyundrive.com,🛩️ ‍墙内
+- DOMAIN-SUFFIX,aliyundrive.net,🛩️ ‍墙内
 - DOMAIN-SUFFIX,amap.com,🛩️ ‍墙内
 - DOMAIN-SUFFIX,autonavi.com,🛩️ ‍墙内
 - DOMAIN-SUFFIX,dingtalk.com,🛩️ ‍墙内
@@ -7449,6 +7455,7 @@ rules:
 - DOMAIN-SUFFIX,biqudu.com,🛩️ ‍墙内
 - DOMAIN-SUFFIX,biquge.com,🛩️ ‍墙内
 - DOMAIN-SUFFIX,bitauto.com,🛩️ ‍墙内
+- DOMAIN-SUFFIX,bosszhipin.com,🛩️ ‍墙内
 - DOMAIN-SUFFIX,c-ctrip.com,🛩️ ‍墙内
 - DOMAIN-SUFFIX,camera360.com,🛩️ ‍墙内
 - DOMAIN-SUFFIX,cdnmama.com,🛩️ ‍墙内
@@ -7652,6 +7659,7 @@ rules:
 - DOMAIN-SUFFIX,zhaopin.com,🛩️ ‍墙内
 - DOMAIN-SUFFIX,zhihu.com,🛩️ ‍墙内
 - DOMAIN-SUFFIX,zhimg.com,🛩️ ‍墙内
+- DOMAIN-SUFFIX,zhipin.com,🛩️ ‍墙内
 - DOMAIN-SUFFIX,zhongsou.com,🛩️ ‍墙内
 - DOMAIN-SUFFIX,zhuihd.com,🛩️ ‍墙内
 - IP-CIDR,8.128.0.0/10,🛩️ ‍墙内,no-resolve
