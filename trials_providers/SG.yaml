@@ -2,6 +2,5 @@
 ---
 proxies:
 - {name: 🇸🇬 新加坡2-上新隧道-解锁 - 快云, server: taobao.888888.wtf, port: 42008, type: vmess, uuid: 1fd26891-0b38-33cc-b386-4dc9418089cf, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇸🇬 新加坡|01|新加坡 - 猪网-PIGVIP, server: xjp01.pigvip.xyz, port: 2380, type: vmess, uuid: 6b0f47db-a7ba-4b1a-9f73-d5bded667353, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: pigvip.xyz}}, udp: true}
 - {name: 🇸🇬 新加坡|02|新加坡 - 猪网-PIGVIP, server: xjp02.pigvip.xyz, port: 2380, type: vmess, uuid: 6b0f47db-a7ba-4b1a-9f73-d5bded667353, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: pigvip.xyz}}, udp: true}
 - {name: 🇸🇬 Singapore - 番茄云, server: sg.fanqiecloud.top, port: 24352, type: ss, cipher: chacha20-ietf-poly1305, password: fb3298a6-4187-436e-b648-14e75b4d2941, udp: true}
