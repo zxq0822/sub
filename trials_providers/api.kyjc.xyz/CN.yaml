@@ -1,9 +1,9 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇭🇰 香港2-上港隧道-解锁 - 快云, server: taobao.888888.wtf, port: 48362, type: vmess, uuid: 1fd26891-0b38-33cc-b386-4dc9418089cf, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 香港7-广港隧道-解锁 - 快云, server: 120.232.186.54, port: 47128, type: vmess, uuid: 1fd26891-0b38-33cc-b386-4dc9418089cf, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 香港1-上港隧道 - 快云, server: taobao.888888.wtf, port: 36811, type: vmess, uuid: 1fd26891-0b38-33cc-b386-4dc9418089cf, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇹🇼 台湾-广港隧道-解锁 - 快云, server: 120.232.186.54, port: 31257, type: vmess, uuid: 1fd26891-0b38-33cc-b386-4dc9418089cf, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 香港-上港隧道-解锁 - 快云, server: taobao.888888.wtf, port: 41778, type: vmess, uuid: 1fd26891-0b38-33cc-b386-4dc9418089cf, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 香港6-上港隧道-解锁 - 快云, server: taobao.888888.wtf, port: 33250, type: vmess, uuid: 1fd26891-0b38-33cc-b386-4dc9418089cf, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 香港2-上港隧道-解锁 - 快云, server: taobao.888888.wtf, port: 48362, type: vmess, uuid: e604cdb1-c5d9-3a7b-b76e-c863ec0c6d85, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 香港7-广港隧道-解锁 - 快云, server: 120.232.186.54, port: 47128, type: vmess, uuid: e604cdb1-c5d9-3a7b-b76e-c863ec0c6d85, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 香港1-上港隧道 - 快云, server: taobao.888888.wtf, port: 36811, type: vmess, uuid: e604cdb1-c5d9-3a7b-b76e-c863ec0c6d85, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼 台湾-广港隧道-解锁 - 快云, server: 120.232.186.54, port: 31257, type: vmess, uuid: e604cdb1-c5d9-3a7b-b76e-c863ec0c6d85, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 香港-上港隧道-解锁 - 快云, server: taobao.888888.wtf, port: 41778, type: vmess, uuid: e604cdb1-c5d9-3a7b-b76e-c863ec0c6d85, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 香港6-上港隧道-解锁 - 快云, server: taobao.888888.wtf, port: 33250, type: vmess, uuid: e604cdb1-c5d9-3a7b-b76e-c863ec0c6d85, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
