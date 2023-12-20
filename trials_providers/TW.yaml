@@ -1,6 +1,6 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇹🇼 台湾-广港隧道-解锁 - 快云, server: 120.232.186.54, port: 31257, type: vmess, uuid: aebefded-ada9-33ed-ae0b-cb62c1dd3954, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼 台湾-广港隧道-解锁 - 快云, server: 120.232.186.54, port: 31257, type: vmess, uuid: 53933791-cd74-3c70-9643-f0b3ad853018, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇹🇼 Taiwan - 番茄云, server: tw.fanqiecloud.top, port: 48875, type: ss, cipher: chacha20-ietf-poly1305, password: b1e3106a-7900-4869-8b21-3fdc3f30969a, udp: true}
 - {name: 🇹🇼 Taiwan 2 - 番茄云, server: dl4.fanqiecloud.top, port: 2086, type: vmess, uuid: b1e3106a-7900-4869-8b21-3fdc3f30969a, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /sssddd, headers: {Host: cf-tw.fanqiecloud.top}}, udp: true}

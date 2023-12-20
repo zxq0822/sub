@@ -2,18 +2,17 @@
 email  epjmmbfme268@gmail.com
 name  番茄云
 node_n  25
-sub_info  726.4M  20G  2023-12-21 20:48:16+08:00  (剩余 19.29G 16:03:33.663363)
+sub_info  726.4M  20G  2023-12-21 20:48:16+08:00  (剩余 19.29G 14:03:34.241626)
 sub_url  https://cloud1.fanqiecloud.top/api/v1/client/subscribe?token=f0d081728284cefd406218cc767c21df
 time  2023-12-20 20:48:17.448439+08:00
 type  v2board
-更新旧订阅失败  {'message': '未登录或登陆已过期'}
 
 [aa.dabai.in]
 email  qkzvsrcde432@gmail.com
 last_checkin  2023-12-21 00:44:40.014540+08:00
 name  大白
 node_n  8
-sub_info  16.12G  999.4G  2024-01-12 20:43:05+08:00  (剩余 983.3G 22 days, 14:58:19.397108)
+sub_info  16.25G  999.4G  2024-01-12 20:43:05+08:00  (剩余 983.2G 22 days, 13:58:24.406598)
 sub_url  https://aa.dabai.in/link/dzXgFNRXcaUC74c5?sub=3
 time  2023-12-13 20:43:09.068729+08:00
 type  sspanel
@@ -21,13 +20,13 @@ type  sspanel
 [api.kyjc.xyz]
 auto_invite  F
 buy  shop=15
-email  wekvylnw380@gmail.com
-last_checkin  2023-12-21 00:44:40.013777+08:00
+email  ntqwtpgp311@gmail.com
+last_checkin  2023-12-21 06:46:42.304717+08:00
 name  快云
 node_n  12
-sub_info  6.255M  1.965G  2023-12-21 06:44:43+08:00  (剩余 1.959G 0:59:58.668713)
-sub_url  https://link.kyjc.xyz/link/LQ8vFv2pvLgvjK1c?clash=1#快云
-time  2023-12-20 06:44:43.492912+08:00
+sub_info  0B  1.975G  2023-12-22 06:46:42+08:00  (剩余 1.975G 23:59:54.730053)
+sub_url  https://link.kyjc.xyz/link/VJnTV9pfAbSBpGj6?clash=1#快云
+time  2023-12-21 06:46:42.560430+08:00
 type  sspanel
 
 [pigvip.xyz#猪网]
@@ -35,7 +34,7 @@ buy  pass
 email  yzakptdjd42@gmail.com
 name  猪网-PIGVIP
 node_n  10
-sub_info  0B  10G  2023-12-27 21:44:40+08:00  (剩余 10G 6 days, 15:59:53.758576)
+sub_info  0B  10G  2023-12-27 21:44:40+08:00  (剩余 10G 6 days, 14:59:55.005940)
 sub_url  https://pigvip.xyz/api/v1/client/subscribe?token=ae002758eaf5635ee25ebdf5b674c5df
 time  2023-12-20 21:44:40.785861+08:00
 type  v2board
