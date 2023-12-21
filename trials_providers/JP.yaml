@@ -5,4 +5,4 @@ proxies:
 - {name: 🇯🇵 日本1-广日隧道-解锁 - 快云, server: 120.232.186.54, port: 44804, type: vmess, uuid: 53933791-cd74-3c70-9643-f0b3ad853018, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇯🇵 日本 | 02 | 京东 - 猪网-PIGVIP, server: rb02.pigvip.xyz, port: 2380, type: vmess, uuid: 46913a5f-08ca-4808-9db8-8b29941b1cdf, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: ssmtt.com}}, udp: true}
 - {name: 🇯🇵 日本 | 03 | 大阪市 - 猪网-PIGVIP, server: rb03.pigvip.xyz, port: 2380, type: vmess, uuid: 46913a5f-08ca-4808-9db8-8b29941b1cdf, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: ssmtt.com}}, udp: true}
-- {name: 🇯🇵 Japan - 番茄云, server: jp.fanqiecloud.top, port: 21852, type: ss, cipher: chacha20-ietf-poly1305, password: b1e3106a-7900-4869-8b21-3fdc3f30969a, udp: true}
+- {name: 🇯🇵 Japan - 番茄云, server: jp.fanqiecloud.top, port: 21852, type: ss, cipher: chacha20-ietf-poly1305, password: f2e074cc-e879-48fd-aca5-a2a2db85118d, udp: true}
