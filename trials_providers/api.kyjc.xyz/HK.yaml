@@ -1,8 +1,8 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇭🇰 香港2-上港隧道-解锁 - 快云, server: sh-ct.gou.wtf, port: 29280, type: vmess, uuid: 53933791-cd74-3c70-9643-f0b3ad853018, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 香港7-广港隧道-解锁 - 快云, server: 120.232.186.54, port: 47128, type: vmess, uuid: 53933791-cd74-3c70-9643-f0b3ad853018, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 香港1-上港隧道 - 快云, server: sh-ct.gou.wtf, port: 19240, type: vmess, uuid: 53933791-cd74-3c70-9643-f0b3ad853018, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 香港-上港隧道-解锁 - 快云, server: sh-ct.gou.wtf, port: 16981, type: vmess, uuid: 53933791-cd74-3c70-9643-f0b3ad853018, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 香港6-上港隧道-解锁 - 快云, server: sh-ct.gou.wtf, port: 17313, type: vmess, uuid: 53933791-cd74-3c70-9643-f0b3ad853018, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 香港2-上港隧道-解锁 - 快云, server: sh-ct.gou.wtf, port: 29280, type: vmess, uuid: 463b53c1-1f03-3f80-b2b9-1df55a583996, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 香港7-广港隧道-解锁 - 快云, server: 120.232.186.54, port: 47128, type: vmess, uuid: 463b53c1-1f03-3f80-b2b9-1df55a583996, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 香港1-上港隧道 - 快云, server: sh-ct.gou.wtf, port: 19240, type: vmess, uuid: 463b53c1-1f03-3f80-b2b9-1df55a583996, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 香港-上港隧道-解锁 - 快云, server: sh-ct.gou.wtf, port: 16981, type: vmess, uuid: 463b53c1-1f03-3f80-b2b9-1df55a583996, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 香港6-上港隧道-解锁 - 快云, server: sh-ct.gou.wtf, port: 17313, type: vmess, uuid: 463b53c1-1f03-3f80-b2b9-1df55a583996, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
