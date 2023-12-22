@@ -1,4 +1,4 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇨🇦 加拿大-上美隧道-解锁 - 快云, server: taobao.888888.wtf, port: 38235, type: vmess, uuid: 463b53c1-1f03-3f80-b2b9-1df55a583996, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇨🇦 加拿大-上美隧道-解锁 - 快云, server: taobao.888888.wtf, port: 38235, type: vmess, uuid: 85a7f03f-ccd1-3b18-acd1-761c56595d97, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
