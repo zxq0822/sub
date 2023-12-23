@@ -1,8 +1,8 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇺🇸 美国1-江日隧道-解锁 - 快云, server: w26.xn--icty41bzxj.cn, port: 40425, type: vmess, uuid: 85a7f03f-ccd1-3b18-acd1-761c56595d97, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 美国2-江日隧道-解锁 - 快云, server: w26.xn--icty41bzxj.cn, port: 41894, type: vmess, uuid: 85a7f03f-ccd1-3b18-acd1-761c56595d97, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 美国1-江日隧道-解锁 - 快云, server: w26.xn--icty41bzxj.cn, port: 40425, type: vmess, uuid: 7084dc78-43a3-3e5b-8607-608929e95605, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 美国2-江日隧道-解锁 - 快云, server: w26.xn--icty41bzxj.cn, port: 41894, type: vmess, uuid: 7084dc78-43a3-3e5b-8607-608929e95605, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇺🇸 美国|01|西雅图 - 猪网-PIGVIP, server: mg01.pigvip.xyz, port: 2380, type: vmess, uuid: 46913a5f-08ca-4808-9db8-8b29941b1cdf, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: ssmtt.com}}, udp: true}
 - {name: 🇺🇸 美国|02|纽约 - 猪网-PIGVIP, server: mg02.pigvip.xyz, port: 2380, type: vmess, uuid: 46913a5f-08ca-4808-9db8-8b29941b1cdf, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: mg02.pigvip.xyz}}, udp: true}
 - {name: 🇺🇸 美国|03|弗吉尼亚州 - 猪网-PIGVIP, server: mg03.pigvip.xyz, port: 2380, type: vmess, uuid: 46913a5f-08ca-4808-9db8-8b29941b1cdf, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: ssmtt.com}}, udp: true}
