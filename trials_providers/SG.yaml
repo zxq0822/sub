@@ -1,6 +1,6 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇸🇬 新加坡2-上新隧道-解锁 - 快云, server: sh-ct.gou.wtf, port: 48095, type: vmess, uuid: 7084dc78-43a3-3e5b-8607-608929e95605, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬 新加坡2-上新隧道-解锁 - 快云, server: sh-ct.gou.wtf, port: 48095, type: vmess, uuid: 9215de30-9980-3675-8d16-04ca079e6f60, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇸🇬 新加坡|02|新加坡 - 猪网-PIGVIP, server: xjp02.pigvip.xyz, port: 2380, type: vmess, uuid: 46913a5f-08ca-4808-9db8-8b29941b1cdf, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: pigvip.xyz}}, udp: true}
 - {name: 🇸🇬 Singapore - 番茄云, server: sg.fanqiecloud.top, port: 24352, type: ss, cipher: chacha20-ietf-poly1305, password: d921c34a-eb41-4913-85d3-31b4964e16df, udp: true}
