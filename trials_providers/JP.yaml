@@ -1,8 +1,8 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇯🇵 v2日本-江日隧道 - 快云, server: w26.xn--icty41bzxj.cn, port: 18555, type: vmess, uuid: d7bdf39b-beb4-3170-9206-a910ff54b68a, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 日本1-广日隧道-解锁 - 快云, server: 120.232.186.54, port: 44804, type: vmess, uuid: d7bdf39b-beb4-3170-9206-a910ff54b68a, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 v2日本-江日隧道 - 快云, server: w26.xn--icty41bzxj.cn, port: 18555, type: vmess, uuid: 02375bf2-f031-3516-ae1f-707df0886f05, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本1-广日隧道-解锁 - 快云, server: 120.232.186.54, port: 44804, type: vmess, uuid: 02375bf2-f031-3516-ae1f-707df0886f05, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇯🇵 日本 | 02 | 京东 - 猪网-PIGVIP, server: rb02.pigvip.xyz, port: 2380, type: vmess, uuid: 6ea160f4-0f52-441e-a7c8-ebd5f4e29a56, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: ssmtt.com}}, udp: true}
 - {name: 🇯🇵 日本 | 03 | 大阪市 - 猪网-PIGVIP, server: rb03.pigvip.xyz, port: 2380, type: vmess, uuid: 6ea160f4-0f52-441e-a7c8-ebd5f4e29a56, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: ssmtt.com}}, udp: true}
 - {name: 🇯🇵 Japan - 番茄云, server: jp.fanqiecloud.top, port: 21852, type: ss, cipher: chacha20-ietf-poly1305, password: 5d690ddd-7453-4f82-939a-6dc00bff3145, udp: true}
