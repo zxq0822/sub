@@ -1,41 +1,8 @@
-[cloud.fanqiecloud.top]
-email  fwzxqnno438@gmail.com
-name  番茄云
-node_n  24
-sub_info  0B  10G  2023-12-29 20:53:30+08:00  (剩余 10G 6:08:59.452350)
-sub_url  https://cloud2.fanqiecloud.top/api/v1/client/subscribe?token=8488eca8750b319287e37f0a1416655f
-time  2023-12-28 20:53:31.908482+08:00
+[www.kuaidog001.top]
+email  pbdqamks328@gmail.com
+name  快狗云
+node_n  20
+sub_info  0B  100G  2024-01-29 15:22:23+08:00  (剩余 100G 30 days, 23:59:55.954584)
+sub_url  https://www.kuaidog001.top/api/v1/client/subscribe?token=cd27f2378161db3681af881a2b367586
+time  2023-12-29 15:22:21.354312+08:00
 type  v2board
-
-[aa.dabai.in]
-email  qkzvsrcde432@gmail.com
-last_checkin  2023-12-29 00:44:40.464100+08:00
-name  大白
-node_n  8
-sub_info  20.7G  999.8G  2024-01-12 20:43:05+08:00  (剩余 979.1G 14 days, 5:56:30.828349)
-sub_url  https://aa.dabai.in/link/dzXgFNRXcaUC74c5?sub=3
-time  2023-12-13 20:43:09.068729+08:00
-type  sspanel
-
-[api.kyjc.xyz]
-auto_invite  F
-buy  shop=15
-email  xjnjsks318@gmail.com
-last_checkin  2023-12-29 05:44:29.133544+08:00
-name  快云
-node_n  12
-sub_info  0B  1.409G  2023-12-30 05:44:29+08:00  (剩余 1.409G 14:59:58.869527)
-sub_url  https://link.kyjc.xyz/link/bYeKpwhZbU6Kz21X?clash=1#快云
-time  2023-12-29 05:44:29.929197+08:00
-type  sspanel
-
-[pigvip.xyz#猪网]
-buy  pass
-email  eggxopedz165@gmail.com
-name  猪网-PIGVIP
-node_n  10
-sub_info  0B  10G  2024-01-03 21:44:34+08:00  (剩余 10G 5 days, 16:00:06.841340)
-sub_url  https://pigvip.xyz/api/v1/client/subscribe?token=21a2f3813b2eab295249fe841d666aa6
-time  2023-12-27 21:44:34.968597+08:00
-type  v2board
-更新旧订阅失败  (https://pigvip.xyz/api/v1/client/subscribe?token=21a2f3813b2eab295249fe841d666aa6): 400 Bad Request '<html>\r\n<head><title>400 Bad Request</title></head>\r\n<body>\r\n<center><h1>400 Bad Request</h1></center>\r\n<hr><center>nginx</center>\r\n</body>\r\n</html>\r\n'
