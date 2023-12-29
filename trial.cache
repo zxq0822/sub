@@ -2,7 +2,7 @@
 email  fwzxqnno438@gmail.com
 name  番茄云
 node_n  24
-sub_info  0B  10G  2023-12-29 20:53:30+08:00  (剩余 10G 13:08:51.044441)
+sub_info  0B  10G  2023-12-29 20:53:30+08:00  (剩余 10G 11:23:27.158889)
 sub_url  https://cloud2.fanqiecloud.top/api/v1/client/subscribe?token=8488eca8750b319287e37f0a1416655f
 time  2023-12-28 20:53:31.908482+08:00
 type  v2board
@@ -12,7 +12,7 @@ email  qkzvsrcde432@gmail.com
 last_checkin  2023-12-29 00:44:40.464100+08:00
 name  大白
 node_n  8
-sub_info  20.66G  999.8G  2024-01-12 20:43:05+08:00  (剩余 979.2G 14 days, 12:58:28.340595)
+sub_info  20.67G  999.8G  2024-01-12 20:43:05+08:00  (剩余 979.2G 14 days, 11:13:09.869370)
 sub_url  https://aa.dabai.in/link/dzXgFNRXcaUC74c5?sub=3
 time  2023-12-13 20:43:09.068729+08:00
 type  sspanel
@@ -24,7 +24,7 @@ email  xjnjsks318@gmail.com
 last_checkin  2023-12-29 05:44:29.133544+08:00
 name  快云
 node_n  12
-sub_info  0B  1.409G  2023-12-30 05:44:29+08:00  (剩余 1.409G 21:59:51.798983)
+sub_info  0B  1.409G  2023-12-30 05:44:29+08:00  (剩余 1.409G 20:14:33.217831)
 sub_url  https://link.kyjc.xyz/link/bYeKpwhZbU6Kz21X?clash=1#快云
 time  2023-12-29 05:44:29.929197+08:00
 type  sspanel
@@ -38,4 +38,4 @@ sub_info  0B  10G  2024-01-03 21:44:34+08:00  (剩余 10G 5 days, 16:00:06.84134
 sub_url  https://pigvip.xyz/api/v1/client/subscribe?token=21a2f3813b2eab295249fe841d666aa6
 time  2023-12-27 21:44:34.968597+08:00
 type  v2board
-更新旧订阅失败  (https://pigvip.xyz/api/v1/client/subscribe?token=21a2f3813b2eab295249fe841d666aa6): 404 Not Found '<html>\r\n<head><title>404 Not Found</title></head>\r\n<body>\r\n<center><h1>404 Not Found</h1></center>\r\n<hr><center>nginx</center>\r\n</body>\r\n</html>\r\n'
+更新旧订阅失败  (https://pigvip.xyz/api/v1/client/subscribe?token=21a2f3813b2eab295249fe841d666aa6): 400 Bad Request '<html>\r\n<head><title>400 Bad Request</title></head>\r\n<body>\r\n<center><h1>400 Bad Request</h1></center>\r\n<hr><center>nginx</center>\r\n</body>\r\n</html>\r\n'
