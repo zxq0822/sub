@@ -1,11 +1,18 @@
-[haituncloud.xyz]
-email  xbrprjmv905@gmail.com
-last_checkin  2024-02-20 00:44:28.144089+08:00
-name  海豚云
-node_n  11
-sub_info  4.357G  113.3G  2024-02-25 22:13:59+08:00  (剩余 108.9G 5 days, 12:41:09.702563)
-sub_url  https://haituncloud.xyz/link/2RciJN317qGafJBx?sub=3
-time  2024-01-26 22:14:03.457893+08:00
+[cloud.fanqiecloud.top]
+email  ltrbtisng668@gmail.com
+name  番茄云
+node_n  29
+sub_info  0B  10G  2024-02-27 16:21:03+08:00  (剩余 10G 23:59:54.987797)
+sub_url  https://cloud1.fanqiecloud.top/api/v1/client/subscribe?token=62d12eedbd3635d5ad3381912f73bb9c
+time  2024-02-26 16:21:04.311887+08:00
+type  v2board
+
+[aa.dabai.in]
+email  hdshehek479@gmail.com
+last_checkin  2024-02-26 16:21:02.806835+08:00
+name  大白
+node_n  8
+sub_info  0B  999G  2024-03-27 16:21:02+08:00  (剩余 999G 29 days, 23:59:48.212902)
+sub_url  https://aa.dabai.in/link/cACd20XA92QzBAet?sub=3
+time  2024-02-26 16:21:03.618683+08:00
 type  sspanel
-尝试签到失败  HTTPSConnectionPool(host='haituncloud.xyz', port=443): Read timed out. (read timeout=30)
-更新旧订阅失败  HTTPSConnectionPool(host='haituncloud.xyz', port=443): Max retries exceeded with url: /link/2RciJN317qGafJBx?sub=3 (Caused by ReadTimeoutError("HTTPSConnectionPool(host='haituncloud.xyz', port=443): Read timed out. (read timeout=30)"))

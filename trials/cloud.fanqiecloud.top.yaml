@@ -16,6 +16,7 @@ proxy-groups:
   - 🇸🇬 ‍新加坡
   - 🇯🇵 ‍日本
   - 🇺🇸 ‍美国
+  - 🎏 ‍其他
   - 👆🏻 ‍指定
   - 👆🏻🇭🇰 ‍香港
   - 👆🏻🇹🇼 ‍台湾
@@ -23,6 +24,7 @@ proxy-groups:
   - 👆🏻🇸🇬 ‍新加坡
   - 👆🏻🇯🇵 ‍日本
   - 👆🏻🇺🇸 ‍美国
+  - 👆🏻🎏 ‍其他
   - DIRECT
 - name: ⚡ ‍低延迟
   type: url-test
@@ -30,17 +32,35 @@ proxy-groups:
   interval: 30
   tolerance: 100
   proxies: &id001
-  - 🇭🇰 V4-4009|香港|x1.0 - 海豚云
-  - 🇭🇰 V4-4010|香港|x2.0 - 海豚云
-  - 🇭🇰 V4-4011|香港|x2.0 - 海豚云
-  - 🇹🇼 V4-4007|台湾|x2.0 - 海豚云
-  - 🇹🇼 V4-4008|台湾|x2.0 - 海豚云
-  - 🇸🇬 V4-4003|新加坡|x2.0 - 海豚云
-  - 🇸🇬 V4-4004|新加坡|x2.0 - 海豚云
-  - 🇯🇵 V4-4001|日本|x1.5 - 海豚云
-  - 🇯🇵 V4-4002|日本|x2.0 - 海豚云
-  - 🇺🇸 V4-4005|美国|x2.0 - 海豚云
-  - 🇺🇸 V4-4006|美国|x1.5 - 海豚云
+  - 🇭🇰 Hongkong - 番茄云
+  - 🇭🇰 Hongkong 2 - 番茄云
+  - 🇭🇰 Hongkong 3 - 番茄云
+  - 🇹🇼 Taiwan - 番茄云
+  - 🇸🇬 Singapore - 番茄云
+  - 🇯🇵 Japan - 番茄云
+  - 🇺🇸 America - 番茄云
+  - 🇺🇸 America 2 - 番茄云
+  - 🇺🇸 America 3|V6 - 番茄云
+  - 🇺🇸 America 4 - 番茄云
+  - 🇰🇷 South Korea - 番茄云
+  - 🇰🇷 South Korea 2 - 番茄云
+  - 🇰🇷 South Korea 3 - 番茄云
+  - 🇰🇷 South Korea 4 - 番茄云
+  - 🇨🇦 Canada - 番茄云
+  - 🇧🇷 Brazil - 番茄云
+  - 🇬🇧 England - 番茄云
+  - 🇮🇹 Italy - 番茄云
+  - 🇮🇹 Italy 2 - 番茄云
+  - 🇩🇪 Germany - 番茄云
+  - 🇫🇷 Franch - 番茄云
+  - 🇫🇷 Franch 2 - 番茄云
+  - 🇪🇸 Spain - 番茄云
+  - 🇦🇺 Melbourne - 番茄云
+  - 🇦🇺 Sydney - 番茄云
+  - 🇹🇷 Turkey - 番茄云
+  - 🇳🇱 Netherlands - 番茄云
+  - 🇮🇳 India - 番茄云
+  - 🇦🇪 Dubai - 番茄云
 - name: 🛩️ ‍墙内
   type: select
   proxies:
@@ -69,7 +89,9 @@ proxy-groups:
   type: select
   proxies:
   - 🇺🇸 ‍美国
+  - 🎏 ‍其他
   - 👆🏻🇺🇸 ‍美国
+  - 👆🏻🎏 ‍其他
   - 🇹🇼 ‍台湾
   - 🇸🇬 ‍新加坡
   - 🇯🇵 ‍日本
@@ -91,52 +113,75 @@ proxy-groups:
   interval: 15
   tolerance: 100
   proxies: &id002
-  - 🇭🇰 V4-4009|香港|x1.0 - 海豚云
-  - 🇭🇰 V4-4010|香港|x2.0 - 海豚云
-  - 🇭🇰 V4-4011|香港|x2.0 - 海豚云
+  - 🇭🇰 Hongkong - 番茄云
+  - 🇭🇰 Hongkong 2 - 番茄云
+  - 🇭🇰 Hongkong 3 - 番茄云
 - name: 🇹🇼 ‍台湾
   type: url-test
   url: https://i.ytimg.com/generate_204
   interval: 15
   tolerance: 100
   proxies: &id003
-  - 🇹🇼 V4-4007|台湾|x2.0 - 海豚云
-  - 🇹🇼 V4-4008|台湾|x2.0 - 海豚云
+  - 🇹🇼 Taiwan - 番茄云
 - name: 🇨🇳 ‍中国
   type: url-test
   url: https://i.ytimg.com/generate_204
   interval: 15
   tolerance: 100
   proxies: &id004
-  - 🇭🇰 V4-4009|香港|x1.0 - 海豚云
-  - 🇭🇰 V4-4010|香港|x2.0 - 海豚云
-  - 🇭🇰 V4-4011|香港|x2.0 - 海豚云
-  - 🇹🇼 V4-4007|台湾|x2.0 - 海豚云
-  - 🇹🇼 V4-4008|台湾|x2.0 - 海豚云
+  - 🇭🇰 Hongkong - 番茄云
+  - 🇭🇰 Hongkong 2 - 番茄云
+  - 🇭🇰 Hongkong 3 - 番茄云
+  - 🇹🇼 Taiwan - 番茄云
 - name: 🇸🇬 ‍新加坡
   type: url-test
   url: https://i.ytimg.com/generate_204
   interval: 15
   tolerance: 100
   proxies: &id005
-  - 🇸🇬 V4-4003|新加坡|x2.0 - 海豚云
-  - 🇸🇬 V4-4004|新加坡|x2.0 - 海豚云
+  - 🇸🇬 Singapore - 番茄云
 - name: 🇯🇵 ‍日本
   type: url-test
   url: https://i.ytimg.com/generate_204
   interval: 15
   tolerance: 100
   proxies: &id006
-  - 🇯🇵 V4-4001|日本|x1.5 - 海豚云
-  - 🇯🇵 V4-4002|日本|x2.0 - 海豚云
+  - 🇯🇵 Japan - 番茄云
 - name: 🇺🇸 ‍美国
   type: url-test
   url: https://i.ytimg.com/generate_204
   interval: 15
   tolerance: 300
   proxies: &id007
-  - 🇺🇸 V4-4005|美国|x2.0 - 海豚云
-  - 🇺🇸 V4-4006|美国|x1.5 - 海豚云
+  - 🇺🇸 America - 番茄云
+  - 🇺🇸 America 2 - 番茄云
+  - 🇺🇸 America 3|V6 - 番茄云
+  - 🇺🇸 America 4 - 番茄云
+- name: 🎏 ‍其他
+  type: url-test
+  url: https://i.ytimg.com/generate_204
+  interval: 30
+  tolerance: 100
+  proxies: &id008
+  - 🇰🇷 South Korea - 番茄云
+  - 🇰🇷 South Korea 2 - 番茄云
+  - 🇰🇷 South Korea 3 - 番茄云
+  - 🇰🇷 South Korea 4 - 番茄云
+  - 🇨🇦 Canada - 番茄云
+  - 🇧🇷 Brazil - 番茄云
+  - 🇬🇧 England - 番茄云
+  - 🇮🇹 Italy - 番茄云
+  - 🇮🇹 Italy 2 - 番茄云
+  - 🇩🇪 Germany - 番茄云
+  - 🇫🇷 Franch - 番茄云
+  - 🇫🇷 Franch 2 - 番茄云
+  - 🇪🇸 Spain - 番茄云
+  - 🇦🇺 Melbourne - 番茄云
+  - 🇦🇺 Sydney - 番茄云
+  - 🇹🇷 Turkey - 番茄云
+  - 🇳🇱 Netherlands - 番茄云
+  - 🇮🇳 India - 番茄云
+  - 🇦🇪 Dubai - 番茄云
 - name: 👆🏻 ‍指定
   type: select
   proxies: *id001
@@ -158,18 +203,39 @@ proxy-groups:
 - name: 👆🏻🇺🇸 ‍美国
   type: select
   proxies: *id007
+- name: 👆🏻🎏 ‍其他
+  type: select
+  proxies: *id008
 proxies:
-- {name: 🇯🇵 V4-4001|日本|x1.5 - 海豚云, server: dnspsdhaitun.ncsuwei.top, port: 14109, type: vmess, uuid: 934a6b72-f4d5-38a5-b50c-a38013d4a5b8, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /12e884bf-1622-7ceb-3009-7d47fdfs2f9a5, headers: {Host: dnspsdhaitun.ncsuwei.top}}, udp: true}
-- {name: 🇯🇵 V4-4002|日本|x2.0 - 海豚云, server: dnspsdhaitun.ncsuwei.top, port: 14110, type: vmess, uuid: 934a6b72-f4d5-38a5-b50c-a38013d4a5b8, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /12e884bf-1622-7ceb-3009-7d47fdfs2f9a5, headers: {Host: dnspsdhaitun.ncsuwei.top}}, udp: true}
-- {name: 🇸🇬 V4-4003|新加坡|x2.0 - 海豚云, server: dnspsdhaitun.ncsuwei.top, port: 12001, type: vmess, uuid: 934a6b72-f4d5-38a5-b50c-a38013d4a5b8, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /12e884bf-1622-7ceb-3009-7d47fdfs2f9a5, headers: {Host: dnspsdhaitun.ncsuwei.top}}, udp: true}
-- {name: 🇸🇬 V4-4004|新加坡|x2.0 - 海豚云, server: dnspsdhaitun.ncsuwei.top, port: 12002, type: vmess, uuid: 934a6b72-f4d5-38a5-b50c-a38013d4a5b8, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /12e884bf-1622-7ceb-3009-7d47fd1322f9a5, headers: {Host: dnspsdhaitun.ncsuwei.top}}, udp: true}
-- {name: 🇺🇸 V4-4005|美国|x2.0 - 海豚云, server: dnspsdhaitun.ncsuwei.top, port: 11301, type: vmess, uuid: 934a6b72-f4d5-38a5-b50c-a38013d4a5b8, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /ef483582-6269-468c-93af-c512ec2b8a61, headers: {Host: dnspsdhaitun.ncsuwei.top}}, udp: true}
-- {name: 🇺🇸 V4-4006|美国|x1.5 - 海豚云, server: dnspsdhaitun.ncsuwei.top, port: 11302, type: vmess, uuid: 934a6b72-f4d5-38a5-b50c-a38013d4a5b8, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /ef483582-6269-468c-93af-c512ec2b8a61, headers: {Host: dnspsdhaitun.ncsuwei.top}}, udp: true}
-- {name: 🇹🇼 V4-4007|台湾|x2.0 - 海豚云, server: dnspsdhaitun.ncsuwei.top, port: 14099, type: vmess, uuid: 934a6b72-f4d5-38a5-b50c-a38013d4a5b8, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /ef483582-6269-468c-93af-c511eccb8a69, headers: {Host: dnspsdhaitun.ncsuwei.top}}, udp: true}
-- {name: 🇹🇼 V4-4008|台湾|x2.0 - 海豚云, server: dnspsdhaitun.ncsuwei.top, port: 14000, type: vmess, uuid: 934a6b72-f4d5-38a5-b50c-a38013d4a5b8, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /ef483582-6269-468c-93af-c511eccb8a69, headers: {Host: dnspsdhaitun.ncsuwei.top}}, udp: true}
-- {name: 🇭🇰 V4-4009|香港|x1.0 - 海豚云, server: dnspsdhaitun.ncsuwei.top, port: 13004, type: vmess, uuid: 934a6b72-f4d5-38a5-b50c-a38013d4a5b8, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /ef483582-6269-468c-93af-c511eccb8a69, headers: {Host: dnspsdhaitun.ncsuwei.top}}, udp: true}
-- {name: 🇭🇰 V4-4010|香港|x2.0 - 海豚云, server: dnspsdhaitun.ncsuwei.top, port: 13002, type: vmess, uuid: 934a6b72-f4d5-38a5-b50c-a38013d4a5b8, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /ef483582-6269-468c-93af-c511eccb8a69, headers: {Host: dnspsdhaitun.ncsuwei.top}}, udp: true}
-- {name: 🇭🇰 V4-4011|香港|x2.0 - 海豚云, server: dnspsdhaitun.ncsuwei.top, port: 17002, type: vmess, uuid: 934a6b72-f4d5-38a5-b50c-a38013d4a5b8, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /af483582-6269-468c-93af-c512ec2b1a61, headers: {Host: dnspsdhaitun.ncsuwei.top}}, udp: true}
+- {name: 🇺🇸 America - 番茄云, server: dlcc.fanqiecloud.top, port: 2086, type: vmess, uuid: 39a9b133-4b62-4928-b6a3-c8fe6fcf82f0, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /sssddd, headers: {Host: cf-usa.fanqiecloud.free.hr}}, udp: true}
+- {name: 🇺🇸 America 2 - 番茄云, server: us.fanqiecloud.top, port: 28252, type: ss, cipher: chacha20-ietf-poly1305, password: 39a9b133-4b62-4928-b6a3-c8fe6fcf82f0, udp: true}
+- {name: 🇺🇸 America 3|V6 - 番茄云, server: us3.fanqiecloud.top, port: 40060, type: ss, cipher: chacha20-ietf-poly1305, password: 39a9b133-4b62-4928-b6a3-c8fe6fcf82f0, udp: true}
+- {name: 🇺🇸 America 4 - 番茄云, server: us2.fanqiecloud.top, port: 23553, type: ss, cipher: chacha20-ietf-poly1305, password: 39a9b133-4b62-4928-b6a3-c8fe6fcf82f0, udp: true}
+- {name: 🇯🇵 Japan - 番茄云, server: jp.fanqiecloud.top, port: 51652, type: ss, cipher: chacha20-ietf-poly1305, password: 39a9b133-4b62-4928-b6a3-c8fe6fcf82f0, udp: true}
+- {name: 🇰🇷 South Korea - 番茄云, server: dldd.fanqiecloud.top, port: 2086, type: vmess, uuid: 39a9b133-4b62-4928-b6a3-c8fe6fcf82f0, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /sssddd, headers: {Host: cf-kr2d.fanqiecloud.top}}, udp: true}
+- {name: 🇰🇷 South Korea 2 - 番茄云, server: kr2.fanqiecloud.top, port: 62252, type: ss, cipher: chacha20-ietf-poly1305, password: 39a9b133-4b62-4928-b6a3-c8fe6fcf82f0, udp: true}
+- {name: 🇰🇷 South Korea 3 - 番茄云, server: kr3.fanqiecloud.top, port: 55252, type: ss, cipher: chacha20-ietf-poly1305, password: 39a9b133-4b62-4928-b6a3-c8fe6fcf82f0, udp: true}
+- {name: 🇰🇷 South Korea 4 - 番茄云, server: kr.fanqiecloud.free.hr, port: 51062, type: ss, cipher: chacha20-ietf-poly1305, password: 39a9b133-4b62-4928-b6a3-c8fe6fcf82f0, udp: true}
+- {name: 🇸🇬 Singapore - 番茄云, server: sg.fanqiecloud.top, port: 42760, type: ss, cipher: chacha20-ietf-poly1305, password: 39a9b133-4b62-4928-b6a3-c8fe6fcf82f0, udp: true}
+- {name: 🇨🇦 Canada - 番茄云, server: cf.fanqiecloud.top, port: 22554, type: ss, cipher: chacha20-ietf-poly1305, password: 39a9b133-4b62-4928-b6a3-c8fe6fcf82f0, udp: true}
+- {name: 🇧🇷 Brazil - 番茄云, server: bx.fanqiecloud.top, port: 20152, type: ss, cipher: chacha20-ietf-poly1305, password: 39a9b133-4b62-4928-b6a3-c8fe6fcf82f0, udp: true}
+- {name: 🇬🇧 England - 番茄云, server: uk.fanqiecloud.top, port: 24504, type: ss, cipher: chacha20-ietf-poly1305, password: 39a9b133-4b62-4928-b6a3-c8fe6fcf82f0, udp: true}
+- {name: 🇮🇹 Italy - 番茄云, server: it.fanqiecloud.top, port: 39052, type: ss, cipher: chacha20-ietf-poly1305, password: 39a9b133-4b62-4928-b6a3-c8fe6fcf82f0, udp: true}
+- {name: 🇮🇹 Italy 2 - 番茄云, server: dlcc.fanqiecloud.top, port: 2052, type: vmess, uuid: 39a9b133-4b62-4928-b6a3-c8fe6fcf82f0, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /sssddd, headers: {Host: cf-it3.fanqiecloud.top}}, udp: true}
+- {name: 🇩🇪 Germany - 番茄云, server: de.fanqiecloud.top, port: 22302, type: ss, cipher: chacha20-ietf-poly1305, password: 39a9b133-4b62-4928-b6a3-c8fe6fcf82f0, udp: true}
+- {name: 🇹🇼 Taiwan - 番茄云, server: dlaa.fanqiecloud.top, port: 2095, type: vmess, uuid: 39a9b133-4b62-4928-b6a3-c8fe6fcf82f0, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /sssddd, headers: {Host: cf-tw2.fanqiecloud.top}}, udp: true}
+- {name: 🇫🇷 Franch - 番茄云, server: fr.fanqiecloud.top, port: 50252, type: ss, cipher: chacha20-ietf-poly1305, password: 39a9b133-4b62-4928-b6a3-c8fe6fcf82f0, udp: true}
+- {name: 🇫🇷 Franch 2 - 番茄云, server: dlaa.fanqiecloud.top, port: 80, type: vmess, uuid: 39a9b133-4b62-4928-b6a3-c8fe6fcf82f0, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /sssddd, headers: {Host: cf-fr6.fanqiecloud.top}}, udp: true}
+- {name: 🇪🇸 Spain - 番茄云, server: dlaa.fanqiecloud.top, port: 2052, type: vmess, uuid: 39a9b133-4b62-4928-b6a3-c8fe6fcf82f0, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /sssddd, headers: {Host: cf-sby5.fanqiecloud.top}}, udp: true}
+- {name: 🇦🇺 Melbourne - 番茄云, server: au2.fanqiecloud.top, port: 51402, type: ss, cipher: chacha20-ietf-poly1305, password: 39a9b133-4b62-4928-b6a3-c8fe6fcf82f0, udp: true}
+- {name: 🇦🇺 Sydney - 番茄云, server: au.fanqiecloud.top, port: 37362, type: ss, cipher: chacha20-ietf-poly1305, password: 39a9b133-4b62-4928-b6a3-c8fe6fcf82f0, udp: true}
+- {name: 🇹🇷 Turkey - 番茄云, server: dldd.fanqiecloud.top, port: 2086, type: vmess, uuid: 39a9b133-4b62-4928-b6a3-c8fe6fcf82f0, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /sssddd, headers: {Host: cf-tr3.fanqiecloud.top}}, udp: true}
+- {name: 🇭🇰 Hongkong - 番茄云, server: dlaa.fanqiecloud.top, port: 2052, type: vmess, uuid: 39a9b133-4b62-4928-b6a3-c8fe6fcf82f0, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /sssddd, headers: {Host: cf-hkk2.fanqiecloud.top}}, udp: true}
+- {name: 🇭🇰 Hongkong 2 - 番茄云, server: dlaa.fanqiecloud.top, port: 2086, type: vmess, uuid: 39a9b133-4b62-4928-b6a3-c8fe6fcf82f0, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /sssddd, headers: {Host: cf-hk2c.fanqiecloud.top}}, udp: true}
+- {name: 🇭🇰 Hongkong 3 - 番茄云, server: dlcc.fanqiecloud.top, port: 2086, type: vmess, uuid: 39a9b133-4b62-4928-b6a3-c8fe6fcf82f0, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /sssddd, headers: {Host: cf-hk3d.fanqiecloud.top}}, udp: true}
+- {name: 🇳🇱 Netherlands - 番茄云, server: dlbb.fanqiecloud.top, port: 2086, type: vmess, uuid: 39a9b133-4b62-4928-b6a3-c8fe6fcf82f0, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /sssddd, headers: {Host: cf-nl5.fanqiecloud.top}}, udp: true}
+- {name: 🇮🇳 India - 番茄云, server: in.fanqiecloud.top, port: 22460, type: ss, cipher: chacha20-ietf-poly1305, password: 39a9b133-4b62-4928-b6a3-c8fe6fcf82f0, udp: true}
+- {name: 🇦🇪 Dubai - 番茄云, server: dlaa.fanqiecloud.top, port: 2086, type: vmess, uuid: 39a9b133-4b62-4928-b6a3-c8fe6fcf82f0, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /sssddd, headers: {Host: cf-db4.fanqiecloud.top}}, udp: true}
 rules:
 - DOMAIN-SUFFIX,acl4.ssr,DIRECT
 - DOMAIN-SUFFIX,ip6-localhost,DIRECT
@@ -223,6 +289,10 @@ rules:
 - DOMAIN,ghproxy.org,🛩️ ‍墙内
 - DOMAIN,ghproxy.cc,🛩️ ‍墙内
 - DOMAIN,mirror.ghproxy.com,🛩️ ‍墙内
+- DOMAIN,github.moeyy.xyz,🛩️ ‍墙内
+- DOMAIN,gh.idayer.com,🛩️ ‍墙内
+- DOMAIN-SUFFIX,gitmirror.com,🛩️ ‍墙内
+- DOMAIN,gh.con.sh,🛩️ ‍墙内
 - DOMAIN-SUFFIX,githubfast.com,🛩️ ‍墙内
 - DOMAIN-SUFFIX,1976f.com,🛩️ ‍墙内
 - DOMAIN-SUFFIX,ol.epicgames.com,🛩️ ‍墙内
