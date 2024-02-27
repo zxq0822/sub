@@ -40,16 +40,36 @@ proxy-groups:
   - 🇭🇰 香港|专线2G|GPT+流媒体|【提供套餐】免费/按量不限时/不按量限时|公益 - 大白
   - 🇭🇰 香港|专线2G|GPT+流媒体|【邀请用户】|最高返还40%|公益 - 大白
   - 🇭🇰 香港|专线2G|GPT+流媒体|【节点优先级】[按量]>[不限量]>[免费]>[公共订阅]|公益 - 大白
+  - 🇭🇰 香港01 - 光年网络
+  - 🇭🇰 香港02 - 光年网络
+  - 🇭🇰 香港03 - 光年网络
+  - 🇭🇰 香港04 - 光年网络
   - 🇭🇰 Hongkong - 番茄云
   - 🇭🇰 Hongkong 2 - 番茄云
   - 🇭🇰 Hongkong 3 - 番茄云
+  - 🇹🇼 台湾 - 光年网络
   - 🇹🇼 Taiwan - 番茄云
+  - 🇸🇬 新加坡01 - 光年网络
+  - 🇸🇬 新加坡02 - 光年网络
+  - 🇸🇬 新加坡03 - 光年网络
+  - 🇸🇬 新加坡04 解锁Netflix | 迪士尼+ - 光年网络
   - 🇸🇬 Singapore - 番茄云
+  - 🇯🇵 日本01 解锁Netflix | 迪士尼+ - 光年网络
+  - 🇯🇵 日本02 youtube可评论线路 - 光年网络
   - 🇯🇵 Japan - 番茄云
+  - 🇺🇸 美国01 - 光年网络
+  - 🇺🇸 美国02 - 光年网络
+  - 🇺🇸 美国03 - 光年网络
   - 🇺🇸 America - 番茄云
   - 🇺🇸 America 2 - 番茄云
   - 🇺🇸 America 3|V6 - 番茄云
   - 🇺🇸 America 4 - 番茄云
+  - ℹ 请收藏永久官网：licar.cc - 光年网络
+  - 🇷🇺 俄罗斯 youtube免广告 - 光年网络
+  - 🇰🇷 韩国01 - 光年网络
+  - 🇰🇷 韩国02 - 光年网络
+  - 🇧🇷 巴西01 - 光年网络
+  - 🇫🇷 法国01 - 光年网络
   - 🇰🇷 South Korea - 番茄云
   - 🇰🇷 South Korea 2 - 番茄云
   - 🇰🇷 South Korea 3 - 番茄云
@@ -129,6 +149,10 @@ proxy-groups:
   - 🇭🇰 香港|专线2G|GPT+流媒体|【提供套餐】免费/按量不限时/不按量限时|公益 - 大白
   - 🇭🇰 香港|专线2G|GPT+流媒体|【邀请用户】|最高返还40%|公益 - 大白
   - 🇭🇰 香港|专线2G|GPT+流媒体|【节点优先级】[按量]>[不限量]>[免费]>[公共订阅]|公益 - 大白
+  - 🇭🇰 香港01 - 光年网络
+  - 🇭🇰 香港02 - 光年网络
+  - 🇭🇰 香港03 - 光年网络
+  - 🇭🇰 香港04 - 光年网络
   - 🇭🇰 Hongkong - 番茄云
   - 🇭🇰 Hongkong 2 - 番茄云
   - 🇭🇰 Hongkong 3 - 番茄云
@@ -138,6 +162,7 @@ proxy-groups:
   interval: 15
   tolerance: 100
   proxies: &id003
+  - 🇹🇼 台湾 - 光年网络
   - 🇹🇼 Taiwan - 番茄云
 - name: 🇨🇳 ‍中国
   type: url-test
@@ -153,9 +178,14 @@ proxy-groups:
   - 🇭🇰 香港|专线2G|GPT+流媒体|【提供套餐】免费/按量不限时/不按量限时|公益 - 大白
   - 🇭🇰 香港|专线2G|GPT+流媒体|【邀请用户】|最高返还40%|公益 - 大白
   - 🇭🇰 香港|专线2G|GPT+流媒体|【节点优先级】[按量]>[不限量]>[免费]>[公共订阅]|公益 - 大白
+  - 🇭🇰 香港01 - 光年网络
+  - 🇭🇰 香港02 - 光年网络
+  - 🇭🇰 香港03 - 光年网络
+  - 🇭🇰 香港04 - 光年网络
   - 🇭🇰 Hongkong - 番茄云
   - 🇭🇰 Hongkong 2 - 番茄云
   - 🇭🇰 Hongkong 3 - 番茄云
+  - 🇹🇼 台湾 - 光年网络
   - 🇹🇼 Taiwan - 番茄云
 - name: 🇸🇬 ‍新加坡
   type: url-test
@@ -163,6 +193,10 @@ proxy-groups:
   interval: 15
   tolerance: 100
   proxies: &id005
+  - 🇸🇬 新加坡01 - 光年网络
+  - 🇸🇬 新加坡02 - 光年网络
+  - 🇸🇬 新加坡03 - 光年网络
+  - 🇸🇬 新加坡04 解锁Netflix | 迪士尼+ - 光年网络
   - 🇸🇬 Singapore - 番茄云
 - name: 🇯🇵 ‍日本
   type: url-test
@@ -170,6 +204,8 @@ proxy-groups:
   interval: 15
   tolerance: 100
   proxies: &id006
+  - 🇯🇵 日本01 解锁Netflix | 迪士尼+ - 光年网络
+  - 🇯🇵 日本02 youtube可评论线路 - 光年网络
   - 🇯🇵 Japan - 番茄云
 - name: 🇺🇸 ‍美国
   type: url-test
@@ -177,6 +213,9 @@ proxy-groups:
   interval: 15
   tolerance: 300
   proxies: &id007
+  - 🇺🇸 美国01 - 光年网络
+  - 🇺🇸 美国02 - 光年网络
+  - 🇺🇸 美国03 - 光年网络
   - 🇺🇸 America - 番茄云
   - 🇺🇸 America 2 - 番茄云
   - 🇺🇸 America 3|V6 - 番茄云
@@ -187,6 +226,12 @@ proxy-groups:
   interval: 30
   tolerance: 100
   proxies: &id008
+  - ℹ 请收藏永久官网：licar.cc - 光年网络
+  - 🇷🇺 俄罗斯 youtube免广告 - 光年网络
+  - 🇰🇷 韩国01 - 光年网络
+  - 🇰🇷 韩国02 - 光年网络
+  - 🇧🇷 巴西01 - 光年网络
+  - 🇫🇷 法国01 - 光年网络
   - 🇰🇷 South Korea - 番茄云
   - 🇰🇷 South Korea 2 - 番茄云
   - 🇰🇷 South Korea 3 - 番茄云
@@ -231,14 +276,34 @@ proxy-groups:
   type: select
   proxies: *id008
 proxies:
-- {name: 🇭🇰 香港|【免费领1TB流量】前往-注册|公益 - 大白, server: 101.89.154.94, port: 41082, type: vmess, uuid: 3bf0f1a5-4289-3182-8332-2d051a4a2aa0, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, servername: cache-hk-2.cn-db.top, network: ws, ws-opts: {path: /db00, headers: {Host: cache-hk-2.cn-db.top}}, udp: true}
-- {name: 🇭🇰 香港|专线2G|GPT+流媒体|【dabai.in】<<前往官网|公益 - 大白, server: 101.89.219.103, port: 58081, type: vmess, uuid: 3bf0f1a5-4289-3182-8332-2d051a4a2aa0, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, servername: data-hk-2.cn-db.top, network: ws, ws-opts: {path: /db00, headers: {Host: data-hk-2.cn-db.top}}, udp: true}
-- {name: 🇭🇰 香港|专线2G|GPT+流媒体|【db01.in】<<前往官网|公益 - 大白, server: 101.89.154.94, port: 19979, type: vmess, uuid: 3bf0f1a5-4289-3182-8332-2d051a4a2aa0, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, servername: cache-hk-2.cn-db.top, network: ws, ws-opts: {path: /db00, headers: {Host: cache-hk-2.cn-db.top}}, udp: true}
+- {name: 🇭🇰 香港|【免费领1TB流量】前往-注册|公益 - 大白, server: 101.89.219.103, port: 33810, type: vmess, uuid: 3bf0f1a5-4289-3182-8332-2d051a4a2aa0, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, servername: cache-hk-2.cn-db.top, network: ws, ws-opts: {path: /db00, headers: {Host: cache-hk-2.cn-db.top}}, udp: true}
+- {name: 🇭🇰 香港|专线2G|GPT+流媒体|【dabai.in】<<前往官网|公益 - 大白, server: 101.89.154.94, port: 58398, type: vmess, uuid: 3bf0f1a5-4289-3182-8332-2d051a4a2aa0, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, servername: data-hk-2.cn-db.top, network: ws, ws-opts: {path: /db00, headers: {Host: data-hk-2.cn-db.top}}, udp: true}
+- {name: 🇭🇰 香港|专线2G|GPT+流媒体|【db01.in】<<前往官网|公益 - 大白, server: 101.89.154.94, port: 33810, type: vmess, uuid: 3bf0f1a5-4289-3182-8332-2d051a4a2aa0, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, servername: cache-hk-2.cn-db.top, network: ws, ws-opts: {path: /db00, headers: {Host: cache-hk-2.cn-db.top}}, udp: true}
 - {name: 🇭🇰 香港|专线2G|GPT+流媒体|【付费用户】油管秒开4K/8K|更多地区接入|公益 - 大白, server: 101.89.154.94, port: 26068, type: vmess, uuid: 3bf0f1a5-4289-3182-8332-2d051a4a2aa0, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, servername: cache-hk-1.cn-db.top, network: ws, ws-opts: {path: /db00, headers: {Host: cache-hk-1.cn-db.top}}, udp: true}
 - {name: 🇭🇰 香港|专线2G|GPT+流媒体|【免费用户】油管稳2K@30/限速稳720P|公益 - 大白, server: 101.89.219.103, port: 58398, type: vmess, uuid: 3bf0f1a5-4289-3182-8332-2d051a4a2aa0, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, servername: data-hk-3.cn-db.top, network: ws, ws-opts: {path: /db00, headers: {Host: data-hk-3.cn-db.top}}, udp: true}
 - {name: 🇭🇰 香港|专线2G|GPT+流媒体|【提供套餐】免费/按量不限时/不按量限时|公益 - 大白, server: 101.89.154.94, port: 46242, type: vmess, uuid: 3bf0f1a5-4289-3182-8332-2d051a4a2aa0, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, servername: cache-hk-2.cn-db.top, network: ws, ws-opts: {path: /db00, headers: {Host: cache-hk-2.cn-db.top}}, udp: true}
 - {name: 🇭🇰 香港|专线2G|GPT+流媒体|【邀请用户】|最高返还40%|公益 - 大白, server: 101.91.226.84, port: 41082, type: vmess, uuid: 3bf0f1a5-4289-3182-8332-2d051a4a2aa0, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, servername: cache-hk-1.cn-db.top, network: ws, ws-opts: {path: /db00, headers: {Host: cache-hk-1.cn-db.top}}, udp: true}
-- {name: '🇭🇰 香港|专线2G|GPT+流媒体|【节点优先级】[按量]>[不限量]>[免费]>[公共订阅]|公益 - 大白', server: 101.89.154.94, port: 33810, type: vmess, uuid: 3bf0f1a5-4289-3182-8332-2d051a4a2aa0, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, servername: data-hk-1.cn-db.top, network: ws, ws-opts: {path: /db00, headers: {Host: data-hk-1.cn-db.top}}, udp: true}
+- {name: '🇭🇰 香港|专线2G|GPT+流媒体|【节点优先级】[按量]>[不限量]>[免费]>[公共订阅]|公益 - 大白', server: 101.89.154.94, port: 19979, type: vmess, uuid: 3bf0f1a5-4289-3182-8332-2d051a4a2aa0, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, servername: data-hk-1.cn-db.top, network: ws, ws-opts: {path: /db00, headers: {Host: data-hk-1.cn-db.top}}, udp: true}
+- {name: 🇯🇵 日本01 解锁Netflix | 迪士尼+ - 光年网络, server: adobe.laistar1.com, port: 29008, type: vmess, uuid: 2f4391e4-9fdc-3c2e-af20-c001f26923f3, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /adobe, headers: {Host: adobe.laistar1.com}}, udp: true}
+- {name: 🇯🇵 日本02 youtube可评论线路 - 光年网络, server: adobe.laistar1.com, port: 29009, type: vmess, uuid: 2f4391e4-9fdc-3c2e-af20-c001f26923f3, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /adobe, headers: {Host: adobe.laistar1.com}}, udp: true}
+- {name: 🇭🇰 香港01 - 光年网络, server: adobe.laistar1.com, port: 28003, type: vmess, uuid: 2f4391e4-9fdc-3c2e-af20-c001f26923f3, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /adobe, headers: {Host: adobe.laistar1.com}}, udp: true}
+- {name: 🇭🇰 香港02 - 光年网络, server: adobe.laistar1.com, port: 28004, type: vmess, uuid: 2f4391e4-9fdc-3c2e-af20-c001f26923f3, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /adobe, headers: {Host: adobe.laistar1.com}}, udp: true}
+- {name: 🇭🇰 香港03 - 光年网络, server: adobe.laistar1.com, port: 28005, type: vmess, uuid: 2f4391e4-9fdc-3c2e-af20-c001f26923f3, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /adobe, headers: {Host: adobe.laistar1.com}}, udp: true}
+- {name: 🇭🇰 香港04 - 光年网络, server: adobe.laistar1.com, port: 28006, type: vmess, uuid: 2f4391e4-9fdc-3c2e-af20-c001f26923f3, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /adobe, headers: {Host: adobe.laistar1.com}}, udp: true}
+- {name: 🇹🇼 台湾 - 光年网络, server: adobe.laistar1.com, port: 29012, type: vmess, uuid: 2f4391e4-9fdc-3c2e-af20-c001f26923f3, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /adobe, headers: {Host: adobe.laistar1.com}}, udp: true}
+- {name: ℹ 请收藏永久官网：licar.cc - 光年网络, server: adobe.laistar1.com, port: 28003, type: vmess, uuid: 2f4391e4-9fdc-3c2e-af20-c001f26923f3, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /adobe, headers: {Host: adobe.laistar1.com}}, udp: true}
+- {name: 🇸🇬 新加坡01 - 光年网络, server: adobe.laistar1.com, port: 28001, type: vmess, uuid: 2f4391e4-9fdc-3c2e-af20-c001f26923f3, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /adobe, headers: {Host: adobe.laistar1.com}}, udp: true}
+- {name: 🇸🇬 新加坡02 - 光年网络, server: adobe.laistar1.com, port: 28002, type: vmess, uuid: 2f4391e4-9fdc-3c2e-af20-c001f26923f3, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /adobe, headers: {Host: adobe.laistar1.com}}, udp: true}
+- {name: 🇸🇬 新加坡03 - 光年网络, server: adobe.laistar1.com, port: 29006, type: vmess, uuid: 2f4391e4-9fdc-3c2e-af20-c001f26923f3, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /adobe, headers: {Host: adobe.laistar1.com}}, udp: true}
+- {name: 🇸🇬 新加坡04 解锁Netflix | 迪士尼+ - 光年网络, server: adobe.laistar1.com, port: 29007, type: vmess, uuid: 2f4391e4-9fdc-3c2e-af20-c001f26923f3, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /adobe, headers: {Host: adobe.laistar1.com}}, udp: true}
+- {name: 🇷🇺 俄罗斯 youtube免广告 - 光年网络, server: adobe.laistar1.com, port: 29018, type: vmess, uuid: 2f4391e4-9fdc-3c2e-af20-c001f26923f3, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /adobe, headers: {Host: adobe.laistar1.com}}, udp: true}
+- {name: 🇰🇷 韩国01 - 光年网络, server: adobe.laistar1.com, port: 29001, type: vmess, uuid: 2f4391e4-9fdc-3c2e-af20-c001f26923f3, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /adobe, headers: {Host: adobe.laistar1.com}}, udp: true}
+- {name: 🇰🇷 韩国02 - 光年网络, server: adobe.laistar1.com, port: 29002, type: vmess, uuid: 2f4391e4-9fdc-3c2e-af20-c001f26923f3, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /adobe, headers: {Host: adobe.laistar1.com}}, udp: true}
+- {name: 🇺🇸 美国01 - 光年网络, server: adobe.laistar1.com, port: 29003, type: vmess, uuid: 2f4391e4-9fdc-3c2e-af20-c001f26923f3, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /adobe, headers: {Host: adobe.laistar1.com}}, udp: true}
+- {name: 🇺🇸 美国02 - 光年网络, server: adobe.laistar1.com, port: 29014, type: vmess, uuid: 2f4391e4-9fdc-3c2e-af20-c001f26923f3, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /adobe, headers: {Host: adobe.laistar1.com}}, udp: true}
+- {name: 🇺🇸 美国03 - 光年网络, server: adobe.laistar1.com, port: 29005, type: vmess, uuid: 2f4391e4-9fdc-3c2e-af20-c001f26923f3, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /adobe, headers: {Host: adobe.laistar1.com}}, udp: true}
+- {name: 🇧🇷 巴西01 - 光年网络, server: adobe.laistar1.com, port: 29010, type: vmess, uuid: 2f4391e4-9fdc-3c2e-af20-c001f26923f3, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /adobe, headers: {Host: adobe.laistar1.com}}, udp: true}
+- {name: 🇫🇷 法国01 - 光年网络, server: adobe.laistar1.com, port: 29011, type: vmess, uuid: 2f4391e4-9fdc-3c2e-af20-c001f26923f3, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /adobe, headers: {Host: adobe.laistar1.com}}, udp: true}
 - {name: 🇯🇵 Japan - 番茄云, server: jp.fanqiecloud.top, port: 51652, type: ss, cipher: chacha20-ietf-poly1305, password: 6475b1b9-7d07-4ced-b392-d8bcdbe71b3a, udp: true}
 - {name: 🇭🇰 Hongkong - 番茄云, server: dlaa.fanqiecloud.top, port: 2052, type: vmess, uuid: 6475b1b9-7d07-4ced-b392-d8bcdbe71b3a, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /sssddd, headers: {Host: cf-hkk2.fanqiecloud.top}}, udp: true}
 - {name: 🇭🇰 Hongkong 2 - 番茄云, server: dlaa.fanqiecloud.top, port: 2086, type: vmess, uuid: 6475b1b9-7d07-4ced-b392-d8bcdbe71b3a, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /sssddd, headers: {Host: cf-hk2c.fanqiecloud.top}}, udp: true}
