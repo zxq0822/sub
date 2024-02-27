@@ -1,4 +1,0 @@
-%YAML 1.1
----
-proxies:
-- {name: 🇸🇬 Singapore - 番茄云, server: sg.fanqiecloud.top, port: 42760, type: ss, cipher: chacha20-ietf-poly1305, password: 6475b1b9-7d07-4ced-b392-d8bcdbe71b3a, udp: true}
