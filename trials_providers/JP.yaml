@@ -1,5 +1,5 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇯🇵 日本01 解锁Netflix | 迪士尼+ - 光年网络, server: adobe.laistar1.com, port: 29008, type: vmess, uuid: eabafffb-92cf-35dd-a4b1-ed6af07d0f1f, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /adobe, headers: {Host: adobe.laistar1.com}}, udp: true}
-- {name: 🇯🇵 日本02 youtube可评论线路 - 光年网络, server: adobe.laistar1.com, port: 29009, type: vmess, uuid: eabafffb-92cf-35dd-a4b1-ed6af07d0f1f, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /adobe, headers: {Host: adobe.laistar1.com}}, udp: true}
+- {name: 🇯🇵 日本01 解锁Netflix | 迪士尼+ - 光年网络, server: adobe.laistar1.com, port: 29008, type: vmess, uuid: 776f6dd3-2848-3eca-a006-b59492a72ecb, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /adobe, headers: {Host: adobe.laistar1.com}}, udp: true}
+- {name: 🇯🇵 日本02 youtube可评论线路 - 光年网络, server: adobe.laistar1.com, port: 29009, type: vmess, uuid: 776f6dd3-2848-3eca-a006-b59492a72ecb, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /adobe, headers: {Host: adobe.laistar1.com}}, udp: true}
