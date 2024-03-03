@@ -1,4 +1,4 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇹🇼 台湾 - 光年网络, server: adobe.laistar1.com, port: 29012, type: vmess, uuid: 776f6dd3-2848-3eca-a006-b59492a72ecb, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /adobe, headers: {Host: adobe.laistar1.com}}, udp: true}
+- {name: 🇹🇼 台湾 - 光年网络, server: adobe.laistar1.com, port: 29012, type: vmess, uuid: bfe45139-6ca0-30a9-8d57-c60ae58b1511, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /adobe, headers: {Host: adobe.laistar1.com}}, udp: true}
