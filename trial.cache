@@ -5,9 +5,10 @@ email  muzxsef515@gmail.com
 last_checkin  2024-03-27 20:29:21.996542+08:00
 name  光年网络
 node_n  20
-sub_info  0B  10.11G  2024-03-28 20:29:21+08:00  (剩余 10.11G 23:59:55.952219)
+sub_info  0B  10.11G  2024-03-28 20:29:21+08:00  (剩余 10.11G 18:07:41.625231)
 sub_url  https://7.lightsr.com/link/U3XVZhvyVMtFNakm?sub=3
 time  2024-03-27 20:29:23.977942+08:00
 type  sspanel
+尝试签到失败  HTTPSConnectionPool(host='1.lightsr.com', port=443): Max retries exceeded with url: /auth/login (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f986078a3e0>, 'Connection to 1.lightsr.com timed out. (connect timeout=30)'))
 
 [aln.lnaspiring.com]
