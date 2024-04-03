@@ -1,5 +1,5 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇯🇵 日本01 解锁Netflix | 迪士尼+ - 光年网络, server: 2.okmnhxa.com, port: 29008, type: vmess, uuid: 4d463391-9b85-3721-82fe-16ad3e5ddf7b, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /adobe, headers: {Host: 2.okmnhxa.com}}, udp: true}
-- {name: 🇯🇵 日本02 youtube可评论线路 - 光年网络, server: 2.okmnhxa.com, port: 29009, type: vmess, uuid: 4d463391-9b85-3721-82fe-16ad3e5ddf7b, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /adobe, headers: {Host: 2.okmnhxa.com}}, udp: true}
+- {name: 🇯🇵 日本01 解锁Netflix | 迪士尼+ - 光年网络, server: 2.okmnhxa.com, port: 29008, type: vmess, uuid: c555ff0b-29d7-3f7b-97e8-c5a41c64946d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /adobe, headers: {Host: 2.okmnhxa.com}}, udp: true}
+- {name: 🇯🇵 日本02 youtube可评论线路 - 光年网络, server: 2.okmnhxa.com, port: 29009, type: vmess, uuid: c555ff0b-29d7-3f7b-97e8-c5a41c64946d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /adobe, headers: {Host: 2.okmnhxa.com}}, udp: true}
