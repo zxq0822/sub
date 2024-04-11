@@ -1,6 +1,6 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇺🇸 美国01 - 光年网络, server: jj.hqmmyia.com, port: 29003, type: vmess, uuid: d0e6f68f-b55c-395d-b9ca-29432a3f2318, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /adobe, headers: {Host: jj.hqmmyia.com}}, udp: true}
-- {name: 🇺🇸 美国02 - 光年网络, server: fs.hqmmyia.com, port: 29014, type: vmess, uuid: d0e6f68f-b55c-395d-b9ca-29432a3f2318, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /adobe, headers: {Host: fs.hqmmyia.com}}, udp: true}
-- {name: 🇺🇸 美国03 - 光年网络, server: a.hqmmyia.com, port: 29005, type: vmess, uuid: d0e6f68f-b55c-395d-b9ca-29432a3f2318, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /adobe, headers: {Host: a.hqmmyia.com}}, udp: true}
+- {name: 🇺🇸 美国01 - 光年网络, server: jj.hqmmyia.com, port: 29003, type: vmess, uuid: d33be760-cdbe-3671-8146-421428e6f04f, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /adobe, headers: {Host: jj.hqmmyia.com}}, udp: true}
+- {name: 🇺🇸 美国02 - 光年网络, server: fs.hqmmyia.com, port: 29014, type: vmess, uuid: d33be760-cdbe-3671-8146-421428e6f04f, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /adobe, headers: {Host: fs.hqmmyia.com}}, udp: true}
+- {name: 🇺🇸 美国03 - 光年网络, server: a.hqmmyia.com, port: 29005, type: vmess, uuid: d33be760-cdbe-3671-8146-421428e6f04f, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /adobe, headers: {Host: a.hqmmyia.com}}, udp: true}
