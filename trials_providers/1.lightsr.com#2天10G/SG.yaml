@@ -1,7 +1,7 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇸🇬 新加坡01 - 光年网络, server: gda.estyplia.com, port: 28001, type: vmess, uuid: 49ef1976-20ca-339e-84dd-4362ce0c3ba4, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /adobe, headers: {Host: gda.estyplia.com}}, udp: true}
-- {name: 🇸🇬 新加坡02 - 光年网络, server: f.estyplia.com, port: 28002, type: vmess, uuid: 49ef1976-20ca-339e-84dd-4362ce0c3ba4, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /adobe, headers: {Host: f.estyplia.com}}, udp: true}
-- {name: 🇸🇬 新加坡03 - 光年网络, server: la.estyplia.com, port: 29006, type: vmess, uuid: 49ef1976-20ca-339e-84dd-4362ce0c3ba4, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /adobe, headers: {Host: la.estyplia.com}}, udp: true}
-- {name: 🇸🇬 新加坡04 解锁Netflix | 迪士尼+ - 光年网络, server: ma.estyplia.com, port: 29007, type: vmess, uuid: 49ef1976-20ca-339e-84dd-4362ce0c3ba4, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /adobe, headers: {Host: ma.estyplia.com}}, udp: true}
+- {name: 🇸🇬 新加坡01 - 光年网络, server: gda.estyplia.com, port: 28001, type: vmess, uuid: 7d3622cb-9d01-354e-909c-f5855307569c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /adobe, headers: {Host: gda.estyplia.com}}, udp: true}
+- {name: 🇸🇬 新加坡02 - 光年网络, server: f.estyplia.com, port: 28002, type: vmess, uuid: 7d3622cb-9d01-354e-909c-f5855307569c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /adobe, headers: {Host: f.estyplia.com}}, udp: true}
+- {name: 🇸🇬 新加坡03 - 光年网络, server: la.estyplia.com, port: 29006, type: vmess, uuid: 7d3622cb-9d01-354e-909c-f5855307569c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /adobe, headers: {Host: la.estyplia.com}}, udp: true}
+- {name: 🇸🇬 新加坡04 解锁Netflix | 迪士尼+ - 光年网络, server: ma.estyplia.com, port: 29007, type: vmess, uuid: 7d3622cb-9d01-354e-909c-f5855307569c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /adobe, headers: {Host: ma.estyplia.com}}, udp: true}
