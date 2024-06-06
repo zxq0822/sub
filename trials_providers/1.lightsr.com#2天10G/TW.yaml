@@ -1,4 +1,4 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇹🇼 台湾 - 光年网络, server: lp.okmnhxa.com, port: 29012, type: vmess, uuid: ca578f9f-c8d1-3179-9d57-1c5a4f9bdca8, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /adobe, headers: {Host: lp.okmnhxa.com}}, udp: true}
+- {name: 🇹🇼 台湾 - 光年网络, server: lp.okmnhxa.com, port: 29012, type: vmess, uuid: ae2bff05-d5ba-3866-8af3-25246d29e12c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /adobe, headers: {Host: lp.okmnhxa.com}}, udp: true}
