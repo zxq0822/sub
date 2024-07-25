@@ -1,7 +1,7 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇭🇰 香港01 - 光年网络, server: az.globelsta.com, port: 28003, type: vmess, uuid: e7e7df6f-346d-3446-879d-b2d54116348b, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /adobe, headers: {Host: az.globelsta.com}}, udp: true}
-- {name: 🇭🇰 香港02 - 光年网络, server: jk.globelsta.com, port: 28004, type: vmess, uuid: e7e7df6f-346d-3446-879d-b2d54116348b, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /adobe, headers: {Host: jk.globelsta.com}}, udp: true}
-- {name: 🇭🇰 香港03 - 光年网络, server: ny.globelsta.com, port: 28005, type: vmess, uuid: e7e7df6f-346d-3446-879d-b2d54116348b, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /adobe, headers: {Host: ny.globelsta.com}}, udp: true}
-- {name: 🇭🇰 香港04 - 光年网络, server: t.globelsta.com, port: 28006, type: vmess, uuid: e7e7df6f-346d-3446-879d-b2d54116348b, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /adobe, headers: {Host: t.globelsta.com}}, udp: true}
+- {name: 🇭🇰 香港01 - 光年网络, server: az.globelsta.com, port: 28003, type: vmess, uuid: 4bb1c894-2496-3172-89ec-499b87365120, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /adobe, headers: {Host: az.globelsta.com}}, udp: true}
+- {name: 🇭🇰 香港02 - 光年网络, server: jk.globelsta.com, port: 28004, type: vmess, uuid: 4bb1c894-2496-3172-89ec-499b87365120, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /adobe, headers: {Host: jk.globelsta.com}}, udp: true}
+- {name: 🇭🇰 香港03 - 光年网络, server: ny.globelsta.com, port: 28005, type: vmess, uuid: 4bb1c894-2496-3172-89ec-499b87365120, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /adobe, headers: {Host: ny.globelsta.com}}, udp: true}
+- {name: 🇭🇰 香港04 - 光年网络, server: t.globelsta.com, port: 28006, type: vmess, uuid: 4bb1c894-2496-3172-89ec-499b87365120, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /adobe, headers: {Host: t.globelsta.com}}, udp: true}
