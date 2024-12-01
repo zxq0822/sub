@@ -1,7 +1,7 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇭🇰 香港01 - 光年网络, server: lu.nnakvnaxz.com, port: 28003, type: vmess, uuid: 4b5754d7-ed83-3052-8413-8c22cdee5e60, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 香港02 - 光年网络, server: na.mlaifja.com, port: 28004, type: vmess, uuid: 4b5754d7-ed83-3052-8413-8c22cdee5e60, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 香港03 - 光年网络, server: pleao.zcfahg.com, port: 28005, type: vmess, uuid: 4b5754d7-ed83-3052-8413-8c22cdee5e60, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 香港04 - 光年网络, server: ofer.slaofaf.com, port: 28006, type: vmess, uuid: 4b5754d7-ed83-3052-8413-8c22cdee5e60, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 香港01 - 光年网络, server: lu.nnakvnaxz.com, port: 28003, type: vmess, uuid: d2fa03c7-af33-314b-a305-6ba49af3ce1f, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 香港02 - 光年网络, server: na.mlaifja.com, port: 28004, type: vmess, uuid: d2fa03c7-af33-314b-a305-6ba49af3ce1f, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 香港03 - 光年网络, server: pleao.zcfahg.com, port: 28005, type: vmess, uuid: d2fa03c7-af33-314b-a305-6ba49af3ce1f, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 香港04 - 光年网络, server: ofer.slaofaf.com, port: 28006, type: vmess, uuid: d2fa03c7-af33-314b-a305-6ba49af3ce1f, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
