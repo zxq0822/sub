@@ -1,7 +1,7 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇸🇬 新加坡01 - 光年网络, server: mqqp.nuakfba.com, port: 28001, type: vmess, uuid: e60a80ed-b25b-3af9-b58f-3640e6ba8bb6, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇸🇬 新加坡02 - 光年网络, server: test.backlokngak.com, port: 28002, type: vmess, uuid: e60a80ed-b25b-3af9-b58f-3640e6ba8bb6, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇸🇬 新加坡03 - 光年网络, server: admin.plialax.com, port: 29006, type: vmess, uuid: e60a80ed-b25b-3af9-b58f-3640e6ba8bb6, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇸🇬 新加坡04 解锁Netflix | 迪士尼+ - 光年网络, server: qqst.restpluan.com, port: 29007, type: vmess, uuid: e60a80ed-b25b-3af9-b58f-3640e6ba8bb6, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬 新加坡01 - 光年网络, server: mqqp.nuakfba.com, port: 28001, type: vmess, uuid: c71883fe-b63c-34cd-b7dc-29fceaa83181, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬 新加坡02 - 光年网络, server: test.backlokngak.com, port: 28002, type: vmess, uuid: c71883fe-b63c-34cd-b7dc-29fceaa83181, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬 新加坡03 - 光年网络, server: admin.plialax.com, port: 29006, type: vmess, uuid: c71883fe-b63c-34cd-b7dc-29fceaa83181, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬 新加坡04 解锁Netflix | 迪士尼+ - 光年网络, server: qqst.restpluan.com, port: 29007, type: vmess, uuid: c71883fe-b63c-34cd-b7dc-29fceaa83181, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
