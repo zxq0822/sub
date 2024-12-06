@@ -1,6 +1,6 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇺🇸 美国01 - 光年网络, server: mayn.zcfahg.com, port: 29003, type: vmess, uuid: c71883fe-b63c-34cd-b7dc-29fceaa83181, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 美国02 - 光年网络, server: hual.slaofaf.com, port: 29014, type: vmess, uuid: c71883fe-b63c-34cd-b7dc-29fceaa83181, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 美国03 - 光年网络, server: elsoa.cloakanl.com, port: 29005, type: vmess, uuid: c71883fe-b63c-34cd-b7dc-29fceaa83181, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 美国01 - 光年网络, server: mayn.zcfahg.com, port: 29003, type: vmess, uuid: 5e1587a6-7aba-3e79-8dd3-13addf34095e, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 美国02 - 光年网络, server: hual.slaofaf.com, port: 29014, type: vmess, uuid: 5e1587a6-7aba-3e79-8dd3-13addf34095e, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 美国03 - 光年网络, server: elsoa.cloakanl.com, port: 29005, type: vmess, uuid: 5e1587a6-7aba-3e79-8dd3-13addf34095e, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
