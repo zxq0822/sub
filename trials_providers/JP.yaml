@@ -1,5 +1,5 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇯🇵 日本01 解锁Netflix | 迪士尼+ - 光年网络, server: cloud.seebomma.com, port: 29008, tfo: true, type: vmess, uuid: 0b08352a-b8cd-38d2-9cf3-681fa795aed6, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 日本02 youtube可评论线路 - 光年网络, server: maind.plialax.com, port: 29009, tfo: true, type: vmess, uuid: 0b08352a-b8cd-38d2-9cf3-681fa795aed6, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本01 解锁Netflix | 迪士尼+ - 光年网络, server: cloud.seebomma.com, port: 29008, type: vmess, uuid: dc627201-efa1-3e0a-84f0-02c7e4e5221e, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本02 youtube可评论线路 - 光年网络, server: maind.plialax.com, port: 29009, type: vmess, uuid: dc627201-efa1-3e0a-84f0-02c7e4e5221e, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
