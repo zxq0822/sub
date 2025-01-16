@@ -10,12 +10,12 @@ proxy-groups:
   type: select
   proxies:
   - ⚡ ‍低延迟
+  - 👆🏻 ‍指定
   - 🇭🇰 ‍香港
   - 🇸🇬 ‍新加坡
   - 🇯🇵 ‍日本
   - 🇺🇸 ‍美国
   - 🎏 ‍其他
-  - 👆🏻 ‍指定
   - 👆🏻🇭🇰 ‍香港
   - 👆🏻🇸🇬 ‍新加坡
   - 👆🏻🇯🇵 ‍日本
@@ -48,6 +48,9 @@ proxy-groups:
   - 🇰🇷 韩国02 - 光年网络
   - 🇧🇷 巴西01 - 光年网络
   - 🇫🇷 法国01 - 光年网络
+- name: 👆🏻 ‍指定
+  type: select
+  proxies: *id001
 - name: 🛩️ ‍墙内
   type: select
   proxies:
@@ -137,9 +140,6 @@ proxy-groups:
   - 🇰🇷 韩国02 - 光年网络
   - 🇧🇷 巴西01 - 光年网络
   - 🇫🇷 法国01 - 光年网络
-- name: 👆🏻 ‍指定
-  type: select
-  proxies: *id001
 - name: 👆🏻🇭🇰 ‍香港
   type: select
   proxies: *id002
