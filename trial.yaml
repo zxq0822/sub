@@ -156,6 +156,10 @@ proxy-groups:
   type: select
   proxies: *id006
 proxies:
+- {name: 🇸🇬 新加坡01 - 光年网络, server: mqqp.nuakfba.com, port: 28001, type: vmess, uuid: e8e5f837-f1dc-33a6-b9b5-fbe31488c4d0, alterId: 00, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬 新加坡02 - 光年网络, server: test.backlokngak.com, port: 28002, type: vmess, uuid: e8e5f837-f1dc-33a6-b9b5-fbe31488c4d0, alterId: 00, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬 新加坡03 - 光年网络, server: admin.plialax.com, port: 29006, type: vmess, uuid: e8e5f837-f1dc-33a6-b9b5-fbe31488c4d0, alterId: 00, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬 新加坡04 解锁Netflix | 迪士尼+ - 光年网络, server: qqst.restpluan.com, port: 29007, type: vmess, uuid: e8e5f837-f1dc-33a6-b9b5-fbe31488c4d0, alterId: 00, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: ℹ️ 请收藏永久官网：licar.cc - 光年网络, server: adobe.laistar1.com, port: 28003, type: vmess, uuid: e8e5f837-f1dc-33a6-b9b5-fbe31488c4d0, alterId: 00, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /adobe, headers: {Host: adobe.laistar1.com}}, udp: true}
 - {name: 🇷🇺 俄罗斯 youtube免广告 - 光年网络, server: sloea.nuakfba.com, port: 29018, type: vmess, uuid: e8e5f837-f1dc-33a6-b9b5-fbe31488c4d0, alterId: 00, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇰🇷 韩国01 - 光年网络, server: adash.nnakvnaxz.com, port: 29001, type: vmess, uuid: e8e5f837-f1dc-33a6-b9b5-fbe31488c4d0, alterId: 00, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
@@ -166,10 +170,6 @@ proxies:
 - {name: 🇭🇰 香港02 - 光年网络, server: na.mlaifja.com, port: 28004, type: vmess, uuid: e8e5f837-f1dc-33a6-b9b5-fbe31488c4d0, alterId: 00, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇭🇰 香港03 - 光年网络, server: pleao.zcfahg.com, port: 28005, type: vmess, uuid: e8e5f837-f1dc-33a6-b9b5-fbe31488c4d0, alterId: 00, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇭🇰 香港04 - 光年网络, server: ofer.slaofaf.com, port: 28006, type: vmess, uuid: e8e5f837-f1dc-33a6-b9b5-fbe31488c4d0, alterId: 00, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇸🇬 新加坡01 - 光年网络, server: mqqp.nuakfba.com, port: 28001, type: vmess, uuid: e8e5f837-f1dc-33a6-b9b5-fbe31488c4d0, alterId: 00, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇸🇬 新加坡02 - 光年网络, server: test.backlokngak.com, port: 28002, type: vmess, uuid: e8e5f837-f1dc-33a6-b9b5-fbe31488c4d0, alterId: 00, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇸🇬 新加坡03 - 光年网络, server: admin.plialax.com, port: 29006, type: vmess, uuid: e8e5f837-f1dc-33a6-b9b5-fbe31488c4d0, alterId: 00, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇸🇬 新加坡04 解锁Netflix | 迪士尼+ - 光年网络, server: qqst.restpluan.com, port: 29007, type: vmess, uuid: e8e5f837-f1dc-33a6-b9b5-fbe31488c4d0, alterId: 00, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇯🇵 日本01 解锁Netflix | 迪士尼+ - 光年网络, server: cloud.seebomma.com, port: 29008, type: vmess, uuid: e8e5f837-f1dc-33a6-b9b5-fbe31488c4d0, alterId: 00, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇯🇵 日本02 youtube可评论线路 - 光年网络, server: maind.plialax.com, port: 29009, type: vmess, uuid: e8e5f837-f1dc-33a6-b9b5-fbe31488c4d0, alterId: 00, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇺🇸 美国01 - 光年网络, server: mayn.zcfahg.com, port: 29003, type: vmess, uuid: e8e5f837-f1dc-33a6-b9b5-fbe31488c4d0, alterId: 00, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
