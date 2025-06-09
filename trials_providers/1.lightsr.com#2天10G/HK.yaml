@@ -1,7 +1,0 @@
-%YAML 1.1
----
-proxies:
-- {name: 🇭🇰 香港01 - 光年网络, server: lu.nnakvnaxz.com, port: 28003, type: vmess, uuid: e8e5f837-f1dc-33a6-b9b5-fbe31488c4d0, alterId: 00, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 香港02 - 光年网络, server: na.mlaifja.com, port: 28004, type: vmess, uuid: e8e5f837-f1dc-33a6-b9b5-fbe31488c4d0, alterId: 00, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 香港03 - 光年网络, server: pleao.zcfahg.com, port: 28005, type: vmess, uuid: e8e5f837-f1dc-33a6-b9b5-fbe31488c4d0, alterId: 00, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 香港04 - 光年网络, server: ofer.slaofaf.com, port: 28006, type: vmess, uuid: e8e5f837-f1dc-33a6-b9b5-fbe31488c4d0, alterId: 00, cipher: auto, tls: false, skip-cert-verify: true, udp: true}

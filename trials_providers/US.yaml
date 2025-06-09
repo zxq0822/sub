@@ -1,6 +1,0 @@
-%YAML 1.1
----
-proxies:
-- {name: 🇺🇸 美国01 - 光年网络, server: mayn.zcfahg.com, port: 29003, type: vmess, uuid: e8e5f837-f1dc-33a6-b9b5-fbe31488c4d0, alterId: 00, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 美国02 - 光年网络, server: hual.slaofaf.com, port: 29014, type: vmess, uuid: e8e5f837-f1dc-33a6-b9b5-fbe31488c4d0, alterId: 00, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 美国03 - 光年网络, server: elsoa.cloakanl.com, port: 29005, type: vmess, uuid: e8e5f837-f1dc-33a6-b9b5-fbe31488c4d0, alterId: 00, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
